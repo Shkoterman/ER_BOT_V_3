@@ -1,0 +1,237 @@
+import telebot
+import telegram
+import time
+import pyairtable
+import requests
+import json
+import pickle
+from telebot import types
+from telegram import ParseMode
+
+#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4') #this is test
+bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') #this is prod
+airtable_reg_name = '%E2%9C%85%20Registration'
+airtable_event_name = '%F0%9F%8C%9F%20Event'
+airtable_api_kay  = 'keyItMsd5dUq2nC0P'
+airtable_reg_base_ID = 'app7g2ANnagHYZkZ8'
+airtable_event_base_ID = 'app7g2ANnagHYZkZ8'
+airtable_view='%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B5%20%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F'
+endpoint_reg='https://api.airtable.com/v0/{}/{}?&view={}'.format(airtable_reg_base_ID, airtable_reg_name, airtable_view)
+endpoint_event='https://api.airtable.com/v0/{}/{}?&view=Future events'.format(airtable_event_base_ID, airtable_event_name)
+headers = {
+    "Authorization": "Bearer {}".format(airtable_api_kay),
+    "Content-Type": "application/json"
+    }
+
+#do buttons
+
+btn1 = types.KeyboardButton("Мои регистрации")
+btn2 = types.KeyboardButton("Отправить напоминание")
+btn3 = types.KeyboardButton("test")
+
+adminlist=open('admin_list.txt', 'r', encoding='UTF-8').read().split('\n')
+
+#create dicts that coteins users nicks and all them events
+user_event_names_dict = {}                      #{nick: event_name, event_name}
+event_name_event_id_dict = {}                   #{event_id: event_name <-/-> event_name: event_id}
+user_names_chatid_dict = {}                     #{nick: chatid <-/-> chatid: nick}
+with open('user_names_chatid.pkl', 'rb') as f:  #load DB of users
+    user_names_chatid_dict=pickle.load(f)
+event_names_chatid_dict ={}                     #{event_name: chatid, chatid}
+
+def request_user_event_names():
+    
+    response_reg = requests.get(endpoint_reg, headers=headers)
+    database_reg = response_reg.json()
+    database_reg_len=len(database_reg['records'])
+    response_event = requests.get(endpoint_event, headers=headers)
+    database_event = response_event.json()
+    database_event_len=len(database_event['records'])
+
+    #create dict {event_id: event_name <-/->event_name:event_id}
+    for i in range(database_event_len):
+        event_id=database_event['records'][i]['id']
+        event_name=database_event['records'][i]['fields']['Name event']
+        event_name_event_id_dict[event_id]=event_name
+        event_name_event_id_dict[event_name]=event_id
+    
+    #create dict {nick: event_name, event_name}
+    for i in range(database_reg_len):
+        nick=database_reg['records'][i]['fields']['You login in TG (reg)'].lower()
+        event_id=''.join(database_reg['records'][i]['fields']['Event for reg'])
+        event_name=event_name_event_id_dict[event_id].split('{;}')
+        if nick[0]!='@':
+            nick="@"+nick
+        if nick not in user_event_names_dict:
+            user_event_names_dict[nick]=event_name
+        if ''.join(event_name) not in user_event_names_dict[nick]:
+            user_event_names_dict[nick].append(event_name_event_id_dict[event_id])
+
+        #create dict {event_name: chatid, chatid}
+        if nick in user_names_chatid_dict:
+            chatid=str(user_names_chatid_dict[nick]).split('{;}')
+            if ''.join(event_name) not in event_names_chatid_dict:
+                event_names_chatid_dict[''.join(event_name)]=chatid
+            elif ''.join(chatid) not in event_names_chatid_dict[''.join(event_name)]:
+                event_names_chatid_dict[''.join(event_name)].append(''.join(chatid))
+
+
+user_name={}
+AdminAccess={}
+eventList={}
+eventIDList={}
+user_list={}
+pnick={}
+
+@bot.message_handler(commands=["start"])
+def Start(m):
+     
+    user_id = m.chat.id
+    nick=m.from_user.username
+    print(m.from_user.username,  ' нажал \start')
+    #call markup
+    markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+    AdminAccess[user_id]=False
+    markup.add(btn1)
+    if m.from_user.username in adminlist:
+        AdminAccess[user_id]=True
+        print(m.from_user.username, 'vzal dostup')
+        markup.add(btn2,btn3)
+    
+    #send helo text
+    hello_text = open('./hello.txt', 'r', encoding='UTF-8',).read()
+    bot.send_message(m.from_user.id, text = "".join(hello_text), parse_mode=ParseMode.HTML, reply_markup=markup)
+
+    #add to dict if there is no {nick: chatid <-/-> chatid: nick}
+    nick=m.from_user.username
+    if nick[0]!='@':
+        nick="@"+nick
+    chatid=user_id
+    if nick not in user_names_chatid_dict:
+        user_names_chatid_dict[nick.lower()]=chatid
+        user_names_chatid_dict[chatid]=nick.lower()
+        with open('user_names_chatid.pkl', 'wb') as f:
+            pickle.dump(user_names_chatid_dict, f, pickle.HIGHEST_PROTOCOL) #and save
+        print(user_names_chatid_dict[chatid])
+
+    request_user_event_names()
+    
+    @bot.message_handler(content_types=["text"])
+    def handle_text(message):
+        user_id = message.chat.id
+        #registration check
+        if message.text.strip() == 'Мои регистрации':
+            request_user_event_names()
+            user_id = message.chat.id
+            pnick[user_id]='@'+message.from_user.username.lower()
+            if pnick[user_id] in user_event_names_dict:
+                eventList[user_id]=user_event_names_dict[pnick[user_id]]
+                bot.send_message(user_id, text = "Вот мероприятия, на которые ты зарегистрирован(а):")
+                bot.send_message(user_id, text = "\n".join(eventList[user_id]))
+                eventList[user_id]=[]
+            else:
+                bot.send_message(user_id, text = "Ого! Ты не зарегистрирован(а) ни на одно мероприятие(")
+            print(message.from_user.username,  ' запросил свои регистрции')
+
+        #rassylka
+        if message.text.strip() == 'Отправить напоминание'and AdminAccess[user_id]==True:
+            user_id = message.chat.id
+            eventList[user_id]=list(event_names_chatid_dict.keys())
+            print(event_names_chatid_dict)
+            markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+            for i  in range(len(eventList[user_id])):
+                btn = types.KeyboardButton(eventList[user_id][i])
+                markup.add(btn)
+            send=bot.send_message(user_id, text = 'vot meropriyatia', reply_markup=markup)
+            bot.register_next_step_handler(send, chose_event_for_spam)
+            
+
+        if message.text.strip() == 'test':
+            #user_event_names_dict.clear()
+            request_user_event_names()
+            #json_object = json.dumps(user_event_names_dict, indent = 0)
+
+def chose_event_for_spam(message):
+    
+    user_id = message.chat.id
+    eventList[user_id]=list(event_names_chatid_dict.keys())
+    markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+    
+    if message.text in eventList[user_id]:
+        event_for_spam=message.text
+        markup = types.ReplyKeyboardRemove()
+        send=bot.send_message(user_id, text = 'pishi text', reply_markup=markup)
+        bot.register_next_step_handler(send, ask_send_spam, event_for_spam)
+    else:
+        send=bot.send_message(user_id, text = 'net takogo', reply_markup=markup)
+    #print('evemt 4 spam:', event_for_spam)
+    
+def ask_send_spam(message, event_for_spam):
+    user_id = message.chat.id
+    message_for_spam=message
+    list_of_spam_niks=[]
+    print('message 4 spam:', message_for_spam.text)
+    print('evemt 4 spam:', event_for_spam)
+    list_of_spam=list(event_names_chatid_dict[event_for_spam])
+    print('eti ID: ', list_of_spam)
+    print('iteraciy: ', len(list_of_spam))
+    for i in range(len(list_of_spam)):
+        list_of_spam_niks.append(user_names_chatid_dict[int(list_of_spam[i])])
+    print('eti niki: ', list_of_spam_niks)
+
+
+    btn1=types.KeyboardButton('bahut rassilky')
+    btn2=types.KeyboardButton('galya! otmena')
+    markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(btn1, btn2)
+    bot.send_message(user_id, text = 'otpravit soobsheie:')
+    bot.send_message(user_id, message_for_spam.text)
+    bot.send_message(user_id, text = 'vot etim rebyatam?')
+    send=bot.send_message(user_id, text = ', '.join(list_of_spam_niks), reply_markup=markup)
+    bot.register_next_step_handler(send, send_spam, message_for_spam, list_of_spam, list_of_spam_niks)
+
+def send_spam(message, message_for_spam, list_of_spam, list_of_spam_niks):
+    user_id = message.chat.id
+    if message.text=='bahut rassilky':
+
+        for i in range(len(list_of_spam)):
+            print(list_of_spam[i])
+            bot.send_message(list_of_spam[i], text = message_for_spam.text)
+        bot.send_message(user_id, text = 'otpravil eto: '+message_for_spam.text)
+        bot.send_message(user_id, text = 'etim: '+', '.join(list_of_spam_niks))
+        print(message.from_user.username,  ' дал рассылку')
+        Start(message)
+    elif message.text=='galya! otmena':
+        Start(message)
+    else:
+        send=bot.send_message(user_id, text = 'eto ne otvet')
+        bot.register_next_step_handler(send, send_spam, message_for_spam, list_of_spam, list_of_spam_niks)
+
+bot.polling(none_stop=True, interval=0)
+
+def check_user_i_DB(user_id):
+    with open('BD.pkl', 'wb') as f:
+        print(pickle.load(f))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
