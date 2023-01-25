@@ -8,6 +8,9 @@ you_login_in_TG_field='fldZkl2V5on0bAbdH'
 event_for_reg_field='fldtQRYyMBBwK3PNp'
 whats_your_name_field='fldU9UP7DjKH0KD65'
 
+event_tbl='tblmcBfuBrsYV80wb'
+event_tbl_for_feedback_view='viw7V3MWWNc1Z4zsB'
+
 you_login_in_TG_field_feedback='fldH3Nd2nGVPeY9dV'
 name_event_field_feedback='fldbzBWXhec8e8tTJ'
 date_field_feedback='fld7PttVjbrs5ZD6G'
