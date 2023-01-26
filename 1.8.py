@@ -28,12 +28,14 @@ regoneventbtn = types.KeyboardButton('Зарегистрироваться на 
 changenamebtn = types.KeyboardButton('Изменить имя')
 changenickbtn = types.KeyboardButton('Изменить ник')
 backbtn = types.KeyboardButton("Отмена")
+mainmenubtn = types.KeyboardButton("Главное меню")
 yesbtn = types.KeyboardButton('Да')
 nobtn = types.KeyboardButton('Нет')
 changebtn = types.KeyboardButton('Изменить ник или имя')
-feedbackbtn = types.KeyboardButton('Разослать запрос фидбэка')
+askfeedbackbtn = types.KeyboardButton('Разослать запрос фидбэка')
 allaoboutsubscriptionbtn = types.KeyboardButton('Все про подписку')
 readybtn = types.KeyboardButton('Готово')
+sendfeedbackbtn = types.KeyboardButton('Отзыв о событии')
 adminlist = open('admin_list.txt', 'r', encoding='UTF-8').read().split('\n') #открываю txt со списком админов
 
 
@@ -107,9 +109,9 @@ def Start(m):                                                               #п�
 
     # call markup
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)                #маркап это типа список кнопок. объявляю
-    markup.add(myregistrationbtn, regoneventbtn, allaoboutsubscriptionbtn)  #добавляю
+    markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn)  #добавляю
     if m.from_user.username in adminlist:                                   #если чел в админ листе добавляю админские кнопки
-        markup.add(sendreminderbtn, testbtn, feedbackbtn)
+        markup.add(sendreminderbtn, testbtn, askfeedbackbtn)
         write_in_log_regular_events(inlogtxt='@' + m.from_user.username + ' взял_а админский доступ')                                              #писька в лог
 
     # send helo text
@@ -124,7 +126,7 @@ def handle_text(message):
 
     # registration check
     if message.text.strip() == 'Мои регистрации':                           #тут и дальше тект сообщения интерпритируется как команда
-        try:
+        if message.from_user.username is not None:
             add_user(message)
             request_user_event_names()                                      #обновляю бд
             user_id = message.chat.id
@@ -138,10 +140,11 @@ def handle_text(message):
             else:
                 bot.send_message(user_id, text="Ого! Ты не зарегистрирован_а ни на одно мероприятие(")
             main_menu(message)
-        except Exception:
+            write_in_log_regular_events(inlogtxt='@' + message.from_user.username + ' запросил_a свои регистрции')
+        else:
             bot.send_message(user_id, text="Для того чтобы проверить свои регистрации, нужно иметь ник с @")
             main_menu(message)
-        write_in_log_regular_events(inlogtxt='@'+message.from_user.username +' запросил_a свои регистрции')              #писька в лог
+        write_in_log_regular_events(inlogtxt='анон запросил_a свои регистрции')              #писька в лог
 
     # registration
     elif message.text.strip() == 'Зарегистрироваться на мероприятие':
@@ -165,13 +168,18 @@ def handle_text(message):
             user_nick = None
             user_name = None
             bot.register_next_step_handler(send, chose_event_for_reg, get_registration_list.avalible_event_name_event_id_dict_full, get_registration_list.avalible_event_name_event_id_dict_poor, reg_event_ID, reg_event_name, user_nick, user_name, markup) #жду ответа от юзера и отсылаю ответ в
-
+        add_user(message)
     elif message.text.strip() == 'Все про подписку':
         aboutsubtext = open('./allaoboutsubscription.txt', 'r', encoding='UTF-8').read()              #открываю текст из файла и отправляю
         bot.send_message(message.from_user.id, text="".join(aboutsubtext), parse_mode='Markdown',
                          disable_web_page_preview=True)
         write_in_log_regular_events(inlogtxt='@' + message.from_user.username + ' узнал все про подписку')
+        add_user(message)
+    elif message.text.strip() == 'Отзыв о событии':
+        feedback_preseting(message)
+        add_user(message)
 
+#АДМИНСКИЕ ФУНКЦИИ
     elif message.text.strip() == 'Разослать запрос фидбэка' and message.from_user.username in adminlist:
         chose_feedack_event(message)                                                                                    #сразу в метод
 
@@ -186,8 +194,10 @@ def handle_text(message):
         send=bot.send_message(message.chat.id, text='Выбери мероприятие:', reply_markup=markup)
         bot.register_next_step_handler(send, chose_event_for_spam)                                  #жду ответа от юзера и отсылаю ответ в chose_event_for_spam
 
+
     elif message.text.strip() == 'test':                                               #тестовая кнопка, без комментариев
-        feedback_preseting(message)
+        #feedback_preseting(message)
+        #print(nick, user_name, 'дал_а ОС об эвенте', qqwe)
         #write_feedback_at_airtale(message, event_id='reck6oXmISObABQBf'.split(), recomendacion=5, what_did_you_like=['Формат', 'Площадка'], lishnee='dohuia lishnego', will_you_come_again='vozmojno', comment='comment', user_name='Juanita Masturini!')
         #airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
         1==1
@@ -211,7 +221,15 @@ def handle_text(message):
             if nick == None:
                 nick = 'nobody'
             write_in_log_misunderstand(inlogtxt='бот не понял команды от @' + nick + ': ' + message.text)
-            write_feedback_at_airtale(message, event_id=[], recomendacion=0, what_did_you_like=[], lishnee='', comment=message.text, user_name='')
+            write_feedback_at_airtale(message,
+                                      event_id=[],
+                                      recomendacion=0,
+                                      what_did_you_like=[],
+                                      lishnee='',
+                                      comment=message.text,
+                                      user_name='',
+                                      event_name='',
+                                      misunderstand=True)
         except Exception as ex:
             write_in_log_error(inlogtxt=str(ex))
         main_menu(message)
@@ -259,9 +277,9 @@ def add_user(m):                                                            # ad
 
 def main_menu(message):                                                     #возвращает в главное меню
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    markup.add(myregistrationbtn, regoneventbtn, allaoboutsubscriptionbtn)
+    markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn)
     if message.from_user.username in adminlist:
-        markup.add(sendreminderbtn, testbtn, feedbackbtn)
+        markup.add(sendreminderbtn, testbtn, askfeedbackbtn)
         types.ReplyKeyboardMarkup(resize_keyboard=True)
     bot.send_message(message.chat.id, text='Главное меню', reply_markup=markup)
     add_user(message)
@@ -352,7 +370,7 @@ def chose_event_for_reg(message, avalible_event_name_event_id_dict_full, avalibl
         reg_event_name = message.text.strip()
         reg_event_ID = avalible_event_name_event_id_dict_full[reg_event_name]
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(nobtn, yesbtn, backbtn)
+        markup.add(nobtn, yesbtn, mainmenubtn)
         send = bot.send_message(message.chat.id, text='Регистрирую @'+message.from_user.username+'?', reply_markup=markup)
         bot.register_next_step_handler(send, use_your_username, reg_event_ID, reg_event_name, user_nick, user_name, markup)
     elif message.text == 'Отмена' or registriruem==False:
@@ -376,21 +394,21 @@ def use_your_username (message, reg_event_ID, reg_event_name, user_nick, user_na
         user_name = find_it.user_name
         if user_name is None and alreadyregistred==False:
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-            markup.add(backbtn)
+            markup.add(mainmenubtn)
             bot.send_message(message.chat.id, text='Введи имя:', reply_markup=markup)
             bot.register_next_step_handler(message, use_new_name, reg_event_ID, reg_event_name, user_nick, user_name, markup)
         elif alreadyregistred==False:
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-            markup.add(nobtn, yesbtn, backbtn)
+            markup.add(nobtn, yesbtn, mainmenubtn)
             bot.send_message(message.chat.id, text='Ты '+user_name+'?', reply_markup=markup)
             bot.register_next_step_handler(message, are_you, reg_event_ID, reg_event_name, user_nick, user_name, markup)
     elif message.text == 'Нет':
         types.ReplyKeyboardRemove()
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(backbtn)
+        markup.add(mainmenubtn)
         bot.send_message(message.chat.id, text='Введи ник:', reply_markup=markup)
         bot.register_next_step_handler(message, use_new_username, reg_event_ID, reg_event_name, user_nick, user_name, markup)
-    elif message.text == 'Отмена':
+    elif message.text == 'Главное меню':
         main_menu(message)
     else:
         bot.send_photo(message.chat.id, photo = open('wat/'+str(random.randrange(1, 6))+'.jpeg', 'rb'), reply_markup=markup)
@@ -398,7 +416,7 @@ def use_your_username (message, reg_event_ID, reg_event_name, user_nick, user_na
         bot.register_next_step_handler(message, use_your_username, reg_event_ID, reg_event_name, user_nick, user_name, markup)
 
 def use_new_username (message, reg_event_ID, reg_event_name, user_nick, user_name, markup):
-    if message.text == 'Отмена':
+    if message.text == 'Главное меню':
         main_menu(message)
     elif user_name!=None:
         registration_on_event_chek(message, reg_event_ID, reg_event_name, user_nick, user_name, markup)
@@ -421,12 +439,12 @@ def use_new_username (message, reg_event_ID, reg_event_name, user_nick, user_nam
         bot.register_next_step_handler(message, use_new_username, reg_event_ID, reg_event_name, user_nick, user_name, markup)
 
 def use_new_name (message, reg_event_ID, reg_event_name, user_nick, user_name, markup):
-    if message.text == 'Отмена':
+    if message.text == 'Главное меню':
         main_menu(message)
     elif message.text!=None:
         user_name=message.text
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(changebtn, yesbtn, backbtn)
+        markup.add(changebtn, yesbtn, mainmenubtn)
         bot.send_message(message.chat.id, text='Получается, регистрирую так? \n Мероприятие: '+reg_event_name+' \n Ник: '+user_nick+' \n Имя: '+user_name, reply_markup=markup)
         bot.register_next_step_handler(message, registration_on_event_chek, reg_event_ID, reg_event_name, user_nick, user_name, markup)
     else:
@@ -446,10 +464,10 @@ def registration_on_event_chek(message, reg_event_ID, reg_event_name, user_nick,
             send_for_reg(message, reg_event_ID, reg_event_name, user_nick, user_name)
     elif message.text == 'Изменить ник или имя':
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(changenamebtn, changenickbtn, backbtn)
+        markup.add(changenamebtn, changenickbtn, mainmenubtn)
         bot.send_message(message.chat.id, text='Что изменить?', reply_markup=markup)
         bot.register_next_step_handler(message, change_ik_or_username, reg_event_ID, reg_event_name, user_nick, user_name, markup)
-    elif message.text == 'Отмена':
+    elif message.text == 'Главное меню':
         main_menu(message)
     else:
         bot.send_photo(message.chat.id, photo = open('wat/'+str(random.randrange(1, 6))+'.jpeg', 'rb'), reply_markup=markup)
@@ -459,29 +477,29 @@ def registration_on_event_chek(message, reg_event_ID, reg_event_name, user_nick,
 def change_ik_or_username (message, reg_event_ID, reg_event_name, user_nick, user_name, markup):
     if message.text == 'Изменить имя':
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(backbtn)
+        markup.add(mainmenubtn)
         what=0
         bot.send_message(message.chat.id, text='Введи новое имя', reply_markup=markup)
         bot.register_next_step_handler(message, change_ik_or_username_get, reg_event_ID, reg_event_name, user_nick, user_name, what)
     elif message.text == 'Изменить ник':
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(backbtn)
+        markup.add(mainmenubtn)
         what=1
         bot.send_message(message.chat.id, text='Введи новый ник:', reply_markup=markup)
         bot.register_next_step_handler(message, change_ik_or_username_get, reg_event_ID, reg_event_name, user_nick, user_name, what)
-    elif message.text == 'Отмена':
+    elif message.text == 'Главное меню':
         main_menu(message)
     else:
         bot.send_photo(message.chat.id, photo=open('wat/' + str(random.randrange(1, 6)) + '.jpeg', 'rb'), reply_markup=markup)
         bot.register_next_step_handler(message, change_ik_or_username, reg_event_ID, reg_event_name, user_nick, user_name, markup)
 
 def change_ik_or_username_get (message, reg_event_ID, reg_event_name, user_nick, user_name, what):
-        if message.text == 'Отмена':
+        if message.text == 'Главное меню':
             main_menu(message)
         elif what==0:
             user_name=message.text
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-            markup.add(changebtn, yesbtn, backbtn)
+            markup.add(changebtn, yesbtn, mainmenubtn)
             bot.send_message(message.chat.id,
                                     text='Получается, регистрирую так? \n Мероприятие: ' + reg_event_name + ' \n Ник: ' + user_nick + ' \n Имя: ' + user_name,
                                     reply_markup=markup)
@@ -505,7 +523,7 @@ def change_ik_or_username_get (message, reg_event_ID, reg_event_name, user_nick,
             else:
                 user_nick = new_user_nick
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-            markup.add(changebtn, yesbtn, backbtn)
+            markup.add(changebtn, yesbtn, mainmenubtn)
             bot.send_message(message.chat.id,
                                     text='Получается, регистрирую так? \n Мероприятие: ' + reg_event_name + ' \n Ник: ' + user_nick + ' \n Имя: ' + user_name,
                                     reply_markup=markup)
@@ -535,13 +553,13 @@ def find_it(user_nick):
 def are_you (message, reg_event_ID, reg_event_name, user_nick, user_name, markup):
     if message.text == 'Да':
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(changebtn, yesbtn, backbtn)
+        markup.add(changebtn, yesbtn, mainmenubtn)
         bot.send_message(message.chat.id, text='Получается, регистрирую так?\nМероприятие: '+reg_event_name+'\nНик: '+user_nick+'\nИмя: '+user_name, reply_markup=markup)
         bot.register_next_step_handler(message, registration_on_event_chek, reg_event_ID, reg_event_name, user_nick, user_name, markup)
     elif message.text == 'Нет':
         types.ReplyKeyboardRemove()
         markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(backbtn)
+        markup.add(mainmenubtn)
         bot.send_message(message.chat.id, text='Введи имя:', reply_markup=markup)
         bot.register_next_step_handler(message, use_new_name, reg_event_ID, reg_event_name, user_nick, user_name, markup)
     elif message.text == 'Отмена':
@@ -606,7 +624,7 @@ def give_feedback(message, name_event):
             except:
                 a=1
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(yesbtn, backbtn)
+        markup.add(yesbtn, mainmenubtn)
         bot.send_message(message.chat.id, text='Вот список получателей (если он пустой, удали запятые из названия эвентав в эйртэйбле и попробуй еще раз. Вернусь попробую пофиксить): '+nicks,reply_markup=markup)
         bot.register_next_step_handler(message, send_feedback, chat_ids, event_name, nicks)
     elif message.text=='Отмена':
@@ -627,14 +645,19 @@ def send_feedback(message, chat_ids, event_name, nicks):
         bot.send_message(message.chat.id, text='Отправил')
         write_in_log_regular_events(inlogtxt='@'+message.from_user.username.lower() + ' отправил_а запрос на фидбэк: '+nicks)
         main_menu(message)
-    elif message.text=='Отмена':
+    elif message.text=='Главное меню':
         main_menu(message)
     else:
         bot.send_photo(message.chat.id, photo=open('wat/' + str(random.randrange(1, 6)) + '.jpeg', 'rb'))
         bot.register_next_step_handler(message, send_feedback, chat_ids, event_name)
 def feedback_preseting(message):
-    feedback_dict[message.chat.id] = {'event_id': str, 'recomendacion': int,
-                                      'what_did_you_like': list, 'lishnee': str, 'comment': str, 'user_name': str}
+    feedback_dict[message.chat.id] = {'event_id': str,
+                                      'recomendacion': int,
+                                      'what_did_you_like': list,
+                                      'lishnee': str,
+                                      'comment': str,
+                                      'user_name': str,
+                                      'event_name': str}
     airtable = Airtable(airtale_app, event_tbl, api_key_R)
     response_feedack = airtable.get_all(view=event_tbl_for_feedback_view)
     name_event = {}
@@ -650,7 +673,7 @@ def feedback(message, name_event, step, value):
         feedback_dict[message.chat.id][list(feedback_dict[message.chat.id].keys())[step]]=value
         value=None
     if step==len(list(feedback_dict[message.chat.id].keys()))-1:
-        bot.send_message(message.chat.id,text='pasib')
+        bot.send_message(message.chat.id,text='Спасибо за твой отзыв!!! Мы ценим такое и будем стараться быть лучше!')
         main_menu(message)
         try:
             write_feedback_at_airtale(message,
@@ -659,7 +682,9 @@ def feedback(message, name_event, step, value):
                                       what_did_you_like=feedback_dict[message.chat.id]['what_did_you_like'],
                                       lishnee=feedback_dict[message.chat.id]['lishnee'],
                                       comment=feedback_dict[message.chat.id]['comment'],
-                                      user_name=feedback_dict[message.chat.id]['user_name'])
+                                      user_name=feedback_dict[message.chat.id]['user_name'],
+                                      event_name=feedback_dict[message.chat.id]['event_name'],
+                                      misunderstand=False)
         except Exception as ex:
             print(ex)
     else:
@@ -674,13 +699,13 @@ def feedback(message, name_event, step, value):
                 send = bot.send_message(message.chat.id, text=feedback_messages_list[step], reply_markup=markup)
                 bot.register_next_step_handler(send, feedback_steps, name_event, step)
             elif step == 2:
-                markup.add(backbtn, readybtn)
+                markup.add(mainmenubtn, readybtn)
                 bot.send_message(message.chat.id, text=feedback_messages_list[step], reply_markup=markup)
                 what_did_you_like_list[message.chat.id] = ['➖Формат', '➖Площадка', '➖Атмосфера', '➖Организация',
                                                            '➖Люди']
                 feedback_like_list(message, first=True)
             else:
-                markup.add(backbtn)
+                markup.add(mainmenubtn)
                 send = bot.send_message(message.chat.id, text=feedback_messages_list[step], reply_markup=markup)
                 bot.register_next_step_handler(send, feedback_steps, name_event, step)
         elif type(step_value) is not type:  # если нет то просто добавляю
@@ -688,11 +713,12 @@ def feedback(message, name_event, step, value):
             feedback(message, name_event, step, value)
 
 def feedback_steps(message, name_event, step):
-        if message.text=='Отмена':
+        if message.text=='Главное меню' or message.text=='Отмена':
             main_menu(message)
         elif step == 0:
             if message.text in name_event.keys():
                 value=name_event[message.text]
+                feedback_dict[message.chat.id]['event_name']=message.text
                 feedback(message, name_event, step, value=value)
             else:
                 bot.send_photo(message.chat.id, photo=open('wat/' + str(random.randrange(1, 6)) + '.jpeg', 'rb'))
@@ -705,10 +731,10 @@ def feedback_steps(message, name_event, step):
                     value = message.text
                     feedback(message, name_event, step, value=value)
                 else:
-                    send = bot.send_message(message.chat.id, text='должно celim быть от 0 до 10')
+                    send = bot.send_message(message.chat.id, text='число должно быть целым от 0 до 10')
                     bot.register_next_step_handler(send, feedback_steps, name_event, step=step)
             except:
-                send = bot.send_message(message.chat.id, text='должно celim быть от 0 до 10')
+                send = bot.send_message(message.chat.id, text='число должно быть целым от 0 до 10')
                 bot.register_next_step_handler(send, feedback_steps, name_event, step=step)
         elif step==2:
             if message.text == 'Готово':
@@ -759,13 +785,15 @@ def query_handler(call):
         what_did_you_like_list[call.message.chat.id][btnnumber] = '➖' + what_did_you_like_list[call.message.chat.id][btnnumber]
         feedback_like_list(call.message, first=False)
 
-def write_feedback_at_airtale(message, event_id, recomendacion, what_did_you_like, lishnee, comment, user_name):
+def write_feedback_at_airtale(message, event_id, recomendacion, what_did_you_like, lishnee, comment, user_name, event_name, misunderstand):
     airtable = Airtable(airtale_app, airtable_feedback_tbl, api_key_RW)
     if recomendacion==0:
         recomendacion=None
-    nick='@'+message.from_user.username
-    if nick==None:
+
+    if message.from_user.username==None:
         nick='noname'
+    else:
+        nick = '@' + message.from_user.username
     airtable.insert({
         you_login_in_TG_field_feedback: nick,
         name_event_field_feedback: event_id,
@@ -775,7 +803,8 @@ def write_feedback_at_airtale(message, event_id, recomendacion, what_did_you_lik
         commet_field_feedback: comment,
         whats_your_name_field_feedback: user_name,
     })
-    print(nick, 'asasdasas')
+    if misunderstand==False:
+        write_in_log_regular_events(inlogtxt=nick + ' дал_а ОС про мероприятие ' + event_name)
 def error():
     try:
         bot.polling(none_stop=True, interval=0)
