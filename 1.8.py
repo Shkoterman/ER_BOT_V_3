@@ -33,6 +33,7 @@ nobtn = types.KeyboardButton('Нет')
 changebtn = types.KeyboardButton('Изменить ник или имя')
 feedbackbtn = types.KeyboardButton('Разослать запрос фидбэка')
 allaoboutsubscriptionbtn = types.KeyboardButton('Все про подписку')
+readybtn = types.KeyboardButton('Готово')
 adminlist = open('admin_list.txt', 'r', encoding='UTF-8').read().split('\n') #открываю txt со списком админов
 
 
@@ -47,8 +48,7 @@ eventList = {}                                  #словарь с персон�
 pnick = {}
 is_user_subscribed={}
 feedback_dict={}
-feedback_messages_list=['Твой логин в Телеграм',
-                        'О каком событии хочешь оставить отзыв?',
+feedback_messages_list=['О каком событии хочешь оставить отзыв?',
                         'Порекомендовал_а бы ты мероприятие своим друзьям и знакомым? Где 0 - никогда не посоветую и буду отговаривать, а 10 - буду все время звать на мероприятия.',
                         'Что понравилось на мероприятии',
                         'Что показалось лишним или чего не хватило?',
@@ -187,15 +187,7 @@ def handle_text(message):
         bot.register_next_step_handler(send, chose_event_for_spam)                                  #жду ответа от юзера и отсылаю ответ в chose_event_for_spam
 
     elif message.text.strip() == 'test':                                               #тестовая кнопка, без комментариев
-        feedback_dict[message.chat.id] = {'ligin_in_tg': str, 'event_id': str, 'recomendacion': int, 'what_did_you_like': list,'lishnee': str, 'comment': str, 'user_name': str}
-        airtable = Airtable(airtale_app, event_tbl, api_key_R)
-        response_feedack = airtable.get_all(view=event_tbl_for_feedback_view)
-        name_event = {}
-        for i in range(len(response_feedack)):
-            eventname = response_feedack[i]['fields']['Name event']
-            eventid = response_feedack[i]['id']
-            name_event[eventname]=eventid
-        feedback_preseting(message, name_event, step=0, value=None)
+        feedback_preseting(message)
         #write_feedback_at_airtale(message, event_id='reck6oXmISObABQBf'.split(), recomendacion=5, what_did_you_like=['Формат', 'Площадка'], lishnee='dohuia lishnego', will_you_come_again='vozmojno', comment='comment', user_name='Juanita Masturini!')
         #airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
         1==1
@@ -219,7 +211,7 @@ def handle_text(message):
             if nick == None:
                 nick = 'nobody'
             write_in_log_misunderstand(inlogtxt='бот не понял команды от @' + nick + ': ' + message.text)
-            write_feedback_at_airtale(message)
+            write_feedback_at_airtale(message, event_id=[], recomendacion=0, what_did_you_like=[], lishnee='', comment=message.text, user_name='')
         except Exception as ex:
             write_in_log_error(inlogtxt=str(ex))
         main_menu(message)
@@ -640,107 +632,138 @@ def send_feedback(message, chat_ids, event_name, nicks):
     else:
         bot.send_photo(message.chat.id, photo=open('wat/' + str(random.randrange(1, 6)) + '.jpeg', 'rb'))
         bot.register_next_step_handler(message, send_feedback, chat_ids, event_name)
-def feedback_preseting(message, name_event, step, value):
-    #if message.chat.id in user_names_chatid_dict:
-
-    if message.from_user.username is not None:
-        feedback_dict[message.chat.id]['ligin_in_tg'] = '@'+ message.from_user.username.lower()
-        if message.chat.id in user_names_chatid_dict:
+def feedback_preseting(message):
+    feedback_dict[message.chat.id] = {'event_id': str, 'recomendacion': int,
+                                      'what_did_you_like': list, 'lishnee': str, 'comment': str, 'user_name': str}
+    airtable = Airtable(airtale_app, event_tbl, api_key_R)
+    response_feedack = airtable.get_all(view=event_tbl_for_feedback_view)
+    name_event = {}
+    for i in range(len(response_feedack)):
+        eventname = response_feedack[i]['fields']['Name event']
+        eventid = response_feedack[i]['id']
+        name_event[eventname] = eventid
+    if message.from_user.username is not None and message.chat.id in user_names_chatid_dict:
             feedback_dict[message.chat.id]['user_name'] = user_names_chatid_dict[message.chat.id]
-    feedback(message, name_event, step, value)
+    feedback(message, name_event, step=0, value=None)
 def feedback(message, name_event, step, value):
-    if value is not None:
-        feedback_dict[message.chat.id][list(feedback_dict[message.chat.id].keys())[step-1]]=value
+    if value is not None and step<=len(list(feedback_dict[message.chat.id].keys())):
+        feedback_dict[message.chat.id][list(feedback_dict[message.chat.id].keys())[step]]=value
         value=None
-    if step==len(list(feedback_dict[message.chat.id].keys())):
-        print(feedback_dict[message.chat.id])
+    if step==len(list(feedback_dict[message.chat.id].keys()))-1:
+        bot.send_message(message.chat.id,text='pasib')
         main_menu(message)
+        try:
+            write_feedback_at_airtale(message,
+                                      event_id=feedback_dict[message.chat.id]['event_id'].split(),
+                                      recomendacion=int(feedback_dict[message.chat.id]['recomendacion']),
+                                      what_did_you_like=feedback_dict[message.chat.id]['what_did_you_like'],
+                                      lishnee=feedback_dict[message.chat.id]['lishnee'],
+                                      comment=feedback_dict[message.chat.id]['comment'],
+                                      user_name=feedback_dict[message.chat.id]['user_name'])
+        except Exception as ex:
+            print(ex)
     else:
         step_value=feedback_dict[message.chat.id][list(feedback_dict[message.chat.id].keys())[step]]
-        if type(step_value) is type: #проверили,что пустой если да иду спрашивать
+        if type(step_value) is type:  # проверили, что пустой если да иду спрашивать
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-            if step==1:
+            if step == 0:
                 for i in range(len(name_event)):
-                    btn=types.KeyboardButton(list(name_event.keys())[i])
+                    btn = types.KeyboardButton(list(name_event.keys())[i])
                     markup.add(btn)
                 markup.add(backbtn)
                 send = bot.send_message(message.chat.id, text=feedback_messages_list[step], reply_markup=markup)
                 bot.register_next_step_handler(send, feedback_steps, name_event, step)
-            elif step ==3:
-                markup.add(backbtn)
-                send = bot.send_message(message.chat.id, text=feedback_messages_list[step], reply_markup=markup)
-                what_did_you_like_list[message.chat.id] = ['➖Формат', '➖Площадка', '➖Атмосфера', '➖Организация', '➖Люди']
-                mci=message.chat.id
-                feedbak_like_list(mci, first=True)
+            elif step == 2:
+                markup.add(backbtn, readybtn)
+                bot.send_message(message.chat.id, text=feedback_messages_list[step], reply_markup=markup)
+                what_did_you_like_list[message.chat.id] = ['➖Формат', '➖Площадка', '➖Атмосфера', '➖Организация',
+                                                           '➖Люди']
+                feedback_like_list(message, first=True)
             else:
                 markup.add(backbtn)
                 send = bot.send_message(message.chat.id, text=feedback_messages_list[step], reply_markup=markup)
                 bot.register_next_step_handler(send, feedback_steps, name_event, step)
-        elif type(step_value) is not type: #если нет то просто добавляю
+        elif type(step_value) is not type:  # если нет то просто добавляю
             step += 1
             feedback(message, name_event, step, value)
 
 def feedback_steps(message, name_event, step):
         if message.text=='Отмена':
             main_menu(message)
-        elif step == 1:
+        elif step == 0:
             if message.text in name_event.keys():
                 value=name_event[message.text]
-                step+=1
                 feedback(message, name_event, step, value=value)
             else:
-                bot.send_message(message.chat.id, text='што?')
+                bot.send_photo(message.chat.id, photo=open('wat/' + str(random.randrange(1, 6)) + '.jpeg', 'rb'))
+                bot.send_message(message.chat.id,
+                                 text='Я не понимаю такой ответ, кажется я жду от тебя нажатия на кнопку внизу, однако, если я веду себя странно, реагирую неадекватно - перезаусти меня командой /start')
                 bot.register_next_step_handler(message, feedback_steps, name_event, step)
-        elif step== 2:
+        elif step== 1:
             try:
                 if 0<=int(message.text)<=10:
                     value = message.text
-                    step += 1
                     feedback(message, name_event, step, value=value)
                 else:
-                    send = bot.send_message(message.chat.id, text='должно быть от 0 до 10')
+                    send = bot.send_message(message.chat.id, text='должно celim быть от 0 до 10')
                     bot.register_next_step_handler(send, feedback_steps, name_event, step=step)
             except:
-                send = bot.send_message(message.chat.id, text='должно быть от 0 до 10')
+                send = bot.send_message(message.chat.id, text='должно celim быть от 0 до 10')
                 bot.register_next_step_handler(send, feedback_steps, name_event, step=step)
-        #elif step == 3:
-            #feedbak_like_list(message, name_event, step, value=None)
-
+        elif step==2:
+            if message.text == 'Готово':
+                i=len(what_did_you_like_list[message.chat.id])-1
+                while i>=0:
+                    if what_did_you_like_list[message.chat.id][i][0]=='✅':
+                        what_did_you_like_list[message.chat.id][i]=what_did_you_like_list[message.chat.id][i][1:]
+                    else:
+                        what_did_you_like_list[message.chat.id].pop(i)
+                    i-=1
+                value=what_did_you_like_list[message.chat.id]
+                what_did_you_like_list[message.chat.id]=[]
+                feedback(message, name_event, step, value)
+            else:
+                bot.send_photo(message.chat.id, photo=open('wat/' + str(random.randrange(1, 6)) + '.jpeg', 'rb'))
+                bot.send_message(message.chat.id,
+                                 text='Я не понимаю такой ответ, кажется я жду от тебя нажатия на кнопку внизу, однако, если я веду себя странно, реагирую неадекватно - перезаусти меня командой /start')
+                bot.register_next_step_handler(message, feedback_steps, name_event, step)
         else:
             value=message.text
-            step+=1
             feedback(message, name_event, step, value=value)
-def feedbak_like_list(mci, first):
+def feedback_like_list(message, first):
     markup=InlineKeyboardMarkup()
     markup.row_width = 1
-    #тут в зависимотсти от фёрст обновлять или создавать
-    markup.add(InlineKeyboardButton(what_did_you_like_list[mci][0], callback_data='0'+str(mci)),
-               InlineKeyboardButton(what_did_you_like_list[mci][1], callback_data='1'+str(mci)),
-               InlineKeyboardButton(what_did_you_like_list[mci][2], callback_data='2'+str(mci)),
-               InlineKeyboardButton(what_did_you_like_list[mci][3], callback_data='3'+str(mci)),
-               InlineKeyboardButton(what_did_you_like_list[mci][4], callback_data='4'+str(mci)),
+    markup.add(InlineKeyboardButton(what_did_you_like_list[message.chat.id][0], callback_data='0'),
+               InlineKeyboardButton(what_did_you_like_list[message.chat.id][1], callback_data='1'),
+               InlineKeyboardButton(what_did_you_like_list[message.chat.id][2], callback_data='2'),
+               InlineKeyboardButton(what_did_you_like_list[message.chat.id][3], callback_data='3'),
+               InlineKeyboardButton(what_did_you_like_list[message.chat.id][4], callback_data='4'),
                )
-    bot.send_message(mci, text='Можно выбрать несколько:', reply_markup=markup)
+    if first:
+        send=bot.send_message(message.chat.id, text='Можно выбрать несколько:', reply_markup=markup)
+        bot.register_next_step_handler(send, feedback_steps, name_event=[], step=2)
+    else:
+        bot.edit_message_reply_markup(message.chat.id, message.message_id, reply_markup=markup)
+def fast():
+    print('asdasdasdasasdasasaszxczxczxc')
 @bot.callback_query_handler(func=lambda call: True)
 def query_handler(call):
-    mci=int(call.data[1:])
-    btnnumber=int(call.data[0])
+    btnnumber=int(call.data)
 
-    if what_did_you_like_list[mci][btnnumber][0]=='➖':
-        print(what_did_you_like_list[mci][btnnumber][0], type(what_did_you_like_list[mci][btnnumber][0]))
-        what_did_you_like_list[mci][btnnumber] = what_did_you_like_list[mci][btnnumber][1:]
-        what_did_you_like_list[mci][btnnumber] = '✅' +what_did_you_like_list[mci][btnnumber]
-        print(what_did_you_like_list[mci][btnnumber][0], type(what_did_you_like_list[mci][btnnumber][0]))
-        feedbak_like_list(mci)
+    if what_did_you_like_list[call.message.chat.id][btnnumber][0]=='➖':
+        what_did_you_like_list[call.message.chat.id][btnnumber] = what_did_you_like_list[call.message.chat.id][btnnumber][1:]
+        what_did_you_like_list[call.message.chat.id][btnnumber] = '✅' +what_did_you_like_list[call.message.chat.id][btnnumber]
+        feedback_like_list(call.message, first=False)
     else:
-        what_did_you_like_list[mci][btnnumber] = what_did_you_like_list[mci][btnnumber][1:]
-        what_did_you_like_list[mci][btnnumber] = '➖' + what_did_you_like_list[mci][btnnumber]
-        feedbak_like_list(mci)
+        what_did_you_like_list[call.message.chat.id][btnnumber] = what_did_you_like_list[call.message.chat.id][btnnumber][1:]
+        what_did_you_like_list[call.message.chat.id][btnnumber] = '➖' + what_did_you_like_list[call.message.chat.id][btnnumber]
+        feedback_like_list(call.message, first=False)
 
-
-def write_feedback_at_airtale(message, event_id, recomendacion, what_did_you_like, lishnee, will_you_come_again, comment, user_name):
+def write_feedback_at_airtale(message, event_id, recomendacion, what_did_you_like, lishnee, comment, user_name):
     airtable = Airtable(airtale_app, airtable_feedback_tbl, api_key_RW)
-    nick=message.from_user.username
+    if recomendacion==0:
+        recomendacion=None
+    nick='@'+message.from_user.username
     if nick==None:
         nick='noname'
     airtable.insert({
@@ -749,11 +772,10 @@ def write_feedback_at_airtale(message, event_id, recomendacion, what_did_you_lik
         recomendacion_field_feedback: recomendacion,
         what_did_you_like_field_feedback: what_did_you_like,
         lishnee_field_feedback: lishnee,
-        wil_you_come_back_field_feedback: will_you_come_again,
         commet_field_feedback: comment,
         whats_your_name_field_feedback: user_name,
     })
-
+    print(nick, 'asasdasas')
 def error():
     try:
         bot.polling(none_stop=True, interval=0)
