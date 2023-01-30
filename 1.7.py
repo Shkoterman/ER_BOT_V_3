@@ -176,9 +176,11 @@ def handle_text(message):
         bot.register_next_step_handler(send, chose_event_for_spam)                                  #жду ответа от юзера и отсылаю ответ в chose_event_for_spam
 
     elif message.text.strip() == 'test':                                               #тестовая кнопка, без комментариев
-        write_feedback_at_airtale(message)
+        print('q')
+        bot.send_message(message.chat.id, text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown',
+                         disable_web_page_preview=True)
         #airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
-        1==1
+
         #asd=asd+123
         #asd.append('reczEuuUW92Xt140D')
         #print(asd)

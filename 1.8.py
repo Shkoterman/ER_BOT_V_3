@@ -37,6 +37,7 @@ allaoboutsubscriptionbtn = types.KeyboardButton('Все про подписку'
 readybtn = types.KeyboardButton('Готово')
 sendfeedbackbtn = types.KeyboardButton('Отзыв о событии')
 skipbtn = types.KeyboardButton('Пропустить')
+pingbtn = types.KeyboardButton('🖕')
 adminlist = open('admin_list.txt', 'r', encoding='UTF-8').read().split('\n') #открываю txt со списком админов
 
 
@@ -112,7 +113,7 @@ def Start(m):                                                               #п�
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)                #маркап это типа список кнопок. объявляю
     markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn)  #добавляю
     if m.from_user.username in adminlist:                                   #если чел в админ листе добавляю админские кнопки
-        markup.add(sendreminderbtn, testbtn, askfeedbackbtn)
+        markup.add(sendreminderbtn, testbtn, askfeedbackbtn, pingbtn)
         write_in_log_regular_events(inlogtxt='@' + m.from_user.username + ' взял_а админский доступ')                                              #писька в лог
 
     # send helo text
@@ -180,6 +181,8 @@ def handle_text(message):
         feedback_preseting(message)
         add_user(message)
 
+    elif message.text.strip() == '🖕':
+        bot.send_message(message.chat.id, text='🖕')
 #АДМИНСКИЕ ФУНКЦИИ
     elif message.text.strip() == 'Разослать запрос фидбэка' and message.from_user.username in adminlist:
         chose_feedack_event(message)                                                                                    #сразу в метод
@@ -202,6 +205,7 @@ def handle_text(message):
         #write_feedback_at_airtale(message, event_id='reck6oXmISObABQBf'.split(), recomendacion=5, what_did_you_like=['Формат', 'Площадка'], lishnee='dohuia lishnego', will_you_come_again='vozmojno', comment='comment', user_name='Juanita Masturini!')
         #airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
         1==1
+        #print(1/0)
         #asd=asd+123
         #asd.append('reczEuuUW92Xt140D')
         #print(asd)
@@ -280,7 +284,7 @@ def main_menu(message):                                                     #в�
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn)
     if message.from_user.username in adminlist:
-        markup.add(sendreminderbtn, testbtn, askfeedbackbtn)
+        markup.add(sendreminderbtn, testbtn, askfeedbackbtn, pingbtn)
         types.ReplyKeyboardMarkup(resize_keyboard=True)
     bot.send_message(message.chat.id, text='Главное меню', reply_markup=markup)
     add_user(message)
@@ -840,33 +844,6 @@ def error():
 
     except Exception as ex:
         write_in_log_error(inlogtxt=str(ex))
+        bot.send_message(214130351, text='estoy cayendo!')
         error()
 error()
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
