@@ -201,7 +201,7 @@ def handle_text(message):
 
     elif message.text.strip() == 'test':                                               #тестовая кнопка, без комментариев
         #feedback_preseting(message)
-        #print(nick, user_name, 'дал_а ОС об эвенте', qqwe)
+
         #write_feedback_at_airtale(message, event_id='reck6oXmISObABQBf'.split(), recomendacion=5, what_did_you_like=['Формат', 'Площадка'], lishnee='dohuia lishnego', will_you_come_again='vozmojno', comment='comment', user_name='Juanita Masturini!')
         #airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
         1==1
@@ -629,7 +629,6 @@ def give_feedback(message, name_event):
         markup.add(yesbtn, mainmenubtn)
         bot.send_message(message.chat.id, text='Вот список получателей (если он пустой, удали запятые из названия эвентав в эйртэйбле и попробуй еще раз. Вернусь попробую пофиксить): '+nicks,reply_markup=markup)
         event_id = name_event[event_name]
-        print(event_name, event_id)
         bot.register_next_step_handler(message, send_feedback, chat_ids, event_name, event_id, nicks)
     elif message.text=='Отмена':
         main_menu(message)
