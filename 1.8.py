@@ -117,7 +117,7 @@ def Start(m):                                                               #п�
         write_in_log_regular_events(inlogtxt='@' + m.from_user.username + ' взял_а админский доступ')                                              #писька в лог
 
     # send helo text
-    hello_text=open('./hello.txt', 'r', encoding='UTF-8').read()
+    hello_text=open(hello_txt, 'r', encoding='UTF-8').read()
     bot.send_message(m.from_user.id, text="".join(hello_text), parse_mode=ParseMode.HTML, reply_markup=markup, disable_web_page_preview=True)
 
     add_user(m)                                                             #добавляю юзера в свой список если его там нет

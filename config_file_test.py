@@ -38,3 +38,4 @@ headers_RW = {
     }
 
 BD_Mode='BD - тестовая!!!'
+hello_txt='./hello_test.txt'

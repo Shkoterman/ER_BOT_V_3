@@ -102,7 +102,7 @@ def Start(m):                                                               #п�
         write_in_log_regular_events(inlogtxt='@' + m.from_user.username + ' взял_а админский доступ')                                              #писька в лог
 
     # send helo text
-    hello_text=open('./hello.txt', 'r', encoding='UTF-8').read()
+    hello_text=open('./hello_txt', 'r', encoding='UTF-8').read()
     bot.send_message(m.from_user.id, text="".join(hello_text), parse_mode=ParseMode.HTML, reply_markup=markup, disable_web_page_preview=True)
 
     add_user(m)                                                             #добавляю юзера в свой список если его там нет
@@ -177,10 +177,11 @@ def handle_text(message):
 
     elif message.text.strip() == 'test':                                               #тестовая кнопка, без комментариев
         print('q')
-        bot.send_message(message.chat.id, text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown',
-                         disable_web_page_preview=True)
+        #feedback_text = open('./feedback.txt', 'r', encoding='UTF-8').read()
+        #bot.send_message(message.chat.id, text=feedback_text.replace("eventame", 'eventname', 1), parse_mode='Markdown',
+        #                 disable_web_page_preview=True)
         #airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
-
+        1==1
         #asd=asd+123
         #asd.append('reczEuuUW92Xt140D')
         #print(asd)
