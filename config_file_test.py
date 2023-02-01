@@ -39,3 +39,4 @@ headers_RW = {
 
 BD_Mode='BD - тестовая!!!'
 hello_txt='./hello_test.txt'
+donate_message_id=15789

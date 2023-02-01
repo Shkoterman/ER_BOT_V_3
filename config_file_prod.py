@@ -39,3 +39,4 @@ headers_RW = {
 
 BD_Mode='BD - оригинальная!!!'
 hello_txt='./hello.txt'
+donate_message_id=9582

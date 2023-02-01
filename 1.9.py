@@ -5,8 +5,8 @@ import pickle
 import random
 from datetime import *  
 from airtable import *
-#from config_file_test import * #this is test
-from config_file_prod import * #this is prod
+from config_file_test import * #this is test
+#from config_file_prod import * #this is prod
 from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from telegram import ParseMode
@@ -17,8 +17,8 @@ with open('log.txt', 'r+', encoding='utf-16') as f:                     #отк�
     f.seek(0, 2)                                                        #перемещение курсора в конец файла
     f.write(inlogtxt)                                                   #собственно, запись
 
-#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
-bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this is prod
+bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
+#bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this is prod
 
 # do buttons
 myregistrationbtn = types.KeyboardButton("Мои регистрации")
@@ -41,6 +41,8 @@ pingbtn = types.KeyboardButton('🖕')
 onetotenbtn=[]
 for i in range(11):
     onetotenbtn.append(types.KeyboardButton(str(i)))
+paybtn = types.KeyboardButton('Оплата')
+
 adminlist = open('admin_list.txt', 'r', encoding='UTF-8').read().split('\n') #открываю txt со списком админов
 
 
@@ -114,7 +116,7 @@ def Start(m):                                                               #п�
 
     # call markup
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)                #маркап это типа список кнопок. объявляю
-    markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn)  #добавляю
+    markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn)  #добавляю
     if m.from_user.username in adminlist:                                   #если чел в админ листе добавляю админские кнопки
         markup.add(sendreminderbtn, testbtn, askfeedbackbtn, pingbtn)
         write_in_log_regular_events(inlogtxt='@' + m.from_user.username + ' взял_а админский доступ')                                              #писька в лог
@@ -186,6 +188,10 @@ def handle_text(message):
 
     elif message.text.strip() == '🖕':
         bot.send_message(message.chat.id, text='🖕')
+
+    elif message.text.strip() == 'Оплата':
+        bot.send_photo(message.chat.id, photo=open('donate.jpg', 'rb'), caption='Чтобы оплатить мероприятие или просто задонатить, тебе нужно нажать кнопку "Пожервовать" прикреплённую к следующему сообщению. \nПрими во внимание что в поле "Tip (Optional)" нужно ввести значение на 1€ меншье того, что ты хочешь заплатить. Ориентируйся на поле "Total", как на картинке свеху')
+        bot.forward_message(message.chat.id, 214130351, donate_message_id)
 #АДМИНСКИЕ ФУНКЦИИ
     elif message.text.strip() == 'Разослать запрос фидбэка' and message.from_user.username in adminlist:
         chose_feedack_event(message)                                                                                    #сразу в метод
@@ -203,15 +209,15 @@ def handle_text(message):
 
 
     elif message.text.strip() == 'test':                                               #тестовая кнопка, без комментариев
+        bot.forward_message(346459053, 214130351, donate_message_id)
 
-        #bot.forward_message(message.chat.id, 214130351, donate_message_id)
         #feedback_preseting(message)
 
         #write_feedback_at_airtale(message, event_id='reck6oXmISObABQBf'.split(), recomendacion=5, what_did_you_like=['Формат', 'Площадка'], lishnee='dohuia lishnego', will_you_come_again='vozmojno', comment='comment', user_name='Juanita Masturini!')
         #airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
         1==1
         #markup = types.ReplyKeyboardMarkup(resize_keyboard=True)  # маркап это типа список кнопок. объявляю
-        #markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn)  # добавляю
+        #markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn)  # добавляю
         #if message.from_user.username in adminlist:  # если чел в админ листе добавляю админские кнопки
         #    markup.add(sendreminderbtn, testbtn, askfeedbackbtn, pingbtn, newfuncbtn)
         #new_func_chat_id_list=[]
@@ -245,7 +251,6 @@ def handle_text(message):
 
     else:   #когда непонял команду
         bot.send_message(message.chat.id, text='К сожалению, меня пока не научили читать😔 Если вы хотите дать обратную связь или поделиться своими мыслями - пишите @julia_sergina. Если я веду себя странно, реагирую неадекватно - перезаусти меня командой /start')
-
         try:
             nick=message.from_user.username
             if nick == None:
@@ -262,7 +267,6 @@ def handle_text(message):
                                       misunderstand=True)
         except Exception as ex:
             write_in_log_error(inlogtxt=str(ex))
-
         main_menu(message)
 
 def write_in_log_regular_events(inlogtxt):                                                 #запись текста в лог
@@ -308,7 +312,7 @@ def add_user(m):                                                            # ad
 
 def main_menu(message):                                                     #возвращает в главное меню
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-    markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn)
+    markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn)
     if message.from_user.username in adminlist:
         markup.add(sendreminderbtn, testbtn, askfeedbackbtn, pingbtn)
         types.ReplyKeyboardMarkup(resize_keyboard=True)
