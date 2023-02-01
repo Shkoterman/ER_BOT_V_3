@@ -28,7 +28,7 @@ api_key_R = 'keyItMsd5dUq2nC0P'
 api_key_RW = 'keyEEMaILmFa8kveA'
 
 headers_R = {
-    "Authorization": "Bearer keyItMsd5dUq2nC0P",
+    "Authorization": "Bearer keyEEMaILmFa8kveA",
     "Content-Type": "application/json"
     }
 

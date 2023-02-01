@@ -38,6 +38,9 @@ readybtn = types.KeyboardButton('Готово')
 sendfeedbackbtn = types.KeyboardButton('Отзыв о событии')
 skipbtn = types.KeyboardButton('Пропустить')
 pingbtn = types.KeyboardButton('🖕')
+onetotenbtn=[]
+for i in range(11):
+    onetotenbtn.append(types.KeyboardButton(str(i)))
 adminlist = open('admin_list.txt', 'r', encoding='UTF-8').read().split('\n') #открываю txt со списком админов
 
 
@@ -146,7 +149,7 @@ def handle_text(message):
         else:
             bot.send_message(user_id, text="Для того чтобы проверить свои регистрации, нужно иметь ник с @")
             main_menu(message)
-        write_in_log_regular_events(inlogtxt='анон запросил_a свои регистрции')              #писька в лог
+            write_in_log_regular_events(inlogtxt='анон запросил_a свои регистрции')              #писька в лог
 
     # registration
     elif message.text.strip() == 'Зарегистрироваться на мероприятие':
@@ -200,13 +203,34 @@ def handle_text(message):
 
 
     elif message.text.strip() == 'test':                                               #тестовая кнопка, без комментариев
+        add_user(message)
+
         #feedback_preseting(message)
 
         #write_feedback_at_airtale(message, event_id='reck6oXmISObABQBf'.split(), recomendacion=5, what_did_you_like=['Формат', 'Площадка'], lishnee='dohuia lishnego', will_you_come_again='vozmojno', comment='comment', user_name='Juanita Masturini!')
         #airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
         1==1
-        #print(1/0)
-        #asd=asd+123
+        #markup = types.ReplyKeyboardMarkup(resize_keyboard=True)  # маркап это типа список кнопок. объявляю
+        #markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn)  # добавляю
+        #if message.from_user.username in adminlist:  # если чел в админ листе добавляю админские кнопки
+        #    markup.add(sendreminderbtn, testbtn, askfeedbackbtn, pingbtn, newfuncbtn)
+        #new_func_chat_id_list=[]
+        #for i in range(len(user_names_chatid_dict)):
+        #    try:
+        #        new_func_chat_id=int(list(user_names_chatid_dict.keys())[i])
+        #        if new_func_chat_id not in new_func_chat_id_list:
+        #            bot.send_message(new_func_chat_id,
+        #                             text='У меня новая функция, Теперь я умею принимать обратную связь! Если недавно был на мероприятии, жми "Отзыв о событии" и проверяй! 😘',
+        #                             reply_markup=markup)
+        #            new_func_chat_id_list.append(new_func_chat_id)
+        #    except:
+        #        1==1
+        #print(new_func_chat_id_list)
+        #print(len(new_func_chat_id_list))
+        #bot.delete_message(346459053, newfuncmsg.message_id)
+        #print(user_names_chatid_dict)
+        #print(1/  346459053
+        #asd=asd+123   214130351
         #asd.append('reczEuuUW92Xt140D')
         #print(asd)
         ##dis_nicks = airtable.search('Event for reg', "💆‍♀️ GRL PWR BRUNCH - NY edition (15.12)")
@@ -277,7 +301,7 @@ def add_user(m):                                                            # ad
         user_names_chatid_dict[nick.lower()] = user_id
         user_names_chatid_dict[user_id]=nick.lower()
         write_in_log_regular_events(inlogtxt=nick + ' добавился в юзерлист')
-    with open('user_names_chatid.pkl', 'wb') as f:
+        with open('user_names_chatid.pkl', 'wb') as f:
             pickle.dump(user_names_chatid_dict, f, pickle.HIGHEST_PROTOCOL)  #сохраняю в файл
 
 def main_menu(message):                                                     #возвращает в главное меню
@@ -715,7 +739,18 @@ def feedback(message, name_event, step, value):
                 feedback_like_list(message, first=True)
             else:
                 if step == 1:
-                    markup.add(mainmenubtn)
+                    markup.add(onetotenbtn[0],
+                               onetotenbtn[1],
+                               onetotenbtn[2],
+                               onetotenbtn[3],
+                               onetotenbtn[4],
+                               onetotenbtn[5],
+                               onetotenbtn[6],
+                               onetotenbtn[7],
+                               onetotenbtn[8],
+                               onetotenbtn[9],
+                               onetotenbtn[10],
+                               mainmenubtn)
                 else:
                     markup.add(mainmenubtn, skipbtn)
                 send = bot.send_message(message.chat.id, text=feedback_messages_list[step], reply_markup=markup)
