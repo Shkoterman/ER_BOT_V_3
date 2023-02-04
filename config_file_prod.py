@@ -9,7 +9,9 @@ event_for_reg_field='fldlAcMIYGsnPpsxv'
 whats_your_name_field='fldMTfDhPoBy56gQb'
 
 event_tbl='tbleWW3ENwjP0uDgh'
+event_future_view='viww3iBpMsoPjyCpq'
 event_tbl_for_feedback_view='viwZFoA68S3S4qccH'
+event_for_reg_future_events_view='viwgCLSYFqRpTvY4X'
 
 you_login_in_TG_field_feedback='fldzN81czLMGjkMX1'
 name_event_field_feedback='fld3jWK7tj3Zju6DP'
@@ -24,7 +26,7 @@ airtale_app='app7g2ANnagHYZkZ8'
 airtable_reg_tbl='tblNdWhXnZtkMAknd'
 airtable_feedback_tbl='tblxwZLJb9wwauXt5'
 
-api_key_R = 'keyItMsd5dUq2nC0P'
+api_key_R = 'keyEEMaILmFa8kveA'
 api_key_RW = 'keyEEMaILmFa8kveA'
 
 headers_R = {

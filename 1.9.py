@@ -5,8 +5,8 @@ import pickle
 import random
 from datetime import *  
 from airtable import *
-from config_file_test import * #this is test
-#from config_file_prod import * #this is prod
+#from config_file_test import * #this is test
+from config_file_prod import * #this is prod
 from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from telegram import ParseMode
@@ -53,6 +53,8 @@ user_names_chatid_dict = {}                     # {nick: chatid <-/-> chatid: ni
 with open('user_names_chatid.pkl', 'rb') as f:  # load DB of users
     user_names_chatid_dict = pickle.load(f)
 event_names_chatid_dict = {}                    # {event_name: chatid, chatid}
+event_ids_for_feedback_dict={}
+event_names_for_feedback_dict={}
 eventList = {}                                  #словарь с персональными списками мероприятий
 pnick = {}
 is_user_subscribed={}
@@ -65,54 +67,75 @@ feedback_messages_list=['О каком событии хочешь остави�
                         'Как тебя зовут?']
 
 what_did_you_like_list={}
+def call_event_name_event_id_dict(): #{event_id: event_name <-/-> event_name: event_id}
+    airtable = Airtable(airtale_app, event_tbl, api_key_R)
+    response_event = airtable.get_all(view=event_future_view)
+    #print(response_event)
+    for i in range(len(response_event)):
+        event_id=response_event[i]['id']
+        event_name=response_event[i]['fields']['Name event']
+        event_name_event_id_dict[event_id]=event_name
+        event_name_event_id_dict[event_name]=event_id
 
-#этот метод собирает данные из эйртэйбла !!!его можно переделать и сделать быстрее и качественней и возможно проще используя библиотеку airtable и вще лчше разделить на пару методов
-def request_user_event_names():
-    user_event_names_dict.clear()                                           #так как дальше использую аппенд, тут очищаю словарь
-    response_reg = requests.get(endpoint_reg, headers=headers_R)            #запрос в таблицу registration
-    database_reg = response_reg.json()                                      #в джейсон его
-    database_reg_len = len(database_reg['records'])                         #количество записей
-    response_event = requests.get(endpoint_future_event, headers=headers_R) #запрос в таблицу Events
-    database_event = response_event.json()                                  #в джейсон его
-    database_event_len = len(database_event['records'])                     #количество записей
-
-    # create dict {event_id: event_name <-/->event_name:event_id}
-    for i in range(database_event_len):
-        event_id = database_event['records'][i]['id']                       #эвент айди из эйртэйбла
-        #print(database_event['records'][i]['fields'])
-        event_name = database_event['records'][i]['fields']['Name event']   #название эвента из эйртэйбла
-        event_name_event_id_dict[event_id] = event_name.strip()             #записываю
-        event_name_event_id_dict[event_name.strip()] = event_id             #зеркалю
-
-    # c reate dict {nick: event_name, event_name}
-    for i in range(database_reg_len):
+def call_user_event_names_dict():  # {nick: event_name, event_name}
+    call_event_name_event_id_dict()
+    airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
+    response_reg = airtable.get_all(view=event_for_reg_future_events_view)
+    for i in range(len(response_reg)):
         try:
-            nick = database_reg['records'][i]['fields']['You login in TG (reg)'].lower().replace(" ", "")   #беру из ответа эйртэйбла тг ник
-            event_id = ''.join(database_reg['records'][i]['fields']['Event for reg'])                       #и айди эвента
-            event_name = event_name_event_id_dict[event_id].split('{;}')                                    #из словаря беру имя эвента по айди. по умолчанию возвращает элемент листа .сплит делает его стрингом
-
-            if nick[0] != '@':                                                                              #привожу тг ник к виду: @xxxxx тоесть начинается на собаку без пробелов и все буквы маленькие
-                nick = "@"+nick
-            if nick not in user_event_names_dict.keys():                                                    #если тг ника нет в словаре, добавляю ключ и имя эвента
-                user_event_names_dict[nick] = event_name
-            if ''.join(event_name) not in user_event_names_dict[nick]:                                      #если есть, то только имя эвента
-                user_event_names_dict[nick].append(event_name_event_id_dict[event_id])
-
-            # create dict {event_name: chatid, chatid}
-            if nick in user_names_chatid_dict:                                                              #в этом же цикле добавляю чатайди к имени эвента, это нужно для рассылки
-                chatid = str(user_names_chatid_dict[nick]).split('{;}')                                     #о5 использую ебаный сплит, потомучтотупойсук
-                if ''.join(event_name) not in event_names_chatid_dict:                                      #если имя эвента нет в словаре, добавляю ключ и чатайди
-                    event_names_chatid_dict[''.join(event_name)] = chatid
-                elif ''.join(chatid) not in event_names_chatid_dict[''.join(event_name)]:                   #если есть то добавляю чатайди
-                    event_names_chatid_dict[''.join(event_name)].append(''.join(chatid))
+            user_nick=response_reg[i]['fields']['You login in TG (reg)'].lower().replace(' ','')
+            if user_nick[0]!='@':
+                user_nick='@'+user_nick
+            user_event_id=''.join(response_reg[i]['fields']['Event for reg'])
+            user_event=event_name_event_id_dict[user_event_id]
+            if user_nick in user_event_names_dict.keys():
+                if user_event not in user_event_names_dict[user_nick]:
+                    user_event_names_dict[user_nick].append(user_event)
+            else:
+                user_event_names_dict[user_nick]=user_event.split('/*{}')
+        except Exception as ex:
+            i+=1
+def call_event_names_chatid_dict(): # {event_name: chatid, chatid}\
+    call_event_name_event_id_dict()
+    airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
+    response_reg = airtable.get_all(view=event_for_reg_future_events_view)
+    for i in range(len(response_reg)):
+        try:
+            event_id=''.join(response_reg[i]['fields']['Event for reg'])
+            event_name=event_name_event_id_dict[event_id]
+            user_nick=response_reg[i]['fields']['You login in TG (reg)'].lower().replace(' ','')
+            if user_nick[0]!='@':
+                user_nick='@'+user_nick
+            if user_nick in user_names_chatid_dict.keys():
+                user_chat_id=user_names_chatid_dict[user_nick]
+                if event_name in event_names_chatid_dict.keys():
+                    if user_chat_id not in event_names_chatid_dict[event_name]:
+                        event_names_chatid_dict[event_name].append(user_chat_id)
+                else:
+                    event_names_chatid_dict[event_name]=[]
+                    event_names_chatid_dict[event_name].append(user_chat_id)
         except:
-            i += 1
+            i+=1
+def call_event_for_feedback_dict():
+    airtable = Airtable(airtale_app, event_tbl, api_key_R)
+    response_feedack = airtable.get_all(view=event_tbl_for_feedback_view)
+    for i in range(len(response_feedack)):
+        eventname = response_feedack[i]['fields']['Name event']
+        eventid = response_feedack[i]['id']
+        event_ids_for_feedback_dict[eventid] = eventname
+        event_names_for_feedback_dict[eventname] = eventid
 
-request_user_event_names()                                                  #вызываю обновление БД
-
+call_event_for_feedback_dict()
+call_event_names_chatid_dict()                                                #вызываю обновление БД
+call_user_event_names_dict()
+call_event_name_event_id_dict()
 @bot.message_handler(commands=["start"])                                    #я не знаю что это(((( видимо штука которая ждёт сообщения, я хз
-def Start(m):                                                               #первая встреча с дорогим пользователем
-    write_in_log_regular_events(inlogtxt='@' + m.from_user.username + ' нажал_a \start')     #писька в лог
+def Start(m):
+    #первая встреча с дорогим пользователем
+    nick = m.from_user.username
+    if m.from_user.username == None:
+        nick = 'nobody'
+    write_in_log_regular_events(inlogtxt='@' + nick + ' нажал_a \start')     #писька в лог
 
     # call markup
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)                #маркап это типа список кнопок. объявляю
@@ -135,7 +158,7 @@ def handle_text(message):
     if message.text.strip() == 'Мои регистрации':                           #тут и дальше тект сообщения интерпритируется как команда
         if message.from_user.username is not None:
             add_user(message)
-            request_user_event_names()                                      #обновляю бд
+            call_user_event_names_dict()                                      #обновляю бд
             user_id = message.chat.id
             pnick[user_id] = '@'+message.from_user.username.lower()         #вместо переменной использую словарь, чтобы тг ники не перепутались когда два чела проверяют регу отдновременно
 
@@ -198,7 +221,7 @@ def handle_text(message):
 
     # rassylka
     elif message.text.strip() == 'Отправить напоминание' and message.from_user.username in adminlist:
-        request_user_event_names()                                                                  #обновил базу
+        call_event_names_chatid_dict()                                                                  #обновил базу
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         for i in range(len(list(event_names_chatid_dict.keys()))):                                  #сделал все кнопки с названиями мероприятия
             btn = types.KeyboardButton(list(event_names_chatid_dict.keys())[i])
@@ -208,46 +231,24 @@ def handle_text(message):
         bot.register_next_step_handler(send, chose_event_for_spam)                                  #жду ответа от юзера и отсылаю ответ в chose_event_for_spam
 
 
-    elif message.text.strip() == 'test':                                               #тестовая кнопка, без комментариев
-        bot.forward_message(346459053, 214130351, donate_message_id)
+    elif message.text.strip() == 'test' and message.from_user.username=='Shkoterman':                                               #тестовая кнопка, без комментариев
 
-        #feedback_preseting(message)
+        def test():
+            print('test')
 
-        #write_feedback_at_airtale(message, event_id='reck6oXmISObABQBf'.split(), recomendacion=5, what_did_you_like=['Формат', 'Площадка'], lishnee='dohuia lishnego', will_you_come_again='vozmojno', comment='comment', user_name='Juanita Masturini!')
-        #airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
-        1==1
-        #markup = types.ReplyKeyboardMarkup(resize_keyboard=True)  # маркап это типа список кнопок. объявляю
-        #markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn)  # добавляю
-        #if message.from_user.username in adminlist:  # если чел в админ листе добавляю админские кнопки
-        #    markup.add(sendreminderbtn, testbtn, askfeedbackbtn, pingbtn, newfuncbtn)
-        #new_func_chat_id_list=[]
-        #for i in range(len(user_names_chatid_dict)):
-        #    try:
-        #        new_func_chat_id=int(list(user_names_chatid_dict.keys())[i])
-        #        if new_func_chat_id not in new_func_chat_id_list:
-        #            bot.send_message(new_func_chat_id,
-        #                             text='У меня новая функция, Теперь я умею принимать обратную связь! Если недавно был на мероприятии, жми "Отзыв о событии" и проверяй! 😘',
-        #                             reply_markup=markup)
-        #            new_func_chat_id_list.append(new_func_chat_id)
-        #    except:
-        #        1==1
-        #print(new_func_chat_id_list)
-        #print(len(new_func_chat_id_list))
-        #bot.delete_message(346459053, newfuncmsg.message_id)
-        #print(user_names_chatid_dict)
-        #print(1/  346459053
-        #asd=asd+123   214130351
-        #asd.append('reczEuuUW92Xt140D')
-        #print(asd)
-        ##dis_nicks = airtable.search('Event for reg', "💆‍♀️ GRL PWR BRUNCH - NY edition (15.12)")
-        #dis_nicks = airtable.search('Date (from Event for reg)', '2023-01-06T17:02:00.000Z')
-        #print(dis_nicks)
 
-            #user_names_user_names_dict={}
-            #user_names_user_names_dict['user_nick']='user_name'
-            #user_names_user_names_dict['user_name']='user_nick'
-            #with open('user_names_chatid.pkl', 'wb') as f:
-                #pickle.dump(user_names_user_names_dict, f, pickle.HIGHEST_PROTOCOL)
+            #call_event_name_event_id_dict()
+            #print(event_name_event_id_dict)
+            #print(len(event_name_event_id_dict))
+
+            #call_event_names_chatid_dict()
+            #print(event_names_chatid_dict)
+            #print(len(event_names_chatid_dict))
+
+            #call_user_event_names_dict()
+            #print(user_event_names_dict)
+            #print(len(user_event_names_dict))
+        test()
 
     else:   #когда непонял команду
         bot.send_message(message.chat.id, text='К сожалению, меня пока не научили читать😔 Если вы хотите дать обратную связь или поделиться своими мыслями - пишите @julia_sergina. Если я веду себя странно, реагирую неадекватно - перезаусти меня командой /start')
@@ -334,7 +335,7 @@ def get_registration_list():        #метод возвращает два сл
                 get_registration_list.avalible_event_name_event_id_dict_poor[database_avalible_event['records'][i]['fields']['Name event'].strip()] = database_avalible_event['records'][i]['id'] #еси в поле получилась ошибка значит по сути фэлс и это открытое мероприяте
 
 def chose_event_for_spam(message):                                      #метод для написания текста рассыли
-    request_user_event_names()                                          #обновляю бд
+    call_event_names_chatid_dict()                                          #обновляю бд
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     if message.text in list(event_names_chatid_dict.keys()):            #если юзер выбрал мероприятие
         event_for_spam = message.text                                   #название мероприятия это текст его сообщения
@@ -418,7 +419,7 @@ def chose_event_for_reg(message, avalible_event_name_event_id_dict_full, avalibl
 def use_your_username (message, reg_event_ID, reg_event_name, user_nick, user_name, markup):
     if message.text == 'Да':
         user_nick = '@'+message.from_user.username.lower()
-        request_user_event_names()
+        call_user_event_names_dict()
         alreadyregistred=False
         if user_nick in user_event_names_dict.keys():
             if reg_event_name in user_event_names_dict[user_nick]:
@@ -459,7 +460,7 @@ def use_new_username (message, reg_event_ID, reg_event_name, user_nick, user_nam
         user_nick = message.text
         if user_nick[0] != '@':
             user_nick = '@' + user_nick
-        request_user_event_names()
+        call_user_event_names_dict()
         if user_nick in user_event_names_dict.keys():
             if reg_event_name in user_event_names_dict[user_nick]:
                 bot.send_message(message.chat.id, text=user_nick + ' уже зарегистрирован_а на мероприятие ' + reg_event_name)
@@ -547,7 +548,7 @@ def change_ik_or_username_get (message, reg_event_ID, reg_event_name, user_nick,
             old_user_nick=user_nick
             if old_user_nick[0] != '@':
                 old_user_nick = '@' + old_user_nick
-            request_user_event_names()
+            call_user_event_names_dict()
             if new_user_nick in user_event_names_dict.keys():
                 if reg_event_name in user_event_names_dict[new_user_nick]:
                     bot.send_message(message.chat.id,
@@ -613,7 +614,7 @@ def send_for_reg(message, reg_event_ID, reg_event_name, user_nick, user_name):
     else:
         airtable.insert(
             {you_login_in_TG_field: user_nick, event_for_reg_field: reg_event_ID.split(), whats_your_name_field: user_name})
-        request_user_event_names()
+        call_user_event_names_dict()
         if user_nick[0]!='@':
             user_nick='@'+user_nick
         if reg_event_name in user_event_names_dict[user_nick]:
@@ -674,10 +675,12 @@ def send_feedback(message, chat_ids, event_name, event_id, nicks):
 
         markup=InlineKeyboardMarkup()
         markup.row_width = 1
-        markup.add(InlineKeyboardButton('Оставить отзыв '+event_name, callback_data='05/*/' +event_name + '/*/' +event_id))
+        print(event_name, event_id)
+        markup.add(InlineKeyboardButton('Оставить отзыв '+event_name, callback_data='05/*/'+event_id))
 
         for i in range(len(chat_ids)):
-            bot.send_message(chat_ids[i], text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown', disable_web_page_preview=True, reply_markup=markup)
+            #bot.send_message(chat_ids[i], text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown', disable_web_page_preview=True, reply_markup=markup)
+            print(user_names_chatid_dict[chat_ids[i]], chat_ids[i])
         if message.chat.id not in chat_ids:
             bot.send_message(message.chat.id, text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown', disable_web_page_preview=True, reply_markup=markup)
         bot.send_message(message.chat.id, text='Отправил')
@@ -696,13 +699,9 @@ def feedback_preseting(message):
                                       'comment': str,
                                       'user_name': str,
                                       'event_name': str}
-    airtable = Airtable(airtale_app, event_tbl, api_key_R)
-    response_feedack = airtable.get_all(view=event_tbl_for_feedback_view)
-    name_event = {}
-    for i in range(len(response_feedack)):
-        eventname = response_feedack[i]['fields']['Name event']
-        eventid = response_feedack[i]['id']
-        name_event[eventname] = eventid
+    call_event_for_feedback_dict()
+    name_event=event_names_for_feedback_dict
+    name_event[eventname] = eventid
     if message.from_user.username is not None and message.chat.id in user_names_chatid_dict:
         find_it(message.from_user.username)
         feedback_dict[message.chat.id]['user_name'] = find_it.user_name
@@ -847,13 +846,15 @@ def query_handler(call):
     elif btnnumber == 5:
         find_it(call.from_user.username)
         user_name = find_it.user_name
-        feedback_dict[call.message.chat.id] = {'event_id': call_data[2],
+        call_event_for_feedback_dict()
+        event_name=event_ids_for_feedback_dict[call_data[1]]
+        feedback_dict[call.message.chat.id] = {'event_id': call_data[1],
                                           'recomendacion': int,
                                           'what_did_you_like': list,
                                           'lishnee': str,
                                           'comment': str,
                                           'user_name': str,
-                                          'event_name': call_data[1]}
+                                          'event_name': event_name}
         if user_name is not None:
             feedback_dict[call.message.chat.id]['user_name']=user_name
         feedback(message=call.message, name_event=call_data[1], step=0, value=None)

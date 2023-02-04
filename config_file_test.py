@@ -9,7 +9,9 @@ event_for_reg_field='fldtQRYyMBBwK3PNp'
 whats_your_name_field='fldU9UP7DjKH0KD65'
 
 event_tbl='tblmcBfuBrsYV80wb'
+event_future_view='viwEjXNfAnxYecZFk'
 event_tbl_for_feedback_view='viw7V3MWWNc1Z4zsB'
+event_for_reg_future_events_view='viwoSq4Otl0yO9lkR'
 
 you_login_in_TG_field_feedback='fldH3Nd2nGVPeY9dV'
 name_event_field_feedback='fldbzBWXhec8e8tTJ'

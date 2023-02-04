@@ -64,6 +64,7 @@ feedback_messages_list=['О каком событии хочешь остави�
 
 what_did_you_like_list={}
 
+
 #этот метод собирает данные из эйртэйбла !!!его можно переделать и сделать быстрее и качественней и возможно проще используя библиотеку airtable и вще лчше разделить на пару методов
 def request_user_event_names():
     user_event_names_dict.clear()                                           #так как дальше использую аппенд, тут очищаю словарь
@@ -110,7 +111,11 @@ request_user_event_names()                                                  #в�
 
 @bot.message_handler(commands=["start"])                                    #я не знаю что это(((( видимо штука которая ждёт сообщения, я хз
 def Start(m):                                                               #первая встреча с дорогим пользователем
-    write_in_log_regular_events(inlogtxt='@' + m.from_user.username + ' нажал_a \start')     #писька в лог
+    nick = m.from_user.username
+    if m.from_user.username==None:
+        nick='nobody'
+
+    write_in_log_regular_events(inlogtxt='@' + nick + ' нажал_a \start')     #писька в лог
 
     # call markup
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)                #маркап это типа список кнопок. объявляю
@@ -203,6 +208,10 @@ def handle_text(message):
 
 
     elif message.text.strip() == 'test':                                               #тестовая кнопка, без комментариев
+        request_user_event_names()
+        print(user_event_names_dict)
+        print(len(user_event_names_dict))
+
 
         #bot.forward_message(message.chat.id, 214130351, donate_message_id)
         #feedback_preseting(message)
@@ -253,7 +262,7 @@ def handle_text(message):
             write_in_log_misunderstand(inlogtxt='бот не понял команды от @' + nick + ': ' + message.text)
             write_feedback_at_airtale(message,
                                       event_id=[],
-                                      recomendacion=0,
+                                       recomendacion=0,
                                       what_did_you_like=[],
                                       lishnee='',
                                       comment=message.text,
