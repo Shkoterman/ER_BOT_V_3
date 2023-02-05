@@ -884,6 +884,6 @@ def error():
 
     except Exception as ex:
         write_in_log_error(inlogtxt=str(ex))
-        bot.send_message(214130351, text='estoy cayendo!')
+        bot.send_message(214130351, text='estoy cayendo! \n'+str(ex))
         error()
 error()
