@@ -17,8 +17,8 @@ with open('log.txt', 'r+', encoding='utf-16') as f:                     #отк�
     f.seek(0, 2)                                                        #перемещение курсора в конец файла
     f.write(inlogtxt)                                                   #собственно, запись
 
-bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
-#bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this is prod
+#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
+bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this is prod
 
 # do buttons
 myregistrationbtn = types.KeyboardButton("Мои регистрации")
@@ -627,6 +627,7 @@ def chose_feedack_event(message):
     airtable = Airtable(airtale_app, event_tbl, api_key_R)
     response_feedack=airtable.get_all(view=event_tbl_for_feedback_view)
     name_event = {}
+    print(response_feedack)
     for i in range(len(response_feedack)):
         eventname = response_feedack[i]['fields']['Name event']
         eventid = response_feedack[i]['id']
@@ -679,8 +680,7 @@ def send_feedback(message, chat_ids, event_name, event_id, nicks):
         markup.add(InlineKeyboardButton('Оставить отзыв '+event_name, callback_data='05/*/'+event_id))
 
         for i in range(len(chat_ids)):
-            #bot.send_message(chat_ids[i], text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown', disable_web_page_preview=True, reply_markup=markup)
-            print(user_names_chatid_dict[chat_ids[i]], chat_ids[i])
+            bot.send_message(chat_ids[i], text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown', disable_web_page_preview=True, reply_markup=markup)
         if message.chat.id not in chat_ids:
             bot.send_message(message.chat.id, text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown', disable_web_page_preview=True, reply_markup=markup)
         bot.send_message(message.chat.id, text='Отправил')
@@ -701,7 +701,6 @@ def feedback_preseting(message):
                                       'event_name': str}
     call_event_for_feedback_dict()
     name_event=event_names_for_feedback_dict
-    name_event[eventname] = eventid
     if message.from_user.username is not None and message.chat.id in user_names_chatid_dict:
         find_it(message.from_user.username)
         feedback_dict[message.chat.id]['user_name'] = find_it.user_name
