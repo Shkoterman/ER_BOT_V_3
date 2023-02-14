@@ -627,7 +627,6 @@ def chose_feedack_event(message):
     airtable = Airtable(airtale_app, event_tbl, api_key_R)
     response_feedack=airtable.get_all(view=event_tbl_for_feedback_view)
     name_event = {}
-    print(response_feedack)
     for i in range(len(response_feedack)):
         eventname = response_feedack[i]['fields']['Name event']
         eventid = response_feedack[i]['id']
@@ -676,7 +675,6 @@ def send_feedback(message, chat_ids, event_name, event_id, nicks):
 
         markup=InlineKeyboardMarkup()
         markup.row_width = 1
-        print(event_name, event_id)
         markup.add(InlineKeyboardButton('Оставить отзыв '+event_name, callback_data='05/*/'+event_id))
 
         for i in range(len(chat_ids)):
