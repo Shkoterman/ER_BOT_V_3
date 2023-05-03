@@ -23,7 +23,7 @@ bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this i
 # do buttons
 myregistrationbtn = types.KeyboardButton("Мои регистрации")
 sendreminderbtn = types.KeyboardButton("Отправить напоминание")
-testbtn = ty+pes.KeyboardButton("test")
+testbtn = types.KeyboardButton("test")
 regoneventbtn = types.KeyboardButton('Зарегистрироваться на мероприятие')
 changenamebtn = types.KeyboardButton('Изменить имя')
 changenickbtn = types.KeyboardButton('Изменить ник')
@@ -377,7 +377,11 @@ def send_spam(message, message_for_spam, list_of_spam, list_of_spam_niks):  #с�
     user_id = message.chat.id
     if message.text ==  'Разослать':
         for i in range(len(list_of_spam)):                                  #каждому челу из словаря бахаю сообщение
-            bot.send_message(list_of_spam[i], text=message_for_spam.text)
+            try:
+                bot.send_message(list_of_spam[i], text=message_for_spam.text)
+                print('otpravil ', list_of_spam)
+            except Exception as ex:
+                print(ex)
         bot.send_message(user_id, text='Я отправил это сообщение:')         #отчитываюсь отправителю
         bot.send_message(user_id, text=message_for_spam.text)
         bot.send_message(user_id, text='Этим салатикам: '+', '.join(list_of_spam_niks))
