@@ -23,7 +23,7 @@ bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this i
 # do buttons
 myregistrationbtn = types.KeyboardButton("Мои регистрации")
 sendreminderbtn = types.KeyboardButton("Отправить напоминание")
-testbtn = types.KeyboardButton("test")
+testbtn = ty+pes.KeyboardButton("test")
 regoneventbtn = types.KeyboardButton('Зарегистрироваться на мероприятие')
 changenamebtn = types.KeyboardButton('Изменить имя')
 changenickbtn = types.KeyboardButton('Изменить ник')
@@ -884,7 +884,8 @@ def write_feedback_at_airtale(message, event_id, recomendacion, what_did_you_lik
         write_in_log_regular_events(inlogtxt=nick + ' дал_а ОС про мероприятие ' + event_name)
 def error():
     try:
-        bot.polling(none_stop=True, interval=0)
+        bot.infinity_polling(timeout=10, long_polling_timeout=5)
+        #bot.polling(none_stop=True, interval=0)
 
     except Exception as ex:
         write_in_log_error(inlogtxt=str(ex))
