@@ -26,16 +26,16 @@ airtale_app='app7g2ANnagHYZkZ8'
 airtable_reg_tbl='tblNdWhXnZtkMAknd'
 airtable_feedback_tbl='tblxwZLJb9wwauXt5'
 
-api_key_R = 'keyEEMaILmFa8kveA'
-api_key_RW = 'keyEEMaILmFa8kveA'
+api_key_R = 'keyvx9wZx6KniqWv4'
+api_key_RW = 'keyvx9wZx6KniqWv4'
 
 headers_R = {
-    "Authorization": "Bearer keyEEMaILmFa8kveA",
+    "Authorization": "Bearer keyvx9wZx6KniqWv4",
     "Content-Type": "application/json"
     }
 
 headers_RW = {
-    "Authorization": "Bearer keyEEMaILmFa8kveA",
+    "Authorization": "Bearer keyvx9wZx6KniqWv4",
     "Content-Type": "application/json"
     }
 

@@ -5,8 +5,8 @@ import pickle
 import random
 from datetime import *  
 from airtable import *
-#from config_file_test import * #this is test
-from config_file_prod import * #this is prod
+from config_file_test import * #this is test
+#from config_file_prod import * #this is prod
 from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from telegram import ParseMode
@@ -656,7 +656,15 @@ def give_feedback(message, name_event):
         airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
         chat_ids=[]
         nicks=''
-        dis_nicks = airtable.search('Event for reg', event_name)
+
+        if ',' in event_name:
+
+            dis_nicks = airtable.search('Date (from Event for reg)', '6/2/2023 06:00')
+            print(dis_nicks)
+
+        else:
+            dis_nicks = airtable.search('Event for reg', event_name)
+
         for i in range(len(dis_nicks)):
             try:
                 nick=dis_nicks[i]['fields']['You login in TG (reg)'].lower()
@@ -888,7 +896,7 @@ def write_feedback_at_airtale(message, event_id, recomendacion, what_did_you_lik
         write_in_log_regular_events(inlogtxt=nick + ' дал_а ОС про мероприятие ' + event_name)
 def error():
     try:
-        bot.infinity_polling(timeout=30, long_polling_timeout=15)
+        bot.infinity_polling(timeout=30, long_polling_timeout=20)
         #bot.polling(none_stop=True, interval=0)
 
     except Exception as ex:
