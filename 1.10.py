@@ -17,8 +17,8 @@ with open('log.txt', 'r+', encoding='utf-16') as f:                     #отк�
     f.seek(0, 2)                                                        #перемещение курсора в конец файла
     f.write(inlogtxt)                                                   #собственно, запись
 
-bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
-#bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this is prod
+#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
+bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this is prod
 
 # do buttons
 myregistrationbtn = types.KeyboardButton("Мои регистрации")
