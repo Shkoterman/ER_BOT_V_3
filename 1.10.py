@@ -3,13 +3,13 @@ import telebot
 import requests
 import pickle
 import random
-from datetime import *  
-from airtable import *
+from datetime import *
+from airtable import Airtable
 #from config_file_test import * #this is test
 from config_file_prod import * #this is prod
 from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
-from telegram import ParseMode
+from telegram.constants import ParseMode
 
 inlogtxt = datetime.now().strftime("%d-%m-%Y %H:%M") + ': bot has been started ' + '(' + BD_Mode + ')\n' #дописываю время
 print(inlogtxt)                                                         #дублирую в консоль
@@ -72,6 +72,7 @@ def call_event_name_event_id_dict(): #{event_id: event_name <-/-> event_name: ev
     response_event = airtable.get_all(view=event_future_view)
     for i in range(len(response_event)):
         event_id=response_event[i]['id']
+        print(type(event_id))
         event_name=response_event[i]['fields']['Name event']
         event_name_event_id_dict[event_id]=event_name
         event_name_event_id_dict[event_name]=event_id
