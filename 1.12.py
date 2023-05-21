@@ -11,8 +11,6 @@ from telebot import types
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from telegram import ParseMode
 
-
-
 #bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
 bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this is prod
 
@@ -38,9 +36,7 @@ onetotenbtn=[]
 for i in range(11):
     onetotenbtn.append(types.KeyboardButton(str(i)))
 paybtn = types.KeyboardButton('Оплата')
-
 adminlist = open('admin_list.txt', 'r', encoding='UTF-8').read().split('\n') #открываю txt со списком админов
-
 # create dicts that coteins users nicks and all them events
 user_event_names_dict = {}                      # {nick: event_name, event_name}
 event_name_event_id_dict = {}                   # {event_id: event_name <-/-> event_name: event_id}
@@ -62,20 +58,19 @@ feedback_messages_list=['О каком событии хочешь остави�
                         'Как тебя зовут?']
 
 what_did_you_like_list={}
+airtable_reg = Airtable(airt_app, airtable_reg_tbl, airt_api_key)
+airtable_event = Airtable(airt_app, airtable_event_tbl, airt_api_key)
 def call_event_name_event_id_dict(): #{event_id: event_name <-/-> event_name: event_id}
-    airtable = Airtable(airtale_app, event_tbl, api_key_R)
-    response_event = airtable.get_all(view=event_future_view)
+    response_event = airtable_event.get_all(view=event_future_view)
     for i in range(len(response_event)):
         event_id=response_event[i]['id']
         event_name=response_event[i]['fields']['Name event']
-
         event_name_event_id_dict[event_id]=event_name
         event_name_event_id_dict[event_name]=event_id
-
 def call_user_event_names_dict():  # {nick: event_name, event_name}
     call_event_name_event_id_dict()
-    airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
-    response_reg = airtable.get_all(view=event_for_reg_future_events_view)
+
+    response_reg = airtable_reg.get_all(view=event_for_reg_future_events_view)
     for i in range(len(response_reg)):
         try:
             user_nick=response_reg[i]['fields']['You login in TG (reg)'].lower().replace(' ','')
@@ -92,7 +87,7 @@ def call_user_event_names_dict():  # {nick: event_name, event_name}
             i+=1
 def call_event_names_chatid_dict(): # {event_name: chatid, chatid}\
     call_event_name_event_id_dict()
-    airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
+    airtable = Airtable(airt_app, airtable_reg_tbl, airt_api_key)
     response_reg = airtable.get_all(view=event_for_reg_future_events_view)
     for i in range(len(response_reg)):
         try:
@@ -112,10 +107,10 @@ def call_event_names_chatid_dict(): # {event_name: chatid, chatid}\
         except:
             i+=1
 def call_event_for_feedback_dict():
-    airtable = Airtable(airtale_app, event_tbl, api_key_R)
+    airtable = Airtable(airt_app, event_tbl, airt_api_key)
     response_feedack = airtable.get_all(view=event_tbl_for_feedback_view)
     for i in range(len(response_feedack)):
-        eventname = response_feedack[i]['fields']['Name event']
+        eventname = response_feedack[i]['fields']['Name_event']
         eventid = response_feedack[i]['id']
         event_ids_for_feedback_dict[eventid] = eventname
         event_names_for_feedback_dict[eventname] = eventid
@@ -124,7 +119,6 @@ call_event_for_feedback_dict()
 call_event_names_chatid_dict()                                                #вызываю обновление БД
 call_user_event_names_dict()
 call_event_name_event_id_dict()
-
 ### запись в лог и консоль факта старта
 inlogtxt = datetime.now().strftime("%d-%m-%Y %H:%M") + ': bot has been started ' + '(' + BD_Mode + ')\n' #дописываю время
 print(inlogtxt)                                                         #дублирую в консоль
@@ -144,8 +138,10 @@ def Start(m):
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)                #маркап это типа список кнопок. объявляю
     markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn)  #добавляю
     if m.from_user.username in adminlist:                                   #если чел в админ листе добавляю админские кнопки
-        markup.add(sendreminderbtn, testbtn, askfeedbackbtn, pingbtn)
-        write_in_log_regular_events(inlogtxt='@' + m.from_user.username + ' взял_а админский доступ')                                              #писька в лог
+        markup.add(sendreminderbtn, askfeedbackbtn, pingbtn)
+        write_in_log_regular_events(inlogtxt='@' + m.from_user.username + ' взял_а админский доступ')                                           #писька в лог
+    if m.from_user.id==214130351:
+        markup.add(testbtn)
 
     # send helo text
     hello_text=open(hello_txt, 'r', encoding='UTF-8').read()
@@ -238,7 +234,6 @@ def handle_text(message):
 
         def test():
             print('test')
-
 
             #call_event_name_event_id_dict()
             #print(event_name_event_id_dict)
@@ -336,6 +331,7 @@ def get_registration_list():        #метод возвращает два сл
                 i+=1
         except:
                 get_registration_list.avalible_event_name_event_id_dict_poor[database_avalible_event['records'][i]['fields']['Name event'].strip()] = database_avalible_event['records'][i]['id'] #еси в поле получилась ошибка значит по сути фэлс и это открытое мероприяте
+
 
 def chose_event_for_spam(message):                                      #метод для написания текста рассыли
     call_event_names_chatid_dict()                                          #обновляю бд
@@ -577,7 +573,7 @@ def change_ik_or_username_get (message, reg_event_ID, reg_event_name, user_nick,
                                            user_name, markup)
 
 def find_it(user_nick):
-    airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
+    airtable = Airtable(airt_app, airtable_reg_tbl, airt_api_key)
     if user_nick[0] == '@':
         user_nick_w_o = user_nick[1:]
     else:
@@ -618,7 +614,7 @@ def are_you (message, reg_event_ID, reg_event_name, user_nick, user_name, markup
         bot.register_next_step_handler(message, are_you, reg_event_ID, reg_event_name, user_nick, user_name, markup)
 
 def send_for_reg(message, reg_event_ID, reg_event_name, user_nick, user_name):
-    airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_RW)
+    airtable = Airtable(airt_app, airtable_reg_tbl, airt_api_key)
     get_registration_list()
     if reg_event_name not in get_registration_list.avalible_event_name_event_id_dict_full.keys():
         bot.send_message(message.chat.id,
@@ -638,7 +634,7 @@ def send_for_reg(message, reg_event_ID, reg_event_name, user_nick, user_name):
     main_menu(message)
 
 def chose_feedack_event(message):
-    airtable = Airtable(airtale_app, event_tbl, api_key_R)
+    airtable = Airtable(airt_app, event_tbl, airt_api_key)
     response_feedack=airtable.get_all(view=event_tbl_for_feedback_view)
     name_event = {}
     for i in range(len(response_feedack)):
@@ -657,10 +653,10 @@ def chose_feedack_event(message):
 def give_feedback(message, name_event):
     if message.text[1 : -1] in name_event.keys():
         event_name=message.text[1 : -1]
-        airtable = Airtable(airtale_app, airtable_reg_tbl, api_key_R)
+        airtable = Airtable(airt_app, airtable_feedback_tbl, airt_api_key)
         chat_ids=[]
         nicks=''
-        dis_nicks = airtable.search('Event for reg', event_name)
+        dis_nicks = airtable.search(field_name='Event for reg', field_value=message.text, view = 'for_feedback')
         for i in range(len(dis_nicks)):
             try:
                 nick=dis_nicks[i]['fields']['You login in TG (reg)'].lower()
@@ -674,6 +670,7 @@ def give_feedback(message, name_event):
         markup.add(yesbtn, mainmenubtn)
         bot.send_message(message.chat.id, text='Вот список получателей (если он пустой, удали запятые из названия эвентав в эйртэйбле и попробуй еще раз. Вернусь попробую пофиксить): '+nicks,reply_markup=markup)
         event_id = name_event[event_name]
+
         bot.register_next_step_handler(message, send_feedback, chat_ids, event_name, event_id, nicks)
     elif message.text=='Отмена':
         main_menu(message)
@@ -690,9 +687,12 @@ def send_feedback(message, chat_ids, event_name, event_id, nicks):
         markup=InlineKeyboardMarkup()
         markup.row_width = 1
         markup.add(InlineKeyboardButton('Оставить отзыв '+event_name, callback_data='05/*/'+event_id))
-
+        airtable=Airtable(airt_app, airtable_event_tbl, airt_api_key)
+        nice_event_name=airtable.search(field_name='Name event', field_value=event_name, view = 'Для отзывов')[0]['fields']['Name_event']
+        print(nice_event_name)
         for i in range(len(chat_ids)):
-            bot.send_message(chat_ids[i], text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown', disable_web_page_preview=True, reply_markup=markup)
+            #bot.send_message(chat_ids[i], text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown', disable_web_page_preview=True, reply_markup=markup)
+            print('отправил ', chat_ids[i], event_name)
         if message.chat.id not in chat_ids:
             bot.send_message(message.chat.id, text=feedback_text.replace("eventame", event_name, 1), parse_mode='Markdown', disable_web_page_preview=True, reply_markup=markup)
         bot.send_message(message.chat.id, text='Отправил')
@@ -839,8 +839,7 @@ def feedback_like_list(message, first):
         bot.register_next_step_handler(send, feedback_steps, name_event=[], step=2)
     else:
         bot.edit_message_reply_markup(message.chat.id, message.message_id, reply_markup=markup)
-def fast():
-    print('asdasdasdasasdasasaszxczxczxc')
+
 @bot.callback_query_handler(func=lambda call: True)
 def query_handler(call):
     call_data=call.data.split('/*/')
@@ -871,7 +870,7 @@ def query_handler(call):
         feedback(message=call.message, name_event=call_data[1], step=0, value=None)
 
 def write_feedback_at_airtale(message, event_id, recomendacion, what_did_you_like, lishnee, comment, user_name, event_name, misunderstand):
-    airtable = Airtable(airtale_app, airtable_feedback_tbl, api_key_RW)
+    airtable = Airtable(airt_app, airtable_feedback_tbl, airt_api_key)
     if recomendacion==0:
         recomendacion=None
 
