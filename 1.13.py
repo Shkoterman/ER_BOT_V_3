@@ -165,7 +165,6 @@ def handle_text(message):
                 eventList[user_id] = user_event_names_dict[pnick[user_id]]                              #заполняю персональный лист мероприятий одним "словом" из словаря
                 bot.send_message(user_id, text="Вот мероприятия, на которые ты зарегистрирован_а:")
                 bot.send_message(user_id, text="\n".join(i.split(',', 1)[0] for i in eventList[user_id]))
-                #bot.send_message(user_id, text="\n".join(eventList[user_id]))
                 eventList[user_id] = []                                                                 #очищаю для будующего использования
             else:
                 bot.send_message(user_id, text="Ого! Ты не зарегистрирован_а ни на одно мероприятие(")
@@ -179,6 +178,7 @@ def handle_text(message):
     # registration
     elif message.text.strip() == 'Зарегистрироваться на мероприятие':
         get_registration_list()                                                                                         #получаю список мероприятий
+        add_user(message)
         if message.from_user.username==None:                                                                            #если нет ника отвержение
             bot.send_message(message.chat.id, text='Для того чтобы зарегистрироваться, нужно иметь ник с @')
             main_menu(message)
@@ -198,7 +198,6 @@ def handle_text(message):
             user_nick = None
             user_name = None
             bot.register_next_step_handler(send, chose_event_for_reg, get_registration_list.avalible_event_name_event_id_dict_full, get_registration_list.avalible_event_name_event_id_dict_poor, reg_event_ID, reg_event_name, user_nick, user_name, markup) #жду ответа от юзера и отсылаю ответ в
-        add_user(message)
     elif message.text.strip() == 'Все про подписку':
         aboutsubtext = open('./allaoboutsubscription.txt', 'r', encoding='UTF-8').read()              #открываю текст из файла и отправляю
         bot.send_message(message.from_user.id, text="".join(aboutsubtext), parse_mode='Markdown',
@@ -235,20 +234,6 @@ def handle_text(message):
 
         def test():
             print('test')
-            reg_event_name='⭐️ 🧠 домашняя конференция (28.05 18:00), 23 мест'
-            print(reg_event_name[:-7]+str(int(reg_event_name[-7:-5])-1)+reg_event_name[-5:])
-            #call_event_name_event_id_dict()
-            #print(event_name_event_id_dict)
-            #print(len(event_name_event_id_dict))
-
-            #call_event_names_chatid_dict()
-            #print(event_names_chatid_dict)
-            #print(len(event_names_chatid_dict))
-
-            #call_user_event_names_dict()
-            #print(user_event_names_dict)
-            #print(len(user_event_names_dict))
-        test()
 
     else:   #когда непонял команду
         bot.send_message(message.chat.id, text='К сожалению, меня пока не научили читать😔 Если вы хотите дать обратную связь или поделиться своими мыслями - пишите @julia_sergina. Если я веду себя странно, реагирую неадекватно - перезаусти меня командой /start')
@@ -298,7 +283,6 @@ def write_in_log_misunderstand(inlogtxt):                                       
         write_in_log_error(str(ex))
 
 def add_user(m):                                                            # add to dict if there is no {nick: chatid <-/-> chatid: nick}
-    #nick = m.from_user.username.lower()                                     #делаю всё строчными
     if m.from_user.username==None:                                                          #если ника нет или скрыт, делаю искусственный ник
         nick = '@nobody'+str(m.chat.id)
     else:
@@ -460,7 +444,6 @@ def use_new_username (message, reg_event_ID, reg_event_name, user_nick, user_nam
     if message.text == 'Главное меню':
         main_menu(message)
     elif user_name!=None:
-        #registration_on_event_chek(message, reg_event_ID, reg_event_name, user_nick, user_name, markup)
         send_for_reg(message, reg_event_ID, reg_event_name, user_nick, user_name)
     elif message.text != None:
         user_nick = message.text
@@ -487,10 +470,6 @@ def use_new_name (message, reg_event_ID, reg_event_name, user_nick, user_name, m
         user_name=message.text
         send_for_reg(message, reg_event_ID, reg_event_name, user_nick, user_name)
 
-        #markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        #markup.add(changebtn, yesbtn, mainmenubtn)
-        #bot.send_message(message.chat.id, text='Получается, регистрирую так? \n Мероприятие: '+reg_event_name+' \n Ник: '+user_nick+' \n Имя: '+user_name, reply_markup=markup)
-        #bot.register_next_step_handler(message, registration_on_event_chek, reg_event_ID, reg_event_name, user_nick, user_name, markup)
     else:
         bot.send_photo(message.chat.id, photo = open('wat/'+str(random.randrange(1, 6))+'.jpeg', 'rb'), reply_markup=markup)
         bot.send_message(message.chat.id, text='Я не понимаю такой ответ, кажется я жду от тебя нажатия на кнопку внизу, однако, если я веду себя странно, реагирую неадекватно - перезаусти меня командой /start')
@@ -596,8 +575,6 @@ def find_it(user_nick):
 
 def are_you (message, reg_event_ID, reg_event_name, user_nick, user_name, markup):
     if message.text == 'Да':
-        #send_for_reg(message, reg_event_ID, reg_event_name, user_nick, user_name)
-
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
         markup.add(changebtn, yesbtn, mainmenubtn)
         bot.send_message(message.chat.id, text='Получается, регистрирую так?\nМероприятие: '+reg_event_name.split(',')[0]+'\nНик: '+user_nick+'\nИмя: '+user_name, reply_markup=markup)
