@@ -5,12 +5,8 @@ import strs
 import telebot
 from telebot import types
 
-
-
-
-#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
-bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this is prod
-
+bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
+#bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g') # this is prod
 
 what_did_you_like_list={}
 
@@ -55,6 +51,8 @@ def handle_text(message):
         bot.forward_message(message.chat.id, 214130351, 9582)
     if message.text==btns.pingbtn.text:
         bot.send_message(message.chat.id, text=btns.pingbtn.text)
+    if message.text==btns.cancel.text:
+        cancel_reg_step_1(message)
 
     # админские функции
     if message.text==btns.sendreminderbtn.text and message.from_user.username in ER_DB.get_admin_list():
@@ -64,7 +62,7 @@ def handle_text(message):
 
     # сугубо мои
     if message.text==btns.testbtn.text and message.chat.id==214130351:
-        pass
+        print(ER_DB.for_cancel_reg_event_list(message.chat.id))
 
 
 
@@ -184,7 +182,6 @@ def registration_step_5(message, for_reg_dickt):
     bot.send_message(message.chat.id, text=strs.got_it)
     bot.send_message(message.chat.id, text=strs.payment_text_after_reg, disable_web_page_preview=True)
     bot.forward_message(message.chat.id, 214130351, 9582)
-     ###donate_message_id=9582
     main_menu(message, 0)
     if not ER_DB.add_reg(for_reg_dickt):
         bot.send_message(214130351, text=strs.rega_ne_proshla+str(for_reg_dickt))
@@ -422,6 +419,38 @@ def send_feedback_request_step_4(message, spam_id_list, message_for_spam_id):
     else:
         send=bot.send_message(message.chat.id, text=strs.didnt_get_it)
         bot.register_next_step_handler(message, send_reminder_step_4, spam_id_list, message_for_spam_id)
+
+
+def cancel_reg_step_1(message):
+    if message.from_user.username==None:
+        bot.send_message(message.chat.id, text=strs.need_dog_msg)
+    else:
+        ev_list=ER_DB.for_cancel_reg_event_list(message.from_user.username)
+        markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
+        for i in range(len(ev_list)):
+            markup.add(types.KeyboardButton(list(ev_list.keys())[i]))
+        markup.add(btns.backbtn)
+        send=bot.send_message(message.chat.id, text=strs.what_for_cance, reply_markup=markup)
+        bot.register_next_step_handler(message, cancel_reg_step_2, ev_list)
+
+
+def cancel_reg_step_2(message, ev_list):
+    if message.text==btns.backbtn.text:
+        main_menu(message, 0)
+    elif message.text in list(ev_list):
+        event_id=ER_DB.get_event_name()
+        markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
+        markup.add(btns.backbtn, btns.skipbtn)
+        send=bot.send_message(message.chat.id, text=strs.why_are_u_cancel, reply_markup=markup)
+        bot.edit_message_reply_markup(send, cancel_reg_step_3, event_id)
+    else:
+        send=bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        bot.register_next_step_handler(message, cancel_reg_step_2, ev_list)
+
+
+def cancel_reg_step_3(message, event_id):
+    print(message.text)
+    print(event_id)
 
 
 

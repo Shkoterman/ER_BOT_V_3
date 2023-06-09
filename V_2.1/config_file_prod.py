@@ -20,6 +20,7 @@ airt_event_tbl='tbleWW3ENwjP0uDgh'
 
 airt_event_tbl_open_for_reg_view='viwJxZUTmtI9q0Grx'
 airt_event_tbl_for_feedback_view='viwZFoA68S3S4qccH'
+airt_event_tbl_future_events_view='viww3iBpMsoPjyCpq'
 
 airt_event_tbl_is_it_subscribers_only_field='fldU5aDYT1VIlV486'
 airt_event_tbl_name_event_field='fldj5plEM7rIithu3'

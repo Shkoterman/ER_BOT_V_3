@@ -52,7 +52,7 @@ def for_reminder_events():  # вернёт словарь для напомин�
 def for_reg_event_list(username):   # вернёт 2 листа на что зареган точно, и на что зареган в ВЛ
     # получаю словарь {айди: имя}
     future_events = {}
-    future_events_resp = airt_event.get_all(view=airt_event_tbl_open_for_reg_view,
+    future_events_resp = airt_event.get_all(view=airt_event_tbl_future_events_view,
                                             fields=airt_event_tbl_name_event_field)
     for i in range(len(future_events_resp)):
         ev_name = future_events_resp[i]['fields']['Name_event']
@@ -137,6 +137,34 @@ def get_admin_list():
         adminlist.append(reg_event_list_resp[i]['fields']['Name'])
 
     return adminlist
+
+
+def for_cancel_reg_event_list(username): # вернёт дикт с айди записи и названием мероприятия
+    # получаю словарь {айди: имя}
+    future_events = {}
+    future_events_resp = airt_event.get_all(view=airt_event_tbl_future_events_view,
+                                            fields=airt_event_tbl_name_event_field)
+    for i in range(len(future_events_resp)):
+        ev_name = future_events_resp[i]['fields']['Name_event']
+        ev_id = future_events_resp[i]['id']
+        future_events[ev_id] = ev_name
+    print(future_events)
+    # получаю лист диктов из регистрации
+    reg_event_list_resp = airt_reg.get_all(view=airt_reg_tbl_future_events_view,
+                                     fields=[airt_reg_tbl_event_for_reg_field, airt_reg_tbl_You_login_in_TG_field])
+
+    cnacel_dickt={}
+    if username[0]!='@':
+        username = '@' + username
+    username=username.lower()
+    for i in range(len(reg_event_list_resp)):
+        if reg_event_list_resp[i]['fields']['You login in TG (reg)']==username:
+            record_id=reg_event_list_resp[i]['id']
+            ev_name=future_events[ev_id]
+            cnacel_dickt[ev_name]=record_id
+
+    return cnacel_dickt
+
 
 def find_user_id_or_nick(user_nick_or_id_list):
     with open('user_names_chatid.pkl', 'rb') as f:
