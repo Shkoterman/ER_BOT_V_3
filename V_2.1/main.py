@@ -62,17 +62,25 @@ def handle_text(message):
 
     # сугубо мои
     if message.text==btns.testbtn.text and message.chat.id==214130351:
-        print(ER_DB.for_cancel_reg_event_list(message.chat.id))
+        print(ER_DB.for_cancel_reg_event_list(message.from_user.username))
 
 
 
 def main_menu(message, frsttime):
+    markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
+    print(ER_DB.get_admin_list())
+    print(message.from_user.username)
     if message.chat.id==214130351:
         markup=btns.my_main_menu_markup
+        print(1)
     elif message.from_user.username in ER_DB.get_admin_list():
+        print(ER_DB.get_admin_list())
+        print(message.from_user.username)
         markup=btns.admin_main_menu_markup
+        print(2)
     else:
         markup=btns.user_main_menu_markup
+        print(3)
     if frsttime==1:
         text=strs.hello_text
     elif frsttime==2:

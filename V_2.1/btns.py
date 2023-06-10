@@ -7,7 +7,7 @@ regoneventbtn = types.KeyboardButton('Зарегистрироваться на 
 allaoboutsubscriptionbtn = types.KeyboardButton('Все про подписку')
 sendfeedbackbtn = types.KeyboardButton('Отзыв о событии')
 paybtn = types.KeyboardButton('Оплата')
-cancel=types.KeyboardButton('Отменить регистрацию')
+cancel = types.KeyboardButton('Отменить регистрацию')
 
 ### admins's
 sendreminderbtn = types.KeyboardButton("Отправить напоминание")
@@ -21,8 +21,8 @@ user_main_menu_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 admin_main_menu_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 my_main_menu_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 user_main_menu_markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn)
-admin_main_menu_markup=user_main_menu_markup.add(sendreminderbtn, askfeedbackbtn)
-my_main_menu_markup=admin_main_menu_markup.add(pingbtn, testbtn, cancel)
+admin_main_menu_markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, sendreminderbtn, askfeedbackbtn)
+my_main_menu_markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, sendreminderbtn, askfeedbackbtn, pingbtn, testbtn, cancel)
 
 
 
