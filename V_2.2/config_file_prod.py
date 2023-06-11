@@ -32,6 +32,7 @@ airt_reg_tbl='tblNdWhXnZtkMAknd'
 
 airt_reg_tbl_future_events_view='viwgCLSYFqRpTvY4X'
 airt_reg_tbl_for_bot_view='viwoz2RvSY6tksH4S'
+airt_reg_tbl_cancelebl_view='viwyulsUZJBhnR2uq'
 
 airt_reg_tbl_You_login_in_TG_field='fldR4GQ5hteRgWOXN'
 airt_reg_tbl_event_for_reg_field='fldlAcMIYGsnPpsxv'

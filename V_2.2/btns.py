@@ -20,9 +20,9 @@ testbtn = types.KeyboardButton("test")
 user_main_menu_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 admin_main_menu_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 my_main_menu_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-user_main_menu_markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn)
-admin_main_menu_markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, sendreminderbtn, askfeedbackbtn)
-my_main_menu_markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, sendreminderbtn, askfeedbackbtn, pingbtn, testbtn, cancel)
+user_main_menu_markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, cancel)
+admin_main_menu_markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, cancel, sendreminderbtn, askfeedbackbtn)
+my_main_menu_markup.add(myregistrationbtn, regoneventbtn, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, cancel, sendreminderbtn, askfeedbackbtn, pingbtn, testbtn)
 
 
 
@@ -38,3 +38,5 @@ plusonebtn = types.KeyboardButton('Меня +1')
 minusonebtn = types.KeyboardButton('Только меня')
 readybtn = types.KeyboardButton('Готово')
 skipbtn = types.KeyboardButton('Пропустить')
+yes_cancel = types.KeyboardButton('Да, отменить регистрацию')
+no_chanhced = types.KeyboardButton('Нет, я передумал_а, не отменять')

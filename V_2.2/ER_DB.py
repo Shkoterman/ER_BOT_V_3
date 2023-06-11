@@ -130,6 +130,7 @@ def get_user_name(user_nick):
         user_name=None
     return user_name
 
+
 def get_admin_list():
     reg_event_list_resp = airt_adlist.get_all(fields=airt_adlist_tbl_name_field)
     adminlist=[]
@@ -151,10 +152,9 @@ def for_cancel_reg_event_list(username): # вернёт дикт с айди з�
         ev_name = future_events_resp[i]['fields']['Name_event']
         ev_id = future_events_resp[i]['id']
         future_events[ev_id] = ev_name
-    print(future_events)
 
     # получаю зиписи из рег {ev_id: rec_id}
-    reg_event_list_resp = airt_reg.get_all(view=airt_reg_tbl_future_events_view,
+    reg_event_list_resp = airt_reg.get_all(view=airt_reg_tbl_cancelebl_view,
                                            fields=[airt_reg_tbl_event_for_reg_field,
                                                    airt_reg_tbl_You_login_in_TG_field])
     from_reg_dickt={}
@@ -162,22 +162,20 @@ def for_cancel_reg_event_list(username): # вернёт дикт с айди з�
         if reg_event_list_resp[i]['fields']['You login in TG (reg)']==username:
             ev_id=' '.join(reg_event_list_resp[i]['fields']['Event for reg'])
             rec_id=reg_event_list_resp[i]['id']
-            print(type(ev_id), ev_id, '\n------------')
-            print(type(rec_id), rec_id, '\n------------')
-            from_reg_dickt[ev_id]=rec_id
-    print(from_reg_dickt)
+            if ev_id in list(from_reg_dickt.keys()):
+                from_reg_dickt[ev_id].append(rec_id)
+            else:
+                from_reg_dickt[ev_id]=[rec_id]
 
-
-
-
-
-
-
-
-
-
-
-    #return cnacel_dickt
+    # сливаю в {имя евента: [rec_id, rec_id, ...]}
+    cancel_dickt={}
+    for i in range(len(from_reg_dickt)):
+        ev_id=list(from_reg_dickt.keys())[i]
+        ev_name = future_events[list(from_reg_dickt.keys())[i]]
+        rec_id = from_reg_dickt[ev_id]
+        if ev_id in list(future_events.keys()):
+            cancel_dickt[ev_name]=rec_id
+    return cancel_dickt # {имя евента: [rec_id, rec_id, ...]}
 
 
 def find_user_id_or_nick(user_nick_or_id_list):
@@ -187,6 +185,7 @@ def find_user_id_or_nick(user_nick_or_id_list):
         for i in range(len(user_nick_or_id_list)):
             try:
                 this_user_id_or_nick=user_nicks_chatid_dict[user_nick_or_id_list[i]]
+
                 if type(this_user_id_or_nick)==str:
                     if this_user_id_or_nick[0]!='@':
                         this_user_id_or_nick='@'+this_user_id_or_nick
@@ -255,3 +254,8 @@ def add_feedback(feedback_dickt):
                           airt_feedback_tbl_comment_field: feedback_dickt['comment'],
                           airt_feedback_tbl_whats_your_name_field: feedback_dickt['user_name'],
                           })
+
+
+def del_registration(rec_list):
+    deleted=airt_reg.batch_delete(rec_list)[0]['deleted']
+    return deleted
