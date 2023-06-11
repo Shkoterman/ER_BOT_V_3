@@ -140,6 +140,7 @@ def get_admin_list():
     return adminlist
 
 
+
 def for_cancel_reg_event_list(username): # вернёт дикт с айди записи и названием мероприятия
     if username[0]!='@':
         username='@'+username

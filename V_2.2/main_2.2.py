@@ -4,6 +4,7 @@ import strs
 import telebot
 from telebot import types
 
+
 shkoterman_chat_id=214130351
 julia_chat_id=346459053
 payment_message_id=9582
