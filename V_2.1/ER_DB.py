@@ -157,6 +157,7 @@ def for_cancel_reg_event_list(username): # вернёт дикт с айди з�
     if username[0]!='@':
         username = '@' + username
     username=username.lower()
+
     for i in range(len(reg_event_list_resp)):
         if reg_event_list_resp[i]['fields']['You login in TG (reg)']==username:
             record_id=reg_event_list_resp[i]['id']

@@ -68,7 +68,10 @@ def for_reg_event_list(username):   # вернёт 2 листа на что за
         username = '@' + username
     username=username.lower()
     for i in range(len(reg_event_list_resp)):
-        if reg_event_list_resp[i]['fields']['You login in TG (reg)']==username:
+        username_from_reg=reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower()
+        if username_from_reg[0]!='@':
+            username_from_reg='@'+username_from_reg
+        if username_from_reg==username:
             try:
                 in_wait_list=reg_event_list_resp[i]['fields']['in_wait_list']
             except:
@@ -160,7 +163,10 @@ def for_cancel_reg_event_list(username): # вернёт дикт с айди з�
                                                    airt_reg_tbl_You_login_in_TG_field])
     from_reg_dickt={}
     for i in range(len(reg_event_list_resp)):
-        if reg_event_list_resp[i]['fields']['You login in TG (reg)']==username:
+        username_from_reg=reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower()
+        if username_from_reg[0]!='@':
+            username_from_reg='@'+username_from_reg
+        if username_from_reg==username:
             ev_id=' '.join(reg_event_list_resp[i]['fields']['Event for reg'])
             rec_id=reg_event_list_resp[i]['id']
             if ev_id in list(from_reg_dickt.keys()):
