@@ -191,6 +191,7 @@ def for_cancel_reg_event_list(username): # вернёт дикт с айди з�
 def find_user_id_or_nick(user_nick_or_id_list):
     with open('user_names_chatid.pkl', 'rb') as f:
         user_nicks_chatid_dict = pickle.load(f)
+        print(user_nicks_chatid_dict)
         user_id_or_nick=[]
         for i in range(len(user_nick_or_id_list)):
             try:

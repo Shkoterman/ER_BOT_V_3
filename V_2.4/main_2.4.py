@@ -9,8 +9,8 @@ shkoterman_chat_id=214130351
 julia_chat_id=346459053
 payment_message_id=9582
 
-#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
-bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
+bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
+#bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
 
 what_did_you_like_list = {}
 
@@ -67,7 +67,7 @@ def handle_text(message):
 
     # сугубо мои
     if message.text == btns.testbtn.text and message.chat.id == shkoterman_chat_id:
-        pass
+        print(ER_DB.find_user_id_or_nick(['@etozhemaximka']))
 
 def send_julia(str):
     bot.send_message(julia_chat_id, text=str)
@@ -196,6 +196,7 @@ def registration_step_5(message, for_reg_dickt):
     bot.send_message(message.chat.id, text=strs.payment_text_after_reg, disable_web_page_preview=True)
     bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
     main_menu(message, 0)
+    ER_DB.add_new_user(message.from_user.username, message.chat.id)
     if not ER_DB.add_reg(for_reg_dickt):
         bot.send_message(shkoterman_chat_id, text=strs.rega_ne_proshla + str(for_reg_dickt))
 
