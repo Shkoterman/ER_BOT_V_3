@@ -174,7 +174,10 @@ def for_cancel_reg_event_list(username): # вернёт дикт с айди з�
                                                    airt_reg_tbl_You_login_in_TG_field])
     from_reg_dickt={}
     for i in range(len(reg_event_list_resp)):
-        username_from_reg=reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower()
+        try:
+            username_from_reg=reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower()
+        except:
+            username_from_reg='@'
         if username_from_reg[0]!='@':
             username_from_reg='@'+username_from_reg
         if username_from_reg==username:
