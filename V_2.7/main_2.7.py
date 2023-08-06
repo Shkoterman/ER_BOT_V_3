@@ -3,6 +3,7 @@ import btns
 import strs
 import telebot
 import time
+import asyncio
 from telebot import types
 from datetime import datetime
 
@@ -10,7 +11,7 @@ from datetime import datetime
 shkoterman_chat_id=214130351
 julia_chat_id=346459053
 payment_message_id=9582
-response_timeout=1800
+response_timeout=7
 
 #bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
 bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
@@ -43,16 +44,14 @@ def send_julia(str):
 
 
 def main_menu(message, frsttime):
+    time_out[message.chat.id] = 0
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     if message.chat.id == shkoterman_chat_id:
         markup = btns.my_main_menu_markup
-
     elif message.from_user.username in ER_DB.get_admin_list():
         markup = btns.admin_main_menu_markup
-
     else:
         markup = btns.user_main_menu_markup
-
     if frsttime == 1:
         text = strs.hello_text
         write_in_log(message, 'came with frsttime == 1')
@@ -62,10 +61,8 @@ def main_menu(message, frsttime):
         write_in_log(message, 'got timeout')
     elif frsttime==3:
         text = strs.main_menu_text
-        time_out[message.chat.id] = 0
     else:
         text = strs.main_menu_text
-        time_out[message.chat.id] = 0
         write_in_log(message, 'pressed Cancel or got deny')
 
     bot.send_message(message.chat.id, text=text, reply_markup=markup)
@@ -143,7 +140,6 @@ def registration_step_2(message, for_reg_dickt, open_for_reg_events):
                     send = bot.send_message(message.chat.id, text=strs.plus_one_message, reply_markup=markup)
                     bot.register_next_step_handler(send, registration_step_4, for_reg_dickt)
     elif message.text == btns.backbtn.text:
-        time_out[message.chat.id] = 0
         main_menu(message, 0)
     else:
         send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
@@ -166,7 +162,6 @@ def registration_step_3(message, for_reg_dickt):
 def registration_step_4(message, for_reg_dickt):
     if message.text == btns.backbtn.text:
         main_menu(message, 0)
-        time_out[message.chat.id] = 0
     elif message.text == btns.plusonebtn.text or message.text == btns.minusonebtn.text:
         for_reg_dickt['plus_one'] = message.text == btns.plusonebtn.text
         bot.send_message(message.chat.id, text=strs.wait)
@@ -177,7 +172,6 @@ def registration_step_4(message, for_reg_dickt):
 
 
 def registration_step_5(message, for_reg_dickt):
-    time_out[message.chat.id] = 0
     bot.send_message(message.chat.id, text=strs.got_it)
     bot.send_message(message.chat.id, text=strs.payment_text_after_reg, disable_web_page_preview=True)
     bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
@@ -434,6 +428,7 @@ def cancel_reg_step_1(message):
         ev_list = ER_DB.for_cancel_reg_event_list(message.from_user.username)
         if ev_list=={}:
             bot.send_message(message.chat.id, text=strs.no_cancelebl_events_msg)
+            print('empty list, goto mm')
             main_menu(message, 0)
         else:
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
@@ -448,7 +443,7 @@ def cancel_reg_step_2(message, ev_list):
     if message.text == btns.backbtn.text:
         main_menu(message, 0)
     elif message.text in list(ev_list.keys()):
-        write_in_log(message, 'хочет отменить '+message.text)
+        write_in_log(message, 'want to cancel '+message.text)
         rec_list=ev_list[message.text]
         ev_name=message.text
         markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
@@ -486,10 +481,14 @@ def cancel_reg_step_4(message, rec_list, ev_name):
         send=bot.send_message(message.chat.id, text=strs.didnt_get_it)
         bot.register_next_step_handler(message, cancel_reg_step_4, rec_list, ev_name)
 def clear_handler_by_timeout(message):
+    print('timeout started')
     time_out[message.chat.id] = 1
     time.sleep(response_timeout)
     if time_out[message.chat.id]==1:
+        print('timeout kick')
         main_menu(message, 2)
+    else:
+        print('no need timout kick')
 
 def write_in_log(message, log_text):
     if type(log_text)!=str:
@@ -510,41 +509,42 @@ def Start(message):
     main_menu(message, True)
     ER_DB.add_new_user(message.from_user.username, message.chat.id)
 
-
-@bot.message_handler(content_types=["text"]) 
+@bot.message_handler(content_types=["text"])
 def handle_text(message):
     # юзерские функции
     if message.text == btns.myregistrationbtn.text:
         check_registration(message)
-    if message.text == btns.regoneventbtn.text:
+    elif message.text == btns.regoneventbtn.text:
         registration_step_1(message)
         #clear_handler_by_timeout(message)
-    if message.text == btns.sendfeedbackbtn.text:
+    elif message.text == btns.sendfeedbackbtn.text:
         feedback_step_1(message)
         #clear_handler_by_timeout(message)
-    if message.text == btns.allaoboutsubscriptionbtn.text:
+    elif message.text == btns.allaoboutsubscriptionbtn.text:
         bot.send_message(message.chat.id, text=strs.all_about_sub, disable_web_page_preview=True, parse_mode='Markdown')
-    if message.text == btns.paybtn.text:
+    elif message.text == btns.paybtn.text:
         bot.send_message(message.chat.id, text=strs.payment_text_info, disable_web_page_preview=True,
                          parse_mode='Markdown')
         bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
-    if message.text == btns.pingbtn.text:
+    elif message.text == btns.pingbtn.text:
         bot.send_message(message.chat.id, text=btns.pingbtn.text)
-    if message.text == btns.cancel.text:
+    elif message.text == btns.cancel.text:
         cancel_reg_step_1(message)
         #clear_handler_by_timeout(message)
 
     # админские функции
-    if message.text == btns.sendreminderbtn.text and message.from_user.username in ER_DB.get_admin_list():
+    elif message.text == btns.sendreminderbtn.text and message.from_user.username in ER_DB.get_admin_list():
         send_reminder_step_1(message)
-    if message.text == btns.askfeedbackbtn.text and message.from_user.username in ER_DB.get_admin_list():
+        #clear_handler_by_timeout(message)
+    elif message.text == btns.askfeedbackbtn.text and message.from_user.username in ER_DB.get_admin_list():
         send_feedback_request_step_1(message)
+        #clear_handler_by_timeout(message)
 
     # сугубо мои
-    if message.text == btns.testbtn.text and message.chat.id == shkoterman_chat_id:
+    elif message.text == btns.testbtn.text and message.chat.id == shkoterman_chat_id:
         pass
-    #else:
-        #main_menu(message, 0)
+    else:
+        main_menu(message, 0)
 
-write_in_log(None, 'бот запустился')
+write_in_log(None, 'bot hase been started')
 bot.infinity_polling(timeout=30, long_polling_timeout=15)
