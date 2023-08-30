@@ -915,22 +915,149 @@
 30.08.2023, 13:04:29: Shkoterman pressed Cancel or got deny
 30.08.2023, 14:18:23: pixllll checked registration
 30.08.2023, 14:18:32: pixllll begun registration
-30.08.2023, 15:25:45: Julia_Sergina begun registration
-30.08.2023, 15:26:46:  bot hase been started
-30.08.2023, 15:27:10: Shkoterman begun registration
-30.08.2023, 15:28:04: Shkoterman pressed Cancel or got deny
-30.08.2023, 15:28:05: Shkoterman begun registration
-30.08.2023, 15:28:10: Shkoterman pressed Cancel or got deny
-30.08.2023, 15:28:19: Julia_Sergina begun registration
-30.08.2023, 15:28:57: Julia_Sergina pressed Cancel or got deny
-30.08.2023, 15:28:59: Julia_Sergina checked registration
-30.08.2023, 15:29:08: Shkoterman checked registration
-30.08.2023, 15:29:15: Julia_Sergina begun registration
-30.08.2023, 15:29:23: Julia_Sergina pressed Cancel or got deny
-30.08.2023, 15:31:11:  bot hase been started
-30.08.2023, 15:31:18: Shkoterman begun registration
-30.08.2023, 15:31:22: Shkoterman pressed Cancel or got deny
-30.08.2023, 18:33:47: maxim1444 came with frsttime == 1
-30.08.2023, 19:21:44: spbstom_polya begun registration
-30.08.2023, 20:06:07: Shkoterman begun registration
-30.08.2023, 20:06:10: Shkoterman pressed Cancel or got deny
+30.08.2023, 14:46:58:  bot hase been started
+30.08.2023, 14:52:13:  bot hase been started
+30.08.2023, 14:53:06:  bot hase been started
+30.08.2023, 20:07:12:  bot hase been started
+30.08.2023, 20:07:12: Shkoterman begun registration
+30.08.2023, 20:07:22: Shkoterman pressed Cancel or got deny
+30.08.2023, 20:09:03:  bot hase been started
+30.08.2023, 20:12:24:  bot hase been started
+30.08.2023, 20:15:44:  bot hase been started
+30.08.2023, 20:16:05:  bot hase been started
+30.08.2023, 20:17:07:  bot hase been started
+30.08.2023, 20:20:10:  bot hase been started
+30.08.2023, 21:01:37: Julia_Sergina pressed Cancel or got deny
+30.08.2023, 21:03:31:  bot hase been started
+30.08.2023, 21:03:51:  bot hase been started
+30.08.2023, 21:05:02:  bot hase been started
+30.08.2023, 21:05:05: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:06:09: Julia_Sergina pressed Cancel or got deny
+30.08.2023, 21:06:29:  bot hase been started
+30.08.2023, 21:11:09:  bot hase been started
+30.08.2023, 21:15:00:  bot hase been started
+30.08.2023, 21:19:47:  bot hase been started
+30.08.2023, 21:25:50:  bot hase been started
+30.08.2023, 21:25:50: Shkoterman begun registration
+30.08.2023, 21:26:05:  bot hase been started
+30.08.2023, 21:26:08: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:26:09: Shkoterman begun registration
+30.08.2023, 21:28:16:  bot hase been started
+30.08.2023, 21:28:18: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:28:18: Shkoterman begun registration
+30.08.2023, 21:28:31:  bot hase been started
+30.08.2023, 21:28:32: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:28:33: Shkoterman begun registration
+30.08.2023, 21:28:49:  bot hase been started
+30.08.2023, 21:28:51: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:28:52: Shkoterman begun registration
+30.08.2023, 21:29:07:  bot hase been started
+30.08.2023, 21:29:11: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:29:12: Shkoterman begun registration
+30.08.2023, 21:29:48:  bot hase been started
+30.08.2023, 21:29:49: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:29:49: Shkoterman begun registration
+30.08.2023, 21:30:17:  bot hase been started
+30.08.2023, 21:30:21: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:30:22: Shkoterman begun registration
+30.08.2023, 21:30:43:  bot hase been started
+30.08.2023, 21:30:47: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:30:48: Shkoterman begun registration
+30.08.2023, 21:32:50:  bot hase been started
+30.08.2023, 21:32:52: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:32:53: Shkoterman begun registration
+30.08.2023, 21:33:20:  bot hase been started
+30.08.2023, 21:33:23: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:33:24: Shkoterman begun registration
+30.08.2023, 21:34:15:  bot hase been started
+30.08.2023, 21:34:18: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:34:19: Shkoterman begun registration
+30.08.2023, 21:34:37:  bot hase been started
+30.08.2023, 21:34:38: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:34:41: Shkoterman begun registration
+30.08.2023, 21:38:16:  bot hase been started
+30.08.2023, 21:38:18: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:38:19: Shkoterman begun registration
+30.08.2023, 21:41:06:  bot hase been started
+30.08.2023, 21:41:09: Shkoterman came with frsttime == 1
+30.08.2023, 21:41:26:  bot hase been started
+30.08.2023, 21:41:34: Shkoterman came with frsttime == 1
+30.08.2023, 21:42:16:  bot hase been started
+30.08.2023, 21:42:33:  bot hase been started
+30.08.2023, 21:42:35: Shkoterman begun registration
+30.08.2023, 21:42:38: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:43:18: Shkoterman begun registration
+30.08.2023, 21:43:36:  bot hase been started
+30.08.2023, 21:43:38: Shkoterman pressed Cancel or got deny
+30.08.2023, 21:43:44: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:22:45: Shkoterman begun registration
+30.08.2023, 22:26:00:  bot hase been started
+30.08.2023, 22:26:04: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:26:07: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:26:12: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:26:13: Shkoterman begun registration
+30.08.2023, 22:26:16: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:26:18: Shkoterman begun registration
+30.08.2023, 22:26:24: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:26:46:  bot hase been started
+30.08.2023, 22:26:48: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:27:42:  bot hase been started
+30.08.2023, 22:27:44: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:27:48: Shkoterman begun registration
+30.08.2023, 22:27:48: Shkoterman begun registration
+30.08.2023, 22:27:51: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:28:19:  bot hase been started
+30.08.2023, 22:28:22: Shkoterman came with frsttime == 1
+30.08.2023, 22:28:24: Shkoterman begun registration
+30.08.2023, 22:28:27: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:33:51:  bot hase been started
+30.08.2023, 22:33:51: Shkoterman begun registration
+30.08.2023, 22:33:58: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:34:03: Shkoterman came with frsttime == 1
+30.08.2023, 22:42:00:  bot hase been started
+30.08.2023, 22:42:05: Shkoterman pressed give feedback
+30.08.2023, 22:42:46:  bot hase been started
+30.08.2023, 22:42:47: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:42:51: Shkoterman pressed give feedback
+30.08.2023, 22:43:15:  bot hase been started
+30.08.2023, 22:43:16: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:43:19: Shkoterman pressed give feedback
+30.08.2023, 22:43:29: Shkoterman gave feedback: {'event_id': 'rech2yA0ylvkjkKO7', 'user_nick': '@shkoterman', 'recomendacion': 2, 'what_did_you_like': ['Формат', 'Площадка', 'Атмосфера', 'Организация', 'Люди'], 'unwanted': 'Пропустить', 'comment': 'Пропустить', 'user_name': 'Хуанита!!!'}
+30.08.2023, 22:47:38:  bot hase been started
+30.08.2023, 22:47:39: Shkoterman begun registration
+30.08.2023, 22:47:56: Shkoterman tried to reg on 🏄‍♀️ Сапы (1.09 19:30), в вэйтлист
+30.08.2023, 22:47:59: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:49:30:  bot hase been started
+30.08.2023, 22:49:31: Shkoterman begun registration
+30.08.2023, 22:49:35: ensalada_bot pressed Cancel or got deny
+30.08.2023, 22:52:06:  bot hase been started
+30.08.2023, 22:52:10: ensalada_bot pressed Cancel or got deny
+30.08.2023, 22:52:13: Shkoterman begun registration
+30.08.2023, 22:52:16: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:52:17: Shkoterman begun registration
+30.08.2023, 22:52:21: Shkoterman pressed Cancel or got deny
+30.08.2023, 22:52:27: Shkoterman begun registration
+30.08.2023, 22:52:32: ensalada_bot pressed Cancel or got deny
+30.08.2023, 22:53:18:  bot hase been started
+30.08.2023, 22:53:20: Shkoterman begun registration
+30.08.2023, 22:53:41: ensalada_bot pressed Cancel or got deny
+30.08.2023, 22:55:18:  bot hase been started
+30.08.2023, 22:55:42: Julia_Sergina pressed Cancel or got deny
+30.08.2023, 22:55:50: Julia_Sergina begun registration
+30.08.2023, 22:56:12: ensalada_bot pressed Cancel or got deny
+30.08.2023, 23:20:58:  bot hase been started
+30.08.2023, 23:21:58: None bot hase been started
+30.08.2023, 23:22:22: NoNick bot hase been started
+30.08.2023, 23:26:43: None bot hase been started
+30.08.2023, 23:26:44: None begun registration
+30.08.2023, 23:26:44: None pressed Cancel or got deny
+30.08.2023, 23:26:48: None begun registration
+30.08.2023, 23:26:48: None pressed Cancel or got deny
+30.08.2023, 23:27:24: None bot hase been started
+30.08.2023, 23:27:29: None begun registration
+30.08.2023, 23:27:30: None pressed Cancel or got deny
+30.08.2023, 23:28:24: None bot hase been started
+30.08.2023, 23:28:25: None begun registration
+30.08.2023, 23:28:25: None pressed Cancel or got deny
+30.08.2023, 23:28:58: Shkoterman begun registration
+30.08.2023, 23:29:04: Shkoterman pressed Cancel or got deny
