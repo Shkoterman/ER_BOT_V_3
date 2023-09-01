@@ -934,3 +934,6 @@
 30.08.2023, 19:21:44: spbstom_polya begun registration
 30.08.2023, 20:06:07: Shkoterman begun registration
 30.08.2023, 20:06:10: Shkoterman pressed Cancel or got deny
+30.08.2023, 23:31:10:  bot hase been started
+30.08.2023, 23:31:22: Shkoterman begun registration
+30.08.2023, 23:31:27: Shkoterman pressed Cancel or got deny
