@@ -11,39 +11,42 @@ from datetime import datetime
 shkoterman_chat_id=214130351
 julia_chat_id=346459053
 payment_message_id=9582
+all_about_sub_message_id=57463
 response_timeout=7
 
-#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
-bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
+bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
+#bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
 
 what_did_you_like_list = {}
 time_out={}
 
 @bot.callback_query_handler(func=lambda call: True)
 def query_handler(call):
-    if what_did_you_like_list[call.from_user.id][int(call.data)][0] == '➖':
-        what_did_you_like_list[call.from_user.id][int(call.data)] = '✔ ' + what_did_you_like_list[call.from_user.id][
-                                                                               int(call.data)][1:]
-    elif what_did_you_like_list[call.from_user.id][int(call.data)][0] == '✔':
-        what_did_you_like_list[call.from_user.id][int(call.data)] = '➖ ' + what_did_you_like_list[call.from_user.id][
-                                                                               int(call.data)][1:]
-    markup = types.InlineKeyboardMarkup()
-    markup.row_width = 1
-    markup.add(types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][0], callback_data='00'),
-               types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][1], callback_data='01'),
-               types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][2], callback_data='02'),
-               types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][3], callback_data='03'),
-               types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][4], callback_data='04'))
-    bot.edit_message_reply_markup(call.from_user.id, call.message.id, reply_markup=markup)
-
-
+    if '00'<=call.data<='04':
+        if what_did_you_like_list[call.from_user.id][int(call.data)][0] == '➖':
+            what_did_you_like_list[call.from_user.id][int(call.data)] = '✔ ' + what_did_you_like_list[call.from_user.id][
+                                                                                   int(call.data)][1:]
+        elif what_did_you_like_list[call.from_user.id][int(call.data)][0] == '✔':
+            what_did_you_like_list[call.from_user.id][int(call.data)] = '➖ ' + what_did_you_like_list[call.from_user.id][
+                                                                                   int(call.data)][1:]
+        markup = types.InlineKeyboardMarkup()
+        markup.row_width = 1
+        markup.add(types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][0], callback_data='00'),
+                   types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][1], callback_data='01'),
+                   types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][2], callback_data='02'),
+                   types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][3], callback_data='03'),
+                   types.InlineKeyboardButton(what_did_you_like_list[call.from_user.id][4], callback_data='04'))
+        bot.edit_message_reply_markup(call.from_user.id, call.message.id, reply_markup=markup)
+    elif call.data=='05':
+        bot.clear_step_handler(call.message)
+        main_menu(call.message, 0)
 
 
 def send_julia(str):
     bot.send_message(julia_chat_id, text=str)
 
 
-def main_menu(message, frsttime):
+def main_menu(message, case):
     time_out[message.chat.id] = 0
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     if message.chat.id == shkoterman_chat_id:
@@ -52,14 +55,14 @@ def main_menu(message, frsttime):
         markup = btns.admin_main_menu_markup
     else:
         markup = btns.user_main_menu_markup
-    if frsttime == 1:
+    if case == 1:
         text = strs.hello_text
         write_in_log(message, 'came with frsttime == 1')
-    elif frsttime == 2:
+    elif case == 2:
         text = strs.time_out_text
         bot.clear_step_handler_by_chat_id(message.chat.id)
         write_in_log(message, 'got timeout')
-    elif frsttime==3:
+    elif case==3:
         text = strs.main_menu_text
     else:
         text = strs.main_menu_text
@@ -109,7 +112,7 @@ def registration_step_1(message):
                          'reg_in_WL': bool,
                          'plus_one': False,
                          'first_time': False}
-        send = bot.send_message(message.chat.id, text=strs.here_is_events, reply_markup=markup)
+        send = bot.send_message(message.chat.id, text=strs.here_is_events, reply_markup=markup, parse_mode='Markdown', disable_web_page_preview=True)
         bot.register_next_step_handler(send, registration_step_2, for_reg_dickt, open_for_reg_events)
 
 
@@ -128,7 +131,7 @@ def registration_step_2(message, for_reg_dickt, open_for_reg_events):
                 for_reg_dickt['user_name'] = ER_DB.get_user_name(message.from_user.username)
 
                 if for_reg_dickt['ev_is_sub'] == True and for_reg_dickt['user_is_sub'] == False:
-                    bot.send_message(message.chat.id, text=strs.you_have_no_sub)
+                    bot.send_message(message.chat.id, text=strs.you_have_no_sub, disable_web_page_preview=True, parse_mode='Markdown')
                     main_menu(message, 0)
                 elif for_reg_dickt['user_name'] == None:
                     markup = types.ReplyKeyboardRemove()
@@ -142,7 +145,7 @@ def registration_step_2(message, for_reg_dickt, open_for_reg_events):
     elif message.text == btns.backbtn.text:
         main_menu(message, 0)
     else:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(send, registration_step_2, for_reg_dickt, open_for_reg_events)
 
 
@@ -155,7 +158,7 @@ def registration_step_3(message, for_reg_dickt):
         send = bot.send_message(message.chat.id, text=strs.plus_one_message, reply_markup=markup)
         bot.register_next_step_handler(send, registration_step_4, for_reg_dickt)
     else:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(send, registration_step_3, for_reg_dickt)
 
 
@@ -167,7 +170,7 @@ def registration_step_4(message, for_reg_dickt):
         bot.send_message(message.chat.id, text=strs.wait)
         registration_step_5(message, for_reg_dickt)
     else:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(send, registration_step_4, for_reg_dickt)
 
 
@@ -183,6 +186,8 @@ def registration_step_5(message, for_reg_dickt):
 
 
 def feedback_step_1(message):
+    ev_list = ER_DB.for_feedback_events()
+
     write_in_log(message, 'pressed give feedback')
     feedback_dickt = {'event_id': str,
                       'user_nick': '@' + str(message.from_user.username).lower(),
@@ -192,7 +197,7 @@ def feedback_step_1(message):
                       'comment': str,
                       'user_name': str,
                       }
-    ev_list = ER_DB.for_feedback_events()
+
     markap = types.ReplyKeyboardMarkup(resize_keyboard=True)
     for i in range(len(ev_list)):
         markap.add(types.KeyboardButton(list(ev_list.keys())[i]))
@@ -205,7 +210,7 @@ def feedback_step_2(message, feedback_dickt, ev_list):
     if message.text == btns.backbtn.text:
         main_menu(message, 0)
     elif message.text not in ev_list.keys():
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(send, feedback_step_2, feedback_dickt, ev_list)
     elif message.text in ev_list.keys():
         feedback_dickt['event_id'] = ev_list[message.text]
@@ -230,7 +235,7 @@ def feedback_step_3(message, feedback_dickt):
         main_menu(message, 0)
 
     elif mark_is_mark == False:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(send, feedback_step_3, feedback_dickt)
     else:
 
@@ -264,7 +269,7 @@ def feedback_step_4(message, feedback_dickt, what_did_you_like_list):
         send = bot.send_message(message.chat.id, text=strs.whats_unwanted, reply_markup=markup)
         bot.register_next_step_handler(send, feedback_step_5, feedback_dickt)
     else:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(send, feedback_step_4, feedback_dickt, what_did_you_like_list)
 
 
@@ -277,7 +282,7 @@ def feedback_step_5(message, feedback_dickt):
         bot.register_next_step_handler(send, feedback_step_6, feedback_dickt)
 
     elif message.text == None:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(send, feedback_step_5, feedback_dickt)
 
 
@@ -296,7 +301,7 @@ def feedback_step_6(message, feedback_dickt):
         ER_DB.add_feedback(feedback_dickt)
 
     elif message.text == None:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(send, feedback_step_6, feedback_dickt)
 
 
@@ -311,6 +316,7 @@ def send_reminder_step_1(message):
 
 
 def send_reminder_step_2(messsage, ev_list):
+
     if messsage.text == btns.backbtn.text:
         main_menu(messsage, 0)
 
@@ -324,7 +330,7 @@ def send_reminder_step_2(messsage, ev_list):
         send = bot.send_message(messsage.chat.id, text=strs.write_text, reply_markup=markup)
         bot.register_next_step_handler(send, send_reminder_step_3, spam_nick_list, spam_id_list)
     else:
-        send = bot.send_message(messsage.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(messsage.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(messsage, send_reminder_step_2, ev_list)
 
 
@@ -356,7 +362,7 @@ def send_reminder_step_4(message, spam_id_list, message_for_spam_id):
         bot.send_message(message.chat.id, text=strs.reminser_sent + str(count) + '/' + str(len(spam_id_list)))
         main_menu(message, 0)
     else:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(message, send_reminder_step_4, spam_id_list, message_for_spam_id)
 
 
@@ -384,7 +390,7 @@ def send_feedback_request_step_2(message, ev_list):
         bot.register_next_step_handler(send, send_feedback_request_step_3, spam_id_list, spam_nick_list)
 
     else:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(message, send_feedback_request_step_2, ev_list)
 
 
@@ -416,7 +422,7 @@ def send_feedback_request_step_4(message, spam_id_list, message_for_spam_id):
         bot.send_message(message.chat.id, text=strs.request_send + str(count) + '/' + str(len(spam_id_list)))
         main_menu(message, 0)
     else:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(message, send_reminder_step_4, spam_id_list, message_for_spam_id)
 
 
@@ -428,7 +434,6 @@ def cancel_reg_step_1(message):
         ev_list = ER_DB.for_cancel_reg_event_list(message.from_user.username)
         if ev_list=={}:
             bot.send_message(message.chat.id, text=strs.no_cancelebl_events_msg)
-            print('empty list, goto mm')
             main_menu(message, 0)
         else:
             markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
@@ -443,27 +448,31 @@ def cancel_reg_step_2(message, ev_list):
     if message.text == btns.backbtn.text:
         main_menu(message, 0)
     elif message.text in list(ev_list.keys()):
-        write_in_log(message, 'want to cancel '+message.text)
-        rec_list=ev_list[message.text]
-        ev_name=message.text
-        markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
-        markup.add(btns.backbtn, btns.skipbtn)
-        send = bot.send_message(message.chat.id, text=strs.why_are_u_cancel, reply_markup=markup)
-        bot.register_next_step_handler(send, cancel_reg_step_3, rec_list, ev_name)
+        write_in_log(message, 'want to cancel ' + message.text)
+        if  ev_list[message.text][1]==1:
+            bot.send_message(message.chat.id, text=strs.cannot_cancel_reg)
+            main_menu(message, 3)
+        else:
+            rec_list=ev_list[message.text][0]
+            ev_name=message.text
+            markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
+            markup.add(btns.backbtn, btns.skipbtn)
+            send = bot.send_message(message.chat.id, text=strs.why_are_u_cancel, reply_markup=markup)
+            bot.register_next_step_handler(send, cancel_reg_step_3, rec_list, ev_name)
     else:
-        send = bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send = bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(message, cancel_reg_step_2, ev_list)
 
 
 def cancel_reg_step_3(message, rec_list, ev_name):
-    if message.text!=None:
-        cancel_reason=message.text
+    if message.text==btns.backbtn.text:
+        main_menu(message, 0)
     else:
-        cancel_reason=' '
-    markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
-    markup.add(btns.no_chanhced, btns.yes_cancel)
-    send=bot.send_message(message.chat.id, text=strs.cancel_last_check+ev_name+'?', reply_markup=markup)
-    bot.register_next_step_handler(send, cancel_reg_step_4, rec_list, ev_name)
+        cancel_reason=str(message.text)
+        markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
+        markup.add(btns.no_chanhced, btns.yes_cancel)
+        send=bot.send_message(message.chat.id, text=strs.cancel_last_check+ev_name+'?', reply_markup=markup)
+        bot.register_next_step_handler(send, cancel_reg_step_4, rec_list, ev_name)
 
 
 def cancel_reg_step_4(message, rec_list, ev_name):
@@ -478,8 +487,23 @@ def cancel_reg_step_4(message, rec_list, ev_name):
             main_menu(message, 0)
 
     else:
-        send=bot.send_message(message.chat.id, text=strs.didnt_get_it)
+        send=bot.send_message(message.chat.id, text=strs.didnt_get_it, reply_markup=btns.skip_all_handlers)
         bot.register_next_step_handler(message, cancel_reg_step_4, rec_list, ev_name)
+
+def askq_step_1(message):
+    markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
+    markup.add(btns.backbtn, btns.sendq)
+    send = bot.send_message(message.chat.id, text=strs.for_question_text, reply_markup=markup)
+    bot.register_next_step_handler(send, askq_step_2)
+
+def askq_step_2(message):
+    nick = str(message.from_user.username)
+    bot.send_message(julia_chat_id, text=strs.they_wrote_us)
+    bot.forward_message(julia_chat_id, message.chat.id, message.id)
+    write_in_log(message, log_text=' Написал нам: '+str(message.text))
+    bot.send_message(message.chat.id, text=strs.thx)
+    main_menu(message, 3)
+
 def clear_handler_by_timeout(message):
     print('timeout started')
     time_out[message.chat.id] = 1
@@ -497,8 +521,8 @@ def write_in_log(message, log_text):
     try:
         nick=message.from_user.username
     except:
-        nick=''
-    log_text=current_time+': '+nick+' '+log_text+'\n'
+        nick='None'
+    log_text=current_time+': '+str(nick)+' '+log_text+'\n'
     f = open('log.txt', 'a', encoding='utf-8')
     f.write(log_text)
     f.close()
@@ -506,7 +530,7 @@ def write_in_log(message, log_text):
 
 @bot.message_handler(commands=["start"])
 def Start(message):
-    main_menu(message, True)
+    main_menu(message, 1)
     ER_DB.add_new_user(message.from_user.username, message.chat.id)
 
 @bot.message_handler(content_types=["text"])
@@ -516,12 +540,10 @@ def handle_text(message):
         check_registration(message)
     elif message.text == btns.regoneventbtn.text:
         registration_step_1(message)
-        #clear_handler_by_timeout(message)
     elif message.text == btns.sendfeedbackbtn.text:
         feedback_step_1(message)
-        #clear_handler_by_timeout(message)
     elif message.text == btns.allaoboutsubscriptionbtn.text:
-        bot.send_message(message.chat.id, text=strs.all_about_sub, disable_web_page_preview=True, parse_mode='Markdown')
+        bot.forward_message(message.chat.id, from_chat_id=julia_chat_id, message_id=all_about_sub_message_id)
     elif message.text == btns.paybtn.text:
         bot.send_message(message.chat.id, text=strs.payment_text_info, disable_web_page_preview=True,
                          parse_mode='Markdown')
@@ -530,15 +552,15 @@ def handle_text(message):
         bot.send_message(message.chat.id, text=btns.pingbtn.text)
     elif message.text == btns.cancel.text:
         cancel_reg_step_1(message)
-        #clear_handler_by_timeout(message)
+    elif message.text == btns.askqbtn.text:
+        askq_step_1(message)
+
 
     # админские функции
     elif message.text == btns.sendreminderbtn.text and message.from_user.username in ER_DB.get_admin_list():
         send_reminder_step_1(message)
-        #clear_handler_by_timeout(message)
     elif message.text == btns.askfeedbackbtn.text and message.from_user.username in ER_DB.get_admin_list():
         send_feedback_request_step_1(message)
-        #clear_handler_by_timeout(message)
 
     # сугубо мои
     elif message.text == btns.testbtn.text and message.chat.id == shkoterman_chat_id:
@@ -547,4 +569,4 @@ def handle_text(message):
         main_menu(message, 0)
 
 write_in_log(None, 'bot hase been started')
-bot.infinity_polling(timeout=30, long_polling_timeout=15)
+bot.infinity_polling(timeout=600, long_polling_timeout=15)

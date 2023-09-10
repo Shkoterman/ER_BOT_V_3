@@ -203,6 +203,16 @@ def find_user_id_or_nick(user_nick_or_id_list):
     with open('user_names_chatid.pkl', 'rb') as f:
         user_nicks_chatid_dict = pickle.load(f)
         user_id_or_nick=[]
+
+        notify_list = ["lsdfs", "adas"]
+
+        for id, nick in user_nicks_chatid_dict.items():
+            if nick in notify_list:
+                send_notification(id)
+                notify_list.remove(nick)
+            if len(notify_list) == 0:
+                break
+
         for i in range(len(user_nick_or_id_list)):
             if type(user_nick_or_id_list[i])==int:
                 try:

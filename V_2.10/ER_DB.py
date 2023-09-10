@@ -15,7 +15,7 @@ def open_for_reg_events():  # вернёт словарь для регистр�
     future_events_resp = airt_event.get_all(view=airt_event_tbl_open_for_reg_view)
     future_events={}
     for i in range(len(future_events_resp)):
-        ev_name_w_places=future_events_resp[i]['fields']['Name event']
+        ev_name_w_places=future_events_resp[i]['fields']['Name event'].strip()
         ev_id=future_events_resp[i]['id']
         if future_events_resp[i]['fields']['Свободных мест']<1:
             WL=True
@@ -53,11 +53,13 @@ def for_reg_event_list(username):   # вернёт 2 листа на что за
     # получаю словарь {айди: имя}
     future_events = {}
     future_events_resp = airt_event.get_all(view=airt_event_tbl_future_events_view,
-                                            fields=airt_event_tbl_name_event_field)
+                                            fields=[airt_event_tbl_name_event_field, airt_event_tbl_time])
     for i in range(len(future_events_resp)):
+        ev_date = future_events_resp[i]['fields']['Начало Мероприятия']
+        ev_date=ev_date[8]+ev_date[9]+'.'+ev_date[5]+ev_date[6]
         ev_name = future_events_resp[i]['fields']['Name_event']
         ev_id = future_events_resp[i]['id']
-        future_events[ev_id] = ev_name
+        future_events[ev_id] = ev_date+': '+ev_name
     # получаю лист диктов из регистрации
     reg_event_list_WL=[]
     reg_event_list_R=[]
@@ -68,7 +70,12 @@ def for_reg_event_list(username):   # вернёт 2 листа на что за
         username = '@' + username
     username=username.lower()
     for i in range(len(reg_event_list_resp)):
-        if reg_event_list_resp[i]['fields']['You login in TG (reg)']==username:
+        try:
+            username_from_reg=reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower()
+        except: username_from_reg='@no_nick'
+        if username_from_reg[0]!='@':
+            username_from_reg='@'+username_from_reg
+        if username_from_reg==username:
             try:
                 in_wait_list=reg_event_list_resp[i]['fields']['in_wait_list']
             except:
@@ -87,6 +94,8 @@ def for_reg_event_list(username):   # вернёт 2 листа на что за
                     reg_event_list_R.append(ev_name)
     reg_event_list_WL=list(set(reg_event_list_WL))
     reg_event_list_R=list(set(reg_event_list_R))
+    reg_event_list_WL = sorted(reg_event_list_WL, key=lambda item: item[3] + item[4] + item[0] + item[1])
+    reg_event_list_R = sorted(reg_event_list_R, key=lambda item: item[3] + item[4] + item[0] + item[1])
     return reg_event_list_R, reg_event_list_WL
 
 
@@ -103,8 +112,14 @@ def tgnicks_of_event_R(event_id): # вернёт лист тг ников мер
             pass
     # собираю лист
     for i in range(len(reg_event_list_resp)):
-        if reg_event_list_resp[i]['fields']['Event for reg']==[event_id] and reg_event_list_resp[i]['fields']['You login in TG (reg)'][0]=='@':
-            tgnicks_list.append(reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower().strip())
+        if reg_event_list_resp[i]['fields']['Event for reg']==[event_id]: #and reg_event_list_resp[i]['fields']['You login in TG (reg)'][0]=='@':
+            try:
+                new_nick=reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower().strip()
+            except:
+                pass
+            if new_nick[0]!='@':
+                new_nick='@'+new_nick
+            tgnicks_list.append(new_nick)
 
     return tgnicks_list
 
@@ -114,8 +129,11 @@ def tgnicks_of_event_R_and_WL(event_id): # вернёт лист тг ников
                                            fields=[airt_reg_tbl_You_login_in_TG_field, airt_reg_tbl_event_for_reg_field])
     # собираю лист
     for i in range(len(reg_event_list_resp)):
-        if reg_event_list_resp[i]['fields']['Event for reg']==[event_id] and reg_event_list_resp[i]['fields']['You login in TG (reg)'][0]=='@':
-            tgnicks_list.append(reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower())
+        try:
+            if reg_event_list_resp[i]['fields']['Event for reg']==[event_id] and reg_event_list_resp[i]['fields']['You login in TG (reg)'][0]=='@':
+                tgnicks_list.append(reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower())
+        except:
+            pass
     return tgnicks_list
 
 def get_user_name(user_nick):
@@ -130,6 +148,7 @@ def get_user_name(user_nick):
         user_name=None
     return user_name
 
+
 def get_admin_list():
     reg_event_list_resp = airt_adlist.get_all(fields=airt_adlist_tbl_name_field)
     adminlist=[]
@@ -139,31 +158,50 @@ def get_admin_list():
     return adminlist
 
 
+
 def for_cancel_reg_event_list(username): # вернёт дикт с айди записи и названием мероприятия
+    if username[0]!='@':
+        username='@'+username
+    username=username.lower()
     # получаю словарь {айди: имя}
     future_events = {}
     future_events_resp = airt_event.get_all(view=airt_event_tbl_future_events_view,
-                                            fields=airt_event_tbl_name_event_field)
+                                            fields=[airt_event_tbl_name_event_field, airt_reg_tbl_cancelebl_field])
     for i in range(len(future_events_resp)):
         ev_name = future_events_resp[i]['fields']['Name_event']
         ev_id = future_events_resp[i]['id']
-        future_events[ev_id] = ev_name
-    print(future_events)
-    # получаю лист диктов из регистрации
-    reg_event_list_resp = airt_reg.get_all(view=airt_reg_tbl_future_events_view,
-                                     fields=[airt_reg_tbl_event_for_reg_field, airt_reg_tbl_You_login_in_TG_field])
-
-    cnacel_dickt={}
-    if username[0]!='@':
-        username = '@' + username
-    username=username.lower()
+        cancelebl=future_events_resp[i]['fields']['cancelable']
+        future_events[ev_id] = [ev_name, cancelebl]
+    # получаю зиписи из рег {ev_id: rec_id}
+    reg_event_list_resp = airt_reg.get_all(view=airt_reg_tbl_cancelebl_view,
+                                           fields=[airt_reg_tbl_event_for_reg_field,
+                                                   airt_reg_tbl_You_login_in_TG_field])
+    from_reg_dickt={}
     for i in range(len(reg_event_list_resp)):
-        if reg_event_list_resp[i]['fields']['You login in TG (reg)']==username:
-            record_id=reg_event_list_resp[i]['id']
-            ev_name=future_events[ev_id]
-            cnacel_dickt[ev_name]=record_id
+        try:
+            username_from_reg=reg_event_list_resp[i]['fields']['You login in TG (reg)'].lower()
+        except:
+            username_from_reg='@'
+        if username_from_reg[0]!='@':
+            username_from_reg='@'+username_from_reg
+        if username_from_reg==username:
+            ev_id=' '.join(reg_event_list_resp[i]['fields']['Event for reg'])
+            rec_id=reg_event_list_resp[i]['id']
+            if ev_id in list(from_reg_dickt.keys()):
+                from_reg_dickt[ev_id].append(rec_id)
+            else:
+                from_reg_dickt[ev_id]=[rec_id]
 
-    return cnacel_dickt
+    # сливаю в {имя евента: [rec_id, rec_id, ...]}
+    cancel_dickt={}
+    for i in range(len(from_reg_dickt)):
+        ev_id=list(from_reg_dickt.keys())[i]
+        ev_name = future_events[list(from_reg_dickt.keys())[i]][0]
+        rec_id = from_reg_dickt[ev_id]
+        cancelebl=future_events[list(from_reg_dickt.keys())[i]][1]
+        if ev_id in list(future_events.keys()):
+            cancel_dickt[ev_name]=[rec_id, cancelebl]
+    return cancel_dickt # {имя евента: [rec_id, rec_id, ...]}
 
 
 def find_user_id_or_nick(user_nick_or_id_list):
@@ -171,14 +209,27 @@ def find_user_id_or_nick(user_nick_or_id_list):
         user_nicks_chatid_dict = pickle.load(f)
         user_id_or_nick=[]
         for i in range(len(user_nick_or_id_list)):
-            try:
-                this_user_id_or_nick=user_nicks_chatid_dict[user_nick_or_id_list[i]]
-                if type(this_user_id_or_nick)==str:
-                    if this_user_id_or_nick[0]!='@':
-                        this_user_id_or_nick='@'+this_user_id_or_nick
-                user_id_or_nick.append(this_user_id_or_nick)
-            except:
-                pass
+            if type(user_nick_or_id_list[i])==int:
+                try:
+                    this_user_nick = user_nicks_chatid_dict[user_nick_or_id_list[i]].lower().strip()
+                    if this_user_nick[0]!='@':
+                        this_user_nick='@'+this_user_nick
+                    user_id_or_nick.append(this_user_nick)
+                except: pass
+            else:
+                this_user_nick=user_nick_or_id_list[i].lower().strip()
+                if this_user_nick[0]!='@':
+                    this_user_nick2='@'+this_user_nick
+                else:
+                    this_user_nick2=this_user_nick[1:]
+                try:
+                    this_user_id=user_nicks_chatid_dict[this_user_nick]
+                    user_id_or_nick.append(this_user_id)
+                except:
+                    try:
+                        this_user_id = user_nicks_chatid_dict[this_user_nick2]
+                        user_id_or_nick.append(this_user_id)
+                    except: pass
         f.close()
     user_id_or_nick = list(set(user_id_or_nick))
     return user_id_or_nick
@@ -223,8 +274,10 @@ def add_reg(for_reg_dickt): # вносит запись в регистраци�
                      fields=[airt_reg_tbl_You_login_in_TG_field, airt_reg_tbl_event_for_reg_field])
     reg_check=[]
     for i in range(len(airt_resp)):
-        if airt_resp[i]['fields']['You login in TG (reg)']==  for_reg_dickt['user_nick']:
-            reg_check.append(airt_resp[i]['fields']['Event for reg'])
+        try:
+            if airt_resp[i]['fields']['You login in TG (reg)']==for_reg_dickt['user_nick']:
+                reg_check.append(airt_resp[i]['fields']['Event for reg'])
+        except: pass
     if for_reg_dickt['event_id'].split(" ") in reg_check:
         success = True
     else:
@@ -232,12 +285,29 @@ def add_reg(for_reg_dickt): # вносит запись в регистраци�
     return success
 
 def add_feedback(feedback_dickt):
-    airt_feedback.insert({
+    rec={
                           airt_feedback_tbl_name_event_field: feedback_dickt['event_id'].split(' '),
                           airt_feedback_tbl_you_login_in_TG_field: feedback_dickt['user_nick'],
-                          airt_feedback_tbl_recomendacion_field: feedback_dickt['recomendacion'],
                           airt_feedback_tbl_what_did_you_like_field: feedback_dickt['what_did_you_like'],
                           airt_feedback_tbl_lishnee_field: feedback_dickt['unwanted'],
                           airt_feedback_tbl_comment_field: feedback_dickt['comment'],
                           airt_feedback_tbl_whats_your_name_field: feedback_dickt['user_name'],
-                          })
+                          }
+    if feedback_dickt['recomendacion']!=0:
+        rec[airt_feedback_tbl_recomendacion_field]=feedback_dickt['recomendacion']
+    airt_feedback.insert(rec)
+
+
+def del_registration(rec_list):
+    deleted=airt_reg.batch_delete(rec_list)[0]['deleted']
+    return deleted
+
+def get_all_id():
+    with open('user_names_chatid.pkl', 'rb') as f:
+        user_nicks_chatid_dict = list(pickle.load(f).keys())
+        all_user_id=[]
+        for i in range(len(user_nicks_chatid_dict)):
+            if type(user_nicks_chatid_dict[i]) is int:
+                all_user_id.append(user_nicks_chatid_dict[i])
+    return all_user_id
+
