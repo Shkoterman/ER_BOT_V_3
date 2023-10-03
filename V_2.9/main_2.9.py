@@ -431,7 +431,6 @@ def cancel_reg_step_1(message):
         bot.send_message(message.chat.id, text=strs.need_dog_msg)
     else:
         ev_list = ER_DB.for_cancel_reg_event_list(message.from_user.username)
-        print(ev_list)
         if ev_list=={}:
             bot.send_message(message.chat.id, text=strs.no_cancelebl_events_msg)
             main_menu(message, 0)
@@ -451,7 +450,7 @@ def cancel_reg_step_2(message, ev_list):
         write_in_log(message, 'want to cancel ' + message.text)
         if  ev_list[message.text][1]==1:
             bot.send_message(message.chat.id, text=strs.cannot_cancel_reg)
-            main_menu(message, 3)
+            main_menu(message, 0)
         else:
             rec_list=ev_list[message.text][0]
             ev_name=message.text

@@ -8,14 +8,19 @@ from telebot import types
 from datetime import datetime
 
 
-shkoterman_chat_id=214130351
-julia_chat_id=346459053
-payment_message_id=9582
-all_about_sub_message_id=57463
-response_timeout=7
+test_mode=False
+#test_mode=True
 
-#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
-bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
+shkoterman_chat_id = 214130351
+julia_chat_id = 346459053
+if test_mode:
+    payment_message_id=9582
+    all_about_sub_message_id=57463
+    bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
+else:
+    payment_message_id=9582
+    all_about_sub_message_id=57463
+    bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
 
 what_did_you_like_list = {}
 time_out={}
@@ -89,6 +94,8 @@ def check_registration(message):
 
 
 def registration_step_1(message):
+    markup=types.ReplyKeyboardRemove()
+    bot.send_message(message.chat.id, text=strs.wait, reply_markup=markup)
     write_in_log(message, 'begun registration')
     if message.from_user.username == None:
         bot.send_message(message.chat.id, text=strs.need_dog_msg)
@@ -109,6 +116,7 @@ def registration_step_1(message):
                          'user_name': str,
                          'user_is_sub': user_is_sub,
                          'ev_is_sub': bool,
+                         'ev_is_free': False,
                          'reg_in_WL': bool,
                          'plus_one': False,
                          'first_time': False}
@@ -117,6 +125,8 @@ def registration_step_1(message):
 
 
 def registration_step_2(message, for_reg_dickt, open_for_reg_events):
+    markup = types.ReplyKeyboardRemove()
+    bot.send_message(message.chat.id, text=strs.wait, reply_markup=markup)
     if message.text in open_for_reg_events.keys():
         write_in_log(message, 'tried to reg on '+message.text)
         if '@' + message.from_user.username.lower() in ER_DB.tgnicks_of_event_R_and_WL(
@@ -125,11 +135,12 @@ def registration_step_2(message, for_reg_dickt, open_for_reg_events):
             main_menu(message, 0)
         else:
             if message.text in open_for_reg_events.keys():
+
                 for_reg_dickt['event_id'] = open_for_reg_events[message.text][0]
                 for_reg_dickt['reg_in_WL'] = open_for_reg_events[message.text][1]
                 for_reg_dickt['ev_is_sub'] = open_for_reg_events[message.text][2]
+                for_reg_dickt['ev_is_free'] = open_for_reg_events[message.text][3]
                 for_reg_dickt['user_name'] = ER_DB.get_user_name(message.from_user.username)
-
                 if for_reg_dickt['ev_is_sub'] == True and for_reg_dickt['user_is_sub'] == False:
                     bot.send_message(message.chat.id, text=strs.you_have_no_sub, disable_web_page_preview=True, parse_mode='Markdown')
                     main_menu(message, 0)
@@ -175,9 +186,13 @@ def registration_step_4(message, for_reg_dickt):
 
 
 def registration_step_5(message, for_reg_dickt):
-    bot.send_message(message.chat.id, text=strs.got_it)
-    bot.send_message(message.chat.id, text=strs.payment_text_after_reg, disable_web_page_preview=True)
-    bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
+    if for_reg_dickt['reg_in_WL']:
+        bot.send_message(message.chat.id, text=strs.reg_in_wl_text)
+    elif for_reg_dickt['ev_is_free']:
+        bot.send_message(message.chat.id, text=strs.got_it)
+    else:
+        bot.send_message(message.chat.id, text=strs.got_it)
+        bot.send_message(message.chat.id, text=strs.payment_text_after_reg, disable_web_page_preview=True, parse_mode='Markdown')
     write_in_log(message, 'send for registration: '+str(for_reg_dickt))
     main_menu(message, 3)
     ER_DB.add_new_user(message.from_user.username, message.chat.id)
@@ -547,7 +562,7 @@ def handle_text(message):
     elif message.text == btns.paybtn.text:
         bot.send_message(message.chat.id, text=strs.payment_text_info, disable_web_page_preview=True,
                          parse_mode='Markdown')
-        bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
+        #bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
     elif message.text == btns.pingbtn.text:
         bot.send_message(message.chat.id, text=btns.pingbtn.text)
     elif message.text == btns.cancel.text:

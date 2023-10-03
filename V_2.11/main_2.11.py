@@ -8,14 +8,19 @@ from telebot import types
 from datetime import datetime
 
 
-shkoterman_chat_id=214130351
-julia_chat_id=346459053
-payment_message_id=9582
-all_about_sub_message_id=57463
-response_timeout=7
+test_mode=False
+test_mode=True
 
-#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
-bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
+shkoterman_chat_id = 214130351
+julia_chat_id = 346459053
+if test_mode:
+    payment_message_id=9582
+    all_about_sub_message_id=57463
+    bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
+else:
+    payment_message_id=9582
+    all_about_sub_message_id=57463
+    bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
 
 what_did_you_like_list = {}
 time_out={}

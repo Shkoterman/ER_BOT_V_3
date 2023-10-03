@@ -17,15 +17,21 @@ def open_for_reg_events():  # вернёт словарь для регистр�
     for i in range(len(future_events_resp)):
         ev_name_w_places=future_events_resp[i]['fields']['Name event'].strip()
         ev_id=future_events_resp[i]['id']
+
         if future_events_resp[i]['fields']['Свободных мест']<1:
             WL=True
         else:
             WL=False
+
         try:
             ev_subscrition=future_events_resp[i]['fields']['is_it_subscribers_only']
         except: ev_subscrition=False
 
-        future_events[ev_name_w_places]=[ev_id, WL, ev_subscrition]
+        try:
+            ev_is_free=future_events_resp[i]['fields']['is_free']
+        except: ev_is_free=False
+
+        future_events[ev_name_w_places]=[ev_id, WL, ev_subscrition, ev_is_free]
     return future_events
 
 

@@ -1767,3 +1767,1917 @@
 10.09.2023, 16:00:43: Shkoterman checked registration
 10.09.2023, 16:00:52: Shkoterman pressed cancel event reg
 10.09.2023, 16:00:54: Shkoterman want to cancel 📷 Цианотипия
+10.09.2023, 23:20:18: None bot hase been started
+10.09.2023, 23:21:10: Shkoterman pressed Cancel or got deny
+11.09.2023, 00:13:46: SofyaGal begun registration
+11.09.2023, 00:13:52: SofyaGal tried to reg on 🎭 Театральная лаборатория (24.09 12:00), 17 мест
+11.09.2023, 00:13:54: SofyaGal pressed Cancel or got deny
+11.09.2023, 08:22:10: n_e_o_0 pressed Cancel or got deny
+11.09.2023, 08:22:14: n_e_o_0 begun registration
+11.09.2023, 08:22:42: n_e_o_0 tried to reg on 🏄‍♀️ Сапы (16.09 10:00), 1 мест
+11.09.2023, 08:22:44: n_e_o_0 pressed Cancel or got deny
+11.09.2023, 08:23:02: n_e_o_0 begun registration
+11.09.2023, 08:23:07: n_e_o_0 tried to reg on 🪘 Коннакол (17.09 16:00), 12 мест
+11.09.2023, 08:23:08: n_e_o_0 pressed Cancel or got deny
+11.09.2023, 12:01:30: vldsavelyev begun registration
+11.09.2023, 12:01:34: vldsavelyev tried to reg on 🏄‍♀️ Сапы (16.09 10:00), 1 мест
+11.09.2023, 12:01:40: vldsavelyev send for registration: {'event_id': 'reck8EGnGIhkddiZ0', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+11.09.2023, 12:14:00: valentine_to_you checked registration
+11.09.2023, 14:51:50: vreutskiy pressed Cancel or got deny
+11.09.2023, 14:51:51: vreutskiy pressed Cancel or got deny
+11.09.2023, 14:51:51: vreutskiy pressed Cancel or got deny
+11.09.2023, 14:51:53: vreutskiy checked registration
+11.09.2023, 14:52:05: vreutskiy begun registration
+11.09.2023, 15:45:41: n_e_o_0 begun registration
+11.09.2023, 15:45:49: n_e_o_0 tried to reg on 🏄‍♀️ Сапы (16.09 10:00), в вэйтлист
+11.09.2023, 15:45:51: n_e_o_0 pressed Cancel or got deny
+11.09.2023, 15:59:34: f_victory checked registration
+11.09.2023, 15:59:43: f_victory begun registration
+11.09.2023, 16:49:49: millllanna came with frsttime == 1
+11.09.2023, 16:49:55: millllanna begun registration
+11.09.2023, 16:50:14: millllanna tried to reg on 🐢 Черепаший приют (24.09 9:00), 9 мест
+11.09.2023, 16:50:17: millllanna pressed Cancel or got deny
+11.09.2023, 16:50:22: millllanna begun registration
+11.09.2023, 16:50:25: millllanna tried to reg on 🪷 Soulmate пикник (29.09 19:00), 3 мест
+11.09.2023, 16:50:27: millllanna pressed Cancel or got deny
+11.09.2023, 18:46:36: bienmag begun registration
+11.09.2023, 18:46:51: bienmag tried to reg on 🪷 Soulmate пикник (29.09 19:00), 3 мест
+11.09.2023, 18:46:54: bienmag pressed Cancel or got deny
+11.09.2023, 19:02:17: grassiona pressed Cancel or got deny
+11.09.2023, 19:02:22: grassiona begun registration
+11.09.2023, 19:02:26: grassiona tried to reg on 🐢 Черепаший приют (24.09 9:00), 9 мест
+11.09.2023, 19:02:31: grassiona send for registration: {'event_id': 'rec0LRDsGvna8vPek', 'user_nick': '@grassiona', 'user_name': 'Александра', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+11.09.2023, 19:35:28: sadivva begun registration
+11.09.2023, 19:35:38: sadivva tried to reg on 📚 Книжный клуб (17.09 18:00), 6 мест
+11.09.2023, 19:35:41: sadivva pressed Cancel or got deny
+11.09.2023, 19:59:13: wertner checked registration
+11.09.2023, 20:48:23: vasvas13 begun registration
+11.09.2023, 21:09:20: Tatiana_Arz came with frsttime == 1
+11.09.2023, 21:09:58: timbcn begun registration
+11.09.2023, 21:10:02: timbcn tried to reg on 🏄‍♀️ Сапы (16.09 10:00), в вэйтлист
+11.09.2023, 21:10:15: timbcn send for registration: {'event_id': 'reck8EGnGIhkddiZ0', 'user_nick': '@timbcn', 'user_name': 'Тимур', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+11.09.2023, 21:13:30: Kristina_Botsu pressed cancel event reg
+11.09.2023, 21:13:39: Kristina_Botsu want to cancel 🏄‍♀️ Сапы
+11.09.2023, 21:13:47: Kristina_Botsu отменил 🏄‍♀️ Сапы
+11.09.2023, 21:13:58: Kristina_Botsu begun registration
+11.09.2023, 21:14:57: Kristina_Botsu tried to reg on 🎭 Театральная лаборатория (30.09 12:00), 17 мест
+11.09.2023, 21:15:02: Kristina_Botsu send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@kristina_botsu', 'user_name': '🏳️\u200d🌈 Барселонский прайд (15.07 15:00), 1 мест', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+11.09.2023, 21:22:21: yavolchok begun registration
+11.09.2023, 21:22:25: yavolchok tried to reg on 👯‍♀️ Бачата (15.09 19:30), 24 мест
+11.09.2023, 21:22:29: yavolchok send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@yavolchok', 'user_name': 'Яна Волкова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+11.09.2023, 22:07:49: logonansy checked registration
+11.09.2023, 22:15:54: edgarba begun registration
+11.09.2023, 22:15:58: edgarba tried to reg on 👯‍♀️ Бачата (15.09 19:30), 23 мест
+11.09.2023, 22:16:04: edgarba send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@edgarba', 'user_name': 'Эдгар', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 00:30:01: iampollya came with frsttime == 1
+12.09.2023, 00:30:15: iampollya begun registration
+12.09.2023, 00:30:23: iampollya tried to reg on 📚 Книжный клуб (17.09 18:00), 6 мест
+12.09.2023, 00:33:45: lenastarodubova came with frsttime == 1
+12.09.2023, 01:59:38: marinanemariya came with frsttime == 1
+12.09.2023, 01:59:48: marinanemariya begun registration
+12.09.2023, 02:01:44: marinanemariya tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 32 мест
+12.09.2023, 02:01:47: marinanemariya pressed Cancel or got deny
+12.09.2023, 02:03:42: marinanemariya begun registration
+12.09.2023, 02:03:54: marinanemariya tried to reg on 🪩 Вечеринка на пляже (16.09 22:00), 90 мест
+12.09.2023, 02:04:04: marinanemariya send for registration: {'event_id': 'reccaU8Q1BJ5zqBT8', 'user_nick': '@marinanemariya', 'user_name': 'Марина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+12.09.2023, 05:28:46: n_e_o_0 begun registration
+12.09.2023, 05:28:57: n_e_o_0 tried to reg on 🏄‍♀️ Сапы (16.09 10:00), 1 мест
+12.09.2023, 05:29:03: n_e_o_0 send for registration: {'event_id': 'reck8EGnGIhkddiZ0', 'user_nick': '@n_e_o_0', 'user_name': 'Евгения Наумова', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 05:31:22: n_e_o_0 pressed Cancel or got deny
+12.09.2023, 05:31:25: n_e_o_0 begun registration
+12.09.2023, 08:36:38: NinaGrinevich begun registration
+12.09.2023, 08:36:56: NinaGrinevich tried to reg on 👯‍♀️ Бачата (15.09 19:30), 20 мест
+12.09.2023, 08:37:02: NinaGrinevich send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@ninagrinevich', 'user_name': 'Нина Гриневич', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 08:37:34: NinaGrinevich begun registration
+12.09.2023, 08:37:42: NinaGrinevich tried to reg on 📷 Фотопрогулка (16.09 14:00), 6 мест
+12.09.2023, 08:37:45: NinaGrinevich send for registration: {'event_id': 'rec36STNnmHNQnpYv', 'user_nick': '@ninagrinevich', 'user_name': 'Нина Гриневич', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 08:38:17: NinaGrinevich begun registration
+12.09.2023, 09:19:04: martlet92 checked registration
+12.09.2023, 09:19:18: martlet92 begun registration
+12.09.2023, 09:19:23: martlet92 tried to reg on 🪩 Вечеринка на пляже (16.09 22:00), 89 мест
+12.09.2023, 09:19:45: martlet92 send for registration: {'event_id': 'reccaU8Q1BJ5zqBT8', 'user_nick': '@martlet92', 'user_name': 'Оля Глинка (@martlet92 / мартлет) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+12.09.2023, 09:52:02: victoria_hbg begun registration
+12.09.2023, 09:53:14: victoria_hbg tried to reg on ⛵ Яхты (23.09 12:00), в вэйтлист
+12.09.2023, 09:53:19: victoria_hbg pressed Cancel or got deny
+12.09.2023, 09:53:23: victoria_hbg checked registration
+12.09.2023, 09:53:31: victoria_hbg begun registration
+12.09.2023, 09:53:49: victoria_hbg tried to reg on 🪷 Soulmate пикник (29.09 19:00), 3 мест
+12.09.2023, 09:53:54: victoria_hbg send for registration: {'event_id': 'rec7fX8EbclcYmjdl', 'user_nick': '@victoria_hbg', 'user_name': 'Victoria Holmberg', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 10:19:53: lukashevich_katerina came with frsttime == 1
+12.09.2023, 10:20:01: lukashevich_katerina begun registration
+12.09.2023, 10:55:52: anastasiia_danilson begun registration
+12.09.2023, 10:56:54: iampollya send for registration: {'event_id': 'recqNTVhc2rupQl7a', 'user_nick': '@iampollya', 'user_name': 'Полина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+12.09.2023, 11:03:48: martlet92 checked registration
+12.09.2023, 11:30:26: Shkoterman pressed cancel event reg
+12.09.2023, 11:30:28: Shkoterman pressed Cancel or got deny
+12.09.2023, 11:30:29: Shkoterman begun registration
+12.09.2023, 11:34:45: spbstom_polya begun registration
+12.09.2023, 11:37:20: Julia_Sergina begun registration
+12.09.2023, 11:52:19: julia_kovylina begun registration
+12.09.2023, 12:22:05: lizzybell came with frsttime == 1
+12.09.2023, 12:22:08: lizzybell begun registration
+12.09.2023, 12:22:11: lizzybell tried to reg on 👯‍♀️ Бачата (15.09 19:30), 19 мест
+12.09.2023, 12:22:22: lizzybell send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+12.09.2023, 12:22:26: lizzybell checked registration
+12.09.2023, 12:23:43: AlinaPsyamo begun registration
+12.09.2023, 12:23:45: AlinaPsyamo tried to reg on 👯‍♀️ Бачата (15.09 19:30), 17 мест
+12.09.2023, 12:23:49: AlinaPsyamo send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@alinapsyamo', 'user_name': 'Алина', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 12:53:08: anastasiia_danilson tried to reg on 🏄‍♀️ Сапы (16.09 10:00), в вэйтлист
+12.09.2023, 12:53:47: Pechenkina_a begun registration
+12.09.2023, 13:02:13: lizzybell begun registration
+12.09.2023, 13:50:54: hyd_6ra begun registration
+12.09.2023, 13:51:23: hyd_6ra tried to reg on 🐢 Черепаший приют (24.09 9:00), 7 мест
+12.09.2023, 13:51:26: hyd_6ra pressed Cancel or got deny
+12.09.2023, 14:42:27: ensalada_bot pressed Cancel or got deny
+12.09.2023, 14:42:29: n_e_o_0 begun registration
+12.09.2023, 14:53:28: isitsophie came with frsttime == 1
+12.09.2023, 16:12:47: Natchepa came with frsttime == 1
+12.09.2023, 16:12:52: Natchepa begun registration
+12.09.2023, 16:13:21: Natchepa tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 32 мест
+12.09.2023, 16:13:29: Natchepa send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 16:14:15: Natchepa begun registration
+12.09.2023, 18:03:35: NArthurN begun registration
+12.09.2023, 18:03:49: NArthurN tried to reg on 👯‍♀️ Бачата (15.09 19:30), 16 мест
+12.09.2023, 18:03:54: NArthurN send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@narthurn', 'user_name': 'Артур Никитшин \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 19:01:29: spbstom_polya pressed Cancel or got deny
+12.09.2023, 19:01:31: spbstom_polya begun registration
+12.09.2023, 19:12:34: spbstom_polya pressed Cancel or got deny
+12.09.2023, 20:01:44: Liaisan pressed Cancel or got deny
+12.09.2023, 20:01:49: Liaisan begun registration
+12.09.2023, 20:29:08: ensalada_bot pressed Cancel or got deny
+12.09.2023, 20:29:11: Pechenkina_a begun registration
+12.09.2023, 20:30:04: Pechenkina_a tried to reg on ⛵ Яхты (23.09 12:00), в вэйтлист
+12.09.2023, 20:30:26: Pechenkina_a send for registration: {'event_id': 'rec7AL2NDxiiABiBR', 'user_nick': '@pechenkina_a', 'user_name': 'Aнна Печенкина (@pechenkina_a)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+12.09.2023, 20:54:04: SofyaGal begun registration
+12.09.2023, 20:54:16: SofyaGal tried to reg on 🎭 Театральная лаборатория (30.09 12:00), 16 мест
+12.09.2023, 20:54:19: SofyaGal pressed Cancel or got deny
+12.09.2023, 21:02:10: ensalada_bot pressed Cancel or got deny
+12.09.2023, 21:02:14: Pechenkina_a begun registration
+12.09.2023, 21:02:21: Pechenkina_a tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 31 мест
+12.09.2023, 21:02:28: Pechenkina_a send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@pechenkina_a', 'user_name': 'Aнна Печенкина (@pechenkina_a)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 22:33:43: grassiona checked registration
+12.09.2023, 22:33:51: grassiona begun registration
+12.09.2023, 22:34:48: grassiona tried to reg on 📚 Книжный клуб (17.09 18:00), 5 мест
+12.09.2023, 22:34:53: grassiona send for registration: {'event_id': 'recqNTVhc2rupQl7a', 'user_nick': '@grassiona', 'user_name': 'Александра', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.09.2023, 23:23:15: VadimDev1 came with frsttime == 1
+12.09.2023, 23:23:15: VadimDev1 came with frsttime == 1
+12.09.2023, 23:23:17: VadimDev1 begun registration
+13.09.2023, 00:56:52: yavolchok pressed cancel event reg
+13.09.2023, 00:56:54: yavolchok pressed give feedback
+13.09.2023, 00:57:05: yavolchok want to cancel 👯‍♀️ Бачата
+13.09.2023, 00:57:12: yavolchok отменил 👯‍♀️ Бачата
+13.09.2023, 09:25:53: Vlad_BCP begun registration
+13.09.2023, 09:32:11: Vlad_BCP tried to reg on 🏄‍♀️ Сапы (16.09 10:00), в вэйтлист
+13.09.2023, 09:34:39: Vlad_BCP send for registration: {'event_id': 'reck8EGnGIhkddiZ0', 'user_nick': '@vlad_bcp', 'user_name': '/start', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+13.09.2023, 09:35:33: Vlad_BCP begun registration
+13.09.2023, 11:14:53: NinaGrinevich pressed Cancel or got deny
+13.09.2023, 11:14:54: NinaGrinevich checked registration
+13.09.2023, 11:15:50: sttsnk_d came with frsttime == 1
+13.09.2023, 11:15:53: sttsnk_d begun registration
+13.09.2023, 11:16:17: sttsnk_d tried to reg on 👯‍♀️ Бачата (15.09 19:30), 16 мест
+13.09.2023, 11:16:30: sttsnk_d send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@sttsnk_d', 'user_name': 'Дана', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+13.09.2023, 11:20:10: sttsnk_d begun registration
+13.09.2023, 15:15:27: AnnaOvrakh pressed Cancel or got deny
+13.09.2023, 15:15:33: AnnaOvrakh begun registration
+13.09.2023, 15:15:43: AnnaOvrakh tried to reg on 🏄‍♀️ Сапы (16.09 10:00), в вэйтлист
+13.09.2023, 15:16:08: AnnaOvrakh send for registration: {'event_id': 'reck8EGnGIhkddiZ0', 'user_nick': '@annaovrakh', 'user_name': 'Анна', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+13.09.2023, 16:29:53: NArthurN checked registration
+13.09.2023, 16:29:59: NArthurN pressed cancel event reg
+13.09.2023, 16:30:04: NArthurN want to cancel 👯‍♀️ Бачата
+13.09.2023, 16:30:24: NArthurN отменил 👯‍♀️ Бачата
+13.09.2023, 16:30:33: NArthurN checked registration
+13.09.2023, 16:33:21: NArthurN pressed cancel event reg
+13.09.2023, 16:33:22: NArthurN pressed Cancel or got deny
+13.09.2023, 16:33:25: NArthurN checked registration
+13.09.2023, 18:39:49: vinneyto begun registration
+13.09.2023, 18:47:41: iam_poline came with frsttime == 1
+13.09.2023, 18:47:50: iam_poline begun registration
+13.09.2023, 18:48:05: iam_poline tried to reg on 🪩 Вечеринка на пляже (16.09 22:00), 87 мест
+13.09.2023, 19:10:14: Adelsky13 came with frsttime == 1
+13.09.2023, 19:10:20: Adelsky13 begun registration
+13.09.2023, 19:11:16: Adelsky13 tried to reg on 👯‍♀️ Бачата (15.09 19:30), 16 мест
+13.09.2023, 19:11:27: Adelsky13 send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@adelsky13', 'user_name': 'Адель', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+13.09.2023, 19:16:01: Adelsky13 checked registration
+13.09.2023, 19:32:41: VadimDev1 pressed Cancel or got deny
+13.09.2023, 19:32:44: VadimDev1 checked registration
+13.09.2023, 19:32:48: VadimDev1 pressed cancel event reg
+13.09.2023, 19:32:49: VadimDev1 pressed Cancel or got deny
+13.09.2023, 19:41:48: julia_kovylina pressed Cancel or got deny
+13.09.2023, 19:41:50: julia_kovylina begun registration
+13.09.2023, 19:41:56: julia_kovylina pressed Cancel or got deny
+13.09.2023, 20:51:41: svestro checked registration
+13.09.2023, 21:40:13: petrenko_anastasiya came with frsttime == 1
+13.09.2023, 21:41:01: petrenko_anastasiya begun registration
+13.09.2023, 21:52:49: pommeha begun registration
+13.09.2023, 21:52:52: pommeha tried to reg on 🏄‍♀️ Сапы (16.09 10:00), в вэйтлист
+13.09.2023, 21:53:07: pommeha send for registration: {'event_id': 'reck8EGnGIhkddiZ0', 'user_nick': '@pommeha', 'user_name': 'Ангелина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+13.09.2023, 21:54:59: pommeha checked registration
+13.09.2023, 22:24:42: romanboston came with frsttime == 1
+13.09.2023, 22:24:49: romanboston begun registration
+13.09.2023, 23:49:26: ensalada_bot pressed Cancel or got deny
+13.09.2023, 23:49:29: lizzybell checked registration
+13.09.2023, 23:49:45: lizzybell begun registration
+13.09.2023, 23:50:02: lizzybell pressed Cancel or got deny
+13.09.2023, 23:50:05: lizzybell pressed cancel event reg
+13.09.2023, 23:50:12: lizzybell want to cancel 👯‍♀️ Бачата
+13.09.2023, 23:50:22: lizzybell отменил 👯‍♀️ Бачата
+13.09.2023, 23:50:26: lizzybell begun registration
+13.09.2023, 23:50:28: lizzybell tried to reg on 👯‍♀️ Бачата (15.09 19:30), 17 мест
+13.09.2023, 23:50:33: lizzybell send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+13.09.2023, 23:50:41: lizzybell checked registration
+13.09.2023, 23:50:57: lizzybell begun registration
+13.09.2023, 23:52:48: lizzybell pressed Cancel or got deny
+13.09.2023, 23:52:51: lizzybell pressed cancel event reg
+13.09.2023, 23:52:54: lizzybell want to cancel 🪩 Вечеринка на пляже
+13.09.2023, 23:52:57: lizzybell отменил 🪩 Вечеринка на пляже
+13.09.2023, 23:53:00: lizzybell checked registration
+14.09.2023, 00:32:47: Nataliya011 came with frsttime == 1
+14.09.2023, 08:28:46: diana_mundo begun registration
+14.09.2023, 08:29:29: diana_mundo tried to reg on 🪩 Вечеринка на пляже (16.09 22:00), 88 мест
+14.09.2023, 08:29:35: diana_mundo send for registration: {'event_id': 'reccaU8Q1BJ5zqBT8', 'user_nick': '@diana_mundo', 'user_name': 'Диана', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+14.09.2023, 09:16:39: ensalada_bot pressed Cancel or got deny
+14.09.2023, 09:16:42: Natchepa begun registration
+14.09.2023, 09:16:45: Natchepa tried to reg on 📷 Фотопрогулка (16.09 14:00), 1 мест
+14.09.2023, 09:16:50: Natchepa send for registration: {'event_id': 'rec36STNnmHNQnpYv', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+14.09.2023, 09:16:56: Natchepa checked registration
+14.09.2023, 10:53:01: Julia_Sergina pressed Cancel or got deny
+14.09.2023, 11:33:34: anny_labanova begun registration
+14.09.2023, 11:34:00: anny_labanova tried to reg on 📚 Книжный клуб (17.09 18:00), 4 мест
+14.09.2023, 11:34:06: anny_labanova send for registration: {'event_id': 'recqNTVhc2rupQl7a', 'user_nick': '@anny_labanova', 'user_name': 'Анна Лабанова', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+14.09.2023, 11:35:06: anny_labanova begun registration
+14.09.2023, 11:35:28: anny_labanova tried to reg on 🐢 Черепаший приют (24.09 9:00), 7 мест
+14.09.2023, 11:35:34: anny_labanova send for registration: {'event_id': 'rec0LRDsGvna8vPek', 'user_nick': '@anny_labanova', 'user_name': 'Анна Лабанова', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+14.09.2023, 11:37:55: anny_labanova begun registration
+14.09.2023, 11:38:52: anny_labanova tried to reg on 🏄‍♀️ Сапы (16.09 10:00), в вэйтлист
+14.09.2023, 11:38:58: anny_labanova send for registration: {'event_id': 'reck8EGnGIhkddiZ0', 'user_nick': '@anny_labanova', 'user_name': 'Анна Лабанова', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+14.09.2023, 11:42:57: NArthurN checked registration
+14.09.2023, 13:07:19: Garkusha_Evgenyi checked registration
+14.09.2023, 13:07:21: Garkusha_Evgenyi begun registration
+14.09.2023, 15:20:51: petrenko_anastasiya tried to reg on 👯‍♀️ Бачата (15.09 19:30), 15 мест
+14.09.2023, 15:21:07: petrenko_anastasiya send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@petrenko_anastasiya', 'user_name': 'Настя', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+14.09.2023, 15:33:30: traveler_001 checked registration
+14.09.2023, 15:35:35: traveler_001 pressed cancel event reg
+14.09.2023, 15:35:40: traveler_001 want to cancel 🏄‍♀️ Сапы
+14.09.2023, 15:35:44: traveler_001 отменил 🏄‍♀️ Сапы
+14.09.2023, 15:35:49: minestrelli pressed Cancel or got deny
+14.09.2023, 15:35:50: traveler_001 begun registration
+14.09.2023, 15:35:51: minestrelli begun registration
+14.09.2023, 15:35:59: traveler_001 tried to reg on 📚 Книжный клуб (17.09 18:00), 3 мест
+14.09.2023, 15:36:01: minestrelli tried to reg on 🪩 Вечеринка на пляже (16.09 22:00), 86 мест
+14.09.2023, 15:36:04: traveler_001 send for registration: {'event_id': 'recqNTVhc2rupQl7a', 'user_nick': '@traveler_001', 'user_name': 'Инна Ларина (преподаватель) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+14.09.2023, 15:36:06: traveler_001 begun registration
+14.09.2023, 15:36:08: minestrelli send for registration: {'event_id': 'reccaU8Q1BJ5zqBT8', 'user_nick': '@minestrelli', 'user_name': 'Вера Масляник (минестрелли)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+14.09.2023, 15:36:09: traveler_001 tried to reg on 📷 Фотопрогулка (16.09 14:00), в вэйтлист
+14.09.2023, 15:36:14: traveler_001 send for registration: {'event_id': 'rec36STNnmHNQnpYv', 'user_nick': '@traveler_001', 'user_name': 'Инна Ларина (преподаватель) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+14.09.2023, 15:44:18: olyaorel came with frsttime == 1
+14.09.2023, 15:44:30: olyaorel begun registration
+14.09.2023, 21:28:01: f_victory pressed Cancel or got deny
+14.09.2023, 21:28:05: f_victory checked registration
+14.09.2023, 21:28:11: f_victory begun registration
+14.09.2023, 21:40:26: Julia_Sergina pressed Cancel or got deny
+14.09.2023, 22:36:31: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:37:02: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:37:17: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:37:31: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:41:51: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:49:33: None bot hase been started
+14.09.2023, 22:53:30: None bot hase been started
+14.09.2023, 22:53:37: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:54:49: None bot hase been started
+14.09.2023, 22:54:54: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:55:35: None bot hase been started
+14.09.2023, 22:56:01: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:59:01: None bot hase been started
+14.09.2023, 22:59:03: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:59:33: None bot hase been started
+14.09.2023, 22:59:37: Shkoterman pressed Cancel or got deny
+14.09.2023, 22:59:59: None bot hase been started
+14.09.2023, 23:00:04: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:00:47: None bot hase been started
+14.09.2023, 23:00:52: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:01:35: None bot hase been started
+14.09.2023, 23:01:35: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:03:22: None bot hase been started
+14.09.2023, 23:03:29: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:06:21: None bot hase been started
+14.09.2023, 23:06:23: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:08:06: None bot hase been started
+14.09.2023, 23:08:08: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:08:28: None bot hase been started
+14.09.2023, 23:08:30: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:09:49: None bot  hase been started
+14.09.2023, 23:10:25: None bot  hase been started
+14.09.2023, 23:10:25: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:11:13: Julia_Sergina begun registration
+14.09.2023, 23:11:16: Julia_Sergina tried to reg on 🏄‍♀️ Сапы (16.09 10:00), в вэйтлист
+14.09.2023, 23:11:20: Julia_Sergina send for registration: {'event_id': 'reck8EGnGIhkddiZ0', 'user_nick': '@julia_sergina', 'user_name': 'Юля Сергина 🌟', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+14.09.2023, 23:11:47: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:11:48: Shkoterman checked registration
+14.09.2023, 23:12:20: Julia_Sergina checked registration
+14.09.2023, 23:13:47: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:16:10: Julia_Sergina begun registration
+14.09.2023, 23:16:12: Shkoterman begun registration
+14.09.2023, 23:16:13: Julia_Sergina tried to reg on sdfsdf (16.09 23:15), 2 мест
+14.09.2023, 23:16:17: Julia_Sergina send for registration: {'event_id': 'rectdcAFT4NMCzQYu', 'user_nick': '@julia_sergina', 'user_name': 'Юля Сергина 🌟', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+14.09.2023, 23:16:18: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:16:28: Shkoterman pressed Cancel or got deny
+14.09.2023, 23:39:59: spbstom_polya begun registration
+14.09.2023, 23:40:07: spbstom_polya pressed Cancel or got deny
+15.09.2023, 10:19:47: preguntasproblemas pressed Cancel or got deny
+15.09.2023, 10:24:03: Adelsky13 pressed Cancel or got deny
+15.09.2023, 10:24:03: Adelsky13 pressed Cancel or got deny
+15.09.2023, 11:56:17: edgarba pressed cancel event reg
+15.09.2023, 11:56:24: edgarba pressed Cancel or got deny
+15.09.2023, 12:35:03: julia_kovylina begun registration
+15.09.2023, 13:44:31: Julia_Sergina pressed Cancel or got deny
+15.09.2023, 13:52:54: Garkusha_Evgenyi pressed Cancel or got deny
+15.09.2023, 13:55:40: marinanemariya checked registration
+15.09.2023, 13:57:09: marinanemariya begun registration
+15.09.2023, 14:02:36: Garkusha_Evgenyi pressed Cancel or got deny
+15.09.2023, 14:55:21: anna_ivlieva pressed Cancel or got deny
+15.09.2023, 14:55:26: anna_ivlieva begun registration
+15.09.2023, 14:55:28: anna_ivlieva tried to reg on 🍷 Винное Казино (23.09 18:00), 5 мест
+15.09.2023, 14:55:34: anna_ivlieva send for registration: {'event_id': 'recB9GVSFuCiecTPa', 'user_nick': '@anna_ivlieva', 'user_name': 'Анна Ивлиева', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+15.09.2023, 15:07:28: abrovchenko pressed Cancel or got deny
+15.09.2023, 15:07:32: abrovchenko checked registration
+15.09.2023, 15:08:00: abrovchenko begun registration
+15.09.2023, 15:18:51: notnevernow begun registration
+15.09.2023, 16:02:38: n_e_o_0 pressed Cancel or got deny
+15.09.2023, 16:02:40: n_e_o_0 begun registration
+15.09.2023, 16:35:28: oxana_molchanova begun registration
+15.09.2023, 16:36:03: oxana_molchanova tried to reg on 🍷 Винное Казино (23.09 18:00), 3 мест
+15.09.2023, 16:36:09: oxana_molchanova send for registration: {'event_id': 'recB9GVSFuCiecTPa', 'user_nick': '@oxana_molchanova', 'user_name': 'Оксана Молчанова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+15.09.2023, 19:12:05: marina211182 came with frsttime == 1
+15.09.2023, 19:12:11: marina211182 begun registration
+15.09.2023, 19:42:07: ymolchanov checked registration
+15.09.2023, 19:42:16: ymolchanov begun registration
+15.09.2023, 21:47:32: SofyaGal begun registration
+15.09.2023, 21:47:48: SofyaGal tried to reg on 🎭 Театральная лаборатория (30.09 12:00), 16 мест
+15.09.2023, 21:47:51: SofyaGal pressed Cancel or got deny
+15.09.2023, 22:03:02: lizzybell checked registration
+15.09.2023, 22:03:03: lizzybell begun registration
+15.09.2023, 22:03:04: lizzybell begun registration
+16.09.2023, 00:58:06: etozhemaximka pressed Cancel or got deny
+16.09.2023, 00:58:10: etozhemaximka begun registration
+16.09.2023, 00:58:17: etozhemaximka tried to reg on 📷 Фотопрогулка (16.09 14:00), 5 мест
+16.09.2023, 00:58:23: etozhemaximka send for registration: {'event_id': 'rec36STNnmHNQnpYv', 'user_nick': '@etozhemaximka', 'user_name': 'Максим', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+16.09.2023, 08:09:49: vldsavelyev came with frsttime == 1
+16.09.2023, 11:30:15: kolomines came with frsttime == 1
+16.09.2023, 11:30:20: kolomines begun registration
+16.09.2023, 11:30:43: kolomines pressed Cancel or got deny
+16.09.2023, 11:55:47: preguntasproblemas pressed Cancel or got deny
+16.09.2023, 12:35:20: lizzybell pressed Cancel or got deny
+16.09.2023, 12:35:20: lizzybell pressed Cancel or got deny
+16.09.2023, 12:35:26: lizzybell pressed cancel event reg
+16.09.2023, 12:35:39: lizzybell pressed Cancel or got deny
+16.09.2023, 12:52:20: vldsavelyev begun registration
+16.09.2023, 12:52:35: vldsavelyev tried to reg on 🍷 Винное Казино (23.09 18:00), 1 мест
+16.09.2023, 12:52:40: vldsavelyev send for registration: {'event_id': 'recB9GVSFuCiecTPa', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+16.09.2023, 12:52:50: f_victory pressed Cancel or got deny
+16.09.2023, 12:52:59: f_victory begun registration
+16.09.2023, 13:02:44: oxana_molchanova begun registration
+16.09.2023, 13:19:51: oxana_molchanova pressed Cancel or got deny
+16.09.2023, 13:42:02: thestarburner begun registration
+16.09.2023, 13:42:10: thestarburner tried to reg on 🎭 Театральная лаборатория (30.09 12:00), 16 мест
+16.09.2023, 13:42:13: thestarburner pressed Cancel or got deny
+16.09.2023, 14:37:11: grassiona begun registration
+16.09.2023, 16:31:25: Natchepa pressed Cancel or got deny
+16.09.2023, 16:31:33: Natchepa checked registration
+16.09.2023, 16:31:48: Natchepa begun registration
+16.09.2023, 16:32:01: Natchepa tried to reg on 🍷 Винное Казино (23.09 18:00), в вэйтлист
+16.09.2023, 16:32:08: Natchepa send for registration: {'event_id': 'recB9GVSFuCiecTPa', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+16.09.2023, 16:32:11: Natchepa begun registration
+16.09.2023, 18:34:39: lizzybell checked registration
+16.09.2023, 18:52:04: spbstom_polya begun registration
+16.09.2023, 18:52:30: spbstom_polya pressed Cancel or got deny
+16.09.2023, 19:30:23: Pechenkina_a pressed Cancel or got deny
+16.09.2023, 19:30:42: Pechenkina_a pressed Cancel or got deny
+16.09.2023, 19:30:46: Pechenkina_a begun registration
+16.09.2023, 19:31:38: Pechenkina_a pressed Cancel or got deny
+17.09.2023, 00:40:50: mark_fadeev pressed Cancel or got deny
+17.09.2023, 11:10:53: Liaisan pressed Cancel or got deny
+17.09.2023, 11:10:56: Liaisan begun registration
+17.09.2023, 11:39:21: spbstom_polya begun registration
+17.09.2023, 11:39:35: spbstom_polya pressed Cancel or got deny
+17.09.2023, 13:11:59: iampollya pressed cancel event reg
+17.09.2023, 13:12:01: iampollya pressed Cancel or got deny
+17.09.2023, 15:07:53: thestarburner begun registration
+17.09.2023, 15:08:05: thestarburner tried to reg on 🎭 Театральная лаборатория (30.09 12:00), 16 мест
+17.09.2023, 15:08:08: thestarburner pressed Cancel or got deny
+17.09.2023, 15:15:18: preguntasproblemas pressed Cancel or got deny
+17.09.2023, 17:57:37: spbstom_polya begun registration
+17.09.2023, 20:41:11: spbstom_polya tried to reg on 🪷 Soulmate пикник (29.09 19:00), 2 мест
+17.09.2023, 20:41:17: spbstom_polya send for registration: {'event_id': 'rec7fX8EbclcYmjdl', 'user_nick': '@spbstom_polya', 'user_name': 'Поля Михайлова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+17.09.2023, 22:50:45: klmvksn came with frsttime == 1
+17.09.2023, 22:50:54: klmvksn begun registration
+17.09.2023, 22:51:04: klmvksn tried to reg on 🐢 Черепаший приют (24.09 9:00), 6 мест
+17.09.2023, 22:51:35: klmvksn send for registration: {'event_id': 'rec0LRDsGvna8vPek', 'user_nick': '@klmvksn', 'user_name': 'Оксана Климова', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+17.09.2023, 22:51:50: klmvksn checked registration
+17.09.2023, 23:47:26: klmvksn pressed cancel event reg
+17.09.2023, 23:47:36: klmvksn want to cancel 🍷 Винное Казино
+17.09.2023, 23:47:54: klmvksn pressed Cancel or got deny
+18.09.2023, 11:13:42: martlet92 checked registration
+18.09.2023, 13:24:58: lena_ladnaya begun registration
+18.09.2023, 13:25:08: lena_ladnaya tried to reg on 🍷 Винное Казино (23.09 18:00), в вэйтлист
+18.09.2023, 13:25:15: lena_ladnaya send for registration: {'event_id': 'recB9GVSFuCiecTPa', 'user_nick': '@lena_ladnaya', 'user_name': 'Лена Ладная \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+18.09.2023, 15:10:44: Gudkova_Anna begun registration
+18.09.2023, 15:11:01: Gudkova_Anna pressed Cancel or got deny
+18.09.2023, 15:32:06: peronetta pressed Cancel or got deny
+18.09.2023, 15:32:07: peronetta pressed Cancel or got deny
+18.09.2023, 15:32:10: peronetta checked registration
+18.09.2023, 15:47:54: peronetta checked registration
+18.09.2023, 15:47:59: peronetta pressed cancel event reg
+18.09.2023, 15:48:08: peronetta want to cancel 🍷 Винное Казино
+18.09.2023, 15:48:29: peronetta отменил 🍷 Винное Казино
+18.09.2023, 15:48:45: peronetta checked registration
+18.09.2023, 15:51:57: vldsavelyev begun registration
+18.09.2023, 15:52:00: vldsavelyev tried to reg on ⛵ Яхты (23.09 12:00), в вэйтлист
+18.09.2023, 15:52:04: vldsavelyev send for registration: {'event_id': 'rec7AL2NDxiiABiBR', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+18.09.2023, 15:55:13: traveler_001 begun registration
+18.09.2023, 15:55:16: traveler_001 tried to reg on 🐢 Черепаший приют (24.09 9:00), 3 мест
+18.09.2023, 15:55:21: traveler_001 send for registration: {'event_id': 'rec0LRDsGvna8vPek', 'user_nick': '@traveler_001', 'user_name': 'Инна Ларина (преподаватель) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.09.2023, 16:01:30: klmvksn checked registration
+18.09.2023, 16:38:47: antonioperfecto begun registration
+18.09.2023, 17:15:21: tanyaux pressed Cancel or got deny
+18.09.2023, 17:15:28: tanyaux begun registration
+18.09.2023, 17:15:32: tanyaux tried to reg on 🐢 Черепаший приют (24.09 9:00), 2 мест
+18.09.2023, 17:15:34: tanyaux pressed Cancel or got deny
+18.09.2023, 17:15:51: tanyaux checked registration
+18.09.2023, 17:19:57: tanyaux begun registration
+18.09.2023, 17:20:06: tanyaux tried to reg on 🐢 Черепаший приют (24.09 9:00), 2 мест
+18.09.2023, 17:20:07: tanyaux pressed Cancel or got deny
+18.09.2023, 17:29:38: anastasiia_danilson pressed Cancel or got deny
+18.09.2023, 17:29:42: anastasiia_danilson pressed cancel event reg
+18.09.2023, 17:38:28: traveler_001 pressed cancel event reg
+18.09.2023, 17:38:35: traveler_001 want to cancel 🐢 Черепаший приют
+18.09.2023, 17:38:42: traveler_001 отменил 🐢 Черепаший приют
+18.09.2023, 18:08:51: tanyaux begun registration
+18.09.2023, 18:08:59: tanyaux tried to reg on 🐢 Черепаший приют (24.09 9:00), 4 мест
+18.09.2023, 18:09:02: tanyaux pressed Cancel or got deny
+18.09.2023, 19:31:25: tanyaux begun registration
+18.09.2023, 19:31:34: tanyaux tried to reg on 🐢 Черепаший приют (24.09 9:00), 4 мест
+18.09.2023, 19:31:36: tanyaux pressed Cancel or got deny
+18.09.2023, 21:22:07: KrutishkaKsy begun registration
+18.09.2023, 21:22:10: KrutishkaKsy tried to reg on 🍷 Винное Казино (23.09 18:00), в вэйтлист
+18.09.2023, 21:22:13: KrutishkaKsy pressed Cancel or got deny
+18.09.2023, 21:23:04: marinanemariya tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 30 мест
+18.09.2023, 21:23:05: marinanemariya pressed Cancel or got deny
+18.09.2023, 21:23:19: lizzybell checked registration
+18.09.2023, 21:29:53: vasvas13 pressed Cancel or got deny
+18.09.2023, 21:29:58: vasvas13 begun registration
+18.09.2023, 21:30:04: vasvas13 tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+18.09.2023, 21:30:06: vasvas13 pressed Cancel or got deny
+18.09.2023, 21:30:09: vasvas13 begun registration
+18.09.2023, 21:30:20: vasvas13 tried to reg on 🐢 Черепаший приют (24.09 9:00), 4 мест
+18.09.2023, 21:30:22: vasvas13 pressed Cancel or got deny
+18.09.2023, 21:37:39: sttsnk_d pressed Cancel or got deny
+18.09.2023, 21:37:42: sttsnk_d begun registration
+18.09.2023, 21:37:45: sttsnk_d tried to reg on 👯‍♀️ Бачата (22.09 19:30), 12 мест
+18.09.2023, 21:37:47: sttsnk_d pressed Cancel or got deny
+18.09.2023, 21:37:51: sttsnk_d begun registration
+18.09.2023, 21:41:57: preguntasproblemas checked registration
+18.09.2023, 21:42:08: preguntasproblemas pressed cancel event reg
+18.09.2023, 21:42:11: preguntasproblemas want to cancel 🐢 Черепаший приют
+18.09.2023, 21:42:19: natashagulitskaya checked registration
+18.09.2023, 21:42:28: natashagulitskaya pressed cancel event reg
+18.09.2023, 21:42:32: natashagulitskaya want to cancel 🐢 Черепаший приют
+18.09.2023, 21:42:39: natashagulitskaya отменил 🐢 Черепаший приют
+18.09.2023, 21:42:49: preguntasproblemas отменил 🐢 Черепаший приют
+18.09.2023, 22:04:19: vasvas13 begun registration
+18.09.2023, 22:04:27: vasvas13 tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+18.09.2023, 22:04:29: vasvas13 pressed Cancel or got deny
+18.09.2023, 22:38:52: Murlocotan came with frsttime == 1
+18.09.2023, 22:38:56: Murlocotan begun registration
+18.09.2023, 22:43:05: Murlocotan tried to reg on 🐢 Черепаший приют (24.09 9:00), 6 мест
+18.09.2023, 22:43:07: Murlocotan pressed Cancel or got deny
+18.09.2023, 23:00:14: tanyaux begun registration
+18.09.2023, 23:00:18: tanyaux tried to reg on 🐢 Черепаший приют (24.09 9:00), 5 мест
+18.09.2023, 23:00:25: tanyaux send for registration: {'event_id': 'rec0LRDsGvna8vPek', 'user_nick': '@tanyaux', 'user_name': 'Татьяна', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.09.2023, 23:03:28: lfeygin checked registration
+18.09.2023, 23:04:03: lfeygin pressed Cancel or got deny
+18.09.2023, 23:04:09: lfeygin pressed cancel event reg
+18.09.2023, 23:04:21: lfeygin want to cancel 🐢 Черепаший приют
+18.09.2023, 23:05:18: lfeygin отменил 🐢 Черепаший приют
+18.09.2023, 23:05:31: lfeygin begun registration
+18.09.2023, 23:06:05: None came with frsttime == 1
+18.09.2023, 23:06:16: None begun registration
+18.09.2023, 23:06:17: None pressed Cancel or got deny
+19.09.2023, 02:44:36: TatianaSheremetova pressed Cancel or got deny
+19.09.2023, 02:44:42: TatianaSheremetova pressed cancel event reg
+19.09.2023, 02:44:47: TatianaSheremetova want to cancel 🐢 Черепаший приют
+19.09.2023, 02:50:07: TatianaSheremetova pressed Cancel or got deny
+19.09.2023, 06:25:11: sergi945 begun registration
+19.09.2023, 06:25:54: sergi945 tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+19.09.2023, 06:25:57: sergi945 pressed Cancel or got deny
+19.09.2023, 06:26:08: sergi945 begun registration
+19.09.2023, 10:21:49: kasabulatov came with frsttime == 1
+19.09.2023, 11:29:55: lizzybell begun registration
+19.09.2023, 11:31:11: spbstom_polya begun registration
+19.09.2023, 11:31:22: spbstom_polya pressed Cancel or got deny
+19.09.2023, 11:34:16: ok_nadine begun registration
+19.09.2023, 11:34:20: ok_nadine tried to reg on 🐢 Черепаший приют (24.09 9:00), 5 мест
+19.09.2023, 11:34:27: ok_nadine pressed Cancel or got deny
+19.09.2023, 11:34:30: ok_nadine begun registration
+19.09.2023, 11:38:08: tanyaux checked registration
+19.09.2023, 13:13:03: Garkusha_Evgenyi pressed Cancel or got deny
+19.09.2023, 13:14:35: Garkusha_Evgenyi pressed Cancel or got deny
+19.09.2023, 13:59:18: Nazalyona came with frsttime == 1
+19.09.2023, 13:59:24: KrutishkaKsy begun registration
+19.09.2023, 13:59:27: KrutishkaKsy tried to reg on 🍷 Винное Казино (23.09 18:00), в вэйтлист
+19.09.2023, 13:59:38: KrutishkaKsy send for registration: {'event_id': 'recB9GVSFuCiecTPa', 'user_nick': '@krutishkaksy', 'user_name': 'Ксения', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+19.09.2023, 14:24:37: peronetta checked registration
+19.09.2023, 14:29:18: timbcn pressed give feedback
+19.09.2023, 14:30:50: timbcn gave feedback: {'event_id': 'reck8EGnGIhkddiZ0', 'user_nick': '@timbcn', 'recomendacion': 9, 'what_did_you_like': ['Формат', 'Площадка', 'Атмосфера', 'Организация', 'Люди'], 'unwanted': 'Было немного неудобно то, что нужно нести сапы. Мне в целом было нормально, но были девочки, которым было тяжело. Пришлось помогать и стало тяжело нам =)', 'comment': 'Было немного неудобно то, что нужно нести сапы. Мне в целом было нормально, но были девочки, которым было тяжело. Пришлось помогать и стало тяжело нам =)\nНо это не супер большая проблема.', 'user_name': 'Тимур'}
+19.09.2023, 15:23:23: None came with frsttime == 1
+19.09.2023, 18:09:48: victoribarbieri came with frsttime == 1
+19.09.2023, 18:46:51: victoribarbieri pressed Cancel or got deny
+19.09.2023, 18:47:59: victoribarbieri pressed Cancel or got deny
+19.09.2023, 19:15:53: svlanav came with frsttime == 1
+19.09.2023, 19:16:05: svlanav begun registration
+19.09.2023, 19:16:28: svlanav tried to reg on ⛵ Яхты (23.09 12:00), в вэйтлист
+19.09.2023, 19:16:41: svlanav send for registration: {'event_id': 'rec7AL2NDxiiABiBR', 'user_nick': '@svlanav', 'user_name': 'Светлана', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+19.09.2023, 19:18:03: svlanav pressed Cancel or got deny
+19.09.2023, 19:20:47: svlanav pressed Cancel or got deny
+19.09.2023, 19:20:50: svlanav begun registration
+19.09.2023, 19:21:07: svlanav tried to reg on 🍷 Винное Казино (23.09 18:00), в вэйтлист
+19.09.2023, 19:21:14: svlanav send for registration: {'event_id': 'recB9GVSFuCiecTPa', 'user_nick': '@svlanav', 'user_name': 'Светлана', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+19.09.2023, 19:21:23: svlanav begun registration
+19.09.2023, 22:08:46: elizarpif checked registration
+19.09.2023, 22:28:22: klmvksn pressed cancel event reg
+19.09.2023, 22:28:35: klmvksn want to cancel 🍷 Винное Казино
+19.09.2023, 22:28:43: klmvksn отменил 🍷 Винное Казино
+19.09.2023, 22:28:51: klmvksn checked registration
+19.09.2023, 23:13:05: maxodron begun registration
+19.09.2023, 23:13:13: maxodron tried to reg on 🐢 Черепаший приют (24.09 9:00), 6 мест
+19.09.2023, 23:13:17: maxodron send for registration: {'event_id': 'rec0LRDsGvna8vPek', 'user_nick': '@maxodron', 'user_name': 'Maksim', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+19.09.2023, 23:20:45: maxodron pressed cancel event reg
+19.09.2023, 23:20:59: maxodron want to cancel 🐢 Черепаший приют
+19.09.2023, 23:21:03: maxodron отменил 🐢 Черепаший приют
+20.09.2023, 11:17:30: maxibello came with frsttime == 1
+20.09.2023, 11:17:33: maxibello begun registration
+20.09.2023, 12:08:30: thestarburner begun registration
+20.09.2023, 12:08:37: thestarburner tried to reg on 🎭 Театральная лаборатория (30.09 12:00), 16 мест
+20.09.2023, 12:08:40: thestarburner pressed Cancel or got deny
+20.09.2023, 12:21:50: Julia_Sergina begun registration
+20.09.2023, 12:21:55: Julia_Sergina pressed Cancel or got deny
+20.09.2023, 12:22:58: sttsnk_d pressed Cancel or got deny
+20.09.2023, 12:23:02: sttsnk_d pressed cancel event reg
+20.09.2023, 12:23:06: sttsnk_d want to cancel 👯‍♀️ Бачата
+20.09.2023, 12:23:16: sttsnk_d отменил 👯‍♀️ Бачата
+20.09.2023, 12:53:00: lizzybell pressed Cancel or got deny
+20.09.2023, 12:53:06: lizzybell begun registration
+20.09.2023, 12:53:10: lizzybell tried to reg on 🥨 Cuddle Party (14.10 18:00), в вэйтлист
+20.09.2023, 12:53:15: lizzybell send for registration: {'event_id': 'recwXO7xPTrqutud0', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+20.09.2023, 12:53:23: lizzybell checked registration
+20.09.2023, 13:15:26: ivan_dashkevich begun registration
+20.09.2023, 14:42:19: thestarburner begun registration
+20.09.2023, 14:42:47: thestarburner tried to reg on 🎭 Театральная лаборатория (30.09 12:00), 16 мест
+20.09.2023, 14:42:53: thestarburner send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@thestarburner', 'user_name': 'Дмитрий', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.09.2023, 14:44:38: wertner begun registration
+20.09.2023, 14:44:53: wertner tried to reg on 🥨 Cuddle Party (14.10 18:00), 11 мест
+20.09.2023, 14:45:09: wertner send for registration: {'event_id': 'recwXO7xPTrqutud0', 'user_nick': '@wertner', 'user_name': 'Дима-Вадим Урасин (wertner) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+20.09.2023, 14:49:51: Shkoterman begun registration
+20.09.2023, 14:49:55: Shkoterman tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+20.09.2023, 14:49:59: Shkoterman send for registration: {'event_id': 'recebR53LQ5OlcJtq', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+20.09.2023, 15:00:35: ivan_dashkevich pressed Cancel or got deny
+20.09.2023, 15:00:37: ivan_dashkevich begun registration
+20.09.2023, 15:00:50: ivan_dashkevich pressed Cancel or got deny
+20.09.2023, 16:00:11: etozhemaximka checked registration
+20.09.2023, 16:00:15: etozhemaximka begun registration
+20.09.2023, 16:16:29: Shkoterman pressed Cancel or got deny
+20.09.2023, 16:19:34: Shkoterman pressed give feedback
+20.09.2023, 16:19:37: Shkoterman pressed Cancel or got deny
+20.09.2023, 16:19:58: Shkoterman pressed Cancel or got deny
+20.09.2023, 16:39:27: Shkoterman pressed cancel event reg
+20.09.2023, 16:39:30: Shkoterman want to cancel 🏄‍♀️ Сапы два
+20.09.2023, 16:39:32: Shkoterman отменил 🏄‍♀️ Сапы два
+20.09.2023, 16:40:42: Shkoterman begun registration
+20.09.2023, 16:40:47: Shkoterman tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+20.09.2023, 16:40:52: Shkoterman send for registration: {'event_id': 'recebR53LQ5OlcJtq', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+20.09.2023, 20:19:46: vinneyto pressed Cancel or got deny
+20.09.2023, 20:19:52: vinneyto begun registration
+20.09.2023, 22:10:49: annabloh came with frsttime == 1
+20.09.2023, 22:13:31: annabloh begun registration
+20.09.2023, 22:14:21: annabloh tried to reg on 👯‍♀️ Бачата (22.09 19:30), 12 мест
+20.09.2023, 22:14:33: annabloh send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@annabloh', 'user_name': 'Аня', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+20.09.2023, 23:30:22: yavolchok begun registration
+20.09.2023, 23:30:28: yavolchok tried to reg on 👯‍♀️ Бачата (22.09 19:30), 11 мест
+20.09.2023, 23:30:32: yavolchok send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@yavolchok', 'user_name': 'Яна Волкова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.09.2023, 23:30:37: yavolchok begun registration
+21.09.2023, 00:01:43: julia_kovylina pressed Cancel or got deny
+21.09.2023, 00:01:46: julia_kovylina begun registration
+21.09.2023, 00:02:06: julia_kovylina tried to reg on 🥨 Cuddle Party (14.10 18:00), 9 мест
+21.09.2023, 00:02:12: julia_kovylina send for registration: {'event_id': 'recwXO7xPTrqutud0', 'user_nick': '@julia_kovylina', 'user_name': 'Юля Ковылина (@julia_kovylina)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.09.2023, 12:21:55: None bot  hase been started
+21.09.2023, 12:49:42: arafelll begun registration
+21.09.2023, 12:50:18: arafelll tried to reg on 🐢 Черепаший приют (24.09 9:00), 6 мест
+21.09.2023, 12:50:39: arafelll send for registration: {'event_id': 'rec0LRDsGvna8vPek', 'user_nick': '@arafelll', 'user_name': 'Елена', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+21.09.2023, 13:01:21: lizzybell checked registration
+21.09.2023, 13:04:36: olga_mzk pressed Cancel or got deny
+21.09.2023, 13:04:39: olga_mzk begun registration
+21.09.2023, 16:17:24: Gudkova_Anna begun registration
+21.09.2023, 19:21:22: abrovchenko pressed Cancel or got deny
+21.09.2023, 19:21:25: abrovchenko begun registration
+21.09.2023, 19:41:04: abrovchenko tried to reg on 👯‍♀️ Бачата (22.09 19:30), 9 мест
+21.09.2023, 19:41:15: abrovchenko send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@abrovchenko', 'user_name': 'Аня Бровченко \U0001faf0(@abrovchenko)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.09.2023, 00:16:49: semaputnik checked registration
+22.09.2023, 09:28:59: sttsnk_d begun registration
+22.09.2023, 11:04:42: Julia_Sergina pressed Cancel or got deny
+22.09.2023, 11:25:17: Liaisan pressed Cancel or got deny
+22.09.2023, 11:26:03: Liaisan begun registration
+22.09.2023, 12:20:29: tanyaux checked registration
+22.09.2023, 12:24:18: lizzybell begun registration
+22.09.2023, 12:24:23: lizzybell tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 30 мест
+22.09.2023, 12:24:25: lizzybell pressed Cancel or got deny
+22.09.2023, 12:24:29: lizzybell checked registration
+22.09.2023, 12:24:44: lizzybell came with frsttime == 1
+22.09.2023, 12:24:49: lizzybell checked registration
+22.09.2023, 12:32:12: vreutskiy pressed Cancel or got deny
+22.09.2023, 12:32:15: vreutskiy begun registration
+22.09.2023, 12:32:31: vreutskiy tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 15 мест
+22.09.2023, 12:32:36: vreutskiy send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@vreutskiy', 'user_name': 'Вадим Реутский \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.09.2023, 12:54:39: victoribarbieri pressed Cancel or got deny
+22.09.2023, 12:54:41: victoribarbieri pressed Cancel or got deny
+22.09.2023, 12:54:47: None came with frsttime == 1
+22.09.2023, 12:54:59: None pressed Cancel or got deny
+22.09.2023, 12:55:12: None  Написал нам: Отправить
+22.09.2023, 12:55:16: None checked registration
+22.09.2023, 12:55:16: None pressed Cancel or got deny
+22.09.2023, 12:57:04: None pressed Cancel or got deny
+22.09.2023, 12:57:38: None checked registration
+22.09.2023, 12:57:38: None pressed Cancel or got deny
+22.09.2023, 12:57:51: None pressed Cancel or got deny
+22.09.2023, 12:57:55: None pressed cancel event reg
+22.09.2023, 12:57:58: None pressed give feedback
+22.09.2023, 13:05:32: vldsavelyev begun registration
+22.09.2023, 13:06:12: vldsavelyev tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 14 мест
+22.09.2023, 13:06:17: vldsavelyev send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.09.2023, 13:06:20: vldsavelyev begun registration
+22.09.2023, 13:06:25: vldsavelyev tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 30 мест
+22.09.2023, 13:06:29: vldsavelyev send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.09.2023, 13:06:32: vldsavelyev begun registration
+22.09.2023, 13:06:43: vldsavelyev tried to reg on 🥨 Cuddle Party (14.10 18:00), 7 мест
+22.09.2023, 13:06:47: vldsavelyev send for registration: {'event_id': 'recwXO7xPTrqutud0', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.09.2023, 13:06:49: vldsavelyev begun registration
+22.09.2023, 13:07:04: vldsavelyev tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+22.09.2023, 13:07:08: vldsavelyev send for registration: {'event_id': 'recebR53LQ5OlcJtq', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+22.09.2023, 13:10:10: vldsavelyev begun registration
+22.09.2023, 13:31:10: julia_kovylina begun registration
+22.09.2023, 13:46:15: ymolchanov pressed Cancel or got deny
+22.09.2023, 13:46:17: ymolchanov begun registration
+22.09.2023, 13:46:25: ymolchanov tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 14 мест
+22.09.2023, 13:46:30: ymolchanov send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@ymolchanov', 'user_name': 'Юра', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.09.2023, 13:46:55: ymolchanov checked registration
+22.09.2023, 13:49:51: vldsavelyev tried to reg on 🪷 Soulmate пикник (29.09 19:00), 1 мест
+22.09.2023, 13:50:28: vldsavelyev send for registration: {'event_id': 'rec7fX8EbclcYmjdl', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.09.2023, 13:51:53: vldsavelyev checked registration
+22.09.2023, 13:53:35: vldsavelyev pressed cancel event reg
+22.09.2023, 13:53:47: vldsavelyev want to cancel ❤️‍🔥 Паблик-ток про дейтинг
+22.09.2023, 13:54:03: vldsavelyev pressed Cancel or got deny
+22.09.2023, 13:54:06: vldsavelyev begun registration
+22.09.2023, 13:54:53: vldsavelyev pressed Cancel or got deny
+22.09.2023, 13:54:56: vldsavelyev pressed cancel event reg
+22.09.2023, 13:54:58: vldsavelyev want to cancel ❤️‍🔥 Паблик-ток про дейтинг
+22.09.2023, 13:55:31: vldsavelyev отменил ❤️‍🔥 Паблик-ток про дейтинг
+22.09.2023, 13:55:54: vldsavelyev checked registration
+22.09.2023, 13:55:57: vldsavelyev begun registration
+22.09.2023, 13:56:00: vldsavelyev tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 31 мест
+22.09.2023, 13:56:04: vldsavelyev send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.09.2023, 13:56:06: vldsavelyev checked registration
+22.09.2023, 14:14:43: julia_kovylina pressed Cancel or got deny
+22.09.2023, 14:14:46: julia_kovylina begun registration
+22.09.2023, 14:57:00: paumuap came with frsttime == 1
+22.09.2023, 14:57:04: paumuap begun registration
+22.09.2023, 14:57:07: paumuap tried to reg on 🐢 Черепаший приют (24.09 9:00), 6 мест
+22.09.2023, 14:57:18: paumuap send for registration: {'event_id': 'rec0LRDsGvna8vPek', 'user_nick': '@paumuap', 'user_name': 'Полина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.09.2023, 17:09:39: lizzybell begun registration
+22.09.2023, 17:10:07: lizzybell pressed Cancel or got deny
+22.09.2023, 17:10:09: lizzybell checked registration
+22.09.2023, 17:24:12: julia_kovylina pressed Cancel or got deny
+22.09.2023, 17:24:23: julia_kovylina begun registration
+22.09.2023, 17:45:10: sttsnk_d tried to reg on 👯‍♀️ Бачата (22.09 19:30), 6 мест
+22.09.2023, 17:45:17: sttsnk_d pressed Cancel or got deny
+22.09.2023, 17:45:19: sttsnk_d begun registration
+22.09.2023, 17:45:23: sttsnk_d tried to reg on 👯‍♀️ Бачата (22.09 19:30), 10 мест
+22.09.2023, 17:45:29: sttsnk_d send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@sttsnk_d', 'user_name': 'Дана', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.09.2023, 17:45:34: sttsnk_d checked registration
+22.09.2023, 18:10:59: olga_mzk pressed Cancel or got deny
+22.09.2023, 18:11:02: olga_mzk begun registration
+22.09.2023, 18:57:43: NinaGrinevich came with frsttime == 1
+22.09.2023, 18:57:44: NinaGrinevich came with frsttime == 1
+22.09.2023, 18:57:46: NinaGrinevich checked registration
+22.09.2023, 19:03:11: julia_kovylina pressed Cancel or got deny
+22.09.2023, 19:03:14: julia_kovylina begun registration
+22.09.2023, 19:07:42: Julia_Sergina begun registration
+22.09.2023, 19:20:33: sttsnk_d pressed cancel event reg
+22.09.2023, 19:20:40: sttsnk_d pressed Cancel or got deny
+22.09.2023, 19:40:53: Julia_Sergina pressed Cancel or got deny
+22.09.2023, 19:40:53: Julia_Sergina pressed Cancel or got deny
+22.09.2023, 19:41:30: Julia_Sergina pressed Cancel or got deny
+22.09.2023, 19:47:11: lizzybell pressed cancel event reg
+22.09.2023, 19:47:16: lizzybell pressed Cancel or got deny
+22.09.2023, 20:00:34: eternal_shining begun registration
+22.09.2023, 20:00:39: eternal_shining tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 30 мест
+22.09.2023, 20:00:42: eternal_shining pressed Cancel or got deny
+22.09.2023, 20:00:51: eternal_shining begun registration
+22.09.2023, 20:48:26: julia_kovylina pressed Cancel or got deny
+22.09.2023, 20:48:39: julia_kovylina begun registration
+22.09.2023, 20:50:58: julia_kovylina pressed Cancel or got deny
+22.09.2023, 23:32:29: dmitrii_sidenko came with frsttime == 1
+22.09.2023, 23:32:34: dmitrii_sidenko begun registration
+22.09.2023, 23:32:51: dmitrii_sidenko tried to reg on 👯‍♀️ Бачата (22.09 19:30), 8 мест
+22.09.2023, 23:33:10: dmitrii_sidenko send for registration: {'event_id': 'recSkjbBxA3kYidm1', 'user_nick': '@dmitrii_sidenko', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+23.09.2023, 00:03:36: julia_kovylina begun registration
+23.09.2023, 00:03:41: julia_kovylina pressed Cancel or got deny
+23.09.2023, 09:20:43: daria_saintp came with frsttime == 1
+23.09.2023, 09:20:54: daria_saintp begun registration
+23.09.2023, 09:21:07: daria_saintp tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+23.09.2023, 09:21:10: daria_saintp pressed Cancel or got deny
+23.09.2023, 13:53:59: julia_kovylina begun registration
+23.09.2023, 13:54:09: julia_kovylina pressed Cancel or got deny
+23.09.2023, 14:20:41: romanboston pressed Cancel or got deny
+23.09.2023, 15:35:50: Shkoterman begun registration
+23.09.2023, 15:35:57: Shkoterman pressed Cancel or got deny
+23.09.2023, 15:49:20: AlenaSkaryna came with frsttime == 1
+23.09.2023, 15:51:21: AlenaSkaryna checked registration
+23.09.2023, 16:02:09: byalexandrova begun registration
+23.09.2023, 16:04:13: byalexandrova tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+23.09.2023, 16:04:18: byalexandrova send for registration: {'event_id': 'recebR53LQ5OlcJtq', 'user_nick': '@byalexandrova', 'user_name': 'Кристина Александрова / Варфоломеева \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+23.09.2023, 16:04:34: byalexandrova begun registration
+23.09.2023, 16:26:17: None bot  hase been started
+23.09.2023, 16:26:25: None bot  hase been started
+23.09.2023, 16:31:43: TatianaSheremetova checked registration
+23.09.2023, 16:31:45: TatianaSheremetova begun registration
+23.09.2023, 16:31:48: TatianaSheremetova tried to reg on 🍷 Винное Казино (23.09 18:00), в вэйтлист
+23.09.2023, 16:39:31: julia_kovylina begun registration
+23.09.2023, 16:39:47: julia_kovylina pressed Cancel or got deny
+23.09.2023, 17:46:09: Natchepa pressed Cancel or got deny
+23.09.2023, 18:25:22: semaputnik begun registration
+23.09.2023, 18:25:40: semaputnik tried to reg on 🪷 Soulmate пикник (29.09 19:00), в вэйтлист
+23.09.2023, 18:25:43: semaputnik pressed Cancel or got deny
+23.09.2023, 18:25:50: semaputnik begun registration
+23.09.2023, 18:26:00: semaputnik tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 30 мест
+23.09.2023, 18:26:01: semaputnik pressed Cancel or got deny
+23.09.2023, 18:26:05: semaputnik begun registration
+23.09.2023, 19:27:36: lizzybell begun registration
+23.09.2023, 19:27:41: lizzybell begun registration
+23.09.2023, 21:34:41: Julia_Sergina pressed Cancel or got deny
+23.09.2023, 21:34:42: Julia_Sergina pressed Cancel or got deny
+23.09.2023, 21:54:53: lizzybell pressed Cancel or got deny
+23.09.2023, 21:54:53: lizzybell pressed Cancel or got deny
+23.09.2023, 21:54:58: lizzybell checked registration
+23.09.2023, 21:55:04: lizzybell checked registration
+23.09.2023, 23:56:25: AlenaSkaryna  Написал нам: Добрый вечер! Зарегистрировалась на завтра в поездку в черепаший приют. Можно точно узнать место и время встречи? В посте было написано 8.30 и Сантс, а в комментариях к посту уже 8.00 - не совсем понятно во сколько стартуем?
+24.09.2023, 00:22:09: f_victory pressed Cancel or got deny
+24.09.2023, 00:31:47: iam_poline pressed Cancel or got deny
+24.09.2023, 00:31:49: iam_poline begun registration
+24.09.2023, 00:33:18: iam_poline tried to reg on 🥨 Cuddle Party (14.10 18:00), 6 мест
+24.09.2023, 00:33:21: iam_poline pressed Cancel or got deny
+24.09.2023, 00:33:27: iam_poline begun registration
+24.09.2023, 00:33:31: iam_poline tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 16:00), 30 мест
+24.09.2023, 00:33:33: iam_poline pressed Cancel or got deny
+24.09.2023, 00:35:18: iam_poline begun registration
+24.09.2023, 00:35:23: iam_poline tried to reg on 🪷 Soulmate пикник (29.09 19:00), в вэйтлист
+24.09.2023, 00:35:25: iam_poline pressed Cancel or got deny
+24.09.2023, 11:53:45: Liaisan pressed Cancel or got deny
+24.09.2023, 11:53:51: Liaisan begun registration
+24.09.2023, 13:52:15: Garkusha_Evgenyi pressed Cancel or got deny
+24.09.2023, 13:52:39: Garkusha_Evgenyi pressed Cancel or got deny
+24.09.2023, 14:12:49: ProfanumVulgus pressed Cancel or got deny
+24.09.2023, 14:12:54: ProfanumVulgus came with frsttime == 1
+24.09.2023, 14:12:56: ProfanumVulgus checked registration
+24.09.2023, 14:13:06: ProfanumVulgus begun registration
+24.09.2023, 14:13:17: ProfanumVulgus pressed Cancel or got deny
+24.09.2023, 14:51:22: None came with frsttime == 1
+24.09.2023, 17:11:45: vldsavelyev checked registration
+24.09.2023, 17:12:11: vldsavelyev begun registration
+24.09.2023, 17:12:22: vldsavelyev pressed Cancel or got deny
+24.09.2023, 20:11:40: klmvksn checked registration
+24.09.2023, 22:54:04: lizzybell checked registration
+25.09.2023, 00:55:12: julia_kovylina begun registration
+25.09.2023, 00:55:25: julia_kovylina pressed Cancel or got deny
+25.09.2023, 13:21:48: anna_smolyar pressed Cancel or got deny
+25.09.2023, 13:21:51: anna_smolyar begun registration
+25.09.2023, 13:21:56: anna_smolyar tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 30 мест
+25.09.2023, 13:22:02: anna_smolyar send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@anna_smolyar', 'user_name': 'Аня Смоляр', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 13:26:13: Liaisan pressed Cancel or got deny
+25.09.2023, 13:26:14: Liaisan begun registration
+25.09.2023, 13:28:53: ivan_dashkevich begun registration
+25.09.2023, 13:30:18: ivan_dashkevich pressed Cancel or got deny
+25.09.2023, 13:30:21: ivan_dashkevich checked registration
+25.09.2023, 13:32:33: Julia_Sergina pressed Cancel or got deny
+25.09.2023, 13:32:50: ivan_dashkevich begun registration
+25.09.2023, 13:32:53: ivan_dashkevich tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 13 мест
+25.09.2023, 13:32:54: ivan_dashkevich pressed Cancel or got deny
+25.09.2023, 13:32:56: ivan_dashkevich checked registration
+25.09.2023, 13:33:00: ivan_dashkevich begun registration
+25.09.2023, 13:52:17: ElinaKisska pressed Cancel or got deny
+25.09.2023, 13:52:20: ElinaKisska begun registration
+25.09.2023, 13:52:43: ElinaKisska pressed Cancel or got deny
+25.09.2023, 13:56:37: mirovoy_desert pressed Cancel or got deny
+25.09.2023, 14:01:14: ymolchanov begun registration
+25.09.2023, 14:01:19: ymolchanov tried to reg on 📚 Книжный клуб (1.10 16:00), 2 мест
+25.09.2023, 14:01:21: ymolchanov pressed Cancel or got deny
+25.09.2023, 14:01:26: ymolchanov checked registration
+25.09.2023, 14:01:36: ymolchanov checked registration
+25.09.2023, 14:02:17: ymolchanov begun registration
+25.09.2023, 14:03:39: Gudkova_Anna pressed Cancel or got deny
+25.09.2023, 14:03:41: Gudkova_Anna begun registration
+25.09.2023, 14:03:50: Gudkova_Anna pressed Cancel or got deny
+25.09.2023, 14:16:29: preguntasproblemas begun registration
+25.09.2023, 14:16:38: preguntasproblemas tried to reg on 💃🕺 Линди-хоп (1.10 19:00), 25 мест
+25.09.2023, 14:16:44: preguntasproblemas send for registration: {'event_id': 'recQNutdAoR6GaoQb', 'user_nick': '@preguntasproblemas', 'user_name': 'Анастасия Тарасова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 14:43:45: TatianaSheremetova pressed Cancel or got deny
+25.09.2023, 14:43:49: TatianaSheremetova begun registration
+25.09.2023, 14:43:55: TatianaSheremetova tried to reg on 📚 Книжный клуб (1.10 16:00), 2 мест
+25.09.2023, 14:44:01: TatianaSheremetova send for registration: {'event_id': 'recqNTVhc2rupQl7a', 'user_nick': '@tatianasheremetova', 'user_name': 'Татьяна Шереметова 🍷\U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 15:40:14: n_e_o_0 pressed Cancel or got deny
+25.09.2023, 15:40:18: n_e_o_0 begun registration
+25.09.2023, 15:40:29: n_e_o_0 tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 30 мест
+25.09.2023, 15:40:36: n_e_o_0 send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@n_e_o_0', 'user_name': 'Евгения Наумова', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 15:46:41: elyavia begun registration
+25.09.2023, 15:46:48: elyavia tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 29 мест
+25.09.2023, 15:47:02: elyavia send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@elyavia', 'user_name': 'Эля Вяловая', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+25.09.2023, 15:49:35: anna_smolyar begun registration
+25.09.2023, 15:49:40: anna_smolyar tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 28 мест
+25.09.2023, 15:49:42: anna_smolyar pressed Cancel or got deny
+25.09.2023, 15:51:08: anna_smolyar begun registration
+25.09.2023, 15:52:57: SanyaGalakt begun registration
+25.09.2023, 15:53:26: SanyaGalakt tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 28 мест
+25.09.2023, 15:53:31: SanyaGalakt send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@sanyagalakt', 'user_name': 'Саша Галактионова (дочь Насти Хор)', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 15:53:33: SanyaGalakt begun registration
+25.09.2023, 15:53:37: SanyaGalakt tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 27 мест
+25.09.2023, 15:53:40: SanyaGalakt send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@sanyagalakt', 'user_name': 'Саша Галактионова (дочь Насти Хор)', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 15:54:02: SanyaGalakt checked registration
+25.09.2023, 15:58:29: marinanemariya begun registration
+25.09.2023, 15:59:12: maxibello came with frsttime == 1
+25.09.2023, 15:59:21: maxibello begun registration
+25.09.2023, 15:59:36: maxibello tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 27 мест
+25.09.2023, 15:59:42: marinanemariya tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 26 мест
+25.09.2023, 15:59:44: maxibello send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@maxibello', 'user_name': 'Максим Кузнецов (@maxibello)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 16:00:01: marinanemariya send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@marinanemariya', 'user_name': 'Марина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 16:00:02: maxibello begun registration
+25.09.2023, 16:00:09: marinanemariya begun registration
+25.09.2023, 16:00:11: marinanemariya tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 26 мест
+25.09.2023, 16:00:15: marinanemariya send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@marinanemariya', 'user_name': 'Марина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 16:00:23: maxibello tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 25 мест
+25.09.2023, 16:00:29: maxibello send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@maxibello', 'user_name': 'Максим Кузнецов (@maxibello)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 16:03:30: lfeygin checked registration
+25.09.2023, 16:11:19: lfeygin pressed Cancel or got deny
+25.09.2023, 16:11:23: lfeygin checked registration
+25.09.2023, 16:12:07: lfeygin checked registration
+25.09.2023, 16:18:22: victoria_hbg begun registration
+25.09.2023, 16:18:33: victoria_hbg tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 25 мест
+25.09.2023, 16:18:40: victoria_hbg send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@victoria_hbg', 'user_name': 'Victoria Holmberg', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 16:18:54: victoria_hbg begun registration
+25.09.2023, 16:18:57: victoria_hbg tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 23 мест
+25.09.2023, 16:19:01: victoria_hbg send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@victoria_hbg', 'user_name': 'Victoria Holmberg', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+25.09.2023, 16:19:15: victoria_hbg checked registration
+25.09.2023, 16:19:28: victoria_hbg  Написал нам: Отмена
+25.09.2023, 16:19:30: victoria_hbg checked registration
+25.09.2023, 16:20:11: lfeygin checked registration
+25.09.2023, 16:22:36: Anastasia_De_Fin pressed Cancel or got deny
+25.09.2023, 16:22:43: Anastasia_De_Fin begun registration
+25.09.2023, 16:22:49: Anastasia_De_Fin tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 23 мест
+25.09.2023, 16:23:02: Anastasia_De_Fin send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@anastasia_de_fin', 'user_name': 'Анастасия', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+25.09.2023, 16:24:46: lfeygin begun registration
+25.09.2023, 16:25:32: ensalada_bot pressed Cancel or got deny
+25.09.2023, 16:25:34: lfeygin checked registration
+25.09.2023, 16:31:49: emkozharina begun registration
+25.09.2023, 16:32:10: emkozharina tried to reg on 🥨 Cuddle Party (14.10 18:00), 6 мест
+25.09.2023, 16:32:13: emkozharina pressed Cancel or got deny
+25.09.2023, 16:58:39: les0rub came with frsttime == 1
+25.09.2023, 16:58:48: les0rub begun registration
+25.09.2023, 16:58:53: les0rub tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 22 мест
+25.09.2023, 16:59:02: les0rub send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@les0rub', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+25.09.2023, 16:59:44: les0rub checked registration
+25.09.2023, 17:00:53: n_e_o_0 pressed Cancel or got deny
+25.09.2023, 17:00:58: n_e_o_0 checked registration
+25.09.2023, 17:01:36: lizzybell begun registration
+25.09.2023, 17:01:48: lizzybell tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 20 мест
+25.09.2023, 17:01:53: lizzybell send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 17:02:00: lizzybell checked registration
+25.09.2023, 17:02:07: lizzybell checked registration
+25.09.2023, 17:04:29: les0rub pressed Cancel or got deny
+25.09.2023, 17:07:01: edragalina pressed Cancel or got deny
+25.09.2023, 17:07:04: edragalina begun registration
+25.09.2023, 17:08:49: Anandia1 pressed Cancel or got deny
+25.09.2023, 17:08:50: Anandia1 begun registration
+25.09.2023, 17:08:55: Anandia1 tried to reg on 📚 Книжный клуб (1.10 16:00), 1 мест
+25.09.2023, 17:09:00: Anandia1 send for registration: {'event_id': 'recqNTVhc2rupQl7a', 'user_nick': '@anandia1', 'user_name': 'Надя Макарова', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 17:13:43: julia_kovylina begun registration
+25.09.2023, 17:13:50: julia_kovylina pressed Cancel or got deny
+25.09.2023, 17:14:04: julia_kovylina begun registration
+25.09.2023, 17:17:22: vldsavelyev begun registration
+25.09.2023, 17:17:33: ensalada_bot pressed Cancel or got deny
+25.09.2023, 17:17:35: vldsavelyev checked registration
+25.09.2023, 17:18:00: vldsavelyev checked registration
+25.09.2023, 17:18:05: vldsavelyev begun registration
+25.09.2023, 17:18:49: vldsavelyev pressed Cancel or got deny
+25.09.2023, 17:18:53: vldsavelyev pressed cancel event reg
+25.09.2023, 17:20:22: vldsavelyev pressed cancel event reg
+25.09.2023, 17:30:47: n_e_o_0 begun registration
+25.09.2023, 17:31:01: n_e_o_0 tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 20 мест
+25.09.2023, 17:31:07: n_e_o_0 send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@n_e_o_0', 'user_name': 'Евгения Наумова', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 17:31:30: n_e_o_0 checked registration
+25.09.2023, 17:32:37: n_e_o_0 begun registration
+25.09.2023, 17:35:25: armeec35 came with frsttime == 1
+25.09.2023, 17:35:33: armeec35 begun registration
+25.09.2023, 17:37:07: anna_smolyar pressed Cancel or got deny
+25.09.2023, 17:37:09: anna_smolyar begun registration
+25.09.2023, 17:37:15: anna_smolyar pressed Cancel or got deny
+25.09.2023, 17:43:49: ksenyamalykh begun registration
+25.09.2023, 17:44:06: ksenyamalykh tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 19 мест
+25.09.2023, 17:44:13: ksenyamalykh send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@ksenyamalykh', 'user_name': 'Ксения Малых', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 17:45:51: vldsavelyev pressed cancel event reg
+25.09.2023, 17:45:58: vldsavelyev begun registration
+25.09.2023, 17:46:02: vldsavelyev tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 18 мест
+25.09.2023, 17:46:07: vldsavelyev send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@vldsavelyev', 'user_name': 'Влад', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 17:54:25: julia_kovylina pressed Cancel or got deny
+25.09.2023, 17:54:27: julia_kovylina begun registration
+25.09.2023, 18:48:30: polikarpiiy came with frsttime == 1
+25.09.2023, 18:48:33: polikarpiiy begun registration
+25.09.2023, 18:49:32: polikarpiiy tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 26 мест
+25.09.2023, 18:49:39: polikarpiiy send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@polikarpiiy', 'user_name': 'Полина (@polikarpiiy)', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 18:49:56: polikarpiiy begun registration
+25.09.2023, 18:49:58: polikarpiiy tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 17 мест
+25.09.2023, 18:50:02: polikarpiiy send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@polikarpiiy', 'user_name': 'Полина (@polikarpiiy)', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 19:50:56: ksenyamalykh begun registration
+25.09.2023, 19:52:04: ksenyamalykh pressed Cancel or got deny
+25.09.2023, 20:24:58: Irina3el begun registration
+25.09.2023, 20:25:06: Irina3el tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 15 мест
+25.09.2023, 20:25:16: Irina3el send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@irina3el', 'user_name': 'Ира Зеленова\U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 20:25:53: spbstom_polya begun registration
+25.09.2023, 20:26:06: spbstom_polya pressed Cancel or got deny
+25.09.2023, 20:26:52: AlexM_Spain begun registration
+25.09.2023, 20:28:03: vasvas13 begun registration
+25.09.2023, 20:28:06: vasvas13 tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+25.09.2023, 20:28:16: vasvas13 send for registration: {'event_id': 'recebR53LQ5OlcJtq', 'user_nick': '@vasvas13', 'user_name': 'Вася', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+25.09.2023, 20:29:41: dakutuzov begun registration
+25.09.2023, 20:29:51: dakutuzov tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 23 мест
+25.09.2023, 20:38:04: nellyoftheworld came with frsttime == 1
+25.09.2023, 20:38:08: nellyoftheworld begun registration
+25.09.2023, 20:38:15: nellyoftheworld tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 23 мест
+25.09.2023, 20:38:26: nellyoftheworld send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@nellyoftheworld', 'user_name': 'Нелли', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+25.09.2023, 20:39:10: nellyoftheworld checked registration
+25.09.2023, 20:39:58: julia_kovylina pressed Cancel or got deny
+25.09.2023, 20:40:00: julia_kovylina begun registration
+25.09.2023, 20:40:41: julia_kovylina tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 22 мест
+25.09.2023, 20:40:43: nellyoftheworld begun registration
+25.09.2023, 20:40:46: julia_kovylina send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@julia_kovylina', 'user_name': 'Юля Ковылина (@julia_kovylina)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 20:40:51: nellyoftheworld tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 14 мест
+25.09.2023, 20:40:55: nellyoftheworld send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@nellyoftheworld', 'user_name': 'Нелли', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 20:41:12: nellyoftheworld  Написал нам: Можно оплатить сразу два мероприятия?
+25.09.2023, 20:51:11: anna_smolyar begun registration
+25.09.2023, 20:59:16: Shamil_Abd begun registration
+25.09.2023, 21:01:30: julia_kovylina begun registration
+25.09.2023, 21:01:56: julia_kovylina pressed Cancel or got deny
+25.09.2023, 21:13:36: Liaisan pressed Cancel or got deny
+25.09.2023, 21:13:40: Liaisan begun registration
+25.09.2023, 21:13:47: zinvur came with frsttime == 1
+25.09.2023, 21:30:54: iampollya begun registration
+25.09.2023, 21:31:09: iampollya tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 13 мест
+25.09.2023, 21:31:37: ensalada_bot pressed Cancel or got deny
+25.09.2023, 21:31:42: iampollya begun registration
+25.09.2023, 21:31:44: iampollya tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 13 мест
+25.09.2023, 21:36:10: iampollya send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@iampollya', 'user_name': 'Полина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.09.2023, 21:47:28: oxana_molchanova begun registration
+25.09.2023, 21:50:34: oxana_molchanova pressed Cancel or got deny
+25.09.2023, 21:50:37: oxana_molchanova checked registration
+25.09.2023, 21:51:38: oxana_molchanova checked registration
+25.09.2023, 21:52:12: oxana_molchanova checked registration
+25.09.2023, 22:43:04: InverseNova checked registration
+25.09.2023, 22:43:18: InverseNova came with frsttime == 1
+25.09.2023, 22:43:24: InverseNova checked registration
+25.09.2023, 22:43:55: InverseNova begun registration
+25.09.2023, 23:01:47: julia_kovylina begun registration
+25.09.2023, 23:02:01: julia_kovylina pressed Cancel or got deny
+26.09.2023, 01:03:58: julia_kovylina begun registration
+26.09.2023, 04:56:53: krisstykris begun registration
+26.09.2023, 04:57:15: krisstykris tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 12 мест
+26.09.2023, 04:57:22: krisstykris send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@krisstykris', 'user_name': 'Кристина Прудникова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 07:30:36: anna_smolyar pressed Cancel or got deny
+26.09.2023, 07:30:39: anna_smolyar begun registration
+26.09.2023, 07:30:55: anna_smolyar pressed Cancel or got deny
+26.09.2023, 07:30:58: anna_smolyar checked registration
+26.09.2023, 08:43:00: AlinaPsyamo checked registration
+26.09.2023, 08:43:16: AlinaPsyamo pressed cancel event reg
+26.09.2023, 08:43:27: AlinaPsyamo begun registration
+26.09.2023, 08:43:35: AlinaPsyamo pressed Cancel or got deny
+26.09.2023, 08:43:39: AlinaPsyamo pressed cancel event reg
+26.09.2023, 08:44:04: AlinaPsyamo checked registration
+26.09.2023, 10:51:48: julia_kovylina pressed Cancel or got deny
+26.09.2023, 10:51:50: julia_kovylina begun registration
+26.09.2023, 10:52:06: julia_kovylina pressed Cancel or got deny
+26.09.2023, 11:50:27: TatianaSheremetova begun registration
+26.09.2023, 11:58:53: Liaisan pressed Cancel or got deny
+26.09.2023, 11:59:09: Liaisan begun registration
+26.09.2023, 12:10:49: vldsavelyev checked registration
+26.09.2023, 12:11:25: vldsavelyev  Написал нам: Бот сломался и не показывать "мои регистрации" :(
+26.09.2023, 12:12:18: Julia_Sergina checked registration
+26.09.2023, 12:12:34: Julia_Sergina begun registration
+26.09.2023, 12:12:38: Julia_Sergina pressed Cancel or got deny
+26.09.2023, 12:13:06: Shkoterman begun registration
+26.09.2023, 12:13:09: Shkoterman pressed Cancel or got deny
+26.09.2023, 12:13:10: Shkoterman checked registration
+26.09.2023, 12:14:23: None came with frsttime == 1
+26.09.2023, 12:15:00: Shkoterman checked registration
+26.09.2023, 12:15:11: None bot  hase been started
+26.09.2023, 12:15:18: Shkoterman checked registration
+26.09.2023, 12:15:23: None came with frsttime == 1
+26.09.2023, 12:15:36: None begun registration
+26.09.2023, 12:15:36: None pressed Cancel or got deny
+26.09.2023, 12:15:55: Shkoterman checked registration
+26.09.2023, 12:17:23: vldsavelyev checked registration
+26.09.2023, 12:17:36: vldsavelyev pressed cancel event reg
+26.09.2023, 12:17:41: vldsavelyev pressed Cancel or got deny
+26.09.2023, 12:17:48: vldsavelyev begun registration
+26.09.2023, 12:18:07: vldsavelyev pressed Cancel or got deny
+26.09.2023, 12:18:09: vldsavelyev pressed cancel event reg
+26.09.2023, 12:18:14: vldsavelyev want to cancel 🏄‍♀️ Сапы два
+26.09.2023, 12:18:25: vldsavelyev отменил 🏄‍♀️ Сапы два
+26.09.2023, 12:30:51: NArthurN begun registration
+26.09.2023, 12:31:29: NArthurN tried to reg on 💃🕺 Линди-хоп (1.10 19:00), 24 мест
+26.09.2023, 12:31:35: NArthurN send for registration: {'event_id': 'recQNutdAoR6GaoQb', 'user_nick': '@narthurn', 'user_name': 'Артур Никитшин \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 12:31:38: NArthurN checked registration
+26.09.2023, 12:31:43: NArthurN checked registration
+26.09.2023, 12:31:44: NArthurN begun registration
+26.09.2023, 13:19:30: julia_kovylina begun registration
+26.09.2023, 13:19:43: julia_kovylina pressed Cancel or got deny
+26.09.2023, 13:26:15: Julia_Sergina begun registration
+26.09.2023, 13:41:47: None came with frsttime == 1
+26.09.2023, 13:41:55: None begun registration
+26.09.2023, 13:41:55: None pressed Cancel or got deny
+26.09.2023, 13:45:57: timetoliveabeautifullife begun registration
+26.09.2023, 13:46:15: timetoliveabeautifullife tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+26.09.2023, 13:46:31: timetoliveabeautifullife send for registration: {'event_id': 'recebR53LQ5OlcJtq', 'user_nick': '@timetoliveabeautifullife', 'user_name': 'Alena', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+26.09.2023, 13:46:56: timetoliveabeautifullife begun registration
+26.09.2023, 13:47:00: timetoliveabeautifullife tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 11 мест
+26.09.2023, 13:47:07: timetoliveabeautifullife send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@timetoliveabeautifullife', 'user_name': 'Alena', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 14:40:55: heeyangelina begun registration
+26.09.2023, 14:41:01: heeyangelina tried to reg on 📚 Книжный клуб (1.10 16:00), в вэйтлист
+26.09.2023, 14:41:06: heeyangelina send for registration: {'event_id': 'recqNTVhc2rupQl7a', 'user_nick': '@heeyangelina', 'user_name': 'Ангелина', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+26.09.2023, 14:45:32: julia_kovylina begun registration
+26.09.2023, 14:45:37: julia_kovylina pressed Cancel or got deny
+26.09.2023, 14:56:13: Cringegal begun registration
+26.09.2023, 14:58:12: Cringegal tried to reg on 🪷 Soulmate пикник (29.09 19:00), 1 мест
+26.09.2023, 14:58:43: Cringegal pressed Cancel or got deny
+26.09.2023, 14:58:44: Cringegal begun registration
+26.09.2023, 14:59:14: Cringegal tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 10 мест
+26.09.2023, 14:59:28: Cringegal send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@cringegal', 'user_name': 'Настя Павлюк \U0001faf0 (1825)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 15:16:03: SofyaGal begun registration
+26.09.2023, 15:16:07: SofyaGal tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 8 мест
+26.09.2023, 15:16:12: SofyaGal send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@sofyagal', 'user_name': 'Софья Галактионова (дочка Насти)', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 15:44:13: julia_kovylina begun registration
+26.09.2023, 15:44:31: julia_kovylina pressed Cancel or got deny
+26.09.2023, 16:00:15: AlinaPsyamo pressed cancel event reg
+26.09.2023, 16:00:28: AlinaPsyamo want to cancel 🏄‍♀️ Сапы два
+26.09.2023, 16:00:44: AlinaPsyamo отменил 🏄‍♀️ Сапы два
+26.09.2023, 16:00:52: AlinaPsyamo pressed cancel event reg
+26.09.2023, 16:00:55: AlinaPsyamo want to cancel 🪷 Soulmate пикник
+26.09.2023, 16:01:02: AlinaPsyamo отменил 🪷 Soulmate пикник
+26.09.2023, 16:07:21: armeec35 pressed Cancel or got deny
+26.09.2023, 16:07:29: armeec35 begun registration
+26.09.2023, 16:07:36: armeec35 tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 20 мест
+26.09.2023, 16:07:42: marinanemariya checked registration
+26.09.2023, 16:07:49: marinanemariya begun registration
+26.09.2023, 16:07:58: ensalada_bot pressed Cancel or got deny
+26.09.2023, 16:08:00: armeec35 begun registration
+26.09.2023, 16:08:04: armeec35 tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 20 мест
+26.09.2023, 16:08:10: armeec35 send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@armeec35', 'user_name': 'Виктор (armeec35 / армеец)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+26.09.2023, 16:08:24: timetoliveabeautifullife pressed Cancel or got deny
+26.09.2023, 16:08:28: timetoliveabeautifullife checked registration
+26.09.2023, 16:08:42: armeec35 begun registration
+26.09.2023, 16:08:47: armeec35 tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 19 мест
+26.09.2023, 16:08:52: armeec35 send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@armeec35', 'user_name': 'Виктор (armeec35 / армеец)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+26.09.2023, 16:09:41: marinanemariya tried to reg on 🥨 Cuddle Party (14.10 18:00), 6 мест
+26.09.2023, 16:09:43: marinanemariya pressed Cancel or got deny
+26.09.2023, 16:15:18: armeec35  Написал нам: Добрый день!Отправил 30 евро на спид дейтинг,но не указал в комментариях никнейм
+26.09.2023, 16:48:06: julia_kovylina begun registration
+26.09.2023, 16:48:12: julia_kovylina pressed Cancel or got deny
+26.09.2023, 17:02:37: Liaisan pressed Cancel or got deny
+26.09.2023, 17:02:38: Liaisan begun registration
+26.09.2023, 19:05:11: Shkoterman begun registration
+26.09.2023, 19:05:24: Shkoterman pressed Cancel or got deny
+26.09.2023, 19:15:22: Shkoterman begun registration
+26.09.2023, 19:15:25: Shkoterman tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+26.09.2023, 19:15:33: Shkoterman send for registration: {'event_id': 'recebR53LQ5OlcJtq', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+26.09.2023, 19:15:41: Shkoterman checked registration
+26.09.2023, 19:16:14: Shkoterman checked registration
+26.09.2023, 19:18:32: Shkoterman pressed Cancel or got deny
+26.09.2023, 19:18:41: poyw812 checked registration
+26.09.2023, 19:19:24: poyw812 pressed Cancel or got deny
+26.09.2023, 19:19:31: poyw812 pressed Cancel or got deny
+26.09.2023, 19:19:45: poyw812 pressed Cancel or got deny
+26.09.2023, 19:20:09: Shkoterman pressed Cancel or got deny
+26.09.2023, 19:20:10: loverinovich pressed Cancel or got deny
+26.09.2023, 19:25:03: Shkoterman pressed Cancel or got deny
+26.09.2023, 19:37:23: Shkoterman pressed Cancel or got deny
+26.09.2023, 20:12:52: oleada_o begun registration
+26.09.2023, 20:16:45: oleada_o tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 7 мест
+26.09.2023, 20:16:50: oleada_o send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@oleada_o', 'user_name': 'Ольга Поленова', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 20:55:46: oleksandr_glotka begun registration
+26.09.2023, 20:56:01: oleksandr_glotka tried to reg on 🥨 Cuddle Party (14.10 18:00), 6 мест
+26.09.2023, 20:56:04: oleksandr_glotka pressed Cancel or got deny
+26.09.2023, 20:56:09: oleksandr_glotka begun registration
+26.09.2023, 20:56:24: oleksandr_glotka tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 18 мест
+26.09.2023, 20:56:28: oleksandr_glotka send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@oleksandr_glotka', 'user_name': 'Александр', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 21:02:11: oleksandr_glotka begun registration
+26.09.2023, 21:02:13: oleksandr_glotka tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+26.09.2023, 21:02:18: oleksandr_glotka pressed Cancel or got deny
+26.09.2023, 21:02:19: oleksandr_glotka begun registration
+26.09.2023, 21:02:26: oleksandr_glotka tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 17 мест
+26.09.2023, 21:02:31: oleksandr_glotka send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@oleksandr_glotka', 'user_name': 'Александр', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 21:02:47: oleksandr_glotka checked registration
+26.09.2023, 21:30:43: victoria_hbg checked registration
+26.09.2023, 21:30:50: victoria_hbg pressed cancel event reg
+26.09.2023, 21:49:33: Nickphotobarcelona begun registration
+26.09.2023, 21:49:34: AlenaSkaryna checked registration
+26.09.2023, 21:56:18: AlenaSkaryna begun registration
+26.09.2023, 21:56:27: AlenaSkaryna tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 17 мест
+26.09.2023, 21:56:38: AlenaSkaryna send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@alenaskaryna', 'user_name': 'Лена Скарина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 21:56:44: AlenaSkaryna begun registration
+26.09.2023, 21:56:49: AlenaSkaryna tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 16 мест
+26.09.2023, 21:56:57: AlenaSkaryna send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@alenaskaryna', 'user_name': 'Лена Скарина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.09.2023, 22:58:27: kekleg came with frsttime == 1
+26.09.2023, 22:58:35: kekleg begun registration
+26.09.2023, 22:58:42: kekleg tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 5 мест
+26.09.2023, 22:58:57: kekleg send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@kekleg', 'user_name': 'Дмитрий Груздев', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+26.09.2023, 23:22:35: Liaisan pressed Cancel or got deny
+26.09.2023, 23:22:37: Liaisan begun registration
+26.09.2023, 23:39:17: julia_kovylina begun registration
+26.09.2023, 23:50:05: Liaisan pressed Cancel or got deny
+26.09.2023, 23:50:07: Liaisan begun registration
+26.09.2023, 23:50:33: iamdilyaram came with frsttime == 1
+26.09.2023, 23:50:39: iamdilyaram begun registration
+26.09.2023, 23:51:16: iamdilyaram tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 4 мест
+26.09.2023, 23:51:23: None came with frsttime == 1
+26.09.2023, 23:51:33: ensalada_bot pressed Cancel or got deny
+26.09.2023, 23:51:33: None begun registration
+26.09.2023, 23:51:34: None pressed Cancel or got deny
+26.09.2023, 23:51:42: iamdilyaram begun registration
+26.09.2023, 23:51:44: iamdilyaram tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 4 мест
+26.09.2023, 23:51:51: iamdilyaram send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@iamdilyaram', 'user_name': 'Диляра', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+26.09.2023, 23:56:39: isinig came with frsttime == 1
+26.09.2023, 23:56:46: isinig begun registration
+26.09.2023, 23:57:49: T4TI_I begun registration
+26.09.2023, 23:58:25: T4TI_I tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 15 мест
+26.09.2023, 23:58:27: T4TI_I pressed Cancel or got deny
+26.09.2023, 23:58:42: T4TI_I send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@t4ti_i', 'user_name': 'Tatiana', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+27.09.2023, 00:00:46: T4TI_I begun registration
+27.09.2023, 00:00:48: T4TI_I tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 14 мест
+27.09.2023, 00:00:52: T4TI_I send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@t4ti_i', 'user_name': 'Tatiana', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+27.09.2023, 00:20:22: byalexandrova pressed Cancel or got deny
+27.09.2023, 00:20:26: byalexandrova checked registration
+27.09.2023, 00:22:13: byalexandrova  Написал нам: Привет! Хочу узнать про сапы - я там в вейт листе все еще или нет?
+27.09.2023, 07:23:46: None came with frsttime == 1
+27.09.2023, 07:23:47: None came with frsttime == 1
+27.09.2023, 07:23:54: None begun registration
+27.09.2023, 07:23:54: None pressed Cancel or got deny
+27.09.2023, 07:39:04: lauralaia came with frsttime == 1
+27.09.2023, 07:39:17: lauralaia begun registration
+27.09.2023, 08:38:04: egoroved came with frsttime == 1
+27.09.2023, 08:38:12: egoroved begun registration
+27.09.2023, 09:23:16: Liaisan pressed Cancel or got deny
+27.09.2023, 09:23:19: Liaisan begun registration
+27.09.2023, 09:50:51: julia_kovylina pressed Cancel or got deny
+27.09.2023, 09:50:53: julia_kovylina begun registration
+27.09.2023, 09:51:29: julia_kovylina pressed Cancel or got deny
+27.09.2023, 10:06:14: None came with frsttime == 1
+27.09.2023, 10:06:47: None begun registration
+27.09.2023, 10:06:48: None pressed Cancel or got deny
+27.09.2023, 10:10:31: SVadim1977 begun registration
+27.09.2023, 10:10:45: SVadim1977 tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 3 мест
+27.09.2023, 10:11:03: SVadim1977 send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@svadim1977', 'user_name': 'Вадим', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+27.09.2023, 10:21:49: SVadim1977 pressed Cancel or got deny
+27.09.2023, 10:25:20: Orlyom came with frsttime == 1
+27.09.2023, 10:25:40: Orlyom begun registration
+27.09.2023, 11:10:38: anna_smolyar begun registration
+27.09.2023, 11:11:16: Julia_Sergina pressed Cancel or got deny
+27.09.2023, 11:13:36: julia_kovylina begun registration
+27.09.2023, 11:14:12: apromaximum came with frsttime == 1
+27.09.2023, 11:14:18: apromaximum begun registration
+27.09.2023, 11:14:25: apromaximum tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 13 мест
+27.09.2023, 11:14:31: apromaximum send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@apromaximum', 'user_name': 'Александр', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+27.09.2023, 11:17:21: Julia_Sergina pressed Cancel or got deny
+27.09.2023, 11:28:36: lapeppi came with frsttime == 1
+27.09.2023, 11:28:49: lapeppi begun registration
+27.09.2023, 11:29:16: lapeppi pressed Cancel or got deny
+27.09.2023, 11:34:03: lizzybell checked registration
+27.09.2023, 11:37:17: Anastasia_De_Fin begun registration
+27.09.2023, 13:04:47: ElinaKisska begun registration
+27.09.2023, 13:05:01: ElinaKisska tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 7 мест
+27.09.2023, 13:05:07: ElinaKisska send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@elinakisska', 'user_name': 'Элина Нагави (@ElinaKisska)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+27.09.2023, 13:05:24: ElinaKisska begun registration
+27.09.2023, 13:05:29: ElinaKisska tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 14 мест
+27.09.2023, 13:05:32: ElinaKisska send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@elinakisska', 'user_name': 'Элина Нагави (@ElinaKisska)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+27.09.2023, 13:20:06: sttsnk_d begun registration
+27.09.2023, 13:21:40: sttsnk_d tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 2 мест
+27.09.2023, 13:21:45: sttsnk_d send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@sttsnk_d', 'user_name': 'Дана', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+27.09.2023, 13:22:11: sttsnk_d begun registration
+27.09.2023, 13:50:06: Liaisan pressed Cancel or got deny
+27.09.2023, 13:50:10: Liaisan begun registration
+27.09.2023, 14:36:32: Gudkova_Anna begun registration
+27.09.2023, 14:36:49: Gudkova_Anna pressed Cancel or got deny
+27.09.2023, 14:45:01: ElinaKisska checked registration
+27.09.2023, 16:09:16: YuliaSolomatova pressed Cancel or got deny
+27.09.2023, 16:09:22: YuliaSolomatova begun registration
+27.09.2023, 16:09:27: YuliaSolomatova tried to reg on 🎭 Театральная лаборатория (30.09 13:00), 1 мест
+27.09.2023, 16:10:01: YuliaSolomatova send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@yuliasolomatova', 'user_name': 'Юлия', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+27.09.2023, 16:23:14: klmvksn begun registration
+27.09.2023, 16:25:47: klmvksn tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 6 мест
+27.09.2023, 16:26:21: klmvksn send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@klmvksn', 'user_name': 'Оксана Климова', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+27.09.2023, 16:26:35: klmvksn checked registration
+27.09.2023, 17:22:52: julia_kovylina pressed Cancel or got deny
+27.09.2023, 17:22:59: julia_kovylina begun registration
+27.09.2023, 18:38:13: oleada_o checked registration
+27.09.2023, 19:39:14: klmvksn checked registration
+27.09.2023, 19:39:23: klmvksn pressed cancel event reg
+27.09.2023, 19:39:26: klmvksn want to cancel ❤️‍🔥 Спид-дейтинг
+27.09.2023, 19:39:33: klmvksn отменил ❤️‍🔥 Спид-дейтинг
+27.09.2023, 19:39:38: klmvksn pressed give feedback
+27.09.2023, 19:39:40: klmvksn pressed Cancel or got deny
+27.09.2023, 19:39:42: klmvksn checked registration
+27.09.2023, 19:55:13: YuliaSolomatova checked registration
+27.09.2023, 20:09:20: Liaisan pressed Cancel or got deny
+27.09.2023, 20:09:22: Liaisan begun registration
+27.09.2023, 20:25:11: pkv5359 begun registration
+27.09.2023, 20:41:28: Daria_Borovik_me came with frsttime == 1
+27.09.2023, 20:41:37: Daria_Borovik_me begun registration
+27.09.2023, 20:42:03: Daria_Borovik_me tried to reg on 📚 Книжный клуб (1.10 16:00), 1 мест
+27.09.2023, 20:43:43: Daria_Borovik_me send for registration: {'event_id': 'recqNTVhc2rupQl7a', 'user_nick': '@daria_borovik_me', 'user_name': '/start', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+27.09.2023, 20:44:06: Daria_Borovik_me pressed cancel event reg
+27.09.2023, 20:44:11: Daria_Borovik_me want to cancel 📚 Книжный клуб
+27.09.2023, 20:44:52: ensalada_bot pressed Cancel or got deny
+27.09.2023, 20:44:57: Daria_Borovik_me checked registration
+27.09.2023, 21:55:05: vreutskiy begun registration
+27.09.2023, 21:55:10: vreutskiy tried to reg on 🎭 Театральная лаборатория (30.09 13:00), в вэйтлист
+27.09.2023, 21:55:12: vreutskiy pressed Cancel or got deny
+27.09.2023, 21:55:15: vreutskiy checked registration
+27.09.2023, 21:55:25: vreutskiy begun registration
+27.09.2023, 21:55:34: vreutskiy tried to reg on 📚 Книжный клуб (1.10 16:00), в вэйтлист
+27.09.2023, 21:55:35: vreutskiy pressed Cancel or got deny
+27.09.2023, 21:55:37: vreutskiy begun registration
+27.09.2023, 21:55:49: vreutskiy pressed Cancel or got deny
+27.09.2023, 21:55:50: vreutskiy checked registration
+27.09.2023, 22:46:47: logonansy checked registration
+28.09.2023, 00:06:07: loverinovich pressed Cancel or got deny
+28.09.2023, 00:06:28: loverinovich pressed Cancel or got deny
+28.09.2023, 00:48:47: julia_kovylina pressed Cancel or got deny
+28.09.2023, 00:48:49: julia_kovylina begun registration
+28.09.2023, 00:49:05: julia_kovylina pressed Cancel or got deny
+28.09.2023, 08:48:15: earth_anna came with frsttime == 1
+28.09.2023, 09:13:09: ksenyamalykh pressed cancel event reg
+28.09.2023, 09:13:14: ksenyamalykh want to cancel ❤️‍🔥 Спид-дейтинг
+28.09.2023, 09:13:30: ksenyamalykh отменил ❤️‍🔥 Спид-дейтинг
+28.09.2023, 10:32:49: lena_ladnaya begun registration
+28.09.2023, 10:33:10: lena_ladnaya pressed Cancel or got deny
+28.09.2023, 12:58:24: InverseNova pressed Cancel or got deny
+28.09.2023, 12:58:26: InverseNova begun registration
+28.09.2023, 15:21:43: dexfez came with frsttime == 1
+28.09.2023, 15:21:51: dexfez begun registration
+28.09.2023, 15:22:40: dexfez tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 7 мест
+28.09.2023, 15:22:51: dexfez send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@dexfez', 'user_name': 'Дарья', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+28.09.2023, 15:23:36: dexfez begun registration
+28.09.2023, 15:24:02: dexfez pressed Cancel or got deny
+28.09.2023, 15:24:05: dexfez pressed cancel event reg
+28.09.2023, 15:24:10: dexfez want to cancel ❤️‍🔥 Спид-дейтинг
+28.09.2023, 15:24:16: dexfez отменил ❤️‍🔥 Спид-дейтинг
+28.09.2023, 15:37:22: julia_kovylina begun registration
+28.09.2023, 15:45:27: dexfez begun registration
+28.09.2023, 15:45:31: dexfez tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+28.09.2023, 15:45:35: dexfez send for registration: {'event_id': 'recebR53LQ5OlcJtq', 'user_nick': '@dexfez', 'user_name': 'Дарья', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+28.09.2023, 15:45:54: dexfez begun registration
+28.09.2023, 15:46:18: dexfez pressed Cancel or got deny
+28.09.2023, 16:17:34: None came with frsttime == 1
+28.09.2023, 16:17:52: None begun registration
+28.09.2023, 16:17:52: None pressed Cancel or got deny
+28.09.2023, 16:21:15: preguntasproblemas begun registration
+28.09.2023, 16:21:32: preguntasproblemas tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 7 мест
+28.09.2023, 16:21:37: preguntasproblemas send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@preguntasproblemas', 'user_name': 'Анастасия Тарасова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+28.09.2023, 16:22:06: nwc_yulia begun registration
+28.09.2023, 16:22:44: nwc_yulia tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 6 мест
+28.09.2023, 16:23:06: nwc_yulia send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@nwc_yulia', 'user_name': 'Юлия', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+28.09.2023, 16:59:49: Anandia1 checked registration
+28.09.2023, 16:59:58: Anandia1 begun registration
+28.09.2023, 17:26:52: vasvas13 begun registration
+28.09.2023, 18:10:12: npallna came with frsttime == 1
+28.09.2023, 18:10:18: npallna begun registration
+28.09.2023, 19:01:29: anastasiia_danilson pressed Cancel or got deny
+28.09.2023, 19:01:34: anastasiia_danilson begun registration
+28.09.2023, 19:01:37: anastasiia_danilson tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 12 мест
+28.09.2023, 19:01:39: anastasiia_danilson pressed Cancel or got deny
+28.09.2023, 19:41:29: preguntasproblemas pressed Cancel or got deny
+28.09.2023, 19:42:33: SofyaGal checked registration
+28.09.2023, 19:42:38: SofyaGal pressed cancel event reg
+28.09.2023, 19:42:41: SofyaGal want to cancel 🎭 Театральная лаборатория
+28.09.2023, 19:43:01: SofyaGal отменил 🎭 Театральная лаборатория
+28.09.2023, 20:20:12: millllanna begun registration
+28.09.2023, 20:20:15: millllanna tried to reg on 🪷 Soulmate пикник (29.09 18:00), 3 мест
+28.09.2023, 20:22:45: valerisubbotina begun registration
+28.09.2023, 20:22:54: valerisubbotina tried to reg on 🎭 Театральная лаборатория (30.09 13:00), в вэйтлист
+28.09.2023, 20:23:04: valerisubbotina send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@valerisubbotina', 'user_name': 'Валерия', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+28.09.2023, 21:30:54: PollyFa came with frsttime == 1
+28.09.2023, 21:31:00: PollyFa begun registration
+28.09.2023, 21:31:28: PollyFa tried to reg on 🎭 Театральная лаборатория (30.09 13:00), в вэйтлист
+28.09.2023, 21:31:37: PollyFa send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@pollyfa', 'user_name': 'Полина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+28.09.2023, 21:58:38: millllanna send for registration: {'event_id': 'rec7fX8EbclcYmjdl', 'user_nick': '@millllanna', 'user_name': 'Милана', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+28.09.2023, 22:01:26: millllanna checked registration
+28.09.2023, 22:01:51: millllanna begun registration
+28.09.2023, 22:48:00: polikarpiiy pressed cancel event reg
+28.09.2023, 22:48:11: polikarpiiy want to cancel ❤️‍🔥 Паблик-ток про дейтинг
+28.09.2023, 22:48:18: polikarpiiy отменил ❤️‍🔥 Паблик-ток про дейтинг
+28.09.2023, 22:48:27: polikarpiiy pressed cancel event reg
+28.09.2023, 22:48:30: polikarpiiy want to cancel ❤️‍🔥 Спид-дейтинг
+28.09.2023, 22:48:33: polikarpiiy отменил ❤️‍🔥 Спид-дейтинг
+28.09.2023, 23:25:26: yangolubev came with frsttime == 1
+28.09.2023, 23:25:27: yangolubev pressed cancel event reg
+28.09.2023, 23:25:29: yangolubev pressed Cancel or got deny
+28.09.2023, 23:25:40: yangolubev begun registration
+29.09.2023, 00:14:16: ivan_dashkevich pressed Cancel or got deny
+29.09.2023, 02:06:34: InverseNova pressed Cancel or got deny
+29.09.2023, 02:25:30: Orlyom pressed Cancel or got deny
+29.09.2023, 02:25:32: Orlyom begun registration
+29.09.2023, 07:38:23: anna_smolyar pressed Cancel or got deny
+29.09.2023, 07:38:25: anna_smolyar begun registration
+29.09.2023, 07:38:34: anna_smolyar pressed Cancel or got deny
+29.09.2023, 10:46:10: elyavia pressed cancel event reg
+29.09.2023, 10:46:15: elyavia want to cancel ❤️‍🔥 Паблик-ток про дейтинг
+29.09.2023, 10:46:21: elyavia отменил ❤️‍🔥 Паблик-ток про дейтинг
+29.09.2023, 11:25:46: kapchoniy came with frsttime == 1
+29.09.2023, 11:25:53: kapchoniy begun registration
+29.09.2023, 11:26:00: kapchoniy tried to reg on 🎭 Театральная лаборатория (30.09 13:00), в вэйтлист
+29.09.2023, 11:26:19: kapchoniy send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@kapchoniy', 'user_name': 'Алексей', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+29.09.2023, 11:27:31: kapchoniy checked registration
+29.09.2023, 11:27:39: kapchoniy begun registration
+29.09.2023, 11:28:06: kapchoniy pressed Cancel or got deny
+29.09.2023, 12:42:21: victoribarbieri pressed Cancel or got deny
+29.09.2023, 13:22:21: victoribarbieri pressed Cancel or got deny
+29.09.2023, 13:32:23: InverseNova begun registration
+29.09.2023, 14:51:15: InverseNova tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 13 мест
+29.09.2023, 14:51:25: InverseNova send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@inversenova', 'user_name': 'Саша Андреев (inversenova) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 14:51:47: InverseNova checked registration
+29.09.2023, 14:51:53: InverseNova begun registration
+29.09.2023, 14:52:03: InverseNova tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 5 мест
+29.09.2023, 14:52:07: InverseNova send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@inversenova', 'user_name': 'Саша Андреев (inversenova) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 14:52:10: InverseNova checked registration
+29.09.2023, 15:13:13: MariaKalatozova pressed Cancel or got deny
+29.09.2023, 15:55:40: None bot  hase been started
+29.09.2023, 16:30:55: Liaisan pressed Cancel or got deny
+29.09.2023, 16:31:03: Liaisan begun registration
+29.09.2023, 17:25:57: NArthurN pressed Cancel or got deny
+29.09.2023, 17:26:07: NArthurN begun registration
+29.09.2023, 17:26:15: NArthurN tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 4 мест
+29.09.2023, 17:26:20: NArthurN send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@narthurn', 'user_name': 'Артур Никитшин \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 17:26:23: NArthurN checked registration
+29.09.2023, 17:46:34: ymolchanov pressed Cancel or got deny
+29.09.2023, 17:46:40: ymolchanov checked registration
+29.09.2023, 17:46:52: ymolchanov begun registration
+29.09.2023, 17:46:55: ymolchanov tried to reg on 🏄‍♀️ Сапы два (30.09 10:00), в вэйтлист
+29.09.2023, 17:47:00: ymolchanov send for registration: {'event_id': 'recebR53LQ5OlcJtq', 'user_nick': '@ymolchanov', 'user_name': 'Юра', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+29.09.2023, 18:24:34: Orlyom pressed Cancel or got deny
+29.09.2023, 18:24:35: Orlyom begun registration
+29.09.2023, 18:24:40: Orlyom tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 12 мест
+29.09.2023, 18:24:50: Orlyom send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@orlyom', 'user_name': 'Артём', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+29.09.2023, 18:29:13: Orlyom begun registration
+29.09.2023, 18:29:19: Orlyom tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 3 мест
+29.09.2023, 18:29:22: Orlyom send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@orlyom', 'user_name': 'Артём', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 18:31:04: Orlyom checked registration
+29.09.2023, 19:08:36: ymolchanov checked registration
+29.09.2023, 19:08:41: ymolchanov pressed cancel event reg
+29.09.2023, 19:08:46: ymolchanov want to cancel 🏄‍♀️ Сапы два
+29.09.2023, 19:08:51: ymolchanov отменил 🏄‍♀️ Сапы два
+29.09.2023, 19:09:23: AlexM_Spain pressed Cancel or got deny
+29.09.2023, 19:09:25: AlexM_Spain checked registration
+29.09.2023, 19:09:27: AlexM_Spain begun registration
+29.09.2023, 19:09:44: AlexM_Spain tried to reg on 🥨 Cuddle Party (14.10 18:00), 6 мест
+29.09.2023, 19:09:47: AlexM_Spain pressed Cancel or got deny
+29.09.2023, 19:13:36: eternal_shining pressed Cancel or got deny
+29.09.2023, 19:13:43: eternal_shining begun registration
+29.09.2023, 19:13:46: eternal_shining tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 2 мест
+29.09.2023, 19:13:51: eternal_shining send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@eternal_shining', 'user_name': 'Маша Десятова', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 19:14:05: eternal_shining checked registration
+29.09.2023, 19:14:10: eternal_shining begun registration
+29.09.2023, 19:14:12: eternal_shining tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 10 мест
+29.09.2023, 19:14:18: eternal_shining send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@eternal_shining', 'user_name': 'Маша Десятова', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 19:14:21: eternal_shining checked registration
+29.09.2023, 19:24:55: Miamuri came with frsttime == 1
+29.09.2023, 19:24:58: Miamuri begun registration
+29.09.2023, 19:25:07: Miamuri tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), 1 мест
+29.09.2023, 19:25:19: Miamuri send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@miamuri', 'user_name': 'Ася', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 19:26:28: Miamuri came with frsttime == 1
+29.09.2023, 19:26:29: Miamuri begun registration
+29.09.2023, 19:26:34: Miamuri tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 9 мест
+29.09.2023, 19:26:42: Miamuri send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@miamuri', 'user_name': 'Ася', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 19:38:38: NArthurN checked registration
+29.09.2023, 19:40:22: NArthurN begun registration
+29.09.2023, 19:40:30: NArthurN tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 8 мест
+29.09.2023, 19:40:34: NArthurN send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@narthurn', 'user_name': 'Артур Никитшин \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 19:40:40: NArthurN checked registration
+29.09.2023, 19:57:38: dinausnv came with frsttime == 1
+29.09.2023, 19:57:43: dinausnv begun registration
+29.09.2023, 19:57:54: oleada_o begun registration
+29.09.2023, 19:58:15: oleada_o pressed Cancel or got deny
+29.09.2023, 21:06:26: Anastasiya_Boyarinova came with frsttime == 1
+29.09.2023, 21:06:38: Anastasiya_Boyarinova begun registration
+29.09.2023, 21:06:49: Anastasiya_Boyarinova tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), в вэйтлист
+29.09.2023, 21:07:06: Anastasiya_Boyarinova send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@anastasiya_boyarinova', 'user_name': 'Анастасия', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': True}
+29.09.2023, 21:16:01: Anastasiya_Boyarinova pressed Cancel or got deny
+29.09.2023, 21:16:04: Anastasiya_Boyarinova checked registration
+29.09.2023, 21:18:51: move2barca came with frsttime == 1
+29.09.2023, 21:19:03: move2barca begun registration
+29.09.2023, 21:19:36: move2barca tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 6 мест
+29.09.2023, 21:19:43: move2barca send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@move2barca', 'user_name': 'Александр', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+29.09.2023, 21:20:22: Dendybcn came with frsttime == 1
+29.09.2023, 21:20:25: Dendybcn begun registration
+29.09.2023, 21:20:41: Dendybcn tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), в вэйтлист
+29.09.2023, 21:21:22: ensalada_bot pressed Cancel or got deny
+29.09.2023, 21:21:24: Dendybcn begun registration
+29.09.2023, 21:21:26: Dendybcn tried to reg on ❤️‍🔥 Паблик-ток про дейтинг (30.09 17:00), 5 мест
+29.09.2023, 21:21:36: Dendybcn send for registration: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@dendybcn', 'user_name': 'Denis', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+29.09.2023, 21:37:54: korobulya812 begun registration
+29.09.2023, 22:06:57: NArthurN begun registration
+29.09.2023, 23:01:11: Mosbko came with frsttime == 1
+29.09.2023, 23:01:15: Mosbko begun registration
+29.09.2023, 23:01:22: Mosbko tried to reg on 🎭 Театральная лаборатория (30.09 13:00), в вэйтлист
+29.09.2023, 23:01:32: Mosbko send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@mosbko', 'user_name': 'Анна', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+29.09.2023, 23:06:41: poyw812 pressed Cancel or got deny
+29.09.2023, 23:23:23: Liaisan tried to reg on 📚 Книжный клуб (1.10 16:00), в вэйтлист
+29.09.2023, 23:23:29: Liaisan send for registration: {'event_id': 'recqNTVhc2rupQl7a', 'user_nick': '@liaisan', 'user_name': 'Ляйсан Мурсалимова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+30.09.2023, 00:27:32: kseniiaguseva came with frsttime == 1
+30.09.2023, 00:27:38: kseniiaguseva begun registration
+30.09.2023, 01:09:54: maxodron checked registration
+30.09.2023, 01:09:59: maxodron begun registration
+30.09.2023, 01:10:06: maxodron tried to reg on 🎭 Театральная лаборатория (30.09 13:00), в вэйтлист
+30.09.2023, 01:10:10: maxodron send for registration: {'event_id': 'recyv0QZAiLaJKOqq', 'user_nick': '@maxodron', 'user_name': 'Maksim', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+30.09.2023, 01:10:23: maxodron checked registration
+30.09.2023, 01:51:01: julia_kovylina pressed Cancel or got deny
+30.09.2023, 01:51:03: julia_kovylina begun registration
+30.09.2023, 01:51:23: julia_kovylina tried to reg on 💃🕺 Линди-хоп (1.10 19:00), 21 мест
+30.09.2023, 01:51:28: julia_kovylina send for registration: {'event_id': 'recQNutdAoR6GaoQb', 'user_nick': '@julia_kovylina', 'user_name': 'Юля Ковылина (@julia_kovylina)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+30.09.2023, 02:40:54: InverseNova begun registration
+30.09.2023, 02:41:14: InverseNova tried to reg on 💃🕺 Линди-хоп (1.10 19:00), 20 мест
+30.09.2023, 02:41:18: InverseNova send for registration: {'event_id': 'recQNutdAoR6GaoQb', 'user_nick': '@inversenova', 'user_name': 'Саша Андреев (inversenova) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+30.09.2023, 02:41:44: InverseNova checked registration
+30.09.2023, 07:05:36: Alina_iat begun registration
+30.09.2023, 07:05:46: Alina_iat tried to reg on ❤️‍🔥 Спид-дейтинг (30.09 18:30), в вэйтлист
+30.09.2023, 07:05:59: Alina_iat send for registration: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@alina_iat', 'user_name': 'Ali', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+30.09.2023, 08:50:07: oleada_o begun registration
+30.09.2023, 08:51:09: anna_smolyar begun registration
+30.09.2023, 08:52:52: kapchoniy checked registration
+30.09.2023, 09:01:47: loverinovich begun registration
+30.09.2023, 09:30:45: shevelenas came with frsttime == 1
+30.09.2023, 09:30:51: shevelenas begun registration
+30.09.2023, 09:31:17: shevelenas tried to reg on 💃🕺 Линди-хоп (1.10 19:00), 17 мест
+30.09.2023, 09:34:39: shevelenas send for registration: {'event_id': 'recQNutdAoR6GaoQb', 'user_nick': '@shevelenas', 'user_name': 'Start', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+30.09.2023, 09:34:56: shevelenas checked registration
+30.09.2023, 09:35:03: shevelenas pressed cancel event reg
+30.09.2023, 09:35:06: shevelenas want to cancel 💃🕺 Линди-хоп
+30.09.2023, 09:35:13: shevelenas отменил 💃🕺 Линди-хоп
+30.09.2023, 09:35:21: shevelenas begun registration
+30.09.2023, 09:55:21: shevelenas tried to reg on 📚 Книжный клуб (1.10 16:00), в вэйтлист
+30.09.2023, 09:55:36: shevelenas pressed Cancel or got deny
+30.09.2023, 09:55:40: shevelenas begun registration
+30.09.2023, 10:05:48: oxana_molchanova begun registration
+30.09.2023, 10:07:15: oxana_molchanova pressed Cancel or got deny
+30.09.2023, 10:34:15: SanyaGalakt checked registration
+30.09.2023, 10:51:41: etozhemaximka came with frsttime == 1
+30.09.2023, 10:51:44: etozhemaximka begun registration
+30.09.2023, 11:57:51: nefilolog came with frsttime == 1
+30.09.2023, 12:52:31: timetoliveabeautifullife checked registration
+30.09.2023, 14:32:56: lfeygin begun registration
+30.09.2023, 14:50:05: lapeppi begun registration
+30.09.2023, 14:50:18: lapeppi tried to reg on 💃🕺 Линди-хоп (1.10 19:00), 17 мест
+30.09.2023, 14:50:20: lapeppi pressed Cancel or got deny
+30.09.2023, 14:50:40: lapeppi pressed Cancel or got deny
+30.09.2023, 14:50:53: lapeppi pressed cancel event reg
+30.09.2023, 14:50:54: lapeppi pressed Cancel or got deny
+30.09.2023, 15:03:41: ivanskanataliia came with frsttime == 1
+30.09.2023, 15:03:49: ivanskanataliia begun registration
+30.09.2023, 15:05:18: NanaAnzale came with frsttime == 1
+30.09.2023, 15:05:38: NanaAnzale begun registration
+30.09.2023, 15:06:00: NanaAnzale pressed Cancel or got deny
+30.09.2023, 15:23:05: Shkoterman begun registration
+30.09.2023, 15:23:15: Shkoterman tried to reg on 💃🕺 Линди-хоп (1.10 19:00), 17 мест
+30.09.2023, 15:23:24: Shkoterman send for registration: {'event_id': 'recQNutdAoR6GaoQb', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+30.09.2023, 15:27:58: ElinaKisska checked registration
+30.09.2023, 15:28:27: ElinaKisska begun registration
+30.09.2023, 15:33:24: InverseNova checked registration
+30.09.2023, 15:33:27: InverseNova begun registration
+30.09.2023, 15:33:33: InverseNova pressed Cancel or got deny
+30.09.2023, 15:48:22: vasvas13 pressed Cancel or got deny
+30.09.2023, 15:48:31: vasvas13 pressed give feedback
+30.09.2023, 15:48:35: vasvas13 pressed Cancel or got deny
+30.09.2023, 15:48:37: vasvas13 checked registration
+30.09.2023, 16:44:08: logonansy begun registration
+30.09.2023, 17:00:35: NArthurN pressed Cancel or got deny
+30.09.2023, 17:00:38: NArthurN checked registration
+30.09.2023, 17:05:59: koko_anji begun registration
+30.09.2023, 17:30:10: wertner came with frsttime == 1
+30.09.2023, 17:30:19: wertner checked registration
+30.09.2023, 17:55:46: julia_kovylina begun registration
+30.09.2023, 17:55:58: julia_kovylina pressed Cancel or got deny
+30.09.2023, 18:05:28: hope_espe came with frsttime == 1
+30.09.2023, 18:05:31: hope_espe checked registration
+30.09.2023, 18:07:05: loverinovich pressed Cancel or got deny
+30.09.2023, 18:41:08: hope_espe checked registration
+30.09.2023, 18:41:22: hope_espe begun registration
+30.09.2023, 18:41:40: hope_espe pressed Cancel or got deny
+01.10.2023, 01:21:59: preguntasproblemas checked registration
+01.10.2023, 01:22:06: preguntasproblemas begun registration
+01.10.2023, 01:31:35: f_victory begun registration
+01.10.2023, 01:31:46: f_victory pressed Cancel or got deny
+01.10.2023, 08:42:22: preguntasproblemas pressed Cancel or got deny
+01.10.2023, 08:49:42: preguntasproblemas pressed Cancel or got deny
+01.10.2023, 09:48:48: Julia_Sergina pressed Cancel or got deny
+01.10.2023, 10:00:34: Anastasia_De_Fin pressed Cancel or got deny
+01.10.2023, 10:01:09: Anastasia_De_Fin pressed give feedback
+01.10.2023, 10:05:52: anna_smolyar pressed Cancel or got deny
+01.10.2023, 10:05:55: anna_smolyar pressed give feedback
+01.10.2023, 10:07:35: anna_smolyar gave feedback: {'event_id': 'recfELmglZ3jqxEMA', 'user_nick': '@anna_smolyar', 'recomendacion': 10, 'what_did_you_like': ['Формат', 'Атмосфера', 'Организация', 'Люди'], 'unwanted': 'Кондиционера не хватало) и еще показалось, что 10 человек многовато, под конец уже устала, 7-8 было бы идеально и мб чуть больше времени с каждым. Плюс я бы изначально писала с какой целью люди пришли и/или ориентацию. Тогда я бы могла сразу исключить тех, кто ищет только дружбу, тк я пришла не для этого.', 'comment': 'Все', 'user_name': 'Аня Смоляр'}
+01.10.2023, 10:15:23: armeec35 pressed give feedback
+01.10.2023, 10:18:50: armeec35 gave feedback: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@armeec35', 'recomendacion': 8, 'what_did_you_like': ['Атмосфера', 'Люди'], 'unwanted': 'Пропустить', 'comment': 'Пропустить', 'user_name': 'Виктор (armeec35 / армеец)'}
+01.10.2023, 10:18:52: armeec35 pressed give feedback
+01.10.2023, 10:24:06: ArturDan came with frsttime == 1
+01.10.2023, 10:24:38: ArturDan checked registration
+01.10.2023, 10:24:48: InverseNova pressed give feedback
+01.10.2023, 10:25:00: ArturDan came with frsttime == 1
+01.10.2023, 10:25:07: ArturDan pressed give feedback
+01.10.2023, 10:26:01: InverseNova gave feedback: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@inversenova', 'recomendacion': 7, 'what_did_you_like': ['Формат', 'Атмосфера', 'Люди'], 'unwanted': 'Пропустить', 'comment': 'Пропустить', 'user_name': 'Саша Андреев (inversenova) \U0001faf0'}
+01.10.2023, 10:26:05: InverseNova pressed give feedback
+01.10.2023, 10:26:44: InverseNova pressed Cancel or got deny
+01.10.2023, 10:26:46: InverseNova pressed give feedback
+01.10.2023, 10:27:11: ArturDan gave feedback: {'event_id': 'rec6NsD4AZzOOBJmA', 'user_nick': '@arturdan', 'recomendacion': 7, 'what_did_you_like': ['Формат', 'Атмосфера', 'Люди'], 'unwanted': 'Не хватило людей', 'comment': 'Расширить аудиторию', 'user_name': None}
+01.10.2023, 11:12:52: preguntasproblemas pressed cancel event reg
+01.10.2023, 11:12:54: preguntasproblemas pressed Cancel or got deny
+01.10.2023, 11:47:39: maxibello begun registration
+01.10.2023, 13:57:25: victoria_hbg pressed Cancel or got deny
+01.10.2023, 13:57:28: victoria_hbg begun registration
+01.10.2023, 14:11:54: poyw812 pressed Cancel or got deny
+01.10.2023, 14:27:24: Vikivi88 checked registration
+01.10.2023, 14:27:29: Vikivi88 pressed cancel event reg
+01.10.2023, 14:27:31: Vikivi88 pressed Cancel or got deny
+01.10.2023, 14:36:57: victoria_hbg pressed Cancel or got deny
+01.10.2023, 14:36:59: victoria_hbg begun registration
+01.10.2023, 15:07:46: notnevernow pressed Cancel or got deny
+01.10.2023, 15:09:21: Shkoterman pressed Cancel or got deny
+01.10.2023, 15:15:50: Shkoterman pressed Cancel or got deny
+01.10.2023, 18:25:32: Irina3el came with frsttime == 1
+01.10.2023, 18:25:35: Irina3el begun registration
+01.10.2023, 18:26:13: Irina3el pressed Cancel or got deny
+01.10.2023, 18:45:37: InverseNova pressed Cancel or got deny
+01.10.2023, 18:45:40: InverseNova begun registration
+01.10.2023, 18:45:46: InverseNova pressed Cancel or got deny
+02.10.2023, 00:21:26: None bot  hase been started
+02.10.2023, 02:37:48: f_victory begun registration
+02.10.2023, 11:37:50: Liaisan begun registration
+02.10.2023, 11:41:42: Katiacatalonia begun registration
+02.10.2023, 11:41:48: olga_mzk pressed Cancel or got deny
+02.10.2023, 11:41:51: olga_mzk begun registration
+02.10.2023, 11:41:56: julia_kovylina begun registration
+02.10.2023, 11:42:05: Katiacatalonia tried to reg on 📸 Фотофестиваль (7.10 11:00), 15 мест
+02.10.2023, 11:42:11: Katiacatalonia send for registration: {'event_id': 'recdEhEkdXbxRgiDG', 'user_nick': '@katiacatalonia', 'user_name': 'Катя Кузнецова', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:42:18: Katiacatalonia begun registration
+02.10.2023, 11:42:22: olga_mzk pressed Cancel or got deny
+02.10.2023, 11:42:36: lyaays came with frsttime == 1
+02.10.2023, 11:42:42: Katiacatalonia tried to reg on 🏺Глиняный курс: боул (21.10 12:00), 10 мест
+02.10.2023, 11:42:44: lyaays begun registration
+02.10.2023, 11:42:46: Katiacatalonia send for registration: {'event_id': 'rec5pC12eCsHDHt7F', 'user_nick': '@katiacatalonia', 'user_name': 'Катя Кузнецова', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:42:50: Katiacatalonia begun registration
+02.10.2023, 11:42:52: lyaays tried to reg on 🚴‍♂️ Велопоездка (8.10 11:00), 15 мест
+02.10.2023, 11:42:54: lyaays pressed Cancel or got deny
+02.10.2023, 11:43:00: Katiacatalonia tried to reg on ♻️ Осенний своп (21.10 15:00), 40 мест
+02.10.2023, 11:43:03: Katiacatalonia send for registration: {'event_id': 'recxdJIl20k9tdyjt', 'user_nick': '@katiacatalonia', 'user_name': 'Катя Кузнецова', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:43:04: Solchiks came with frsttime == 1
+02.10.2023, 11:43:06: Katiacatalonia begun registration
+02.10.2023, 11:43:12: Solchiks begun registration
+02.10.2023, 11:43:19: AlexandraStrelkova came with frsttime == 1
+02.10.2023, 11:43:22: shikalova begun registration
+02.10.2023, 11:43:22: vreutskiy begun registration
+02.10.2023, 11:43:23: AlexandraStrelkova begun registration
+02.10.2023, 11:43:28: Solchiks tried to reg on 🏺Глиняный курс: чашка (14.10 12:00), 10 мест
+02.10.2023, 11:43:29: shikalova tried to reg on 🖌 МК Анимация (13.10 19:00), 10 мест
+02.10.2023, 11:43:30: Solchiks pressed Cancel or got deny
+02.10.2023, 11:43:30: shikalova pressed Cancel or got deny
+02.10.2023, 11:43:31: vreutskiy tried to reg on 🍇 Дегустируем Бордо (7.10 18:00), 12 мест
+02.10.2023, 11:43:33: shikalova begun registration
+02.10.2023, 11:43:34: vreutskiy send for registration: {'event_id': 'recza325cWPMiO4Ex', 'user_nick': '@vreutskiy', 'user_name': 'Вадим Реутский \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:43:36: vreutskiy begun registration
+02.10.2023, 11:43:37: shikalova tried to reg on 🏺Глиняный курс: чашка (14.10 12:00), 10 мест
+02.10.2023, 11:43:38: Solchiks pressed give feedback
+02.10.2023, 11:43:39: shikalova pressed Cancel or got deny
+02.10.2023, 11:43:43: maxibello came with frsttime == 1
+02.10.2023, 11:43:45: maxibello begun registration
+02.10.2023, 11:43:49: vreutskiy tried to reg on 🧠 Домашняя Конференция (15.10 14:00), 20 мест
+02.10.2023, 11:43:58: vreutskiy send for registration: {'event_id': 'recZ7INYFYD9TSSNI', 'user_nick': '@vreutskiy', 'user_name': 'Вадим Реутский \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 11:44:26: vasvas13 begun registration
+02.10.2023, 11:44:29: vasvas13 tried to reg on 🏄 Сапы (7.10 10:00), 8 мест
+02.10.2023, 11:44:31: vasvas13 pressed Cancel or got deny
+02.10.2023, 11:45:06: vreutskiy begun registration
+02.10.2023, 11:45:18: vasvas13 begun registration
+02.10.2023, 11:45:18: vreutskiy tried to reg on 🎃 Книжный клуб (29.10 18:00), 25 мест
+02.10.2023, 11:45:23: vasvas13 tried to reg on 🎲  Настольные игры (13.10 19:00), 15 мест
+02.10.2023, 11:45:25: vasvas13 pressed Cancel or got deny
+02.10.2023, 11:45:25: vreutskiy send for registration: {'event_id': 'recB9b6nvtJHlJkvo', 'user_nick': '@vreutskiy', 'user_name': 'Вадим Реутский \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 11:45:28: natalia_ivanikova came with frsttime == 1
+02.10.2023, 11:45:29: ensalada_bot pressed Cancel or got deny
+02.10.2023, 11:45:29: vasvas13 begun registration
+02.10.2023, 11:45:31: Katiacatalonia checked registration
+02.10.2023, 11:45:45: Katiacatalonia begun registration
+02.10.2023, 11:46:04: natalia_ivanikova begun registration
+02.10.2023, 11:46:58: vreutskiy begun registration
+02.10.2023, 11:47:53: vasvas13 tried to reg on 🏄 Сапы (7.10 10:00), 8 мест
+02.10.2023, 11:47:55: vasvas13 pressed Cancel or got deny
+02.10.2023, 11:50:47: grassiona pressed Cancel or got deny
+02.10.2023, 11:50:49: grassiona begun registration
+02.10.2023, 11:51:19: grassiona tried to reg on 🏄 Сапы (7.10 10:00), 8 мест
+02.10.2023, 11:51:23: grassiona send for registration: {'event_id': 'recEPoYBbdvU3x8fd', 'user_nick': '@grassiona', 'user_name': 'Александра', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 11:51:54: grassiona begun registration
+02.10.2023, 11:52:09: lizzybell begun registration
+02.10.2023, 11:52:14: lizzybell tried to reg on 🎥 Короткометражки (6.10 19:00), 25 мест
+02.10.2023, 11:52:20: lizzybell send for registration: {'event_id': 'recr41jqasuW2gcfB', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:52:23: lizzybell begun registration
+02.10.2023, 11:52:45: lizzybell tried to reg on 📸 Фотофестиваль (7.10 11:00), 14 мест
+02.10.2023, 11:52:49: lizzybell send for registration: {'event_id': 'recdEhEkdXbxRgiDG', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:52:55: natalia_ivanikova tried to reg on 🚴‍♂️ Велопоездка (8.10 11:00), 15 мест
+02.10.2023, 11:52:57: natalia_ivanikova pressed Cancel or got deny
+02.10.2023, 11:52:59: lizzybell begun registration
+02.10.2023, 11:53:10: lizzybell tried to reg on 🚴‍♂️ Велопоездка (8.10 11:00), 14 мест
+02.10.2023, 11:53:24: lizzybell send for registration: {'event_id': 'recxRm2Q5TUfw3Yjt', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:53:28: lizzybell begun registration
+02.10.2023, 11:53:40: lizzybell tried to reg on 🏺Глиняный курс: чашка (14.10 12:00), 10 мест
+02.10.2023, 11:53:44: lizzybell send for registration: {'event_id': 'recRP6fJuCug4V8Na', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:54:28: lizzybell begun registration
+02.10.2023, 11:54:35: lizzybell tried to reg on 🥨 Cuddle Party (14.10 18:00), 6 мест
+02.10.2023, 11:54:36: lizzybell pressed Cancel or got deny
+02.10.2023, 11:54:40: lizzybell begun registration
+02.10.2023, 11:55:08: lizzybell tried to reg on 🏺Глиняный курс: боул (21.10 12:00), 9 мест
+02.10.2023, 11:55:12: lizzybell send for registration: {'event_id': 'rec5pC12eCsHDHt7F', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:55:23: lizzybell begun registration
+02.10.2023, 11:56:34: lizzybell tried to reg on 🍾 Винодельня (22.10 10:00), 19 мест
+02.10.2023, 11:56:38: lizzybell send for registration: {'event_id': 'recZYFr8X8iO7XyTk', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:56:40: lizzybell begun registration
+02.10.2023, 11:56:46: lizzybell tried to reg on 🏺Глиняный курс: тарелка (28.10 12:00), 10 мест
+02.10.2023, 11:56:50: lizzybell send for registration: {'event_id': 'recItFoWuCZgVV4Mn', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 11:56:52: lizzybell checked registration
+02.10.2023, 11:58:15: howmanymeercats begun registration
+02.10.2023, 11:58:26: howmanymeercats tried to reg on 🧠 Домашняя Конференция (15.10 14:00), 18 мест
+02.10.2023, 11:58:31: howmanymeercats send for registration: {'event_id': 'recZ7INYFYD9TSSNI', 'user_nick': '@howmanymeercats', 'user_name': 'Саша', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:01:35: howmanymeercats begun registration
+02.10.2023, 12:02:41: ElinaKisska pressed Cancel or got deny
+02.10.2023, 12:02:45: ElinaKisska begun registration
+02.10.2023, 12:02:50: howmanymeercats tried to reg on 🍾 Винодельня (22.10 10:00), 18 мест
+02.10.2023, 12:02:53: howmanymeercats send for registration: {'event_id': 'recZYFr8X8iO7XyTk', 'user_nick': '@howmanymeercats', 'user_name': 'Саша', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 12:03:31: n_e_o_0 came with frsttime == 1
+02.10.2023, 12:03:34: n_e_o_0 begun registration
+02.10.2023, 12:04:10: n_e_o_0 tried to reg on 🍇 Дегустируем Бордо (7.10 18:00), 10 мест
+02.10.2023, 12:04:11: n_e_o_0 pressed Cancel or got deny
+02.10.2023, 12:04:14: PollyFa begun registration
+02.10.2023, 12:05:10: AlexM_Spain begun registration
+02.10.2023, 12:05:16: ElinaKisska tried to reg on 🎥 Короткометражки (6.10 19:00), 24 мест
+02.10.2023, 12:05:22: ElinaKisska send for registration: {'event_id': 'recr41jqasuW2gcfB', 'user_nick': '@elinakisska', 'user_name': 'Элина Нагави (@ElinaKisska)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:05:43: AlexM_Spain tried to reg on 🚴‍♂️ Велопоездка (8.10 11:00), 13 мест
+02.10.2023, 12:05:43: vasvas13 begun registration
+02.10.2023, 12:05:45: AlexM_Spain pressed Cancel or got deny
+02.10.2023, 12:06:49: vasvas13 tried to reg on 🏄 Сапы (7.10 10:00), 6 мест
+02.10.2023, 12:06:51: vasvas13 pressed Cancel or got deny
+02.10.2023, 12:09:13: PollyFa tried to reg on ⚽️ Женский Футбол (15.10 18:00), 10 мест
+02.10.2023, 12:09:15: PollyFa pressed Cancel or got deny
+02.10.2023, 12:09:21: PollyFa begun registration
+02.10.2023, 12:10:11: vasvas13 begun registration
+02.10.2023, 12:14:58: abrovchenko begun registration
+02.10.2023, 12:15:07: abrovchenko tried to reg on 🍇 Дегустируем Бордо (7.10 18:00), 10 мест
+02.10.2023, 12:15:13: abrovchenko send for registration: {'event_id': 'recza325cWPMiO4Ex', 'user_nick': '@abrovchenko', 'user_name': 'Аня Бровченко \U0001faf0(@abrovchenko)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:15:14: abrovchenko begun registration
+02.10.2023, 12:15:31: abrovchenko tried to reg on 🍾 Винодельня (22.10 10:00), 16 мест
+02.10.2023, 12:15:35: abrovchenko send for registration: {'event_id': 'recZYFr8X8iO7XyTk', 'user_nick': '@abrovchenko', 'user_name': 'Аня Бровченко \U0001faf0(@abrovchenko)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:15:36: abrovchenko begun registration
+02.10.2023, 12:16:08: abrovchenko tried to reg on 🏄 Сапы 2 (15.10 18:00), 8 мест
+02.10.2023, 12:16:12: abrovchenko send for registration: {'event_id': 'recNfjCkU0Co2icw6', 'user_nick': '@abrovchenko', 'user_name': 'Аня Бровченко \U0001faf0(@abrovchenko)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:16:51: maxibello tried to reg on 🍺 Октоберфест! (14.10 18:00), 15 мест
+02.10.2023, 12:16:55: maxibello send for registration: {'event_id': 'recXx2but8jq1elgs', 'user_nick': '@maxibello', 'user_name': 'Максим Кузнецов (@maxibello)', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:16:57: maxibello begun registration
+02.10.2023, 12:17:12: maxibello tried to reg on 🚴‍♂️ Велопоездка (8.10 11:00), 13 мест
+02.10.2023, 12:17:15: maxibello send for registration: {'event_id': 'recxRm2Q5TUfw3Yjt', 'user_nick': '@maxibello', 'user_name': 'Максим Кузнецов (@maxibello)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:17:18: ivan_dashkevich begun registration
+02.10.2023, 12:17:18: maxibello begun registration
+02.10.2023, 12:17:50: maxibello tried to reg on 🍾 Винодельня (22.10 10:00), 15 мест
+02.10.2023, 12:17:54: maxibello send for registration: {'event_id': 'recZYFr8X8iO7XyTk', 'user_nick': '@maxibello', 'user_name': 'Максим Кузнецов (@maxibello)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:18:00: maxibello begun registration
+02.10.2023, 12:19:45: mxtrr begun registration
+02.10.2023, 12:20:12: mxtrr tried to reg on 🍺 Октоберфест! (14.10 18:00), 14 мест
+02.10.2023, 12:20:17: mxtrr send for registration: {'event_id': 'recXx2but8jq1elgs', 'user_nick': '@mxtrr', 'user_name': 'Максим', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 12:21:08: mxtrr begun registration
+02.10.2023, 12:22:12: mxtrr tried to reg on 🍾 Винодельня (22.10 10:00), 14 мест
+02.10.2023, 12:22:16: mxtrr send for registration: {'event_id': 'recZYFr8X8iO7XyTk', 'user_nick': '@mxtrr', 'user_name': 'Максим', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 12:22:25: mxtrr begun registration
+02.10.2023, 12:22:49: mxtrr tried to reg on 🎲  Настольные игры (13.10 19:00), 15 мест
+02.10.2023, 12:22:53: mxtrr send for registration: {'event_id': 'recty7lmXuH7iP1jV', 'user_nick': '@mxtrr', 'user_name': 'Максим', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 12:23:29: mxtrr begun registration
+02.10.2023, 12:23:40: mxtrr tried to reg on 🍇 Дегустируем Бордо (7.10 18:00), 9 мест
+02.10.2023, 12:23:44: mxtrr send for registration: {'event_id': 'recza325cWPMiO4Ex', 'user_nick': '@mxtrr', 'user_name': 'Максим', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 12:24:01: lizzybell begun registration
+02.10.2023, 12:24:09: lizzybell tried to reg on 🎃 фотопрогулка (30.10 14:00), 15 мест
+02.10.2023, 12:24:16: lizzybell send for registration: {'event_id': 'recMpIIPGvr8QqBZ9', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:24:18: lizzybell pressed Cancel or got deny
+02.10.2023, 12:24:19: lizzybell begun registration
+02.10.2023, 12:27:33: mxtrr checked registration
+02.10.2023, 12:33:32: mxtrr begun registration
+02.10.2023, 12:33:37: mxtrr tried to reg on 🚴‍♂️ Велопоездка (8.10 11:00), 12 мест
+02.10.2023, 12:33:41: mxtrr send for registration: {'event_id': 'recxRm2Q5TUfw3Yjt', 'user_nick': '@mxtrr', 'user_name': 'Максим', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 12:34:49: mxtrr checked registration
+02.10.2023, 12:41:25: SergiDules came with frsttime == 1
+02.10.2023, 12:48:46: lizzybell tried to reg on 🏄 Сапы 3 (21.10 18:00), 8 мест
+02.10.2023, 12:48:51: lizzybell pressed Cancel or got deny
+02.10.2023, 12:48:52: lizzybell pressed cancel event reg
+02.10.2023, 12:49:01: lizzybell pressed Cancel or got deny
+02.10.2023, 12:49:03: lizzybell begun registration
+02.10.2023, 12:49:22: lizzybell pressed Cancel or got deny
+02.10.2023, 12:49:25: lizzybell checked registration
+02.10.2023, 12:50:07: lizzybell  Написал нам: Добавьте, пожалуйста, время (не только дату) в список мои регистрации
+02.10.2023, 12:50:19: lizzybell begun registration
+02.10.2023, 12:50:53: lizzybell tried to reg on ♻️ Осенний своп (21.10 15:00), 39 мест
+02.10.2023, 12:50:56: lizzybell send for registration: {'event_id': 'recxdJIl20k9tdyjt', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:50:58: lizzybell checked registration
+02.10.2023, 12:51:02: lizzybell begun registration
+02.10.2023, 12:51:48: lizzybell tried to reg on 🎃  Киноклуб (27.10 19:00), 19 мест
+02.10.2023, 12:51:52: lizzybell send for registration: {'event_id': 'recafGBGpDqjQN1hT', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:51:54: lizzybell checked registration
+02.10.2023, 12:52:02: lizzybell begun registration
+02.10.2023, 12:52:25: lizzybell tried to reg on 🏄 Сапы 2 (15.10 18:00), 7 мест
+02.10.2023, 12:52:29: lizzybell send for registration: {'event_id': 'recNfjCkU0Co2icw6', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:57:54: traveler_001 begun registration
+02.10.2023, 12:58:01: traveler_001 tried to reg on 🎃  Киноклуб (27.10 19:00), 18 мест
+02.10.2023, 12:58:05: traveler_001 send for registration: {'event_id': 'recafGBGpDqjQN1hT', 'user_nick': '@traveler_001', 'user_name': 'Инна Ларина (преподаватель) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:58:07: traveler_001 begun registration
+02.10.2023, 12:58:16: traveler_001 tried to reg on 🎃 Книжный клуб (29.10 18:00), 23 мест
+02.10.2023, 12:58:20: traveler_001 send for registration: {'event_id': 'recB9b6nvtJHlJkvo', 'user_nick': '@traveler_001', 'user_name': 'Инна Ларина (преподаватель) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:58:22: traveler_001 begun registration
+02.10.2023, 12:58:28: traveler_001 tried to reg on 🎃 фотопрогулка (30.10 14:00), 14 мест
+02.10.2023, 12:58:31: traveler_001 send for registration: {'event_id': 'recMpIIPGvr8QqBZ9', 'user_nick': '@traveler_001', 'user_name': 'Инна Ларина (преподаватель) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 12:58:37: traveler_001 checked registration
+02.10.2023, 13:05:00: julizavr begun registration
+02.10.2023, 13:06:33: julizavr tried to reg on ♻️ Осенний своп (21.10 15:00), 38 мест
+02.10.2023, 13:06:37: julizavr send for registration: {'event_id': 'recxdJIl20k9tdyjt', 'user_nick': '@julizavr', 'user_name': 'Юля Костиникова (Julizavr / Юлизавр) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 13:06:40: julizavr begun registration
+02.10.2023, 13:06:47: julizavr tried to reg on 🏺Глиняный курс: боул (21.10 12:00), 8 мест
+02.10.2023, 13:06:51: julizavr send for registration: {'event_id': 'rec5pC12eCsHDHt7F', 'user_nick': '@julizavr', 'user_name': 'Юля Костиникова (Julizavr / Юлизавр) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 13:08:30: oxana_molchanova begun registration
+02.10.2023, 13:08:47: vasvas13 tried to reg on 🏄 Сапы (7.10 10:00), 6 мест
+02.10.2023, 13:08:49: vasvas13 pressed Cancel or got deny
+02.10.2023, 13:08:52: vasvas13 begun registration
+02.10.2023, 13:09:10: oxana_molchanova tried to reg on 🎲 ensalada.teens: Настолки (8.10 14:00), 15 мест
+02.10.2023, 13:09:18: oxana_molchanova send for registration: {'event_id': 'recojXU7DgyTFVSu3', 'user_nick': '@oxana_molchanova', 'user_name': 'Оксана Молчанова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 13:09:52: oxana_molchanova begun registration
+02.10.2023, 13:10:18: oxana_molchanova tried to reg on 📗 Книжный клуб (15.10 18:00), 10 мест
+02.10.2023, 13:10:31: oxana_molchanova send for registration: {'event_id': 'recWnBnHAX4AB45Py', 'user_nick': '@oxana_molchanova', 'user_name': 'Оксана Молчанова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 13:10:45: oxana_molchanova begun registration
+02.10.2023, 13:10:51: oxana_molchanova tried to reg on 🎃 Книжный клуб (29.10 18:00), 22 мест
+02.10.2023, 13:11:04: oxana_molchanova send for registration: {'event_id': 'recB9b6nvtJHlJkvo', 'user_nick': '@oxana_molchanova', 'user_name': 'Оксана Молчанова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 13:11:15: oxana_molchanova begun registration
+02.10.2023, 13:14:36: oxana_molchanova tried to reg on 🚴‍♂️ Велопоездка (8.10 11:00), 10 мест
+02.10.2023, 13:14:48: oxana_molchanova send for registration: {'event_id': 'recxRm2Q5TUfw3Yjt', 'user_nick': '@oxana_molchanova', 'user_name': 'Оксана Молчанова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 13:14:52: oxana_molchanova checked registration
+02.10.2023, 13:15:09: oxana_molchanova begun registration
+02.10.2023, 13:17:18: klmvksn checked registration
+02.10.2023, 13:33:30: korobulya812 pressed Cancel or got deny
+02.10.2023, 13:33:32: korobulya812 begun registration
+02.10.2023, 13:34:05: korobulya812 tried to reg on 🧠 Домашняя Конференция (15.10 14:00), 16 мест
+02.10.2023, 13:34:08: korobulya812 pressed Cancel or got deny
+02.10.2023, 13:38:03: lena_ladnaya begun registration
+02.10.2023, 13:38:25: lena_ladnaya tried to reg on 🍇 Дегустируем Бордо (7.10 18:00), 7 мест
+02.10.2023, 13:38:29: lena_ladnaya send for registration: {'event_id': 'recza325cWPMiO4Ex', 'user_nick': '@lena_ladnaya', 'user_name': 'Лена Ладная \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 13:38:49: klmvksn checked registration
+02.10.2023, 13:38:57: klmvksn begun registration
+02.10.2023, 13:39:11: klmvksn tried to reg on ♻️ Осенний своп (21.10 15:00), 36 мест
+02.10.2023, 13:39:20: klmvksn send for registration: {'event_id': 'recxdJIl20k9tdyjt', 'user_nick': '@klmvksn', 'user_name': 'Оксана Климова', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 13:39:27: klmvksn checked registration
+02.10.2023, 13:39:35: klmvksn begun registration
+02.10.2023, 13:45:35: vasvas13 tried to reg on 🏄 Сапы (7.10 10:00), 6 мест
+02.10.2023, 13:45:38: vasvas13 pressed Cancel or got deny
+02.10.2023, 13:48:32: oleksandr_glotka pressed Cancel or got deny
+02.10.2023, 13:48:37: oleksandr_glotka begun registration
+02.10.2023, 13:49:33: oleksandr_glotka tried to reg on 📗 Книжный клуб (15.10 18:00), 9 мест
+02.10.2023, 13:49:35: oleksandr_glotka pressed Cancel or got deny
+02.10.2023, 13:51:54: victoria_hbg pressed Cancel or got deny
+02.10.2023, 13:51:56: victoria_hbg begun registration
+02.10.2023, 13:53:30: victoria_hbg tried to reg on 🏺Глиняный курс: чашка (14.10 12:00), 7 мест
+02.10.2023, 13:53:36: victoria_hbg send for registration: {'event_id': 'recRP6fJuCug4V8Na', 'user_nick': '@victoria_hbg', 'user_name': 'Victoria Holmberg', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 13:53:40: victoria_hbg begun registration
+02.10.2023, 13:54:07: victoria_hbg pressed Cancel or got deny
+02.10.2023, 13:54:10: victoria_hbg checked registration
+02.10.2023, 13:54:14: victoria_hbg pressed cancel event reg
+02.10.2023, 13:54:20: victoria_hbg want to cancel 🏺Глиняный курс: чашка
+02.10.2023, 13:54:27: victoria_hbg отменил 🏺Глиняный курс: чашка
+02.10.2023, 13:54:30: victoria_hbg begun registration
+02.10.2023, 14:07:57: Liaisan pressed Cancel or got deny
+02.10.2023, 14:07:59: Liaisan begun registration
+02.10.2023, 14:18:30: missssalissa came with frsttime == 1
+02.10.2023, 14:18:35: missssalissa begun registration
+02.10.2023, 14:19:53: missssalissa tried to reg on 🖌 МК Анимация (13.10 19:00), 10 мест
+02.10.2023, 14:19:55: missssalissa pressed Cancel or got deny
+02.10.2023, 14:21:54: anastasiia_danilson begun registration
+02.10.2023, 14:26:34: Natchepa checked registration
+02.10.2023, 14:26:39: Natchepa begun registration
+02.10.2023, 14:26:46: Natchepa tried to reg on 📸 Фотофестиваль (7.10 11:00), 13 мест
+02.10.2023, 14:26:51: Natchepa send for registration: {'event_id': 'recdEhEkdXbxRgiDG', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 14:26:56: Natchepa begun registration
+02.10.2023, 14:28:35: wertner came with frsttime == 1
+02.10.2023, 14:28:41: wertner begun registration
+02.10.2023, 14:28:48: Natchepa tried to reg on 🍾 Винодельня (22.10 10:00), 11 мест
+02.10.2023, 14:28:52: Natchepa send for registration: {'event_id': 'recZYFr8X8iO7XyTk', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 14:28:55: wertner tried to reg on 📗 Книжный клуб (15.10 18:00), 9 мест
+02.10.2023, 14:28:56: Natchepa checked registration
+02.10.2023, 14:29:00: wertner send for registration: {'event_id': 'recWnBnHAX4AB45Py', 'user_nick': '@wertner', 'user_name': 'Дима-Вадим Урасин (wertner) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 14:29:00: Natchepa begun registration
+02.10.2023, 14:29:32: Natchepa tried to reg on 🖌 МК Анимация (13.10 19:00), 10 мест
+02.10.2023, 14:29:36: Natchepa send for registration: {'event_id': 'recoSt0UwOInKiR5E', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 14:29:41: Natchepa checked registration
+02.10.2023, 14:29:45: Natchepa begun registration
+02.10.2023, 14:30:51: wertner begun registration
+02.10.2023, 14:31:00: Natchepa tried to reg on 🎃  Киноклуб (27.10 19:00), 17 мест
+02.10.2023, 14:31:05: wertner tried to reg on 🎃 Книжный клуб (29.10 18:00), 21 мест
+02.10.2023, 14:31:07: Natchepa send for registration: {'event_id': 'recafGBGpDqjQN1hT', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 14:31:12: wertner send for registration: {'event_id': 'recB9b6nvtJHlJkvo', 'user_nick': '@wertner', 'user_name': 'Дима-Вадим Урасин (wertner) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 14:34:48: no_pisk came with frsttime == 1
+02.10.2023, 14:34:52: no_pisk begun registration
+02.10.2023, 14:36:28: ensalada_bot pressed Cancel or got deny
+02.10.2023, 14:36:40: Anandia1 pressed Cancel or got deny
+02.10.2023, 14:36:43: Anandia1 begun registration
+02.10.2023, 14:36:43: no_pisk begun registration
+02.10.2023, 14:36:53: Anandia1 tried to reg on 📗 Книжный клуб (15.10 18:00), 8 мест
+02.10.2023, 14:36:59: Anandia1 send for registration: {'event_id': 'recWnBnHAX4AB45Py', 'user_nick': '@anandia1', 'user_name': 'Надя Макарова', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 14:37:22: no_pisk tried to reg on 🏺Глиняный курс: чашка (14.10 12:00), 7 мест
+02.10.2023, 14:37:24: no_pisk pressed Cancel or got deny
+02.10.2023, 14:37:30: no_pisk begun registration
+02.10.2023, 14:37:31: Anandia1 begun registration
+02.10.2023, 14:37:37: no_pisk tried to reg on 🏺Глиняный курс: боул (21.10 12:00), 5 мест
+02.10.2023, 14:37:39: no_pisk pressed Cancel or got deny
+02.10.2023, 14:38:23: Anandia1 tried to reg on 🎃 фотопрогулка (30.10 14:00), 13 мест
+02.10.2023, 14:38:29: Anandia1 send for registration: {'event_id': 'recMpIIPGvr8QqBZ9', 'user_nick': '@anandia1', 'user_name': 'Надя Макарова', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 14:42:27: Natchepa begun registration
+02.10.2023, 14:49:41: lizzybell pressed cancel event reg
+02.10.2023, 14:49:43: lizzybell want to cancel 🎃 фотопрогулка
+02.10.2023, 14:49:51: lizzybell pressed Cancel or got deny
+02.10.2023, 14:49:55: lizzybell pressed cancel event reg
+02.10.2023, 14:49:58: lizzybell want to cancel 🚴‍♂️ Велопоездка
+02.10.2023, 14:50:04: lizzybell отменил 🚴‍♂️ Велопоездка
+02.10.2023, 14:55:38: Natchepa tried to reg on 🎃 фотопрогулка (30.10 14:00), 12 мест
+02.10.2023, 14:55:44: Natchepa send for registration: {'event_id': 'recMpIIPGvr8QqBZ9', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 14:58:12: Liaisan pressed Cancel or got deny
+02.10.2023, 14:58:13: Liaisan begun registration
+02.10.2023, 15:07:45: lizzybell checked registration
+02.10.2023, 15:07:49: ek_puchnina begun registration
+02.10.2023, 15:10:45: maxibello tried to reg on 🎥 Короткометражки (6.10 19:00), 23 мест
+02.10.2023, 15:11:06: maxibello send for registration: {'event_id': 'recr41jqasuW2gcfB', 'user_nick': '@maxibello', 'user_name': 'Максим Кузнецов (@maxibello)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 15:14:28: millllanna came with frsttime == 1
+02.10.2023, 15:14:29: preguntasproblemas begun registration
+02.10.2023, 15:14:32: millllanna begun registration
+02.10.2023, 15:15:13: millllanna tried to reg on 🥨 Cuddle Party (14.10 18:00), 6 мест
+02.10.2023, 15:15:16: millllanna pressed Cancel or got deny
+02.10.2023, 15:15:23: millllanna begun registration
+02.10.2023, 15:15:28: millllanna tried to reg on 🖌 МК Анимация (13.10 19:00), 9 мест
+02.10.2023, 15:15:30: millllanna pressed Cancel or got deny
+02.10.2023, 15:15:35: millllanna begun registration
+02.10.2023, 15:15:44: millllanna tried to reg on 🎃 фотопрогулка (29.10 14:00), 11 мест
+02.10.2023, 15:15:46: millllanna pressed Cancel or got deny
+02.10.2023, 15:16:37: Myalice begun registration
+02.10.2023, 15:17:06: Myalice tried to reg on 🎥 Короткометражки (6.10 19:00), 22 мест
+02.10.2023, 15:20:45: Myalice send for registration: {'event_id': 'recr41jqasuW2gcfB', 'user_nick': '@myalice', 'user_name': 'Катя (myalice) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+02.10.2023, 15:20:57: Myalice begun registration
+02.10.2023, 15:21:15: Myalice tried to reg on ⚽️ Женский Футбол (15.10 18:00), 10 мест
+02.10.2023, 15:21:22: Myalice send for registration: {'event_id': 'recetHI0fA7Nnfze2', 'user_nick': '@myalice', 'user_name': 'Катя (myalice) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 15:29:09: Myalice begun registration
+02.10.2023, 15:29:24: Myalice tried to reg on 🎃  Киноклуб (27.10 19:00), 16 мест
+02.10.2023, 15:29:40: Myalice send for registration: {'event_id': 'recafGBGpDqjQN1hT', 'user_nick': '@myalice', 'user_name': 'Катя (myalice) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 16:01:47: vasvas13 begun registration
+02.10.2023, 16:01:51: vasvas13 tried to reg on 🏄 Сапы (7.10 10:00), 6 мест
+02.10.2023, 16:01:54: vasvas13 pressed Cancel or got deny
+02.10.2023, 16:07:09: likachemmy pressed Cancel or got deny
+02.10.2023, 16:07:14: likachemmy begun registration
+02.10.2023, 16:07:20: likachemmy tried to reg on ⚽️ Женский Футбол (15.10 18:00), 9 мест
+02.10.2023, 16:07:23: likachemmy pressed Cancel or got deny
+02.10.2023, 16:09:02: noobdoesre pressed Cancel or got deny
+02.10.2023, 16:09:07: noobdoesre begun registration
+02.10.2023, 16:09:32: noobdoesre tried to reg on 🎥 Короткометражки (6.10 19:00), 20 мест
+02.10.2023, 16:09:38: noobdoesre send for registration: {'event_id': 'recr41jqasuW2gcfB', 'user_nick': '@noobdoesre', 'user_name': 'Игорь (noobdoesre)', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 16:13:23: Sabinafm begun registration
+02.10.2023, 16:13:34: Sabinafm tried to reg on 🧠 Домашняя Конференция (15.10 14:00), 16 мест
+02.10.2023, 16:13:38: Sabinafm send for registration: {'event_id': 'recZ7INYFYD9TSSNI', 'user_nick': '@sabinafm', 'user_name': 'Сабина Алешева (sabinafm) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 16:13:42: Sabinafm begun registration
+02.10.2023, 16:13:48: Sabinafm tried to reg on 📗 Книжный клуб (15.10 18:00), 7 мест
+02.10.2023, 16:13:52: Sabinafm send for registration: {'event_id': 'recWnBnHAX4AB45Py', 'user_nick': '@sabinafm', 'user_name': 'Сабина Алешева (sabinafm) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 16:13:55: Sabinafm begun registration
+02.10.2023, 16:14:07: Sabinafm tried to reg on ♻️ Осенний своп (21.10 15:00), 34 мест
+02.10.2023, 16:14:12: Sabinafm send for registration: {'event_id': 'recxdJIl20k9tdyjt', 'user_nick': '@sabinafm', 'user_name': 'Сабина Алешева (sabinafm) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 16:14:14: Sabinafm begun registration
+02.10.2023, 16:14:28: Sabinafm tried to reg on 🎃  Киноклуб (27.10 19:00), 15 мест
+02.10.2023, 16:14:33: Sabinafm send for registration: {'event_id': 'recafGBGpDqjQN1hT', 'user_nick': '@sabinafm', 'user_name': 'Сабина Алешева (sabinafm) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 16:14:36: Sabinafm begun registration
+02.10.2023, 16:14:43: Sabinafm tried to reg on 🎥 Короткометражки (6.10 19:00), 19 мест
+02.10.2023, 16:14:47: Sabinafm send for registration: {'event_id': 'recr41jqasuW2gcfB', 'user_nick': '@sabinafm', 'user_name': 'Сабина Алешева (sabinafm) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 16:14:50: Sabinafm begun registration
+02.10.2023, 16:15:17: Sabinafm tried to reg on 🥨 Cuddle Party (14.10 18:00), 6 мест
+02.10.2023, 16:15:22: Sabinafm send for registration: {'event_id': 'recwXO7xPTrqutud0', 'user_nick': '@sabinafm', 'user_name': 'Сабина Алешева (sabinafm) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': True, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+02.10.2023, 16:15:23: Sabinafm begun registration
+02.10.2023, 16:20:03: None bot  hase been started

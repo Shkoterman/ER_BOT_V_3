@@ -8,14 +8,19 @@ from telebot import types
 from datetime import datetime
 
 
-shkoterman_chat_id=214130351
-julia_chat_id=346459053
-payment_message_id=9582
-all_about_sub_message_id=57463
-response_timeout=7
+test_mode=False
+#test_mode=True
 
-#bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
-bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
+shkoterman_chat_id = 214130351
+julia_chat_id = 346459053
+if test_mode:
+    payment_message_id=9582
+    all_about_sub_message_id=57463
+    bot = telebot.TeleBot('5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')  # this is test
+else:
+    payment_message_id=9582
+    all_about_sub_message_id=57463
+    bot = telebot.TeleBot('5806434689:AAG383Pr1XxSpl4vjJ9rNFR27xJJA19bs0g')  # this is prod
 
 what_did_you_like_list = {}
 time_out={}
@@ -176,8 +181,8 @@ def registration_step_4(message, for_reg_dickt):
 
 def registration_step_5(message, for_reg_dickt):
     bot.send_message(message.chat.id, text=strs.got_it)
-    bot.send_message(message.chat.id, text=strs.payment_text_after_reg, disable_web_page_preview=True)
-    bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
+    bot.send_message(message.chat.id, text=strs.payment_text_after_reg, disable_web_page_preview=True, parse_mode='Markdown')
+    #bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
     write_in_log(message, 'send for registration: '+str(for_reg_dickt))
     main_menu(message, 3)
     ER_DB.add_new_user(message.from_user.username, message.chat.id)
@@ -547,7 +552,7 @@ def handle_text(message):
     elif message.text == btns.paybtn.text:
         bot.send_message(message.chat.id, text=strs.payment_text_info, disable_web_page_preview=True,
                          parse_mode='Markdown')
-        bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
+        #bot.forward_message(message.chat.id, shkoterman_chat_id, payment_message_id)
     elif message.text == btns.pingbtn.text:
         bot.send_message(message.chat.id, text=btns.pingbtn.text)
     elif message.text == btns.cancel.text:
