@@ -490,15 +490,15 @@ def cancel_reg_step_3(message, rec_list, ev_name):
         markup=types.ReplyKeyboardMarkup(resize_keyboard=True)
         markup.add(btns.no_chanhced, btns.yes_cancel)
         send=bot.send_message(message.chat.id, text=strs.cancel_last_check+ev_name+'?', reply_markup=markup)
-        bot.register_next_step_handler(send, cancel_reg_step_4, rec_list, ev_name)
+        bot.register_next_step_handler(send, cancel_reg_step_4, rec_list, ev_name, cancel_reason)
 
 
-def cancel_reg_step_4(message, rec_list, ev_name):
+def cancel_reg_step_4(message, rec_list, ev_name, cancel_reason):
     if message.text==btns.yes_cancel.text:
-        write_in_log(message, 'отменил ' + ev_name)
+        write_in_log(message, 'отменил ' + ev_name + strs.sliv_reason + cancel_reason)
         if ER_DB.del_registration(rec_list):
             bot.send_message(message.chat.id, text=strs.sorry_for_cancel+ev_name)
-            send_julia(str='@'+message.from_user.username+strs.sliva+ev_name)
+            send_julia(str='@'+message.from_user.username+strs.sliva+ev_name+strs.sliv_reason+cancel_reason)
         main_menu(message, 3)
     elif message.text==btns.no_chanhced.text:
             bot.send_message(message.chat.id, text=strs.god_bless_u)

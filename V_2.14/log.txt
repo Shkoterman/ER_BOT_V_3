@@ -6033,67 +6033,68 @@
 26.10.2023, 14:38:59: notnevernow pressed Cancel or got deny
 26.10.2023, 14:39:05: notnevernow begun registration
 26.10.2023, 14:39:11: notnevernow pressed Cancel or got deny
-26.10.2023, 16:01:09: Alinochka_yu begun registration
-26.10.2023, 16:01:16: Alinochka_yu tried to reg on 🎃 хэлоуин (28.10 19:00), 6 мест
-26.10.2023, 16:01:22: Alinochka_yu send for registration: {'event_id': 'recwnOs0a4uG7GuxV', 'user_nick': '@alinochka_yu', 'user_name': 'Алина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
-26.10.2023, 16:13:57: notnevernow begun registration
-26.10.2023, 16:16:30: notnevernow pressed Cancel or got deny
-26.10.2023, 16:16:33: notnevernow begun registration
-26.10.2023, 16:19:33: lizzybell begun registration
-26.10.2023, 16:19:48: mellediaaa begun registration
-26.10.2023, 16:19:50: lizzybell tried to reg on 🏺 Глиняный курс: баночка (4.11 12:00), 8 мест
-26.10.2023, 16:19:56: mellediaaa tried to reg on 🏺 Глиняный курс: подсвечник (11.11 12:00), 8 мест
-26.10.2023, 16:19:57: lizzybell send for registration: {'event_id': 'recp7T3zPnhYWkQK9', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:20:02: mellediaaa send for registration: {'event_id': 'recGi48tj03KxIVbh', 'user_nick': '@mellediaaa', 'user_name': 'Диана', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:20:05: lizzybell pressed Cancel or got deny
-26.10.2023, 16:20:07: mellediaaa begun registration
-26.10.2023, 16:20:12: lizzybell begun registration
-26.10.2023, 16:20:17: lizzybell tried to reg on 🏺 Глиняный курс: ваза (18.11 12:00), 8 мест
-26.10.2023, 16:20:17: mellediaaa tried to reg on 🏺 Глиняный курс: баночка (4.11 12:00), 7 мест
-26.10.2023, 16:20:22: mellediaaa send for registration: {'event_id': 'recp7T3zPnhYWkQK9', 'user_nick': '@mellediaaa', 'user_name': 'Диана', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:20:24: lizzybell send for registration: {'event_id': 'recMBkCW9cdooNGnk', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:20:25: mellediaaa begun registration
-26.10.2023, 16:20:28: lizzybell begun registration
-26.10.2023, 16:20:34: mellediaaa tried to reg on 🏺 Глиняный курс: ваза (18.11 12:00), 7 мест
-26.10.2023, 16:20:35: lizzybell tried to reg on 🏺 Глиняный курс: глазури, 1 группа (25.11 12:00), 8 мест
-26.10.2023, 16:20:39: mellediaaa send for registration: {'event_id': 'recMBkCW9cdooNGnk', 'user_nick': '@mellediaaa', 'user_name': 'Диана', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:20:40: lizzybell send for registration: {'event_id': 'rec0KgLMqEidGXehW', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:20:42: mellediaaa begun registration
-26.10.2023, 16:20:49: mellediaaa tried to reg on 🏺 Глиняный курс: глазури, 1 группа (25.11 12:00), 7 мест
-26.10.2023, 16:20:51: logonansy begun registration
-26.10.2023, 16:20:53: mellediaaa send for registration: {'event_id': 'rec0KgLMqEidGXehW', 'user_nick': '@mellediaaa', 'user_name': 'Диана', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:20:54: lizzybell begun registration
-26.10.2023, 16:20:55: logonansy tried to reg on 🏺Глиняный курс: тарелка (28.10 12:00), в вэйтлист
-26.10.2023, 16:20:56: mellediaaa checked registration
-26.10.2023, 16:20:57: logonansy pressed Cancel or got deny
-26.10.2023, 16:21:01: logonansy begun registration
-26.10.2023, 16:21:06: logonansy tried to reg on 🏺 Глиняный курс: баночка (4.11 12:00), 6 мест
-26.10.2023, 16:21:12: logonansy send for registration: {'event_id': 'recp7T3zPnhYWkQK9', 'user_nick': '@logonansy', 'user_name': 'Анастасия', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:21:15: logonansy begun registration
-26.10.2023, 16:21:19: logonansy tried to reg on 🏺 Глиняный курс: подсвечник (11.11 12:00), 7 мест
-26.10.2023, 16:21:27: logonansy send for registration: {'event_id': 'recGi48tj03KxIVbh', 'user_nick': '@logonansy', 'user_name': 'Анастасия', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:21:28: lizzybell tried to reg on 🏺 Глиняный курс: глазури, 2 группа (25.11 15:00), 8 мест
-26.10.2023, 16:21:32: logonansy begun registration
-26.10.2023, 16:21:32: lizzybell send for registration: {'event_id': 'recuRc1iD8LLfqes8', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:21:36: lizzybell pressed cancel event reg
-26.10.2023, 16:21:40: logonansy tried to reg on 🏺 Глиняный курс: ваза (18.11 12:00), 6 мест
-26.10.2023, 16:21:41: lizzybell want to cancel 🏺 Глиняный курс: глазури, 1 группа
-26.10.2023, 16:21:44: lizzybell отменил 🏺 Глиняный курс: глазури, 1 группа
-26.10.2023, 16:21:46: logonansy send for registration: {'event_id': 'recMBkCW9cdooNGnk', 'user_nick': '@logonansy', 'user_name': 'Анастасия', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:21:49: logonansy begun registration
-26.10.2023, 16:21:50: lizzybell checked registration
-26.10.2023, 16:21:59: lizzybell pressed cancel event reg
-26.10.2023, 16:22:02: logonansy tried to reg on 🏺 Глиняный курс: глазури, 1 группа (25.11 12:00), 7 мест
-26.10.2023, 16:22:05: lizzybell want to cancel 🎃  Киноклуб
-26.10.2023, 16:22:07: logonansy send for registration: {'event_id': 'rec0KgLMqEidGXehW', 'user_nick': '@logonansy', 'user_name': 'Анастасия', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:22:10: lizzybell отменил 🎃  Киноклуб
-26.10.2023, 16:22:12: logonansy begun registration
-26.10.2023, 16:22:20: logonansy pressed Cancel or got deny
-26.10.2023, 16:22:23: logonansy checked registration
-26.10.2023, 16:22:27: lizzybell pressed cancel event reg
-26.10.2023, 16:22:32: lizzybell want to cancel 🍾 Винодельня
-26.10.2023, 16:24:52: julia_kovylina begun registration
-26.10.2023, 16:25:00: julia_kovylina tried to reg on 🏺 Глиняный курс: баночка (4.11 12:00), 5 мест
-26.10.2023, 16:25:05: julia_kovylina send for registration: {'event_id': 'recp7T3zPnhYWkQK9', 'user_nick': '@julia_kovylina', 'user_name': 'Юля Ковылина (@julia_kovylina)', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-26.10.2023, 16:31:06: lizzybell отменил 🍾 Винодельня
-26.10.2023, 16:31:14: lizzybell begun registration
+26.10.2023, 15:58:52: None bot  hase been started
+26.10.2023, 15:59:13: Shkoterman came with frsttime == 1
+26.10.2023, 15:59:22: Shkoterman pressed cancel event reg
+26.10.2023, 15:59:24: Shkoterman pressed Cancel or got deny
+26.10.2023, 16:06:20: None bot  hase been started
+26.10.2023, 16:06:22: Shkoterman begun registration
+26.10.2023, 16:06:33: Shkoterman tried to reg on 🎃 Книжный клуб (29.10 18:00), 10 мест
+26.10.2023, 16:06:38: Shkoterman send for registration: {'event_id': 'recB9b6nvtJHlJkvo', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.10.2023, 16:06:40: Shkoterman pressed cancel event reg
+26.10.2023, 16:07:38: None bot  hase been started
+26.10.2023, 16:07:41: Shkoterman pressed cancel event reg
+26.10.2023, 16:07:59: None bot  hase been started
+26.10.2023, 16:08:01: Shkoterman pressed Cancel or got deny
+26.10.2023, 16:08:03: Shkoterman pressed cancel event reg
+26.10.2023, 16:08:06: Shkoterman want to cancel 🎃 Книжный клуб
+26.10.2023, 16:08:48: None bot  hase been started
+26.10.2023, 16:08:49: Shkoterman pressed Cancel or got deny
+26.10.2023, 16:08:54: Shkoterman pressed cancel event reg
+26.10.2023, 16:08:57: Shkoterman want to cancel 🎃 Книжный клуб
+26.10.2023, 16:09:03: Shkoterman отменил 🎃 Книжный клуб, по причине: sdfgsdfsd
+26.10.2023, 16:11:54: Shkoterman begun registration
+26.10.2023, 16:12:00: Shkoterman tried to reg on 🎃 Книжный клуб (29.10 18:00), 10 мест
+26.10.2023, 16:12:06: Shkoterman send for registration: {'event_id': 'recB9b6nvtJHlJkvo', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.10.2023, 16:12:08: Shkoterman pressed cancel event reg
+26.10.2023, 16:12:12: Shkoterman want to cancel 🎃 Книжный клуб
+26.10.2023, 16:12:22: Shkoterman отменил 🎃 Книжный клуб, по причине: None
+26.10.2023, 16:15:26: Shkoterman checked registration
+26.10.2023, 16:17:49: Shkoterman checked registration
+26.10.2023, 16:18:39: Shkoterman checked registration
+26.10.2023, 16:18:44: Shkoterman begun registration
+26.10.2023, 16:18:51: Shkoterman tried to reg on 🏺 Глиняный курс: глазури, 2 группа (25.11 15:00), 8 мест
+26.10.2023, 16:18:57: Shkoterman pressed Cancel or got deny
+26.10.2023, 16:19:25: None bot  hase been started
+26.10.2023, 16:21:05: None bot  hase been started
+26.10.2023, 16:21:09: Shkoterman begun registration
+26.10.2023, 16:21:14: Shkoterman tried to reg on 🏺 Глиняный курс: глазури, 2 группа (25.11 15:00), 8 мест
+26.10.2023, 16:21:18: Shkoterman pressed Cancel or got deny
+26.10.2023, 16:31:32: None bot  hase been started
+26.10.2023, 16:31:34: Shkoterman checked registration
+26.10.2023, 16:31:39: Shkoterman begun registration
+26.10.2023, 16:31:45: Shkoterman tried to reg on 🎃 Книжный клуб (29.10 18:00), 10 мест
+26.10.2023, 16:31:49: Shkoterman send for registration: {'event_id': 'recB9b6nvtJHlJkvo', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.10.2023, 16:31:50: Shkoterman checked registration
+26.10.2023, 16:32:20: None bot  hase been started
+26.10.2023, 16:32:23: Shkoterman pressed cancel event reg
+26.10.2023, 16:32:29: Shkoterman want to cancel 🎃 Книжный клуб
+26.10.2023, 16:32:34: Shkoterman отменил 🎃 Книжный клуб, по причине: sdfsdf
+26.10.2023, 16:32:39: Shkoterman checked registration
+26.10.2023, 16:33:19: None bot  hase been started
+26.10.2023, 16:33:23: Shkoterman checked registration
+26.10.2023, 16:36:05: None bot  hase been started
+26.10.2023, 16:36:09: Shkoterman begun registration
+26.10.2023, 16:36:13: Shkoterman tried to reg on 🎃 Книжный клуб (29.10 18:00), 10 мест
+26.10.2023, 16:36:28: None bot  hase been started
+26.10.2023, 16:36:30: Shkoterman pressed Cancel or got deny
+26.10.2023, 16:36:31: Shkoterman begun registration
+26.10.2023, 16:36:34: Shkoterman tried to reg on 🏺 Глиняный курс: ваза (18.11 12:00), 5 мест
+26.10.2023, 16:36:44: None bot  hase been started
+26.10.2023, 16:36:45: Shkoterman pressed Cancel or got deny
+26.10.2023, 16:36:46: Shkoterman begun registration
+26.10.2023, 16:36:48: Shkoterman tried to reg on 🎃 хэлоуин (28.10 19:00), 4 мест
+26.10.2023, 16:37:15: None bot  hase been started
+26.10.2023, 16:37:16: Shkoterman pressed Cancel or got deny
+26.10.2023, 16:37:17: Shkoterman begun registration
+26.10.2023, 16:37:18: Shkoterman tried to reg on 🎃 хэлоуин (28.10 19:00), 4 мест

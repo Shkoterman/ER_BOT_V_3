@@ -2545,3 +2545,7 @@
 03.10.2023, 16:10:13: iampollya begun registration
 03.10.2023, 16:10:19: iampollya tried to reg on 🎥 Короткометражки (6.10 19:00), 10 мест
 03.10.2023, 16:10:25: iampollya send for registration: {'event_id': 'recr41jqasuW2gcfB', 'user_nick': '@iampollya', 'user_name': 'Полина', 'user_is_sub': False, 'ev_is_sub': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+04.10.2023, 01:27:21: None bot  hase been started
+04.10.2023, 01:27:40: Julia_Sergina checked registration
+04.10.2023, 01:27:47: Shkoterman came with frsttime == 1
+12.10.2023, 14:48:23: None bot  hase been started
