@@ -8,8 +8,8 @@ from telebot import types
 from datetime import datetime
 
 
-#test_mode=False
-test_mode=True
+test_mode=False
+#test_mode=True
 
 shkoterman_chat_id = 214130351
 julia_chat_id = 346459053
