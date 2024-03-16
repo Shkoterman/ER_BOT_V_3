@@ -20903,3 +20903,101 @@
 07.03.2024, 18:56:31: shesheranastya begun registration
 07.03.2024, 19:02:37: howmanymeercats pressed Cancel or got deny
 07.03.2024, 19:02:38: howmanymeercats begun registration
+15.03.2024, 03:14:04: None bot  hase been started
+15.03.2024, 03:28:03: no_pisk came with frsttime == 1
+15.03.2024, 03:28:04: no_pisk came with frsttime == 1
+15.03.2024, 03:28:10: no_pisk pressed cancel event reg
+15.03.2024, 03:28:14: no_pisk want to cancel 🍑Поездка на персики
+15.03.2024, 03:29:13: no_pisk отменил 🍑Поездка на персики, по причине: Другое событие
+15.03.2024, 03:29:22: no_pisk checked registration
+15.03.2024, 03:29:43: no_pisk begun registration
+15.03.2024, 13:22:31: None bot  hase been started
+15.03.2024, 13:22:44: howmanymeercats pressed Cancel or got deny
+15.03.2024, 13:22:44: howmanymeercats pressed Cancel or got deny
+15.03.2024, 13:22:45: howmanymeercats pressed Cancel or got deny
+15.03.2024, 13:22:45: howmanymeercats came with frsttime == 1
+15.03.2024, 13:22:45: no_pisk came with frsttime == 1
+15.03.2024, 13:22:45: Anya2018es pressed cancel event reg
+15.03.2024, 13:22:46: howmanymeercats came with frsttime == 1
+15.03.2024, 13:22:46: Anya2018es checked registration
+15.03.2024, 13:22:48: Anya2018es pressed cancel event reg
+15.03.2024, 13:22:49: vnjutv checked registration
+15.03.2024, 13:22:49: raffihent came with frsttime == 1
+15.03.2024, 13:22:50: Zen_Zoo begun registration
+15.03.2024, 13:22:51: arinagavrilovaaa pressed Cancel or got deny
+15.03.2024, 13:22:51: howmanymeercats came with frsttime == 1
+15.03.2024, 13:22:52: howmanymeercats pressed Cancel or got deny
+15.03.2024, 13:22:52: howmanymeercats pressed Cancel or got deny
+15.03.2024, 13:22:52: kinghappiness checked registration
+15.03.2024, 13:22:52: howmanymeercats came with frsttime == 1
+15.03.2024, 13:22:52: kinghappiness checked registration
+15.03.2024, 13:22:55: kirsan1488 came with frsttime == 1
+15.03.2024, 13:22:55: kirsan1488 came with frsttime == 1
+15.03.2024, 13:22:55: suhailan6360 begun registration
+15.03.2024, 13:22:55: valdis1976 begun registration
+15.03.2024, 13:25:54: Bukmannn pressed Cancel or got deny
+15.03.2024, 13:25:57: Bukmannn checked registration
+15.03.2024, 13:28:10: Bukmannn  Написал нам: Добрый день. Не могу понять, зарегистрирован ли я на Масленицу 16.03. Бот пишет зарегистрирован, но при проверке моих регистраций пишет что я вейтлисте. Мне идти на мероприятие или нет?
+15.03.2024, 13:36:12: Shkoterman begun registration
+15.03.2024, 13:38:24: ensalada_bot pressed Cancel or got deny
+15.03.2024, 13:38:25: ensalada_bot pressed Cancel or got deny
+15.03.2024, 13:42:28: howmanymeercats begun registration
+15.03.2024, 13:43:05: Shkoterman pressed Cancel or got deny
+15.03.2024, 13:46:03: kirsan1488 begun registration
+15.03.2024, 13:46:09: polly_polly05 came with frsttime == 1
+15.03.2024, 13:46:12: polly_polly05 begun registration
+15.03.2024, 13:46:13: kirsan1488 tried to reg on 🥞 Масленица (16.03 14:00), 15 мест
+15.03.2024, 13:46:21: polly_polly05 tried to reg on 🥞 Масленица (16.03 14:00), 15 мест
+15.03.2024, 13:46:25: kirsan1488 send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@kirsan1488', 'user_name': 'Костя', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+15.03.2024, 13:46:43: polly_polly05 send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@polly_polly05', 'user_name': 'Аня', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+15.03.2024, 13:46:57: polly_polly05 pressed Cancel or got deny
+15.03.2024, 13:49:27: sunbirdtaco came with frsttime == 1
+15.03.2024, 13:49:39: sunbirdtaco came with frsttime == 1
+15.03.2024, 13:49:45: sunbirdtaco begun registration
+15.03.2024, 14:05:39: Natchepa begun registration
+15.03.2024, 14:05:51: Natchepa tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), 3 мест
+15.03.2024, 14:05:57: Natchepa send for registration: {'event_id': 'recqnzTwUDgHe8HDn', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': True, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+15.03.2024, 14:06:01: Natchepa begun registration
+15.03.2024, 14:06:29: Natchepa tried to reg on 🥪 Тапас Тур (22.03 20:00), 3 мест
+15.03.2024, 14:06:35: Natchepa send for registration: {'event_id': 'recqlWNf7HCQeUnVr', 'user_nick': '@natchepa', 'user_name': 'Наташа Чепченко (@Natchepa)', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+15.03.2024, 14:06:42: Natchepa begun registration
+15.03.2024, 14:33:57: sunbirdtaco tried to reg on 👧 Энсалада Kids 5+: мумичтения (16.03 12:00), 9 мест
+15.03.2024, 14:34:10: sunbirdtaco send for registration: {'event_id': 'rectt9xFEBSfH0lG1', 'user_nick': '@sunbirdtaco', 'user_name': 'Нина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+15.03.2024, 14:34:47: sunbirdtaco checked registration
+15.03.2024, 14:34:56: sunbirdtaco came with frsttime == 1
+15.03.2024, 14:34:59: sunbirdtaco begun registration
+15.03.2024, 14:35:09: BillieMilligan1408 begun registration
+15.03.2024, 14:35:23: BillieMilligan1408 tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), 2 мест
+15.03.2024, 14:35:26: BillieMilligan1408 pressed Cancel or got deny
+15.03.2024, 14:35:28: BillieMilligan1408 checked registration
+15.03.2024, 14:35:38: BillieMilligan1408 pressed cancel event reg
+15.03.2024, 14:35:46: BillieMilligan1408 нажал(а) рецепт
+15.03.2024, 14:35:51: BillieMilligan1408 pressed Cancel or got deny
+15.03.2024, 14:35:54: BillieMilligan1408 checked registration
+15.03.2024, 14:36:24: sunbirdtaco tried to reg on 🥞 Масленица (16.03 14:00), 12 мест
+15.03.2024, 14:36:32: sunbirdtaco send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@sunbirdtaco', 'user_name': 'Нина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+15.03.2024, 14:37:01: sunbirdtaco  Написал нам: Сколько стоит масленица и мумий чтения?
+15.03.2024, 14:38:04: BillieMilligan1408 checked registration
+15.03.2024, 14:38:15: BillieMilligan1408 begun registration
+15.03.2024, 14:38:19: BillieMilligan1408 pressed Cancel or got deny
+15.03.2024, 14:38:22: BillieMilligan1408 checked registration
+15.03.2024, 14:38:38: BillieMilligan1408 begun registration
+15.03.2024, 14:38:42: exti911 checked registration
+15.03.2024, 14:38:47: BillieMilligan1408 pressed Cancel or got deny
+15.03.2024, 14:38:49: BillieMilligan1408 checked registration
+15.03.2024, 14:38:52: BillieMilligan1408 checked registration
+15.03.2024, 14:38:55: BillieMilligan1408 pressed give feedback
+15.03.2024, 14:47:46: polikarpiiy checked registration
+15.03.2024, 14:47:55: polikarpiiy pressed cancel event reg
+15.03.2024, 14:47:58: polikarpiiy pressed Cancel or got deny
+15.03.2024, 15:00:02: loverinovich begun registration
+15.03.2024, 15:07:24: nothing_jo begun registration
+15.03.2024, 15:24:11: arinagavrilovaaa checked registration
+15.03.2024, 15:24:17: arinagavrilovaaa pressed cancel event reg
+15.03.2024, 15:24:20: arinagavrilovaaa pressed Cancel or got deny
+15.03.2024, 15:47:50: Shkoterman begun registration
+15.03.2024, 15:47:53: Shkoterman tried to reg on 👧 Энсалада Kids 5+: мумичтения (16.03 12:00), 7 мест
+15.03.2024, 15:47:59: Shkoterman pressed Cancel or got deny
+15.03.2024, 15:48:01: Shkoterman begun registration
+15.03.2024, 15:48:04: Shkoterman tried to reg on 🍷 Drop: испанские вина за 9 и за 30 евро (15.03 20:00), 1 мест
+15.03.2024, 15:48:14: Shkoterman pressed Cancel or got deny
