@@ -22427,435 +22427,1129 @@
 15.03.2024, 14:53:54: Shkoterman checked registration
 15.03.2024, 14:54:37: Shkoterman checked registration
 15.03.2024, 14:55:15: Shkoterman checked registration
-15.03.2024, 15:48:49: None bot  hase been started
-15.03.2024, 15:48:52: Shkoterman begun registration
-15.03.2024, 15:48:55: Shkoterman tried to reg on 🍷 Drop: испанские вина за 9 и за 30 евро (15.03 20:00), 1 мест
-15.03.2024, 15:49:01: Shkoterman pressed Cancel or got deny
-15.03.2024, 15:49:05: Shkoterman begun registration
-15.03.2024, 15:49:07: Shkoterman tried to reg on 👧 Энсалада Kids 5+: мумичтения (16.03 12:00), 7 мест
-15.03.2024, 15:49:12: Shkoterman pressed Cancel or got deny
-15.03.2024, 16:03:14: honestasia came with frsttime == 1
-15.03.2024, 16:03:24: honestasia begun registration
-15.03.2024, 16:04:07: KovalevEvgeny came with frsttime == 1
-15.03.2024, 16:04:12: KovalevEvgeny begun registration
-15.03.2024, 16:04:17: honestasia tried to reg on 🍑Поездка на персики (17.03 10:00), 12 мест
-15.03.2024, 16:04:51: KovalevEvgeny tried to reg on 🍑Поездка на персики (17.03 10:00), 12 мест
-15.03.2024, 16:04:54: borsay came with frsttime == 1
-15.03.2024, 16:05:04: borsay begun registration
-15.03.2024, 16:05:13: borsay tried to reg on 🍑Поездка на персики (17.03 10:00), 12 мест
-15.03.2024, 16:05:33: annapronk pressed Cancel or got deny
-15.03.2024, 16:05:35: IngaZav came with frsttime == 1
-15.03.2024, 16:05:42: Adutant begun registration
-15.03.2024, 16:05:47: irinaasukhova begun registration
-15.03.2024, 16:05:51: annapronk begun registration
-15.03.2024, 16:05:57: irinaasukhova tried to reg on 🍑Поездка на персики (17.03 10:00), 12 мест
-15.03.2024, 16:05:58: isaevabarbara came with frsttime == 1
-15.03.2024, 16:06:04: annapronk tried to reg on 🚶‍♀️ Камино (20.03 19:30), 19 мест
-15.03.2024, 16:06:19: IngaZav  Написал нам: Добрый день! Уточните пожалуйста, а в следующие выходные планируется поездка на персиковые поля? Или уже все отцветает?
-15.03.2024, 16:08:40: Agata_Canarita came with frsttime == 1
-15.03.2024, 16:08:51: Agata_Canarita begun registration
-15.03.2024, 16:09:01: Agata_Canarita tried to reg on 🍑Поездка на персики (17.03 10:00), 12 мест
-15.03.2024, 16:09:06: slugindm begun registration
-15.03.2024, 16:09:15: slugindm tried to reg on 🍑Поездка на персики (17.03 10:00), 12 мест
-15.03.2024, 16:09:30: ensalada_bot pressed Cancel or got deny
-15.03.2024, 16:11:21: ensalada_bot pressed Cancel or got deny
-15.03.2024, 16:14:00: alina_ochirova begun registration
-15.03.2024, 16:14:08: alina_ochirova tried to reg on 🍑Поездка на персики (17.03 10:00), 12 мест
-15.03.2024, 16:19:00: Art_Vlk came with frsttime == 1
-15.03.2024, 16:19:09: Art_Vlk begun registration
-15.03.2024, 16:19:29: Art_Vlk tried to reg on 🍑Поездка на персики (17.03 10:00), 12 мест
-15.03.2024, 16:19:35: None came with frsttime == 1
-15.03.2024, 16:19:43: None begun registration
-15.03.2024, 16:19:44: None pressed Cancel or got deny
-15.03.2024, 16:19:51: lenyyand_ro came with frsttime == 1
-15.03.2024, 16:20:00: lenyyand_ro begun registration
-15.03.2024, 16:20:49: Alla_Welz came with frsttime == 1
-15.03.2024, 16:21:02: Alla_Welz begun registration
-15.03.2024, 16:21:50: dubrovinaoolga came with frsttime == 1
-15.03.2024, 16:21:56: dubrovinaoolga begun registration
-15.03.2024, 16:22:01: None begun registration
-15.03.2024, 16:22:02: None pressed Cancel or got deny
-15.03.2024, 16:23:14: oleshik_fan begun registration
-15.03.2024, 16:23:31: lenyyand_ro tried to reg on 🍑Поездка на персики (17.03 10:00), 12 мест
-15.03.2024, 16:23:34: oleshik_fan tried to reg on 🥞 Масленица (16.03 14:00), 9 мест
-15.03.2024, 16:26:25: plykin begun registration
-15.03.2024, 16:27:18: pif_pufa pressed Cancel or got deny
-15.03.2024, 16:27:24: pif_pufa begun registration
-15.03.2024, 16:27:28: pif_pufa tried to reg on 🥞 Масленица (16.03 14:00), 8 мест
-15.03.2024, 16:27:48: pif_pufa send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@pif_pufa', 'user_name': 'Света', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
-15.03.2024, 16:29:09: pvlbdv begun registration
-15.03.2024, 16:29:57: petrovkazan came with frsttime == 1
-15.03.2024, 16:30:21: petrovkazan came with frsttime == 1
-15.03.2024, 16:30:34: petrovkazan begun registration
-15.03.2024, 16:31:57: pixllll pressed Cancel or got deny
-15.03.2024, 16:32:02: pixllll begun registration
-15.03.2024, 16:33:08: lenyyand_ro send for registration: {'event_id': 'reczfIoNDbE7n3dEh', 'user_nick': '@lenyyand_ro', 'user_name': 'Лена', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
-15.03.2024, 16:33:32: all87654321 came with frsttime == 1
-15.03.2024, 16:33:48: all87654321  Написал нам: Добрый
-15.03.2024, 16:34:13: all87654321 pressed Cancel or got deny
-15.03.2024, 16:34:44: kristinadkvk begun registration
-15.03.2024, 16:34:48: kristinadkvk tried to reg on 🍑Поездка на персики (17.03 10:00), 10 мест
-15.03.2024, 16:37:57: kristinadkvk send for registration: {'event_id': 'reczfIoNDbE7n3dEh', 'user_nick': '@kristinadkvk', 'user_name': 'Елена', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-15.03.2024, 16:38:52: kristinadkvk pressed Cancel or got deny
-15.03.2024, 16:38:55: kristinadkvk begun registration
-15.03.2024, 16:38:59: kristinadkvk tried to reg on 🍑Поездка на персики (17.03 10:00), 9 мест
-15.03.2024, 16:39:02: kristinadkvk pressed Cancel or got deny
-15.03.2024, 16:39:47: kristinadkvk checked registration
-15.03.2024, 16:40:55: kristinadkvk  Написал нам: У меня вопрос я зарегистрирована на два мероприятие одно из них оплатила, как мне узнать стоимость второго мероприятия: поездка на персики
-15.03.2024, 16:42:59: mariaelsol came with frsttime == 1
-15.03.2024, 16:43:05: mariaelsol begun registration
-15.03.2024, 16:43:07: lenyyand_ro checked registration
-15.03.2024, 16:46:19: kirsan1488 checked registration
-15.03.2024, 16:46:38: Adelsky13 begun registration
-15.03.2024, 16:46:43: Adelsky13 tried to reg on 🍑Поездка на персики (17.03 10:00), 9 мест
-15.03.2024, 16:50:20: abrovchenko begun registration
-15.03.2024, 16:50:53: SamoilikA нажал(а) рецепт
-15.03.2024, 16:52:05: kristinadkvk checked registration
-15.03.2024, 16:52:30: anastasiia_gocreg checked registration
-15.03.2024, 16:52:40: kristinadkvk pressed Cancel or got deny
-15.03.2024, 16:52:46: anastasiia_gocreg pressed cancel event reg
-15.03.2024, 16:53:48: kristinadkvk  Написал нам: Адрес мероприятий на которые я записана ?
-15.03.2024, 16:53:55: kristinadkvk begun registration
-15.03.2024, 17:05:48: darieta_holamento checked registration
-15.03.2024, 17:07:37: marinamarie came with frsttime == 1
-15.03.2024, 17:07:50: marinamarie begun registration
-15.03.2024, 17:11:27: kapryanika pressed Cancel or got deny
-15.03.2024, 17:11:36: kapryanika checked registration
-15.03.2024, 17:11:52: kapryanika begun registration
-15.03.2024, 17:17:07: shevchdan came with frsttime == 1
-15.03.2024, 17:17:20: shevchdan begun registration
-15.03.2024, 17:19:39: mambabla begun registration
-15.03.2024, 17:20:17: mambabla tried to reg on 🍑Поездка на персики (17.03 10:00), 9 мест
-15.03.2024, 17:21:00: mambabla send for registration: {'event_id': 'reczfIoNDbE7n3dEh', 'user_nick': '@mambabla', 'user_name': 'Мария', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
-15.03.2024, 17:21:24: mambabla pressed Cancel or got deny
-15.03.2024, 17:22:02: mambabla pressed Cancel or got deny
-15.03.2024, 17:22:09: mambabla checked registration
-15.03.2024, 17:22:43: mambabla pressed Cancel or got deny
-15.03.2024, 17:22:47: mambabla begun registration
-15.03.2024, 17:23:06: ensalada_bot pressed Cancel or got deny
-15.03.2024, 17:23:23: mambabla  Написал нам: А откуда будет отъезд?
-15.03.2024, 17:36:41: LiudmilaMilaK came with frsttime == 1
-15.03.2024, 17:55:30: jixtase begun registration
-15.03.2024, 17:55:45: jixtase tried to reg on 🥞 Масленица (16.03 14:00), 7 мест
-15.03.2024, 17:56:18: jixtase send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@jixtase', 'user_name': 'Евгений', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-15.03.2024, 17:57:48: all87654321  Написал нам: Скажите когда у вас поездка на персики
-15.03.2024, 17:58:07: sofozzz begun registration
-15.03.2024, 17:58:29: kirsan1488 нажал(а) рецепт
-15.03.2024, 17:58:31: sofozzz tried to reg on 🍑Поездка на персики (17.03 10:00), 7 мест
-15.03.2024, 17:58:32: billgross came with frsttime == 1
-15.03.2024, 17:58:35: billgross begun registration
-15.03.2024, 17:58:36: kirsan1488 pressed Cancel or got deny
-15.03.2024, 17:58:38: kirsan1488 checked registration
-15.03.2024, 17:59:35: billgross tried to reg on 🍑Поездка на персики (17.03 10:00), 7 мест
-15.03.2024, 18:08:34: laviniabravura came with frsttime == 1
-15.03.2024, 18:08:40: laviniabravura begun registration
-15.03.2024, 18:38:30: katherinapankratova came with frsttime == 1
-15.03.2024, 18:38:37: katherinapankratova begun registration
-15.03.2024, 18:38:41: katherinapankratova tried to reg on 🥞 Масленица (16.03 14:00), 6 мест
-15.03.2024, 18:39:17: ensalada_bot pressed Cancel or got deny
-15.03.2024, 18:39:21: katherinapankratova checked registration
-15.03.2024, 18:39:25: katherinapankratova begun registration
-15.03.2024, 18:39:28: katherinapankratova tried to reg on 🥞 Масленица (16.03 14:00), 6 мест
-15.03.2024, 18:39:38: katherinapankratova send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@katherinapankratova', 'user_name': 'Катерина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
-15.03.2024, 18:41:59: dashasuvorova98 came with frsttime == 1
-15.03.2024, 18:42:09: dashasuvorova98 begun registration
-15.03.2024, 18:42:13: dashasuvorova98 tried to reg on 🥞 Масленица (16.03 14:00), 3 мест
-15.03.2024, 18:42:34: dashasuvorova98 send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@dashasuvorova98', 'user_name': 'Даша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
-15.03.2024, 19:02:28: missssalissa checked registration
-15.03.2024, 19:02:48: missssalissa begun registration
-15.03.2024, 19:03:10: missssalissa tried to reg on 🥞 Масленица (16.03 14:00), 2 мест
-15.03.2024, 19:03:14: missssalissa pressed Cancel or got deny
-15.03.2024, 19:03:46: mariiavolkotrub came with frsttime == 1
-15.03.2024, 19:03:58: mariiavolkotrub begun registration
-15.03.2024, 19:04:15: mariiavolkotrub tried to reg on 🥞 Масленица (16.03 14:00), 2 мест
-15.03.2024, 19:04:37: mariiavolkotrub send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@mariiavolkotrub', 'user_name': 'Мария', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
-15.03.2024, 19:20:36: musketer_spyfall came with frsttime == 1
-15.03.2024, 19:20:51: musketer_spyfall begun registration
-15.03.2024, 19:21:00: musketer_spyfall tried to reg on 🥞 Масленица (16.03 14:00), 1 мест
-15.03.2024, 19:21:47: ensalada_bot pressed Cancel or got deny
-15.03.2024, 19:21:49: musketer_spyfall begun registration
-15.03.2024, 19:21:54: musketer_spyfall tried to reg on 🥞 Масленица (16.03 14:00), 1 мест
-15.03.2024, 19:22:25: ensalada_bot pressed Cancel or got deny
-15.03.2024, 19:22:39: musketer_spyfall begun registration
-15.03.2024, 19:22:44: musketer_spyfall tried to reg on 🥞 Масленица (16.03 14:00), 1 мест
-15.03.2024, 19:26:02: Yu_creations came with frsttime == 1
-15.03.2024, 19:26:05: Yu_creations checked registration
-15.03.2024, 19:26:13: Yu_creations pressed cancel event reg
-15.03.2024, 19:26:15: Yu_creations pressed Cancel or got deny
-15.03.2024, 19:31:17: Helen_GL21 came with frsttime == 1
-15.03.2024, 19:34:25: ensalada_bot pressed Cancel or got deny
-15.03.2024, 19:34:32: musketer_spyfall begun registration
-15.03.2024, 19:34:37: musketer_spyfall tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-15.03.2024, 19:34:40: musketer_spyfall pressed Cancel or got deny
-15.03.2024, 19:34:55: musketer_spyfall pressed Cancel or got deny
-15.03.2024, 19:35:12: musketer_spyfall checked registration
-15.03.2024, 19:35:43: musketer_spyfall pressed Cancel or got deny
-15.03.2024, 19:41:38: words_juggler pressed Cancel or got deny
-15.03.2024, 19:41:40: words_juggler pressed cancel event reg
-15.03.2024, 19:55:02: youopz came with frsttime == 1
-15.03.2024, 19:56:45: rilfayne pressed cancel event reg
-15.03.2024, 19:57:14: rilfayne checked registration
-15.03.2024, 19:57:28: rilfayne pressed cancel event reg
-15.03.2024, 19:57:38: rilfayne checked registration
-15.03.2024, 20:02:01: rilfayne pressed cancel event reg
-15.03.2024, 20:02:21: annafomichova begun registration
-15.03.2024, 20:02:35: annafomichova tried to reg on ♻️ Своп (23.03 15:00), 34 мест
-15.03.2024, 20:02:43: annafomichova send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@annafomichova', 'user_name': 'Anna Fomichova', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-15.03.2024, 20:07:39: Godblezz came with frsttime == 1
-15.03.2024, 20:07:47: Godblezz begun registration
-15.03.2024, 20:08:42: mrbaraban96 came with frsttime == 1
-15.03.2024, 20:08:52: mrbaraban96 begun registration
-15.03.2024, 20:08:56: mrbaraban96 tried to reg on 🥞 Масленица (16.03 14:00), 19 мест
-15.03.2024, 20:09:12: mrbaraban96 send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@mrbaraban96', 'user_name': 'Саша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
-15.03.2024, 20:10:12: arandana pressed Cancel or got deny
-15.03.2024, 20:10:18: arandana begun registration
-15.03.2024, 20:10:24: arandana tried to reg on ♻️ Своп (23.03 15:00), 33 мест
-15.03.2024, 20:10:33: arandana send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@arandana', 'user_name': 'Катя', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-15.03.2024, 20:47:25: None came with frsttime == 1
-15.03.2024, 20:47:30: None begun registration
-15.03.2024, 20:47:31: None pressed Cancel or got deny
-15.03.2024, 20:50:14: shklyapa begun registration
-15.03.2024, 20:50:29: shklyapa tried to reg on ♻️ Своп (23.03 15:00), 32 мест
-15.03.2024, 20:50:49: shklyapa send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@shklyapa', 'user_name': 'Юли', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
-15.03.2024, 20:51:29: shklyapa checked registration
-15.03.2024, 21:16:21: missssalissa begun registration
-15.03.2024, 21:16:52: missssalissa tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 34 мест
-15.03.2024, 21:16:57: missssalissa pressed Cancel or got deny
-15.03.2024, 21:17:02: missssalissa нажал(а) рецепт
-15.03.2024, 21:17:07: missssalissa pressed Cancel or got deny
-15.03.2024, 21:38:06: kirsan1488  Написал нам: а где будет проходить масленица завтра и во сколько?
-15.03.2024, 21:40:03: Julia_Sergina begun registration
-15.03.2024, 21:40:07: Julia_Sergina tried to reg on 🥞 Масленица (16.03 14:00), 17 мест
-15.03.2024, 21:46:05: koshkina_ek came with frsttime == 1
-15.03.2024, 21:48:51: olathela begun registration
-15.03.2024, 21:49:05: olathela tried to reg on ♻️ Своп (23.03 15:00), 31 мест
-15.03.2024, 21:49:35: olathela send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@olathela', 'user_name': 'Оля', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
-15.03.2024, 21:53:08: GGMONSTERGG came with frsttime == 1
-15.03.2024, 22:04:57: KatyaMakeupart checked registration
-15.03.2024, 22:09:33: KatyaMakeupart begun registration
-15.03.2024, 22:11:20: KatyaMakeupart tried to reg on 🎬Киноклуб (22.03 19:30), 15 мест
-15.03.2024, 22:11:25: KatyaMakeupart pressed Cancel or got deny
-15.03.2024, 22:12:15: ulianetsa came with frsttime == 1
-15.03.2024, 22:12:23: ulianetsa begun registration
-15.03.2024, 22:12:31: ulianetsa tried to reg on 🥞 Масленица (16.03 14:00), 17 мест
-15.03.2024, 22:12:51: ulianetsa send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@ulianetsa', 'user_name': 'Александра', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
-15.03.2024, 22:12:53: Evgeniia09111 came with frsttime == 1
-15.03.2024, 22:13:03: Evgeniia09111 begun registration
-15.03.2024, 22:22:49: Julia_Sergina pressed Cancel or got deny
-15.03.2024, 22:23:07: Julia_Sergina begun registration
-15.03.2024, 22:23:16: Julia_Sergina pressed Cancel or got deny
-15.03.2024, 22:24:47: Oledego pressed Cancel or got deny
-15.03.2024, 22:24:49: Oledego checked registration
-15.03.2024, 22:24:57: Oledego begun registration
-15.03.2024, 22:25:15: koshkina_ek begun registration
-15.03.2024, 22:25:19: Oledego tried to reg on 🎬Киноклуб (22.03 19:30), 15 мест
-15.03.2024, 22:25:23: Oledego pressed Cancel or got deny
-15.03.2024, 22:25:39: koshkina_ek tried to reg on 🥞 Масленица (16.03 14:00), 13 мест
-15.03.2024, 22:27:14: Oledego begun registration
-15.03.2024, 22:27:44: koshkina_ek send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@koshkina_ek', 'user_name': 'Катя', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
-15.03.2024, 22:37:18: Julia_Sergina begun registration
-15.03.2024, 22:37:24: Julia_Sergina tried to reg on 🚶‍♀️ Камино (20.03 19:30), 19 мест
-15.03.2024, 22:37:37: Julia_Sergina send for registration: {'event_id': 'rec5aHtVv5sF1zvrL', 'user_nick': '@julia_sergina', 'user_name': 'Юля Сергина 🌟', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-15.03.2024, 22:37:40: AlexLipasova pressed Cancel or got deny
-15.03.2024, 22:37:44: AlexLipasova checked registration
-15.03.2024, 22:38:24: Julia_Sergina begun registration
-15.03.2024, 22:38:26: Julia_Sergina tried to reg on 🥞 Масленица (16.03 14:00), 12 мест
-15.03.2024, 22:38:41: Julia_Sergina pressed Cancel or got deny
-15.03.2024, 22:40:38: AlexRye checked registration
-15.03.2024, 22:54:55: loverinovich pressed Cancel or got deny
-15.03.2024, 22:57:00: polikarpiiy checked registration
-15.03.2024, 22:57:03: polikarpiiy begun registration
-15.03.2024, 22:57:20: polikarpiiy tried to reg on ♻️ Своп (23.03 15:00), 29 мест
-15.03.2024, 22:57:27: polikarpiiy send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@polikarpiiy', 'user_name': 'Полина (@polikarpiiy)', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-15.03.2024, 22:58:08: annaboyarkina came with frsttime == 1
-15.03.2024, 22:58:33: annaboyarkina begun registration
-15.03.2024, 22:58:58: annaboyarkina tried to reg on 🍑Поездка на персики (17.03 10:00), 7 мест
-15.03.2024, 23:22:06: ginger137 begun registration
-15.03.2024, 23:36:25: AlexLipasova pressed cancel event reg
-15.03.2024, 23:36:28: AlexLipasova pressed Cancel or got deny
-16.03.2024, 00:40:24: yavolchok begun registration
-16.03.2024, 00:40:32: yavolchok pressed Cancel or got deny
-16.03.2024, 00:40:34: yavolchok checked registration
-16.03.2024, 01:33:41: InverseNova checked registration
-16.03.2024, 01:33:50: InverseNova begun registration
-16.03.2024, 01:34:33: InverseNova pressed Cancel or got deny
-16.03.2024, 06:03:26: AsiyaSc pressed Cancel or got deny
-16.03.2024, 06:03:28: AsiyaSc begun registration
-16.03.2024, 06:03:50: AsiyaSc tried to reg on ♻️ Своп (23.03 15:00), 28 мест
-16.03.2024, 06:03:55: MAYI_Elena came with frsttime == 1
-16.03.2024, 06:04:13: AsiyaSc send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@asiyasc', 'user_name': 'Ася', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
-16.03.2024, 07:44:41: Vika_Flow came with frsttime == 1
-16.03.2024, 07:44:44: Vika_Flow pressed cancel event reg
-16.03.2024, 07:44:47: Vika_Flow pressed Cancel or got deny
-16.03.2024, 07:45:18: VictoriaFlow came with frsttime == 1
-16.03.2024, 07:45:20: VictoriaFlow pressed cancel event reg
-16.03.2024, 07:45:22: VictoriaFlow pressed Cancel or got deny
-16.03.2024, 07:46:50: AnnaSKu18 came with frsttime == 1
-16.03.2024, 08:07:57: notnevernow begun registration
-16.03.2024, 08:42:30: williamSasha pressed Cancel or got deny
-16.03.2024, 08:42:46: williamSasha  Написал нам: Привет! А куда сегодня приходить на Масленицу? Щас поняла, что в посте локацию не оставили 🥺
-16.03.2024, 08:57:27: bazarov_a came with frsttime == 1
-16.03.2024, 08:57:43: bazarov_a begun registration
-16.03.2024, 09:19:40: Dr_Zaszus checked registration
-16.03.2024, 09:22:12: whymolchanov checked registration
-16.03.2024, 09:32:57: emelyanova_26 came with frsttime == 1
-16.03.2024, 09:33:08: emelyanova_26 begun registration
-16.03.2024, 09:33:22: emelyanova_26 tried to reg on 🥞 Масленица (16.03 14:00), 12 мест
-16.03.2024, 09:34:23: emelyanova_26 send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@emelyanova_26', 'user_name': 'Надежда', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
-16.03.2024, 09:35:09: emelyanova_26 checked registration
-16.03.2024, 09:40:58: jane_guchinova came with frsttime == 1
-16.03.2024, 09:41:06: arinaaana came with frsttime == 1
-16.03.2024, 09:41:07: jane_guchinova begun registration
-16.03.2024, 09:41:14: arinaaana begun registration
-16.03.2024, 09:41:24: arinaaana tried to reg on 🥞 Масленица (16.03 14:00), 10 мест
-16.03.2024, 09:42:08: arinaaana send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@arinaaana', 'user_name': 'Арина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
-16.03.2024, 10:00:46: tophel came with frsttime == 1
-16.03.2024, 10:00:57: tophel begun registration
-16.03.2024, 10:01:23: tophel tried to reg on 🥞 Масленица (16.03 14:00), 5 мест
-16.03.2024, 10:01:37: tophel send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@tophel', 'user_name': 'Антон', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
-16.03.2024, 10:24:48: NatashaAnikeeva checked registration
-16.03.2024, 10:35:38: polinashur begun registration
-16.03.2024, 10:35:52: polinashur tried to reg on 🥞 Масленица (16.03 14:00), 3 мест
-16.03.2024, 10:35:59: polinashur send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@polinashur', 'user_name': 'Полина Шурмистова', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
-16.03.2024, 10:51:56: RubenSedrakyan came with frsttime == 1
-16.03.2024, 10:52:02: RubenSedrakyan begun registration
-16.03.2024, 11:09:13: EkaMO1999 begun registration
-16.03.2024, 11:09:29: EkaMO1999 tried to reg on Монсератт (23.03 9:00), 8 мест
-16.03.2024, 11:09:33: EkaMO1999 pressed Cancel or got deny
-16.03.2024, 11:09:39: byalexandrova checked registration
-16.03.2024, 11:09:41: byalexandrova begun registration
-16.03.2024, 11:09:49: byalexandrova tried to reg on 🥞 Масленица (16.03 14:00), 1 мест
-16.03.2024, 11:10:25: byalexandrova send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@byalexandrova', 'user_name': 'Кристина Александрова / Варфоломеева \U0001faf0', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-16.03.2024, 11:29:46: None came with frsttime == 1
-16.03.2024, 11:30:07: None begun registration
-16.03.2024, 11:30:08: None pressed Cancel or got deny
-16.03.2024, 11:31:11: None checked registration
-16.03.2024, 11:31:12: None pressed Cancel or got deny
-16.03.2024, 11:45:33: Shkoterman begun registration
-16.03.2024, 11:47:29: kyamchik came with frsttime == 1
-16.03.2024, 11:47:34: kyamchik begun registration
-16.03.2024, 11:47:41: kyamchik tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-16.03.2024, 11:47:58: kyamchik send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@kyamchik', 'user_name': 'Кям', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
-16.03.2024, 11:48:03: kyamchik begun registration
-16.03.2024, 11:56:45: VikGardner came with frsttime == 1
-16.03.2024, 11:56:50: VikGardner begun registration
-16.03.2024, 11:56:55: VikGardner tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-16.03.2024, 11:57:40: yu_lia77 pressed Cancel or got deny
-16.03.2024, 11:57:42: yu_lia77 begun registration
-16.03.2024, 11:59:04: yu_lia77 pressed Cancel or got deny
-16.03.2024, 12:16:39: ro_gwthn pressed Cancel or got deny
-16.03.2024, 12:16:41: ro_gwthn begun registration
-16.03.2024, 12:16:46: ro_gwthn tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-16.03.2024, 12:16:54: ro_gwthn send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@ro_gwthn', 'user_name': 'Роберт', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
-16.03.2024, 12:16:56: ro_gwthn begun registration
-16.03.2024, 12:19:08: kyamchik tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-16.03.2024, 12:19:11: kyamchik pressed Cancel or got deny
-16.03.2024, 12:19:19: kyamchik checked registration
-16.03.2024, 12:21:54: maxibello begun registration
-16.03.2024, 12:27:48: maxibello tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-16.03.2024, 12:28:15: ensalada_bot pressed Cancel or got deny
-16.03.2024, 12:28:17: maxibello begun registration
-16.03.2024, 12:28:21: maxibello tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-16.03.2024, 12:28:29: maxibello send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@maxibello', 'user_name': 'Максим Кузнецов (@maxibello)', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
-16.03.2024, 12:38:09: maxibello  Написал нам: Добрый день, можно ли прийти на масленицу будучи в вейт листе?
-16.03.2024, 12:41:43: trevorrow came with frsttime == 1
-16.03.2024, 12:41:55: trevorrow нажал(а) рецепт
-16.03.2024, 12:42:54: trevorrow понял(а) рецепт на 100 гр.
-16.03.2024, 12:43:01: trevorrow begun registration
-16.03.2024, 12:43:45: trevorrow pressed Cancel or got deny
-16.03.2024, 12:43:49: shesheranastya pressed Cancel or got deny
-16.03.2024, 12:43:49: shesheranastya pressed Cancel or got deny
-16.03.2024, 12:43:51: shesheranastya begun registration
-16.03.2024, 12:48:07: masterevgenia checked registration
-16.03.2024, 12:48:12: masterevgenia pressed cancel event reg
-16.03.2024, 12:48:13: masterevgenia pressed Cancel or got deny
-16.03.2024, 13:03:27: alexx_asa came with frsttime == 1
-16.03.2024, 13:03:31: alexx_asa begun registration
-16.03.2024, 13:03:44: alexx_asa tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-16.03.2024, 13:04:05: alexx_asa send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@alexx_asa', 'user_name': 'Александр', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
-16.03.2024, 13:12:05: aguralev came with frsttime == 1
-16.03.2024, 13:12:09: aguralev begun registration
-16.03.2024, 13:12:19: aguralev tried to reg on 🍑Поездка на персики (17.03 10:00), 7 мест
-16.03.2024, 13:13:27: kalinayoga begun registration
-16.03.2024, 13:13:31: byalexandrova checked registration
-16.03.2024, 13:13:31: kalinayoga tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-16.03.2024, 13:13:38: byalexandrova begun registration
-16.03.2024, 13:13:47: kalinayoga send for registration: {'event_id': 'recdPOZY3hn1m03wd', 'user_nick': '@kalinayoga', 'user_name': 'Алекса Калинина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
-16.03.2024, 13:16:44: MihailNovitskiy checked registration
-16.03.2024, 13:17:03: MihailNovitskiy begun registration
-16.03.2024, 13:17:09: MihailNovitskiy tried to reg on 🥞 Масленица (16.03 14:00), в вэйтлист
-16.03.2024, 13:18:38: victoribarbieri pressed Cancel or got deny
-16.03.2024, 13:23:19: saaaime came with frsttime == 1
-16.03.2024, 13:27:30: ruceolss begun registration
-16.03.2024, 13:28:10: ruceolss tried to reg on 🍑Поездка на персики (17.03 10:00), 7 мест
-16.03.2024, 13:28:27: ruceolss pressed Cancel or got deny
-16.03.2024, 13:32:46: kyamchik checked registration
-16.03.2024, 13:36:04: alikhil checked registration
-16.03.2024, 13:36:10: alikhil pressed cancel event reg
-16.03.2024, 13:36:12: alikhil pressed Cancel or got deny
-16.03.2024, 13:44:31: starkovalera came with frsttime == 1
-16.03.2024, 13:44:33: starkovalera begun registration
-16.03.2024, 13:44:40: starkovalera tried to reg on Монсератт (23.03 9:00), 8 мест
-16.03.2024, 13:44:49: starkovalera send for registration: {'event_id': 'recalK4he3axWwCQP', 'user_nick': '@starkovalera', 'user_name': 'Лера', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
-16.03.2024, 13:48:49: starkovalera begun registration
-16.03.2024, 13:57:05: valaboutr came with frsttime == 1
-16.03.2024, 13:57:11: valaboutr begun registration
-16.03.2024, 13:57:29: valaboutr tried to reg on 🍑Поездка на персики (17.03 10:00), 7 мест
-16.03.2024, 13:58:10: valaboutr send for registration: {'event_id': 'reczfIoNDbE7n3dEh', 'user_nick': '@valaboutr', 'user_name': 'Валерия', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
-16.03.2024, 13:58:46: valaboutr pressed Cancel or got deny
-16.03.2024, 13:58:55: johanpx begun registration
-16.03.2024, 13:59:03: johanpx tried to reg on 🍑Поездка на персики (17.03 10:00), 6 мест
-16.03.2024, 13:59:55: johanpx pressed Cancel or got deny
-16.03.2024, 14:11:19: Gudkova_Anna begun registration
-16.03.2024, 14:12:09: Gudkova_Anna tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 34 мест
-16.03.2024, 14:12:15: Gudkova_Anna send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@gudkova_anna', 'user_name': 'Анна Гудкова', 'user_is_sub': True, 'ev_is_sub': True, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
-16.03.2024, 14:12:26: Gudkova_Anna begun registration
-16.03.2024, 14:12:50: Gudkova_Anna tried to reg on Вечеринка (29.03 21:00), 44 мест
-16.03.2024, 14:13:03: Gudkova_Anna send for registration: {'event_id': 'rec7Ufg2j2WYp3F59', 'user_nick': '@gudkova_anna', 'user_name': 'Анна Гудкова', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
-16.03.2024, 14:21:37: valentine_to_you pressed Cancel or got deny
-16.03.2024, 14:28:10: Shkoterman pressed Cancel or got deny
-16.03.2024, 14:28:13: Shkoterman begun registration
-16.03.2024, 14:29:35: Shkoterman pressed Cancel or got deny
-16.03.2024, 14:30:03: plykin tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), 2 мест
-16.03.2024, 14:30:08: plykin pressed Cancel or got deny
-16.03.2024, 14:32:55: zara_demidova pressed Cancel or got deny
-16.03.2024, 14:37:16: lizzybell pressed Cancel or got deny
-16.03.2024, 14:37:26: lizzybell checked registration
-16.03.2024, 14:51:43: lenyyand_ro checked registration
-16.03.2024, 15:27:58: alexander_rakitin_0 begun registration
-16.03.2024, 15:28:09: alexander_rakitin_0 tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), 2 мест
-16.03.2024, 15:28:14: alexander_rakitin_0 pressed Cancel or got deny
-16.03.2024, 15:38:55: anvpurple came with frsttime == 1
-16.03.2024, 15:39:02: anvpurple begun registration
-16.03.2024, 15:39:09: anvpurple tried to reg on 🍑Поездка на персики (17.03 10:00), 6 мест
-16.03.2024, 15:39:24: ingwer begun registration
-16.03.2024, 16:35:16: igudkova pressed Cancel or got deny
-16.03.2024, 16:52:57: ifedbm came with frsttime == 1
-16.03.2024, 17:06:37: ifedbm came with frsttime == 1
-16.03.2024, 17:06:38: ifedbm came with frsttime == 1
-16.03.2024, 17:06:41: ifedbm begun registration
-16.03.2024, 17:06:49: ifedbm tried to reg on 🍑Поездка на персики (17.03 10:00), 6 мест
-16.03.2024, 18:05:14: None pressed Cancel or got deny
-16.03.2024, 19:16:14: uwclr came with frsttime == 1
-16.03.2024, 19:16:20: uwclr begun registration
-16.03.2024, 19:16:39: uwclr tried to reg on 🍑Поездка на персики (17.03 10:00), 6 мест
-16.03.2024, 19:18:32: ensalada_bot pressed Cancel or got deny
-16.03.2024, 19:18:34: uwclr begun registration
-16.03.2024, 19:19:03: uwclr tried to reg on Монсератт (23.03 9:00), 6 мест
-16.03.2024, 20:00:35: mambabla pressed Cancel or got deny
-16.03.2024, 20:00:47: mambabla  Написал нам: Да хочу
-16.03.2024, 20:01:48: Julia_Sergina begun registration
-16.03.2024, 20:01:54: Julia_Sergina tried to reg on 🍑Поездка на персики (17.03 10:00), 6 мест
-16.03.2024, 20:02:02: Julia_Sergina pressed Cancel or got deny
-16.03.2024, 20:02:09: Julia_Sergina pressed give feedback
-16.03.2024, 20:02:37: Shkoterman pressed cancel event reg
-16.03.2024, 20:02:49: Shkoterman pressed cancel event reg
-16.03.2024, 20:03:08: Shkoterman pressed give feedback
-16.03.2024, 20:03:10: Shkoterman pressed Cancel or got deny
-16.03.2024, 20:03:21: Julia_Sergina pressed Cancel or got deny
-16.03.2024, 20:55:42: Gudkova_Anna begun registration
-16.03.2024, 20:55:50: Gudkova_Anna pressed Cancel or got deny
-16.03.2024, 21:07:17: ensalada_bot pressed Cancel or got deny
-16.03.2024, 21:34:47: Shkoterman came with frsttime == 1
-16.03.2024, 21:50:21: ivan_dashkevich checked registration
-16.03.2024, 21:51:27: ivan_dashkevich checked registration
+15.03.2024, 15:35:00: None bot  hase been started
+15.03.2024, 15:35:22: None bot  hase been started
+15.03.2024, 15:38:41: None bot  hase been started
+15.03.2024, 15:39:42: None bot  hase been started
+15.03.2024, 15:44:22: None bot  hase been started
+15.03.2024, 15:45:07: None bot  hase been started
+15.03.2024, 15:46:03: None bot  hase been started
+15.03.2024, 15:46:53: None bot  hase been started
+15.03.2024, 15:47:15: None bot  hase been started
+15.03.2024, 15:49:52: None bot  hase been started
+15.03.2024, 15:50:25: None bot  hase been started
+15.03.2024, 15:51:40: None bot  hase been started
+15.03.2024, 15:52:17: None bot  hase been started
+15.03.2024, 15:58:02: None bot  hase been started
+15.03.2024, 15:58:27: None bot  hase been started
+15.03.2024, 15:58:40: None bot  hase been started
+15.03.2024, 16:00:38: None bot  hase been started
+15.03.2024, 16:00:59: None bot  hase been started
+15.03.2024, 16:01:39: None bot  hase been started
+15.03.2024, 16:01:57: None bot  hase been started
+15.03.2024, 16:03:25: None bot  hase been started
+15.03.2024, 16:04:03: None bot  hase been started
+15.03.2024, 16:05:29: None bot  hase been started
+15.03.2024, 16:06:35: None bot  hase been started
+15.03.2024, 16:08:20: None bot  hase been started
+15.03.2024, 16:08:51: None bot  hase been started
+15.03.2024, 16:09:05: None bot  hase been started
+15.03.2024, 16:09:34: None bot  hase been started
+15.03.2024, 16:10:41: None bot  hase been started
+15.03.2024, 16:11:21: None bot  hase been started
+15.03.2024, 16:13:13: None bot  hase been started
+15.03.2024, 16:13:32: None bot  hase been started
+15.03.2024, 16:13:46: None bot  hase been started
+15.03.2024, 16:13:58: None bot  hase been started
+15.03.2024, 16:14:12: None bot  hase been started
+15.03.2024, 16:17:17: None bot  hase been started
+15.03.2024, 16:19:14: None bot  hase been started
+15.03.2024, 16:19:27: None bot  hase been started
+15.03.2024, 16:20:33: None bot  hase been started
+15.03.2024, 16:23:04: None bot  hase been started
+15.03.2024, 16:24:01: None bot  hase been started
+15.03.2024, 16:25:11: None bot  hase been started
+15.03.2024, 16:25:21: None bot  hase been started
+15.03.2024, 16:25:33: None bot  hase been started
+15.03.2024, 16:25:55: None bot  hase been started
+15.03.2024, 16:28:20: None bot  hase been started
+15.03.2024, 16:29:26: None bot  hase been started
+15.03.2024, 16:30:07: None bot  hase been started
+15.03.2024, 16:30:25: None bot  hase been started
+15.03.2024, 16:32:04: None bot  hase been started
+15.03.2024, 16:32:17: None bot  hase been started
+15.03.2024, 16:32:39: Shkoterman pressed Cancel or got deny
+15.03.2024, 16:33:04: None bot  hase been started
+15.03.2024, 16:33:07: None bot  hase been started
+15.03.2024, 16:33:27: Shkoterman begun registration
+15.03.2024, 16:33:30: Shkoterman tried to reg on 🍷 Drop: испанские вина за 9 и за 30 евро (15.03 20:00), 1 мест
+15.03.2024, 16:33:47: Shkoterman pressed Cancel or got deny
+15.03.2024, 16:33:48: Shkoterman begun registration
+15.03.2024, 16:33:50: Shkoterman tried to reg on 👧 Энсалада Kids 5+: мумичтения (16.03 12:00), 7 мест
+15.03.2024, 16:34:01: Shkoterman pressed Cancel or got deny
+15.03.2024, 16:35:58: Shkoterman begun registration
+15.03.2024, 16:36:00: Shkoterman tried to reg on 🚶 Прогулка по Барселоне (16.03 13:00), в вэйтлист
+15.03.2024, 16:38:50: Shkoterman pressed Cancel or got deny
+15.03.2024, 16:40:52: None bot  hase been started
+16.03.2024, 20:47:56: None bot  hase been started
+16.03.2024, 20:48:39: None bot  hase been started
+16.03.2024, 20:49:28: None bot  hase been started
+16.03.2024, 20:50:25: None bot  hase been started
+16.03.2024, 20:51:27: None bot  hase been started
+16.03.2024, 20:51:53: None bot  hase been started
+16.03.2024, 20:53:53: None bot  hase been started
+16.03.2024, 20:57:14: None bot  hase been started
+16.03.2024, 20:58:01: None bot  hase been started
+16.03.2024, 20:58:43: None bot  hase been started
+16.03.2024, 21:00:37: None bot  hase been started
+16.03.2024, 21:04:27: None bot  hase been started
+16.03.2024, 21:05:57: None bot  hase been started
+16.03.2024, 21:13:51: None bot  hase been started
+16.03.2024, 21:15:03: None bot  hase been started
+16.03.2024, 21:19:04: None bot  hase been started
+16.03.2024, 21:19:25: None bot  hase been started
+16.03.2024, 21:20:07: None bot  hase been started
+16.03.2024, 21:20:40: None bot  hase been started
+16.03.2024, 21:21:23: None bot  hase been started
+16.03.2024, 21:23:01: None bot  hase been started
+16.03.2024, 21:26:33: None bot  hase been started
+16.03.2024, 21:33:17: Shkoterman came with frsttime == 1
+16.03.2024, 21:35:46: Shkoterman pressed cancel event reg
+16.03.2024, 21:37:02: Shkoterman pressed cancel event reg
+16.03.2024, 21:37:04: Shkoterman pressed Cancel or got deny
+16.03.2024, 21:37:51: Shkoterman begun registration
+16.03.2024, 21:37:54: Shkoterman tried to reg on 🚶 Прогулка по Барселоне (16.03 13:00), в вэйтлист
+16.03.2024, 21:38:00: Shkoterman send for registration: {'event_id': 'recPLAkLqlVhAxLUW', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+16.03.2024, 21:38:14: Shkoterman begun registration
+16.03.2024, 21:38:20: Shkoterman pressed Cancel or got deny
+16.03.2024, 21:38:21: Shkoterman pressed cancel event reg
+16.03.2024, 21:38:23: Shkoterman pressed Cancel or got deny
+16.03.2024, 21:38:34: Shkoterman begun registration
+16.03.2024, 21:38:36: Shkoterman tried to reg on 🚶 Прогулка по Барселоне (16.03 13:00), 4 мест
+16.03.2024, 21:38:42: Shkoterman send for registration: {'event_id': 'recPLAkLqlVhAxLUW', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+16.03.2024, 21:39:46: Shkoterman begun registration
+16.03.2024, 21:39:50: Shkoterman pressed Cancel or got deny
+16.03.2024, 21:39:58: Shkoterman begun registration
+16.03.2024, 21:40:02: Shkoterman tried to reg on 🚶 Прогулка по Барселоне (16.03 13:00), 4 мест
+16.03.2024, 21:40:10: Shkoterman send for registration: {'event_id': 'recPLAkLqlVhAxLUW', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+16.03.2024, 21:40:16: Shkoterman pressed cancel event reg
+16.03.2024, 21:40:18: Shkoterman pressed Cancel or got deny
+16.03.2024, 21:40:53: Shkoterman begun registration
+16.03.2024, 21:40:57: Shkoterman tried to reg on 👧 Энсалада Kids  5+: Рисовальная экскурсия на природе (24.03 13:00), 15 мест
+16.03.2024, 21:42:36: None bot  hase been started
+16.03.2024, 21:42:40: Shkoterman came with frsttime == 1
+16.03.2024, 21:42:42: Shkoterman begun registration
+16.03.2024, 21:42:47: Shkoterman tried to reg on 👧 Энсалада Kids  5+: Рисовальная экскурсия на природе (24.03 13:00), 15 мест
+16.03.2024, 21:42:56: Shkoterman send for registration: {'event_id': 'recWRvG8z4lOmlP9p', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+16.03.2024, 21:42:59: Shkoterman pressed cancel event reg
+16.03.2024, 21:43:02: Shkoterman want to cancel 👧 Энсалада Kids  5+: Рисовальная экскурсия на природе
+16.03.2024, 21:43:04: Shkoterman отменил 👧 Энсалада Kids  5+: Рисовальная экскурсия на природе, по причине: Пропустить
+16.03.2024, 21:43:27: Shkoterman begun registration
+16.03.2024, 21:43:30: Shkoterman tried to reg on 👧 Энсалада Kids  5+: Рисовальная экскурсия на природе (24.03 13:00), 15 мест
+16.03.2024, 21:43:36: Shkoterman send for registration: {'event_id': 'recWRvG8z4lOmlP9p', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+16.03.2024, 21:43:43: Shkoterman pressed cancel event reg
+16.03.2024, 21:45:11: None bot  hase been started
+16.03.2024, 21:45:11: Shkoterman pressed Cancel or got deny
+16.03.2024, 21:45:12: Shkoterman pressed cancel event reg
+16.03.2024, 21:45:16: Shkoterman want to cancel 👧 Энсалада Kids  5+: Рисовальная экскурсия на природе
+16.03.2024, 21:45:19: Shkoterman отменил 👧 Энсалада Kids  5+: Рисовальная экскурсия на природе, по причине: Пропустить
+16.03.2024, 21:45:22: Shkoterman checked registration
+17.03.2024, 00:43:42: None bot  hase been started
+17.03.2024, 00:44:20: None bot  hase been started
+17.03.2024, 00:44:34: Shkoterman begun registration
+17.03.2024, 00:44:39: Shkoterman tried to reg on 🚶‍♀️ Камино (20.03 19:30), 18 мест
+17.03.2024, 00:47:51: Shkoterman pressed Cancel or got deny
+17.03.2024, 00:48:06: Shkoterman begun registration
+17.03.2024, 00:48:12: Shkoterman tried to reg on 🌹 Спектакль Красный Цветок (6.04 19:30), 39 мест
+17.03.2024, 00:48:39: Shkoterman pressed Cancel or got deny
+17.03.2024, 00:48:43: Shkoterman begun registration
+17.03.2024, 00:48:50: Shkoterman tried to reg on 🌹 Спектакль Красный Цветок (6.04 19:30), 39 мест
+17.03.2024, 00:49:17: EnsaladaRegChek_bot pressed Cancel or got deny
+17.03.2024, 00:49:28: Shkoterman checked registration
+17.03.2024, 00:49:38: Shkoterman begun registration
+17.03.2024, 00:49:50: Shkoterman pressed Cancel or got deny
+17.03.2024, 00:50:46: Shkoterman checked registration
+17.03.2024, 00:52:19: None bot  hase been started
+17.03.2024, 00:56:51: None bot  hase been started
+17.03.2024, 00:57:09: Shkoterman begun registration
+17.03.2024, 00:57:13: Shkoterman tried to reg on 🧘🏻 Mindfulness (17.03 10:45), 18 мест
+17.03.2024, 00:57:59: Shkoterman pressed Cancel or got deny
+17.03.2024, 01:18:29: ElenaLahtionova came with frsttime == 1
+17.03.2024, 01:18:37: ElenaLahtionova begun registration
+17.03.2024, 01:19:26: ElenaLahtionova tried to reg on Монсератт (23.03 9:00), 6 мест
+17.03.2024, 08:40:52: norweny came with frsttime == 1
+17.03.2024, 08:40:58: norweny begun registration
+17.03.2024, 09:10:45: mayeraa came with frsttime == 1
+17.03.2024, 09:10:53: mayeraa begun registration
+17.03.2024, 09:35:19: borysogram checked registration
+17.03.2024, 09:35:27: borysogram came with frsttime == 1
+17.03.2024, 10:43:14: timmydaniel came with frsttime == 1
+17.03.2024, 10:43:21: timmydaniel begun registration
+17.03.2024, 10:43:39: timmydaniel pressed Cancel or got deny
+17.03.2024, 11:07:25: Elmira_Leo came with frsttime == 1
+17.03.2024, 11:08:18: ivan_dashkevich checked registration
+17.03.2024, 11:08:25: ivan_dashkevich begun registration
+17.03.2024, 11:08:38: ivan_dashkevich tried to reg on Вечеринка (29.03 21:00), 42 мест
+17.03.2024, 11:08:45: ivan_dashkevich send for registration: {'event_id': 'rec7Ufg2j2WYp3F59', 'user_nick': '@ivan_dashkevich', 'user_name': 'Иван Дашкевич \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+17.03.2024, 11:26:54: RonSwanson100 begun registration
+17.03.2024, 11:54:05: alexdjr checked registration
+17.03.2024, 12:28:29: victoribarbieri pressed Cancel or got deny
+17.03.2024, 13:46:08: plykin came with frsttime == 1
+17.03.2024, 13:46:10: plykin begun registration
+17.03.2024, 13:46:21: plykin tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), 2 мест
+17.03.2024, 13:46:26: plykin pressed Cancel or got deny
+17.03.2024, 13:47:12: Kristina_Botsu came with frsttime == 1
+17.03.2024, 13:47:15: Kristina_Botsu checked registration
+17.03.2024, 13:47:15: Kristina_Botsu checked registration
+17.03.2024, 13:47:23: Kristina_Botsu pressed cancel event reg
+17.03.2024, 14:31:09: Maria_Vainores came with frsttime == 1
+17.03.2024, 14:31:30: Maria_Vainores begun registration
+17.03.2024, 14:32:04: Maria_Vainores tried to reg on 🍑Поездка на персики (17.03 10:00), 6 мест
+17.03.2024, 14:46:21: None pressed Cancel or got deny
+17.03.2024, 15:05:59: alexdjr begun registration
+17.03.2024, 15:06:12: alexdjr tried to reg on 🎒 Хайк с Мамут (13.04 9:00), в вэйтлист
+17.03.2024, 15:06:32: alexdjr send for registration: {'event_id': 'rec4uqAFBjaQPr7ca', 'user_nick': '@alexdjr', 'user_name': 'Александр', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+17.03.2024, 15:07:32: alexdjr checked registration
+17.03.2024, 16:10:34: sitmar came with frsttime == 1
+17.03.2024, 16:10:39: sitmar begun registration
+17.03.2024, 16:35:50: black_plasch pressed Cancel or got deny
+17.03.2024, 16:43:54: logonansy came with frsttime == 1
+17.03.2024, 16:45:01: mariabluuu begun registration
+17.03.2024, 16:45:13: mariabluuu tried to reg on ♻️ Своп (23.03 15:00), 25 мест
+17.03.2024, 16:45:28: mariabluuu send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@mariabluuu', 'user_name': 'Маша Блундина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+17.03.2024, 16:55:30: mikolyamba came with frsttime == 1
+17.03.2024, 16:59:46: RonSwanson100 pressed Cancel or got deny
+17.03.2024, 16:59:48: RonSwanson100 checked registration
+17.03.2024, 17:47:51: alexdjr checked registration
+17.03.2024, 17:52:35: ElenaGo1 came with frsttime == 1
+17.03.2024, 17:53:04: ElenaGo1 begun registration
+17.03.2024, 18:37:35: yulia_3316 came with frsttime == 1
+17.03.2024, 18:38:39: neon80s came with frsttime == 1
+17.03.2024, 22:32:21: klmvksn checked registration
+17.03.2024, 22:32:27: klmvksn pressed cancel event reg
+17.03.2024, 22:32:31: klmvksn want to cancel 🥪 Тапас Тур
+17.03.2024, 22:32:37: klmvksn отменил 🥪 Тапас Тур, по причине: Пропустить
+17.03.2024, 22:32:40: klmvksn checked registration
+17.03.2024, 22:55:20: zaliche came with frsttime == 1
+18.03.2024, 09:14:39: loglinkina pressed Cancel or got deny
+18.03.2024, 09:14:41: loglinkina begun registration
+18.03.2024, 09:15:01: loglinkina tried to reg on ♻️ Своп (23.03 15:00), 24 мест
+18.03.2024, 09:15:08: loglinkina send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@loglinkina', 'user_name': 'Оля', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.03.2024, 09:15:16: loglinkina begun registration
+18.03.2024, 09:15:26: loglinkina tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), 2 мест
+18.03.2024, 09:15:32: loglinkina send for registration: {'event_id': 'recqnzTwUDgHe8HDn', 'user_nick': '@loglinkina', 'user_name': 'Оля', 'user_is_sub': True, 'ev_is_sub': True, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.03.2024, 09:15:36: loglinkina begun registration
+18.03.2024, 10:32:05: two2flower begun registration
+18.03.2024, 10:32:09: two2flower tried to reg on 🏆 Настолки 2 (22.03 19:00), 15 мест
+18.03.2024, 10:32:17: two2flower send for registration: {'event_id': 'rec57EOLm27DchMqi', 'user_nick': '@two2flower', 'user_name': 'Нина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.03.2024, 10:39:39: AnchenOktober begun registration
+18.03.2024, 10:40:06: ensalada_bot pressed Cancel or got deny
+18.03.2024, 10:40:25: AnchenOktober begun registration
+18.03.2024, 10:40:31: AnchenOktober tried to reg on 🥪 Тапас Тур (22.03 20:00), 3 мест
+18.03.2024, 10:40:53: AnchenOktober send for registration: {'event_id': 'recqlWNf7HCQeUnVr', 'user_nick': '@anchenoktober', 'user_name': 'Анна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.03.2024, 10:41:52: lubinetskn came with frsttime == 1
+18.03.2024, 10:42:17: lubinetskn begun registration
+18.03.2024, 10:42:21: lubinetskn tried to reg on Монсератт (23.03 9:00), 6 мест
+18.03.2024, 10:42:37: lubinetskn send for registration: {'event_id': 'recalK4he3axWwCQP', 'user_nick': '@lubinetskn', 'user_name': 'Костя', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+18.03.2024, 10:48:15: JulieBanan pressed Cancel or got deny
+18.03.2024, 10:48:18: JulieBanan begun registration
+18.03.2024, 10:48:23: JulieBanan tried to reg on Монсератт (23.03 9:00), 4 мест
+18.03.2024, 10:48:39: JulieBanan send for registration: {'event_id': 'recalK4he3axWwCQP', 'user_nick': '@juliebanan', 'user_name': 'Юлия Бабина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+18.03.2024, 10:55:44: Zen_Zoo pressed Cancel or got deny
+18.03.2024, 10:55:47: Zen_Zoo begun registration
+18.03.2024, 10:57:20: lewdmila came with frsttime == 1
+18.03.2024, 10:57:22: lewdmila begun registration
+18.03.2024, 10:57:26: lewdmila tried to reg on ♻️ Своп (23.03 15:00), 23 мест
+18.03.2024, 10:58:10: ensalada_bot pressed Cancel or got deny
+18.03.2024, 10:58:12: lewdmila begun registration
+18.03.2024, 10:58:15: lewdmila tried to reg on ♻️ Своп (23.03 15:00), 23 мест
+18.03.2024, 10:58:34: lewdmila send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@lewdmila', 'user_name': 'Людмила', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+18.03.2024, 10:58:48: lewdmila нажал(а) рецепт
+18.03.2024, 10:59:48: paulagapo came with frsttime == 1
+18.03.2024, 11:00:08: paulagapo begun registration
+18.03.2024, 11:39:02: ifedbm came with frsttime == 1
+18.03.2024, 11:39:15: ifedbm begun registration
+18.03.2024, 11:39:24: ifedbm tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), 1 мест
+18.03.2024, 11:39:58: ifedbm send for registration: {'event_id': 'recqnzTwUDgHe8HDn', 'user_nick': '@ifedbm', 'user_name': 'Ирина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+18.03.2024, 11:40:15: ifedbm pressed Cancel or got deny
+18.03.2024, 11:45:53: ifedbm came with frsttime == 1
+18.03.2024, 11:45:58: ifedbm begun registration
+18.03.2024, 11:46:03: ifedbm tried to reg on 🥪 Тапас Тур (22.03 20:00), 2 мест
+18.03.2024, 11:47:33: tentends came with frsttime == 1
+18.03.2024, 11:47:50: tentends begun registration
+18.03.2024, 11:50:57: Cringegal begun registration
+18.03.2024, 11:51:01: Cringegal tried to reg on ♻️ Своп (23.03 15:00), 22 мест
+18.03.2024, 11:51:16: Cringegal send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@cringegal', 'user_name': 'Настя Павлюк \U0001faf0 (1825)', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.03.2024, 11:57:32: slvkrvnsv checked registration
+18.03.2024, 12:05:33: grassiona begun registration
+18.03.2024, 12:11:18: grassiona tried to reg on 🏆 Настолки 2 (22.03 19:00), 14 мест
+18.03.2024, 12:11:35: grassiona send for registration: {'event_id': 'rec57EOLm27DchMqi', 'user_nick': '@grassiona', 'user_name': 'Александра', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+18.03.2024, 12:35:50: JulieBanan begun registration
+18.03.2024, 12:41:34: slvkrvnsv came with frsttime == 1
+18.03.2024, 13:04:08: anastasiia_danilson came with frsttime == 1
+18.03.2024, 13:04:15: anastasiia_danilson begun registration
+18.03.2024, 13:18:10: alexdjr checked registration
+18.03.2024, 13:18:25: alexdjr came with frsttime == 1
+18.03.2024, 13:18:25: alexdjr checked registration
+18.03.2024, 13:18:43: alexdjr came with frsttime == 1
+18.03.2024, 13:18:46: alexdjr begun registration
+18.03.2024, 13:27:40: Cringegal begun registration
+18.03.2024, 13:33:41: ensalada_bot pressed Cancel or got deny
+18.03.2024, 13:33:45: alexdjr begun registration
+18.03.2024, 13:34:01: alexdjr tried to reg on Монсератт (23.03 9:00), 3 мест
+18.03.2024, 13:34:14: alexdjr send for registration: {'event_id': 'recalK4he3axWwCQP', 'user_nick': '@alexdjr', 'user_name': 'Александр', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.03.2024, 13:34:30: alexdjr нажал(а) рецепт
+18.03.2024, 13:34:35: alexdjr pressed Cancel or got deny
+18.03.2024, 13:50:21: anastasiia_danilson tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), в вэйтлист
+18.03.2024, 13:51:53: anastasiia_danilson send for registration: {'event_id': 'recqnzTwUDgHe8HDn', 'user_nick': '@anastasiia_danilson', 'user_name': 'Настя Данильсон', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+18.03.2024, 13:57:39: anastasiia_danilson begun registration
+18.03.2024, 14:29:34: kitami begun registration
+18.03.2024, 14:29:40: kitami tried to reg on Монсератт (23.03 9:00), 2 мест
+18.03.2024, 14:29:48: kitami send for registration: {'event_id': 'recalK4he3axWwCQP', 'user_nick': '@kitami', 'user_name': 'Юля', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+18.03.2024, 14:38:35: howmanymeercats pressed Cancel or got deny
+18.03.2024, 14:38:37: howmanymeercats begun registration
+18.03.2024, 15:59:11: marysemn came with frsttime == 1
+18.03.2024, 15:59:17: marysemn begun registration
+18.03.2024, 15:59:48: marysemn tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 32 мест
+18.03.2024, 15:59:51: marysemn pressed Cancel or got deny
+18.03.2024, 16:00:01: marysemn came with frsttime == 1
+18.03.2024, 16:00:05: marysemn  Написал нам: Отмена
+18.03.2024, 16:00:07: marysemn came with frsttime == 1
+18.03.2024, 16:00:12: marysemn checked registration
+18.03.2024, 16:00:25: marysemn came with frsttime == 1
+18.03.2024, 16:00:29: marysemn pressed cancel event reg
+18.03.2024, 16:00:33: marysemn want to cancel 🎬Киноклуб
+18.03.2024, 16:00:46: marysemn отменил 🎬Киноклуб, по причине: Не успеем
+18.03.2024, 16:04:50: KatyaMordikova came with frsttime == 1
+18.03.2024, 16:04:59: KatyaMordikova begun registration
+18.03.2024, 16:05:36: KatyaMordikova tried to reg on 👧 Энсалада Kids  4+: Мастерская печатников (23.03 12:00), 10 мест
+18.03.2024, 16:06:13: KatyaMordikova send for registration: {'event_id': 'rechjkKDDajbR7bPH', 'user_nick': '@katyamordikova', 'user_name': 'Катя', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+18.03.2024, 16:08:03: KatyaMordikova came with frsttime == 1
+18.03.2024, 16:08:06: KatyaMordikova checked registration
+18.03.2024, 16:11:50: arandana begun registration
+18.03.2024, 16:11:57: arandana tried to reg on ♻️ Своп (23.03 15:00), 21 мест
+18.03.2024, 16:12:00: arandana pressed Cancel or got deny
+18.03.2024, 16:12:03: arandana begun registration
+18.03.2024, 16:12:25: arandana tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 32 мест
+18.03.2024, 16:12:34: arandana send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@arandana', 'user_name': 'Катя', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.03.2024, 16:13:00: arandana checked registration
+18.03.2024, 16:14:26: howmanymeercats pressed Cancel or got deny
+18.03.2024, 16:14:27: howmanymeercats begun registration
+18.03.2024, 17:20:03: kristina_sauvignon pressed Cancel or got deny
+18.03.2024, 17:20:17: kristina_sauvignon checked registration
+18.03.2024, 17:20:31: kristina_sauvignon pressed Cancel or got deny
+18.03.2024, 17:21:11: kristina_sauvignon  Написал нам: Подписка
+18.03.2024, 17:24:29: hope_espe begun registration
+18.03.2024, 17:25:27: hope_espe tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 31 мест
+18.03.2024, 17:33:04: avputkova begun registration
+18.03.2024, 17:33:12: avputkova tried to reg on 🥪 Тапас Тур (22.03 20:00), 2 мест
+18.03.2024, 17:33:37: ensalada_bot pressed Cancel or got deny
+18.03.2024, 17:33:39: avputkova begun registration
+18.03.2024, 17:33:43: avputkova tried to reg on 🥪 Тапас Тур (22.03 20:00), 2 мест
+18.03.2024, 17:33:55: avputkova send for registration: {'event_id': 'recqlWNf7HCQeUnVr', 'user_nick': '@avputkova', 'user_name': 'Анастасия', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+18.03.2024, 18:04:11: howmanymeercats pressed Cancel or got deny
+18.03.2024, 18:04:12: howmanymeercats begun registration
+18.03.2024, 18:26:59: Yakov_Antipov begun registration
+18.03.2024, 18:27:05: Yakov_Antipov tried to reg on 🥪 Тапас Тур (22.03 20:00), в вэйтлист
+18.03.2024, 18:27:16: Yakov_Antipov send for registration: {'event_id': 'recqlWNf7HCQeUnVr', 'user_nick': '@yakov_antipov', 'user_name': 'Яков', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+18.03.2024, 18:30:31: almigo2009 came with frsttime == 1
+18.03.2024, 18:30:34: almigo2009 checked registration
+18.03.2024, 18:30:40: almigo2009 pressed cancel event reg
+18.03.2024, 18:30:48: almigo2009 want to cancel Монсератт
+18.03.2024, 18:31:02: almigo2009 отменил Монсератт, по причине: Изменились планы
+18.03.2024, 18:36:15: alex_sherbachev checked registration
+18.03.2024, 18:41:23: msereniti came with frsttime == 1
+18.03.2024, 18:41:31: msereniti begun registration
+18.03.2024, 18:41:36: msereniti tried to reg on ⚽️ Футбол: первая игра (18.03 19:00), 14 мест
+18.03.2024, 18:42:01: msereniti send for registration: {'event_id': 'recyWoCnULbDvKADR', 'user_nick': '@msereniti', 'user_name': 'Михаил Серенити', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+18.03.2024, 19:05:46: suhailan6360 came with frsttime == 1
+18.03.2024, 19:05:50: suhailan6360 checked registration
+18.03.2024, 19:06:44: suhailan6360 pressed cancel event reg
+18.03.2024, 19:06:49: suhailan6360 want to cancel 🎒 Хайк с Мамут
+18.03.2024, 19:07:06: suhailan6360 отменил 🎒 Хайк с Мамут, по причине: Изменились планы
+18.03.2024, 19:39:49: minestrelli begun registration
+18.03.2024, 19:40:16: minestrelli tried to reg on 🥪 Тапас Тур (22.03 20:00), в вэйтлист
+18.03.2024, 19:40:41: minestrelli send for registration: {'event_id': 'recqlWNf7HCQeUnVr', 'user_nick': '@minestrelli', 'user_name': 'Вера Масляник (минестрелли)', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+18.03.2024, 19:58:20: zinvur pressed cancel event reg
+18.03.2024, 20:14:49: msereniti pressed give feedback
+18.03.2024, 20:15:05: ensalada_bot pressed Cancel or got deny
+18.03.2024, 20:15:15: msereniti begun registration
+18.03.2024, 20:24:40: numullit pressed Cancel or got deny
+18.03.2024, 20:24:43: numullit begun registration
+18.03.2024, 20:24:56: numullit tried to reg on ♻️ Своп (23.03 15:00), 21 мест
+18.03.2024, 20:25:03: numullit send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@numullit', 'user_name': 'Нина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+18.03.2024, 20:25:34: numullit came with frsttime == 1
+18.03.2024, 20:25:38: numullit begun registration
+18.03.2024, 20:35:10: howmanymeercats pressed Cancel or got deny
+18.03.2024, 20:35:11: howmanymeercats begun registration
+18.03.2024, 21:03:16: howmanymeercats pressed Cancel or got deny
+18.03.2024, 21:03:17: howmanymeercats begun registration
+18.03.2024, 22:54:03: abrovchenko pressed Cancel or got deny
+18.03.2024, 22:54:05: abrovchenko begun registration
+18.03.2024, 23:56:26: None pressed Cancel or got deny
+19.03.2024, 00:14:46: None pressed Cancel or got deny
+19.03.2024, 05:23:47: RunizaDaubaeva92 came with frsttime == 1
+19.03.2024, 05:23:55: RunizaDaubaeva92 нажал(а) рецепт
+19.03.2024, 08:52:56: howmanymeercats pressed Cancel or got deny
+19.03.2024, 08:52:57: howmanymeercats begun registration
+19.03.2024, 09:13:01: meowlyuk checked registration
+19.03.2024, 09:13:17: meowlyuk begun registration
+19.03.2024, 09:18:37: ensalada_bot pressed Cancel or got deny
+19.03.2024, 09:18:39: meowlyuk begun registration
+19.03.2024, 09:18:42: meowlyuk tried to reg on Монсератт (23.03 9:00), 1 мест
+19.03.2024, 09:18:45: meowlyuk pressed Cancel or got deny
+19.03.2024, 09:40:10: lialbish came with frsttime == 1
+19.03.2024, 09:40:19: lialbish begun registration
+19.03.2024, 09:40:19: lialbish begun registration
+19.03.2024, 09:40:47: lialbish tried to reg on Монсератт (23.03 9:00), 1 мест
+19.03.2024, 09:40:47: lialbish tried to reg on Монсератт (23.03 9:00), 1 мест
+19.03.2024, 10:12:41: None pressed Cancel or got deny
+19.03.2024, 10:12:58: zinvur want to cancel 🚶‍♀️ Камино
+19.03.2024, 10:13:14: zinvur отменил 🚶‍♀️ Камино, по причине: Ротовирус 😨
+19.03.2024, 10:17:32: mprodan came with frsttime == 1
+19.03.2024, 10:17:43: mprodan begun registration
+19.03.2024, 10:19:55: nataly_ale came with frsttime == 1
+19.03.2024, 10:20:01: nataly_ale begun registration
+19.03.2024, 10:20:09: nataly_ale tried to reg on Монсератт (23.03 9:00), 1 мест
+19.03.2024, 10:20:50: victoribarbieri pressed Cancel or got deny
+19.03.2024, 10:21:26: ensalada_bot pressed Cancel or got deny
+19.03.2024, 10:21:28: nataly_ale begun registration
+19.03.2024, 10:21:31: nataly_ale tried to reg on Монсератт (23.03 9:00), 1 мест
+19.03.2024, 10:21:43: nataly_ale send for registration: {'event_id': 'recalK4he3axWwCQP', 'user_nick': '@nataly_ale', 'user_name': 'наталья', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+19.03.2024, 10:25:07: victoribarbieri pressed Cancel or got deny
+19.03.2024, 10:26:02: EkaMO1999 checked registration
+19.03.2024, 10:48:41: Zen_Zoo pressed Cancel or got deny
+19.03.2024, 10:48:44: Zen_Zoo begun registration
+19.03.2024, 11:05:44: howmanymeercats pressed Cancel or got deny
+19.03.2024, 11:05:46: howmanymeercats begun registration
+19.03.2024, 11:43:54: nataly_ale  Написал нам: Привет!) Я первый раз регистрируюсь на ваше мероприятие, поэтому хотела уточнить - точное время и место встречи вы напишете мне ближе к самой поездке?
+19.03.2024, 12:02:07: alexander_rakitin_0 begun registration
+19.03.2024, 12:02:22: alexander_rakitin_0 tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), в вэйтлист
+19.03.2024, 12:02:35: alexander_rakitin_0 send for registration: {'event_id': 'recqnzTwUDgHe8HDn', 'user_nick': '@alexander_rakitin_0', 'user_name': 'Александр Ракитин', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+19.03.2024, 12:02:38: alexander_rakitin_0 begun registration
+19.03.2024, 12:02:51: alexander_rakitin_0 pressed Cancel or got deny
+19.03.2024, 12:37:17: vreutskiy begun registration
+19.03.2024, 12:37:26: vreutskiy tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 31 мест
+19.03.2024, 12:37:32: vreutskiy send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@vreutskiy', 'user_name': 'Вадим Реутский \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+19.03.2024, 12:37:41: vreutskiy checked registration
+19.03.2024, 12:37:44: vreutskiy begun registration
+19.03.2024, 12:37:53: vreutskiy tried to reg on 🎬Киноклуб (22.03 19:30), 17 мест
+19.03.2024, 12:37:59: vreutskiy send for registration: {'event_id': 'rec2t4xSoM1zNDDYX', 'user_nick': '@vreutskiy', 'user_name': 'Вадим Реутский \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+19.03.2024, 12:38:01: vreutskiy begun registration
+19.03.2024, 13:24:24: grassiona begun registration
+19.03.2024, 14:23:56: MariMoore33 came with frsttime == 1
+19.03.2024, 14:24:17: MariMoore33 begun registration
+19.03.2024, 14:30:50: howmanymeercats pressed Cancel or got deny
+19.03.2024, 14:30:51: howmanymeercats begun registration
+19.03.2024, 14:55:51: grassiona pressed Cancel or got deny
+19.03.2024, 14:55:52: grassiona begun registration
+19.03.2024, 15:20:03: None pressed Cancel or got deny
+19.03.2024, 15:56:10: HelenDubro begun registration
+19.03.2024, 15:56:18: HelenDubro tried to reg on Монсератт (23.03 9:00), в вэйтлист
+19.03.2024, 15:57:04: HelenDubro send for registration: {'event_id': 'recalK4he3axWwCQP', 'user_nick': '@helendubro', 'user_name': 'Елена', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+19.03.2024, 16:10:39: rly_mike begun registration
+19.03.2024, 16:11:15: rly_mike pressed Cancel or got deny
+19.03.2024, 16:12:40: Gudkova_Anna checked registration
+19.03.2024, 16:24:44: howmanymeercats pressed Cancel or got deny
+19.03.2024, 16:24:46: howmanymeercats begun registration
+19.03.2024, 16:32:42: Tatiana_Ivantsova pressed cancel event reg
+19.03.2024, 16:32:45: Tatiana_Ivantsova pressed Cancel or got deny
+19.03.2024, 16:32:51: Tatiana_Ivantsova checked registration
+19.03.2024, 17:53:57: alexdjr checked registration
+19.03.2024, 18:03:49: ensalada_bot pressed Cancel or got deny
+19.03.2024, 18:04:42: lialbish pressed cancel event reg
+19.03.2024, 18:04:45: lialbish pressed Cancel or got deny
+19.03.2024, 18:04:58: lialbish begun registration
+19.03.2024, 18:05:31: lialbish tried to reg on 🧘🏻 Mindfulness (24.03 10:45), 19 мест
+19.03.2024, 18:06:28: lialbish send for registration: {'event_id': 'recKWibJJRPFa3Wn8', 'user_nick': '@lialbish', 'user_name': 'Вика', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+19.03.2024, 19:16:32: howmanymeercats pressed Cancel or got deny
+19.03.2024, 19:16:34: howmanymeercats begun registration
+19.03.2024, 19:26:18: Svetlana_OrganicBaltic came with frsttime == 1
+19.03.2024, 19:27:38: Svetlana_OrganicBaltic pressed Cancel or got deny
+19.03.2024, 19:42:23: grassiona pressed Cancel or got deny
+19.03.2024, 19:42:26: grassiona begun registration
+19.03.2024, 19:50:13: Svetlana_OrganicBaltic begun registration
+19.03.2024, 20:04:32: howmanymeercats pressed Cancel or got deny
+19.03.2024, 20:04:34: howmanymeercats begun registration
+19.03.2024, 20:13:07: d_lavelle came with frsttime == 1
+19.03.2024, 20:13:13: d_lavelle begun registration
+19.03.2024, 20:13:25: d_lavelle tried to reg on Монсератт (23.03 9:00), в вэйтлист
+19.03.2024, 20:18:18: Oledego pressed Cancel or got deny
+19.03.2024, 20:18:22: Oledego begun registration
+19.03.2024, 20:18:27: Oledego tried to reg on 🎬Киноклуб (22.03 19:30), 16 мест
+19.03.2024, 20:20:09: zin_o_zen came with frsttime == 1
+19.03.2024, 20:20:30: zin_o_zen begun registration
+19.03.2024, 20:20:54: zin_o_zen tried to reg on Вечеринка (29.03 21:00), 38 мест
+19.03.2024, 20:25:59: None came with frsttime == 1
+19.03.2024, 20:26:11: None pressed Cancel or got deny
+19.03.2024, 20:26:21: None pressed Cancel or got deny
+19.03.2024, 20:26:26: None нажал(а) рецепт
+19.03.2024, 20:47:22: dubrovinaoolga came with frsttime == 1
+19.03.2024, 20:47:26: dubrovinaoolga checked registration
+19.03.2024, 20:48:17: dubrovinaoolga came with frsttime == 1
+19.03.2024, 21:17:38: chKm_h begun registration
+19.03.2024, 23:14:44: borysogram pressed cancel event reg
+19.03.2024, 23:14:52: borysogram pressed Cancel or got deny
+19.03.2024, 23:15:02: borysogram checked registration
+19.03.2024, 23:15:17: borysogram came with frsttime == 1
+19.03.2024, 23:15:21: borysogram begun registration
+19.03.2024, 23:28:18: lialbish  Написал нам: Здравствуйте, зарегистрировалась на майндфулнес клуб, но нигде не вижу адреса. Подскажите пожалуйста где состоится мероприятие
+20.03.2024, 00:06:32: ensalada_bot pressed Cancel or got deny
+20.03.2024, 00:06:34: numullit checked registration
+20.03.2024, 00:06:55: numullit pressed cancel event reg
+20.03.2024, 00:06:59: numullit want to cancel ♻️ Своп
+20.03.2024, 00:07:11: numullit отменил ♻️ Своп, по причине: Поменялись планы
+20.03.2024, 00:07:18: numullit begun registration
+20.03.2024, 00:07:46: numullit tried to reg on 🎒 Хайк с Мамут (13.04 9:00), в вэйтлист
+20.03.2024, 00:08:23: numullit send for registration: {'event_id': 'rec4uqAFBjaQPr7ca', 'user_nick': '@numullit', 'user_name': 'Нина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+20.03.2024, 04:06:26: None came with frsttime == 1
+20.03.2024, 04:06:45: None нажал(а) рецепт
+20.03.2024, 05:28:04: None came with frsttime == 1
+20.03.2024, 05:28:23: None pressed Cancel or got deny
+20.03.2024, 06:20:33: nastiabcn checked registration
+20.03.2024, 07:19:42: howmanymeercats pressed Cancel or got deny
+20.03.2024, 07:19:43: howmanymeercats begun registration
+20.03.2024, 07:31:46: Gudkova_Anna begun registration
+20.03.2024, 07:32:21: Gudkova_Anna pressed Cancel or got deny
+20.03.2024, 08:40:05: dubrovinaoolga checked registration
+20.03.2024, 09:52:02: abrovchenko pressed Cancel or got deny
+20.03.2024, 09:52:05: abrovchenko begun registration
+20.03.2024, 09:57:15: int0x4a pressed Cancel or got deny
+20.03.2024, 09:57:17: int0x4a checked registration
+20.03.2024, 09:57:35: int0x4a begun registration
+20.03.2024, 10:01:06: yyumiwn came with frsttime == 1
+20.03.2024, 10:01:14: yyumiwn begun registration
+20.03.2024, 10:04:15: yyumiwn tried to reg on 🏆 Настолки 2 (22.03 19:00), 12 мест
+20.03.2024, 10:04:42: yyumiwn send for registration: {'event_id': 'rec57EOLm27DchMqi', 'user_nick': '@yyumiwn', 'user_name': 'полина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+20.03.2024, 10:20:44: yyumiwn begun registration
+20.03.2024, 10:20:57: yyumiwn tried to reg on ♻️ Своп (23.03 15:00), 21 мест
+20.03.2024, 10:21:05: yyumiwn send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@yyumiwn', 'user_name': 'полина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 10:38:07: elizarpif begun registration
+20.03.2024, 10:38:31: elizarpif tried to reg on 🎭 Спектакль, который не успели поставить (27.03 20:00), 40 мест
+20.03.2024, 10:39:12: elizarpif send for registration: {'event_id': 'recEjg2WzwPitDtCd', 'user_nick': '@elizarpif', 'user_name': 'Елизавета / Лиза (@elizarpif)', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 10:39:16: elizarpif checked registration
+20.03.2024, 11:12:25: elizarpif begun registration
+20.03.2024, 11:12:41: elizarpif tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 30 мест
+20.03.2024, 12:05:05: grassiona pressed Cancel or got deny
+20.03.2024, 12:05:07: grassiona begun registration
+20.03.2024, 12:19:33: les0rub pressed Cancel or got deny
+20.03.2024, 12:19:36: les0rub begun registration
+20.03.2024, 12:19:48: les0rub tried to reg on 🚶‍♀️ Камино (20.03 19:30), 19 мест
+20.03.2024, 12:20:26: les0rub send for registration: {'event_id': 'rec5aHtVv5sF1zvrL', 'user_nick': '@les0rub', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 12:20:46: les0rub pressed Cancel or got deny
+20.03.2024, 12:33:24: ensalada_bot pressed Cancel or got deny
+20.03.2024, 12:33:26: ensalada_bot pressed Cancel or got deny
+20.03.2024, 12:33:30: loglinkina pressed cancel event reg
+20.03.2024, 12:33:35: loglinkina want to cancel 👩‍🦰👩‍🦳 Прогулка про женщин
+20.03.2024, 12:33:38: loglinkina отменил 👩‍🦰👩‍🦳 Прогулка про женщин, по причине: Пропустить
+20.03.2024, 12:33:44: loglinkina pressed cancel event reg
+20.03.2024, 12:33:47: loglinkina want to cancel ♻️ Своп
+20.03.2024, 12:33:53: loglinkina отменил ♻️ Своп, по причине: Пропустить
+20.03.2024, 12:34:55: loglinkina begun registration
+20.03.2024, 12:53:43: words_juggler came with frsttime == 1
+20.03.2024, 12:53:45: words_juggler pressed cancel event reg
+20.03.2024, 12:54:07: words_juggler want to cancel 👩‍🦰👩‍🦳 Прогулка про женщин
+20.03.2024, 12:54:18: Vadim_sedoy came with frsttime == 1
+20.03.2024, 12:59:19: notnevernow came with frsttime == 1
+20.03.2024, 12:59:21: notnevernow begun registration
+20.03.2024, 12:59:32: notnevernow tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 30 мест
+20.03.2024, 12:59:40: notnevernow send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@notnevernow', 'user_name': 'Аня Андржиевская (жена Жени) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 13:16:02: anakuprina came with frsttime == 1
+20.03.2024, 13:18:19: None came with frsttime == 1
+20.03.2024, 13:18:43: None came with frsttime == 1
+20.03.2024, 13:18:50: None pressed Cancel or got deny
+20.03.2024, 13:30:40: ilisha_gruzd came with frsttime == 1
+20.03.2024, 13:30:47: ilisha_gruzd begun registration
+20.03.2024, 13:31:16: ilisha_gruzd tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), в вэйтлист
+20.03.2024, 13:31:59: ilisha_gruzd send for registration: {'event_id': 'recqnzTwUDgHe8HDn', 'user_nick': '@ilisha_gruzd', 'user_name': 'Настя', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': True}
+20.03.2024, 13:42:33: EkaMO1999 checked registration
+20.03.2024, 13:42:34: EkaMO1999 pressed cancel event reg
+20.03.2024, 13:42:38: EkaMO1999 want to cancel Монсератт
+20.03.2024, 13:42:41: EkaMO1999 pressed Cancel or got deny
+20.03.2024, 13:42:46: EkaMO1999 pressed cancel event reg
+20.03.2024, 13:42:49: EkaMO1999 want to cancel Монсератт
+20.03.2024, 13:42:53: EkaMO1999 отменил Монсератт, по причине: Пропустить
+20.03.2024, 13:45:41: Gudkova_Anna begun registration
+20.03.2024, 13:46:02: Gudkova_Anna pressed Cancel or got deny
+20.03.2024, 14:12:49: anakuprina  Написал нам: Отмена
+20.03.2024, 14:25:43: elizarpif pressed Cancel or got deny
+20.03.2024, 14:25:45: elizarpif begun registration
+20.03.2024, 14:25:49: elizarpif tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 29 мест
+20.03.2024, 14:25:56: elizarpif pressed Cancel or got deny
+20.03.2024, 15:22:12: n_e_o_0 came with frsttime == 1
+20.03.2024, 15:22:14: n_e_o_0 begun registration
+20.03.2024, 15:25:53: Varvaraprotelo begun registration
+20.03.2024, 15:27:10: etoyaay pressed Cancel or got deny
+20.03.2024, 15:27:12: etoyaay begun registration
+20.03.2024, 15:27:27: etoyaay tried to reg on 🚶‍♀️ Камино (20.03 19:30), 18 мест
+20.03.2024, 15:27:36: etoyaay send for registration: {'event_id': 'rec5aHtVv5sF1zvrL', 'user_nick': '@etoyaay', 'user_name': 'Света', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 15:28:01: ensalada_bot pressed Cancel or got deny
+20.03.2024, 15:28:03: borysogram begun registration
+20.03.2024, 16:20:51: mariiavolkotrub begun registration
+20.03.2024, 16:20:54: valentine_to_you begun registration
+20.03.2024, 16:21:03: valentine_to_you tried to reg on ArtVino х ensalada (30.03 18:30), 15 мест
+20.03.2024, 16:21:22: valentine_to_you pressed Cancel or got deny
+20.03.2024, 16:21:27: boomanastas came with frsttime == 1
+20.03.2024, 16:21:31: mariiavolkotrub tried to reg on ArtVino х ensalada (30.03 18:30), 15 мест
+20.03.2024, 16:21:39: mariiavolkotrub send for registration: {'event_id': 'rec5eZzerIhHkmKxE', 'user_nick': '@mariiavolkotrub', 'user_name': 'Мария', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 16:21:59: mariiavolkotrub pressed Cancel or got deny
+20.03.2024, 16:24:40: lizzybell came with frsttime == 1
+20.03.2024, 16:24:43: lizzybell begun registration
+20.03.2024, 16:24:54: lizzybell pressed Cancel or got deny
+20.03.2024, 16:33:42: murod_sambo came with frsttime == 1
+20.03.2024, 16:34:03: murod_sambo pressed Cancel or got deny
+20.03.2024, 16:37:54: lizzybell begun registration
+20.03.2024, 16:38:06: lizzybell tried to reg on ArtVino х ensalada (30.03 18:30), 14 мест
+20.03.2024, 16:38:13: lizzybell send for registration: {'event_id': 'rec5eZzerIhHkmKxE', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 16:38:16: lizzybell begun registration
+20.03.2024, 16:42:13: YK77777 came with frsttime == 1
+20.03.2024, 16:44:46: meowlyuk begun registration
+20.03.2024, 16:45:13: lizzybell tried to reg on ♻️ Своп (23.03 15:00), 21 мест
+20.03.2024, 16:45:21: lizzybell send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@lizzybell', 'user_name': 'Лиза', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 16:45:24: lizzybell begun registration
+20.03.2024, 16:58:07: mariiavolkotrub begun registration
+20.03.2024, 17:03:12: arandana pressed cancel event reg
+20.03.2024, 17:03:22: arandana want to cancel ♻️ Своп
+20.03.2024, 17:03:38: arandana отменил ♻️ Своп, по причине: Пропустить
+20.03.2024, 17:03:45: arandana pressed cancel event reg
+20.03.2024, 17:03:50: arandana want to cancel 🤓 Домашняя Конференция: март
+20.03.2024, 17:04:14: arandana отменил 🤓 Домашняя Конференция: март, по причине: Пропустить
+20.03.2024, 17:15:37: grassiona pressed Cancel or got deny
+20.03.2024, 17:15:39: grassiona begun registration
+20.03.2024, 17:15:58: grassiona tried to reg on 🧘🏻 Mindfulness (24.03 10:45), 18 мест
+20.03.2024, 17:16:43: grassiona send for registration: {'event_id': 'recKWibJJRPFa3Wn8', 'user_nick': '@grassiona', 'user_name': 'Александра', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 17:39:15: None came with frsttime == 1
+20.03.2024, 17:40:50: None pressed Cancel or got deny
+20.03.2024, 18:03:54: aigerimtuleu came with frsttime == 1
+20.03.2024, 18:20:31: howmanymeercats pressed Cancel or got deny
+20.03.2024, 18:20:33: howmanymeercats checked registration
+20.03.2024, 18:20:39: howmanymeercats begun registration
+20.03.2024, 19:09:54: None came with frsttime == 1
+20.03.2024, 19:12:23: lubinetskn came with frsttime == 1
+20.03.2024, 19:12:26: lubinetskn pressed cancel event reg
+20.03.2024, 19:12:31: lubinetskn want to cancel Монсератт
+20.03.2024, 19:12:41: lubinetskn отменил Монсератт, по причине: Заболел
+20.03.2024, 19:40:11: words_juggler pressed Cancel or got deny
+20.03.2024, 19:40:17: words_juggler pressed cancel event reg
+20.03.2024, 19:40:22: words_juggler want to cancel 🥪 Тапас Тур
+20.03.2024, 19:40:29: words_juggler отменил 🥪 Тапас Тур, по причине: Болею
+20.03.2024, 19:40:33: words_juggler checked registration
+20.03.2024, 19:41:06: words_juggler pressed cancel event reg
+20.03.2024, 19:41:09: words_juggler want to cancel 👩‍🦰👩‍🦳 Прогулка про женщин
+20.03.2024, 19:41:22: words_juggler pressed Cancel or got deny
+20.03.2024, 20:00:32: Tatana_i came with frsttime == 1
+20.03.2024, 20:00:35: Tatana_i begun registration
+20.03.2024, 20:01:04: Tatana_i pressed Cancel or got deny
+20.03.2024, 20:01:07: Tatana_i нажал(а) рецепт
+20.03.2024, 20:01:12: Tatana_i pressed Cancel or got deny
+20.03.2024, 20:02:42: otorhinOla  Написал нам: Это онлайн или офлайн
+20.03.2024, 20:03:37: words_juggler came with frsttime == 1
+20.03.2024, 20:03:39: words_juggler checked registration
+20.03.2024, 20:08:45: NataliaKonova begun registration
+20.03.2024, 20:09:30: NataliaKonova tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 30 мест
+20.03.2024, 20:09:40: NataliaKonova send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@nataliakonova', 'user_name': 'Наталья', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 20:09:57: t9804453 came with frsttime == 1
+20.03.2024, 20:10:17: temaoy came with frsttime == 1
+20.03.2024, 20:10:21: temaoy begun registration
+20.03.2024, 20:10:52: liliya_muratova came with frsttime == 1
+20.03.2024, 20:10:57: liliya_muratova begun registration
+20.03.2024, 20:11:12: liliya_muratova tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 29 мест
+20.03.2024, 20:11:18: ensalada_bot pressed Cancel or got deny
+20.03.2024, 20:11:20: temaoy begun registration
+20.03.2024, 20:11:37: temaoy tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 29 мест
+20.03.2024, 20:11:55: temaoy send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@temaoy', 'user_name': 'Амет', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 20:20:35: robich begun registration
+20.03.2024, 20:22:36: oli227 begun registration
+20.03.2024, 20:22:53: oli227 tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 28 мест
+20.03.2024, 20:23:46: oli227 send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@oli227', 'user_name': 'Ольга', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 20:28:04: avputkova checked registration
+20.03.2024, 21:00:08: liliya_muratova send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@liliya_muratova', 'user_name': 'Лилия', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+20.03.2024, 21:08:37: SanyaGalakt came with frsttime == 1
+20.03.2024, 21:08:38: SanyaGalakt нажал(а) рецепт
+20.03.2024, 21:08:44: SanyaGalakt pressed Cancel or got deny
+20.03.2024, 21:08:51: SanyaGalakt begun registration
+20.03.2024, 21:09:00: SanyaGalakt tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 25 мест
+20.03.2024, 21:09:12: SanyaGalakt send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@sanyagalakt', 'user_name': 'Саша Галактионова (дочь Насти Хор)', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 21:21:49: michae11evin begun registration
+20.03.2024, 21:31:59: ekatskoropud came with frsttime == 1
+20.03.2024, 21:32:02: ekatskoropud begun registration
+20.03.2024, 21:32:13: ekatskoropud tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 24 мест
+20.03.2024, 21:32:53: ekatskoropud send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@ekatskoropud', 'user_name': 'Ekaterina', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+20.03.2024, 22:18:41: iam_poline begun registration
+20.03.2024, 22:19:08: Leilia_S begun registration
+20.03.2024, 22:19:09: iam_poline tried to reg on 🌹 Спектакль Красный Цветок (6.04 19:30), 39 мест
+20.03.2024, 22:19:20: Leilia_S tried to reg on 🧘🏻 Mindfulness (24.03 10:45), 17 мест
+20.03.2024, 22:20:07: iam_poline send for registration: {'event_id': 'recbGYziITSRK3GIU', 'user_nick': '@iam_poline', 'user_name': 'Полина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+20.03.2024, 22:22:40: elizavetta_veta came with frsttime == 1
+20.03.2024, 22:23:20: elizavetta_veta came with frsttime == 1
+20.03.2024, 22:52:28: yyumiwn begun registration
+20.03.2024, 22:52:49: yyumiwn tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 23 мест
+20.03.2024, 22:52:56: yyumiwn send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@yyumiwn', 'user_name': 'полина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 23:05:21: lizzybell pressed Cancel or got deny
+20.03.2024, 23:05:23: lizzybell pressed cancel event reg
+20.03.2024, 23:05:28: lizzybell want to cancel ArtVino х ensalada
+20.03.2024, 23:05:32: lizzybell отменил ArtVino х ensalada, по причине: Пропустить
+20.03.2024, 23:05:36: lizzybell begun registration
+20.03.2024, 23:09:39: howmanymeercats pressed Cancel or got deny
+20.03.2024, 23:09:40: howmanymeercats begun registration
+20.03.2024, 23:13:29: traveler_001 begun registration
+20.03.2024, 23:13:37: traveler_001 tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 22 мест
+20.03.2024, 23:13:45: traveler_001 send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@traveler_001', 'user_name': 'Инна Ларина (преподаватель) \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+20.03.2024, 23:14:03: preguntasproblemas begun registration
+20.03.2024, 23:15:15: sashushkaa came with frsttime == 1
+20.03.2024, 23:15:23: sashushkaa begun registration
+20.03.2024, 23:15:51: sashushkaa tried to reg on ♻️ Своп (23.03 15:00), 21 мест
+20.03.2024, 23:19:43: AlenaSkaryna checked registration
+21.03.2024, 00:06:42: lfeygin came with frsttime == 1
+21.03.2024, 00:06:48: lfeygin begun registration
+21.03.2024, 01:02:26: lfeygin pressed Cancel or got deny
+21.03.2024, 01:02:31: lfeygin pressed cancel event reg
+21.03.2024, 01:02:34: lfeygin pressed Cancel or got deny
+21.03.2024, 01:02:50: lfeygin checked registration
+21.03.2024, 01:03:05: lfeygin pressed Cancel or got deny
+21.03.2024, 01:03:11: lfeygin pressed cancel event reg
+21.03.2024, 01:03:13: lfeygin pressed Cancel or got deny
+21.03.2024, 02:15:09: None came with frsttime == 1
+21.03.2024, 02:15:45: None pressed Cancel or got deny
+21.03.2024, 02:15:52: None нажал(а) рецепт
+21.03.2024, 02:44:08: n_borisevich came with frsttime == 1
+21.03.2024, 02:44:19: n_borisevich begun registration
+21.03.2024, 05:50:48: ensalada_bot pressed Cancel or got deny
+21.03.2024, 05:50:50: JulieBanan checked registration
+21.03.2024, 05:50:59: JulieBanan pressed Cancel or got deny
+21.03.2024, 05:51:02: JulieBanan pressed cancel event reg
+21.03.2024, 05:51:07: JulieBanan want to cancel Монсератт
+21.03.2024, 05:51:16: JulieBanan отменил Монсератт, по причине: Заболела
+21.03.2024, 06:02:33: None came with frsttime == 1
+21.03.2024, 06:08:54: None came with frsttime == 1
+21.03.2024, 06:47:45: dogutrt came with frsttime == 1
+21.03.2024, 07:04:04: Shyryn1991 came with frsttime == 1
+21.03.2024, 08:20:51: daria_arkhangel came with frsttime == 1
+21.03.2024, 08:21:03: daria_arkhangel begun registration
+21.03.2024, 08:21:38: daria_arkhangel tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 20 мест
+21.03.2024, 08:22:24: daria_arkhangel send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@daria_arkhangel', 'user_name': 'Дарья', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.03.2024, 08:45:41: Murlocotan begun registration
+21.03.2024, 08:46:29: Murlocotan tried to reg on ArtVino х ensalada (30.03 18:30), 14 мест
+21.03.2024, 08:46:40: Murlocotan send for registration: {'event_id': 'rec5eZzerIhHkmKxE', 'user_nick': '@murlocotan', 'user_name': 'Maksim', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.03.2024, 08:46:53: Murlocotan begun registration
+21.03.2024, 08:47:39: Murlocotan tried to reg on ♻️ Своп (23.03 15:00), 21 мест
+21.03.2024, 08:48:14: Murlocotan send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@murlocotan', 'user_name': 'Maksim', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.03.2024, 09:06:21: Murlocotan begun registration
+21.03.2024, 09:15:05: howmanymeercats pressed Cancel or got deny
+21.03.2024, 09:15:06: howmanymeercats begun registration
+21.03.2024, 09:26:17: Gudkova_Anna pressed cancel event reg
+21.03.2024, 09:26:22: Gudkova_Anna want to cancel 🤓 Домашняя Конференция: март
+21.03.2024, 09:26:30: Gudkova_Anna отменил 🤓 Домашняя Конференция: март, по причине: Пропустить
+21.03.2024, 09:26:38: Gudkova_Anna begun registration
+21.03.2024, 09:27:42: Gudkova_Anna pressed Cancel or got deny
+21.03.2024, 10:15:10: None came with frsttime == 1
+21.03.2024, 10:26:40: None came with frsttime == 1
+21.03.2024, 10:26:49: None came with frsttime == 1
+21.03.2024, 10:26:58: None begun registration
+21.03.2024, 10:26:58: None pressed Cancel or got deny
+21.03.2024, 10:27:22: None came with frsttime == 1
+21.03.2024, 10:30:03: LevshinaElena pressed Cancel or got deny
+21.03.2024, 10:30:12: LevshinaElena begun registration
+21.03.2024, 11:03:43: None came with frsttime == 1
+21.03.2024, 11:03:56: None нажал(а) рецепт
+21.03.2024, 11:37:21: int0x4a pressed Cancel or got deny
+21.03.2024, 11:37:24: int0x4a begun registration
+21.03.2024, 11:37:56: int0x4a tried to reg on ArtVino х ensalada (30.03 18:30), 12 мест
+21.03.2024, 11:40:40: int0x4a send for registration: {'event_id': 'rec5eZzerIhHkmKxE', 'user_nick': '@int0x4a', 'user_name': 'Катя', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.03.2024, 12:02:47: anastasiia_gocreg checked registration
+21.03.2024, 12:03:00: anastasiia_gocreg pressed cancel event reg
+21.03.2024, 12:03:01: heeyangelina pressed Cancel or got deny
+21.03.2024, 12:03:06: heeyangelina begun registration
+21.03.2024, 12:03:14: anastasiia_gocreg want to cancel 🎒 Хайк с Мамут
+21.03.2024, 12:03:19: heeyangelina tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 20 мест
+21.03.2024, 12:03:19: anastasiia_gocreg pressed Cancel or got deny
+21.03.2024, 12:03:28: anastasiia_gocreg checked registration
+21.03.2024, 12:03:32: anastasiia_gocreg pressed cancel event reg
+21.03.2024, 12:03:35: heeyangelina send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@heeyangelina', 'user_name': 'Ангелина', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.03.2024, 12:03:36: anastasiia_gocreg want to cancel 🎒 Хайк с Мамут
+21.03.2024, 12:03:40: anastasiia_gocreg отменил 🎒 Хайк с Мамут, по причине: Пропустить
+21.03.2024, 12:03:55: anastasiia_gocreg begun registration
+21.03.2024, 12:04:25: anastasiia_gocreg tried to reg on ♻️ Своп (23.03 15:00), 19 мест
+21.03.2024, 12:05:15: anastasiia_gocreg send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@anastasiia_gocreg', 'user_name': 'Anastasiia', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.03.2024, 12:14:13: None came with frsttime == 1
+21.03.2024, 12:17:02: bananzamoloko pressed Cancel or got deny
+21.03.2024, 12:17:04: bananzamoloko begun registration
+21.03.2024, 12:20:36: grassiona checked registration
+21.03.2024, 12:20:50: grassiona begun registration
+21.03.2024, 12:21:22: ensalada_bot pressed Cancel or got deny
+21.03.2024, 12:21:25: meowlyuk checked registration
+21.03.2024, 12:21:29: meowlyuk begun registration
+21.03.2024, 12:21:50: qryvwid begun registration
+21.03.2024, 12:21:56: qryvwid tried to reg on ♻️ Своп (23.03 15:00), 18 мест
+21.03.2024, 12:22:15: lionlemonnary came with frsttime == 1
+21.03.2024, 12:22:20: qryvwid send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@qryvwid', 'user_name': 'Тася', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.03.2024, 12:22:21: lionlemonnary begun registration
+21.03.2024, 12:23:33: ensalada_bot pressed Cancel or got deny
+21.03.2024, 12:23:34: robich begun registration
+21.03.2024, 12:24:13: dasha_mbp came with frsttime == 1
+21.03.2024, 12:24:24: dasha_mbp begun registration
+21.03.2024, 12:24:54: dasha_mbp tried to reg on ♻️ Своп (23.03 15:00), 16 мест
+21.03.2024, 12:25:12: dasha_mbp send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@dasha_mbp', 'user_name': 'Даша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+21.03.2024, 12:25:40: starkovalera came with frsttime == 1
+21.03.2024, 12:25:42: starkovalera begun registration
+21.03.2024, 12:25:57: starkovalera tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 19 мест
+21.03.2024, 12:26:04: starkovalera send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@starkovalera', 'user_name': 'Лера', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.03.2024, 12:26:43: None came with frsttime == 1
+21.03.2024, 12:27:19: Alinochka_yu begun registration
+21.03.2024, 12:30:41: Stasildaa pressed Cancel or got deny
+21.03.2024, 12:30:45: Stasildaa begun registration
+21.03.2024, 12:30:51: Stasildaa tried to reg on ♻️ Своп (23.03 15:00), 15 мест
+21.03.2024, 12:31:09: Stasildaa send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@stasildaa', 'user_name': 'Стася', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.03.2024, 12:35:09: paumuap came with frsttime == 1
+21.03.2024, 12:35:14: paumuap begun registration
+21.03.2024, 12:35:32: paumuap tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 17 мест
+21.03.2024, 12:38:15: vspacecadet pressed Cancel or got deny
+21.03.2024, 12:38:19: vspacecadet begun registration
+21.03.2024, 12:38:28: vspacecadet tried to reg on ♻️ Своп (23.03 15:00), 13 мест
+21.03.2024, 12:38:55: ensalada_bot pressed Cancel or got deny
+21.03.2024, 12:38:58: paumuap begun registration
+21.03.2024, 12:39:02: paumuap tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 17 мест
+21.03.2024, 12:39:08: paumuap send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@paumuap', 'user_name': 'Полина', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.03.2024, 12:40:52: None came with frsttime == 1
+21.03.2024, 12:43:23: far_andaway came with frsttime == 1
+21.03.2024, 12:43:29: far_andaway begun registration
+21.03.2024, 12:43:38: far_andaway tried to reg on 🥪 Тапас Тур (22.03 20:00), 2 мест
+21.03.2024, 12:44:14: far_andaway send for registration: {'event_id': 'recqlWNf7HCQeUnVr', 'user_nick': '@far_andaway', 'user_name': 'Ирина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+21.03.2024, 13:00:13: darianemaja came with frsttime == 1
+21.03.2024, 13:00:24: darianemaja came with frsttime == 1
+21.03.2024, 13:13:07: howmanymeercats pressed Cancel or got deny
+21.03.2024, 13:13:09: howmanymeercats begun registration
+21.03.2024, 13:23:09: None came with frsttime == 1
+21.03.2024, 13:23:11: None нажал(а) рецепт
+21.03.2024, 13:23:40: ensalada_bot pressed Cancel or got deny
+21.03.2024, 13:23:45: None checked registration
+21.03.2024, 13:23:46: None pressed Cancel or got deny
+21.03.2024, 13:23:50: jrikvaze came with frsttime == 1
+21.03.2024, 13:37:15: ensalada_bot pressed Cancel or got deny
+21.03.2024, 13:37:25: meowlyuk begun registration
+21.03.2024, 13:38:40: jixtase begun registration
+21.03.2024, 13:38:50: jixtase tried to reg on 🤓 Домашняя Конференция: март (24.03 17:00), 14 мест
+21.03.2024, 13:39:13: jixtase send for registration: {'event_id': 'recvgFrCG9Pk9ekUv', 'user_nick': '@jixtase', 'user_name': 'Евгений', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.03.2024, 13:41:14: liliya_muratova pressed cancel event reg
+21.03.2024, 13:41:21: liliya_muratova want to cancel 🤓 Домашняя Конференция: март
+21.03.2024, 13:41:26: liliya_muratova отменил 🤓 Домашняя Конференция: март, по причине: Пропустить
+21.03.2024, 13:41:37: liliya_muratova checked registration
+21.03.2024, 13:42:37: mani_bur came with frsttime == 1
+21.03.2024, 13:42:42: mani_bur begun registration
+21.03.2024, 13:42:46: mani_bur tried to reg on ♻️ Своп (23.03 15:00), 12 мест
+21.03.2024, 13:43:35: mani_bur send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@mani_bur', 'user_name': 'Мария', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+21.03.2024, 13:44:14: mani_bur checked registration
+21.03.2024, 13:55:26: mburakov came with frsttime == 1
+21.03.2024, 13:55:30: mburakov begun registration
+21.03.2024, 13:55:34: mburakov tried to reg on Монсератт (23.03 9:00), 1 мест
+21.03.2024, 14:09:46: annchizhova came with frsttime == 1
+21.03.2024, 14:09:55: annchizhova begun registration
+21.03.2024, 14:11:05: annchizhova tried to reg on ♻️ Своп (23.03 15:00), 11 мест
+21.03.2024, 14:11:38: annchizhova send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@annchizhova', 'user_name': 'Анна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.03.2024, 14:18:48: prometheus0 came with frsttime == 1
+21.03.2024, 14:19:16: prometheus0 begun registration
+21.03.2024, 14:26:21: amber_valley came with frsttime == 1
+21.03.2024, 14:26:27: amber_valley begun registration
+21.03.2024, 14:26:40: amber_valley tried to reg on ♻️ Своп (23.03 15:00), 9 мест
+21.03.2024, 14:28:01: amber_valley send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@amber_valley', 'user_name': 'Ратмир', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.03.2024, 14:28:21: amber_valley pressed give feedback
+21.03.2024, 14:29:28: None came with frsttime == 1
+21.03.2024, 15:15:08: None came with frsttime == 1
+21.03.2024, 15:15:17: None нажал(а) рецепт
+21.03.2024, 15:35:33: EleonoraVal came with frsttime == 1
+21.03.2024, 15:35:46: EleonoraVal begun registration
+21.03.2024, 15:46:54: starkovalera checked registration
+21.03.2024, 15:47:00: starkovalera pressed cancel event reg
+21.03.2024, 15:47:05: starkovalera want to cancel Монсератт
+21.03.2024, 15:47:17: starkovalera отменил Монсератт, по причине: заболели(
+21.03.2024, 15:49:24: ezhikkk came with frsttime == 1
+21.03.2024, 15:49:27: ezhikkk begun registration
+21.03.2024, 15:49:31: ezhikkk tried to reg on ♻️ Своп (23.03 15:00), 7 мест
+21.03.2024, 15:49:51: ezhikkk send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@ezhikkk', 'user_name': 'Даниил', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.03.2024, 15:50:01: ezhikkk checked registration
+21.03.2024, 15:52:34: mprodan tried to reg on 🧘🏻 Mindfulness (31.03 10:45), 18 мест
+21.03.2024, 15:53:46: mprodan send for registration: {'event_id': 'reczgODcwnVc93HDi', 'user_nick': '@mprodan', 'user_name': 'Маша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.03.2024, 15:54:25: mprodan pressed cancel event reg
+21.03.2024, 15:54:29: mprodan want to cancel 🧘🏻 Mindfulness
+21.03.2024, 15:54:35: mprodan отменил 🧘🏻 Mindfulness, по причине: Пропустить
+21.03.2024, 15:54:39: mprodan begun registration
+21.03.2024, 15:54:48: mprodan tried to reg on 🧘🏻 Mindfulness (31.03 10:45), 18 мест
+21.03.2024, 15:54:55: mprodan send for registration: {'event_id': 'reczgODcwnVc93HDi', 'user_nick': '@mprodan', 'user_name': 'Маша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.03.2024, 15:55:40: tricktrek came with frsttime == 1
+21.03.2024, 15:55:45: tricktrek begun registration
+21.03.2024, 15:56:25: ensalada_bot pressed Cancel or got deny
+21.03.2024, 15:57:26: HelenDubro checked registration
+21.03.2024, 15:57:55: tricktrek  Написал нам: Добрый день. Меня зовут Серафима  , я бы хотела рассказать в вашей группе о двух спектаклях которые мы сыграем в Барселоне уже 24-24 марта. Мы едем из Таллинна проездом на фестиваль в Валенсию
+21.03.2024, 15:58:06: HelenDubro begun registration
+21.03.2024, 16:01:27: HelenDubro tried to reg on Монсератт (23.03 9:00), 4 мест
+21.03.2024, 16:01:30: HelenDubro pressed Cancel or got deny
+21.03.2024, 16:02:38: HelenDubro pressed Cancel or got deny
+21.03.2024, 16:22:01: dubrovinaoolga begun registration
+21.03.2024, 16:23:43: dubrovinaoolga tried to reg on ArtVino х ensalada (30.03 18:30), 11 мест
+21.03.2024, 16:23:54: dubrovinaoolga send for registration: {'event_id': 'rec5eZzerIhHkmKxE', 'user_nick': '@dubrovinaoolga', 'user_name': 'Ольга', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.03.2024, 16:33:16: ensalada_bot pressed Cancel or got deny
+21.03.2024, 16:33:20: amber_valley checked registration
+21.03.2024, 16:41:56: amber_valley  Написал нам: Привет! Зарегистрировался на своп, но не нашел адреса, где он будет проходить. Не подскажите? :)
+21.03.2024, 16:42:10: amber_valley  Написал нам: Отправить
+21.03.2024, 16:50:49: victoribarbieri begun registration
+21.03.2024, 16:50:52: victoribarbieri tried to reg on Монсератт (23.03 9:00), 4 мест
+21.03.2024, 16:51:00: victoribarbieri send for registration: {'event_id': 'recalK4he3axWwCQP', 'user_nick': '@victoribarbieri', 'user_name': 'Виктория', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.03.2024, 16:52:38: Tatiana_Ivantsova begun registration
+21.03.2024, 17:01:23: robich pressed Cancel or got deny
+21.03.2024, 18:03:36: molniyax came with frsttime == 1
+21.03.2024, 18:03:44: molniyax begun registration
+21.03.2024, 18:08:01: Olga_lebedinskaya begun registration
+21.03.2024, 18:08:08: Olga_lebedinskaya tried to reg on ♻️ Своп (23.03 15:00), 5 мест
+21.03.2024, 18:16:59: None pressed Cancel or got deny
+21.03.2024, 18:49:08: ElinaKisska begun registration
+21.03.2024, 18:49:12: ElinaKisska tried to reg on 🎬Киноклуб (22.03 19:30), 16 мест
+21.03.2024, 18:49:27: ElinaKisska send for registration: {'event_id': 'rec2t4xSoM1zNDDYX', 'user_nick': '@elinakisska', 'user_name': 'Элина Нагави (@ElinaKisska)', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.03.2024, 19:05:31: aleksandrabukaeva came with frsttime == 1
+21.03.2024, 19:05:35: aleksandrabukaeva begun registration
+21.03.2024, 19:05:45: aleksandrabukaeva tried to reg on 👧 Энсалада Kids  4+: Мастерская печатников (23.03 12:00), 9 мест
+21.03.2024, 19:09:40: aleksandrabukaeva send for registration: {'event_id': 'rechjkKDDajbR7bPH', 'user_nick': '@aleksandrabukaeva', 'user_name': 'Саша Букаева', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.03.2024, 19:13:56: marinaspeaking came with frsttime == 1
+21.03.2024, 19:14:00: marinaspeaking begun registration
+21.03.2024, 19:22:54: None came with frsttime == 1
+21.03.2024, 19:22:58: None begun registration
+21.03.2024, 19:22:59: None pressed Cancel or got deny
+21.03.2024, 19:23:36: kkkovrovaaaaa begun registration
+21.03.2024, 19:23:46: kkkovrovaaaaa tried to reg on Монсератт (23.03 9:00), 3 мест
+21.03.2024, 19:24:53: ensalada_bot pressed Cancel or got deny
+21.03.2024, 19:24:55: kkkovrovaaaaa begun registration
+21.03.2024, 19:25:40: kkkovrovaaaaa tried to reg on ArtVino х ensalada (30.03 18:30), 10 мест
+21.03.2024, 19:27:42: ekkhora came with frsttime == 1
+21.03.2024, 19:27:46: ekkhora begun registration
+21.03.2024, 19:27:57: ekkhora tried to reg on 🥪 Тапас Тур (22.03 20:00), 1 мест
+21.03.2024, 19:40:58: ensalada_bot pressed Cancel or got deny
+21.03.2024, 19:41:00: Tatiana_Ivantsova begun registration
+21.03.2024, 19:43:41: Sokurinskaya begun registration
+21.03.2024, 19:43:53: Sokurinskaya tried to reg on Вечеринка (29.03 21:00), 38 мест
+21.03.2024, 19:44:03: Sokurinskaya send for registration: {'event_id': 'rec7Ufg2j2WYp3F59', 'user_nick': '@sokurinskaya', 'user_name': 'Мария', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.03.2024, 19:48:38: InverseNova came with frsttime == 1
+21.03.2024, 19:48:46: InverseNova checked registration
+21.03.2024, 19:48:49: InverseNova begun registration
+21.03.2024, 19:49:02: InverseNova tried to reg on Монсератт (23.03 9:00), 3 мест
+21.03.2024, 19:49:26: InverseNova pressed Cancel or got deny
+21.03.2024, 19:56:43: will_uhm begun registration
+21.03.2024, 19:56:51: will_uhm tried to reg on ♻️ Своп (23.03 15:00), 5 мест
+21.03.2024, 19:57:34: will_uhm send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@will_uhm', 'user_name': 'Ира', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.03.2024, 19:59:47: ensalada_bot pressed Cancel or got deny
+21.03.2024, 20:28:13: alexandraboyovich came with frsttime == 1
+21.03.2024, 20:28:21: alexandraboyovich begun registration
+21.03.2024, 20:28:45: alexandraboyovich pressed Cancel or got deny
+21.03.2024, 20:28:53: alexandraboyovich checked registration
+21.03.2024, 21:09:36: None came with frsttime == 1
+21.03.2024, 21:09:58: None pressed Cancel or got deny
+21.03.2024, 21:29:56: natasshako came with frsttime == 1
+21.03.2024, 21:37:16: starkovalera begun registration
+21.03.2024, 21:56:12: None came with frsttime == 1
+21.03.2024, 21:56:19: None begun registration
+21.03.2024, 21:56:19: None pressed Cancel or got deny
+21.03.2024, 22:11:38: temaoy begun registration
+21.03.2024, 22:28:35: svetarazmislova came with frsttime == 1
+21.03.2024, 22:28:39: svetarazmislova begun registration
+21.03.2024, 22:28:51: svetarazmislova tried to reg on ♻️ Своп (23.03 15:00), 4 мест
+21.03.2024, 22:29:43: svetarazmislova send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@svetarazmislova', 'user_name': 'Света', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+21.03.2024, 22:31:56: OlgaBarcelona came with frsttime == 1
+21.03.2024, 22:32:02: OlgaBarcelona begun registration
+21.03.2024, 22:32:27: OlgaBarcelona tried to reg on Вечеринка (29.03 21:00), 36 мест
+21.03.2024, 22:32:34: avputkova нажал(а) рецепт
+21.03.2024, 22:32:45: avputkova pressed Cancel or got deny
+21.03.2024, 22:32:49: avputkova begun registration
+21.03.2024, 22:33:28: OlgaBarcelona pressed Cancel or got deny
+21.03.2024, 22:33:30: OlgaBarcelona begun registration
+21.03.2024, 22:33:33: avputkova tried to reg on Монсератт (23.03 9:00), 4 мест
+21.03.2024, 22:33:35: OlgaBarcelona tried to reg on ♻️ Своп (23.03 15:00), 3 мест
+21.03.2024, 22:33:59: avputkova pressed Cancel or got deny
+21.03.2024, 22:34:01: avputkova begun registration
+21.03.2024, 22:34:14: avputkova tried to reg on 🎬Киноклуб (22.03 19:30), 15 мест
+21.03.2024, 22:34:37: avputkova pressed Cancel or got deny
+21.03.2024, 22:34:45: avputkova begun registration
+21.03.2024, 22:50:05: ensalada_bot pressed Cancel or got deny
+21.03.2024, 22:50:08: kkkovrovaaaaa begun registration
+21.03.2024, 22:52:44: ensalada_bot pressed Cancel or got deny
+21.03.2024, 22:52:48: Tatiana_Ivantsova begun registration
+21.03.2024, 23:31:29: mtrofimov came with frsttime == 1
+21.03.2024, 23:31:33: mtrofimov begun registration
+21.03.2024, 23:31:46: mtrofimov tried to reg on 👧 Энсалада Kids  4+: Мастерская печатников (23.03 12:00), 7 мест
+21.03.2024, 23:32:32: mtrofimov send for registration: {'event_id': 'rechjkKDDajbR7bPH', 'user_nick': '@mtrofimov', 'user_name': 'Михаил', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+22.03.2024, 00:36:29: mtrofimov pressed cancel event reg
+22.03.2024, 00:36:31: mtrofimov pressed Cancel or got deny
+22.03.2024, 01:16:22: lfeygin begun registration
+22.03.2024, 01:18:16: lfeygin tried to reg on 🎬Киноклуб (22.03 19:30), 15 мест
+22.03.2024, 01:19:02: lfeygin send for registration: {'event_id': 'rec2t4xSoM1zNDDYX', 'user_nick': '@lfeygin', 'user_name': 'Леонид Фейгин', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.03.2024, 01:28:54: rkhmanov111 begun registration
+22.03.2024, 01:28:59: rkhmanov111 tried to reg on ♻️ Своп (23.03 15:00), 3 мест
+22.03.2024, 01:29:25: rkhmanov111 send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@rkhmanov111', 'user_name': 'Саша Рахманов', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+22.03.2024, 01:29:47: rkhmanov111 checked registration
+22.03.2024, 01:34:19: Mariia_o came with frsttime == 1
+22.03.2024, 01:34:31: Mariia_o begun registration
+22.03.2024, 01:34:47: Mariia_o tried to reg on 🥪 Тапас Тур (22.03 20:00), 1 мест
+22.03.2024, 01:54:53: olga_brcln came with frsttime == 1
+22.03.2024, 01:55:08: olga_brcln begun registration
+22.03.2024, 03:40:23: words_juggler came with frsttime == 1
+22.03.2024, 03:40:28: words_juggler pressed cancel event reg
+22.03.2024, 03:40:34: words_juggler want to cancel 👩‍🦰👩‍🦳 Прогулка про женщин
+22.03.2024, 03:40:39: words_juggler отменил 👩‍🦰👩‍🦳 Прогулка про женщин, по причине: Пропустить
+22.03.2024, 03:40:48: words_juggler checked registration
+22.03.2024, 05:10:57: None came with frsttime == 1
+22.03.2024, 05:11:10: None pressed Cancel or got deny
+22.03.2024, 05:11:16: None нажал(а) рецепт
+22.03.2024, 05:12:15: None pressed Cancel or got deny
+22.03.2024, 05:12:18: None pressed Cancel or got deny
+22.03.2024, 05:12:20: None pressed Cancel or got deny
+22.03.2024, 05:12:20: None pressed Cancel or got deny
+22.03.2024, 05:12:21: None pressed Cancel or got deny
+22.03.2024, 05:12:21: None pressed Cancel or got deny
+22.03.2024, 05:12:21: None pressed Cancel or got deny
+22.03.2024, 05:12:21: None pressed Cancel or got deny
+22.03.2024, 05:12:22: None pressed Cancel or got deny
+22.03.2024, 05:12:22: None нажал(а) рецепт
+22.03.2024, 05:12:22: None нажал(а) рецепт
+22.03.2024, 05:12:22: None pressed give feedback
+22.03.2024, 05:12:59: None gave feedback: {'event_id': 'recqlWNf7HCQeUnVr', 'user_nick': '@none', 'recomendacion': 5, 'what_did_you_like': ['Люди'], 'unwanted': 'Пропустить', 'comment': 'Пропустить', 'user_name': None}
+22.03.2024, 05:13:00: None pressed Cancel or got deny
+22.03.2024, 06:18:04: Xusniddinova07 came with frsttime == 1
+22.03.2024, 06:18:17: Xusniddinova07 нажал(а) рецепт
+22.03.2024, 06:18:24: Xusniddinova07 pressed Cancel or got deny
+22.03.2024, 06:18:31: Xusniddinova07 checked registration
+22.03.2024, 07:45:00: Phoenix_spb checked registration
+22.03.2024, 07:45:35: Phoenix_spb begun registration
+22.03.2024, 07:45:47: Phoenix_spb tried to reg on ♻️ Своп (23.03 15:00), 1 мест
+22.03.2024, 07:47:35: Phoenix_spb send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@phoenix_spb', 'user_name': 'Катя', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+22.03.2024, 07:59:01: howmanymeercats begun registration
+22.03.2024, 08:27:17: LizaBolshakova came with frsttime == 1
+22.03.2024, 08:27:24: LizaBolshakova begun registration
+22.03.2024, 08:31:33: None came with frsttime == 1
+22.03.2024, 08:31:47: None нажал(а) рецепт
+22.03.2024, 08:31:52: None pressed Cancel or got deny
+22.03.2024, 08:31:58: None pressed Cancel or got deny
+22.03.2024, 08:32:03: None checked registration
+22.03.2024, 08:32:04: None pressed Cancel or got deny
+22.03.2024, 08:59:18: None came with frsttime == 1
+22.03.2024, 09:03:42: HelenDubro checked registration
+22.03.2024, 09:19:02: yyumiwn checked registration
+22.03.2024, 09:19:11: yyumiwn begun registration
+22.03.2024, 09:28:51: None came with frsttime == 1
+22.03.2024, 09:48:55: yyumiwn tried to reg on 🎬Киноклуб (22.03 19:30), 14 мест
+22.03.2024, 09:49:05: yyumiwn send for registration: {'event_id': 'rec2t4xSoM1zNDDYX', 'user_nick': '@yyumiwn', 'user_name': 'полина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.03.2024, 10:00:17: howmanymeercats pressed Cancel or got deny
+22.03.2024, 10:00:19: howmanymeercats begun registration
+22.03.2024, 10:16:09: ensalada_bot pressed Cancel or got deny
+22.03.2024, 10:16:10: mariiavolkotrub begun registration
+22.03.2024, 10:29:59: loverinovich pressed Cancel or got deny
+22.03.2024, 10:30:12: annafomichova pressed cancel event reg
+22.03.2024, 10:30:14: annafomichova pressed Cancel or got deny
+22.03.2024, 10:32:40: marysemn came with frsttime == 1
+22.03.2024, 10:32:45: marysemn checked registration
+22.03.2024, 10:34:31: marysemn begun registration
+22.03.2024, 10:46:42: ensalada_bot pressed Cancel or got deny
+22.03.2024, 10:46:42: ensalada_bot pressed Cancel or got deny
+22.03.2024, 10:46:43: ensalada_bot pressed Cancel or got deny
+22.03.2024, 10:46:46: Tatiana_Ivantsova begun registration
+22.03.2024, 11:03:23: tanyaux came with frsttime == 1
+22.03.2024, 11:03:23: tanyaux came with frsttime == 1
+22.03.2024, 11:03:29: tanyaux begun registration
+22.03.2024, 11:05:06: svetarazmislova pressed Cancel or got deny
+22.03.2024, 11:11:17: uwclr came with frsttime == 1
+22.03.2024, 11:11:20: uwclr begun registration
+22.03.2024, 11:11:25: uwclr tried to reg on Монсератт (23.03 9:00), 6 мест
+22.03.2024, 11:13:24: sam_is_online came with frsttime == 1
+22.03.2024, 11:13:34: sam_is_online checked registration
+22.03.2024, 11:13:53: uwclr send for registration: {'event_id': 'recalK4he3axWwCQP', 'user_nick': '@uwclr', 'user_name': 'Светлана', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.03.2024, 11:14:57: uwclr checked registration
+22.03.2024, 11:15:37: uwclr  Написал нам: Здравствуйте, а где узнать место встречи?
+22.03.2024, 11:21:57: yyumiwn pressed cancel event reg
+22.03.2024, 11:22:02: yyumiwn want to cancel 🤓 Домашняя Конференция: март
+22.03.2024, 11:22:11: yyumiwn отменил 🤓 Домашняя Конференция: март, по причине: Пропустить
+22.03.2024, 11:32:56: None came with frsttime == 1
+22.03.2024, 11:36:11: yyumiwn нажал(а) рецепт
+22.03.2024, 11:37:46: konstrofimov came with frsttime == 1
+22.03.2024, 11:37:55: konstrofimov pressed give feedback
+22.03.2024, 11:38:06: ensalada_bot pressed Cancel or got deny
+22.03.2024, 11:38:08: konstrofimov begun registration
+22.03.2024, 11:38:11: konstrofimov tried to reg on Монсератт (23.03 9:00), 4 мест
+22.03.2024, 11:49:10: None came with frsttime == 1
+22.03.2024, 11:55:04: Lena_Esaulova begun registration
+22.03.2024, 11:56:09: Lena_Esaulova tried to reg on 👧 Энсалада Kids  5+: Рисовальная экскурсия на природе (24.03 13:00), 15 мест
+22.03.2024, 11:56:21: Lena_Esaulova send for registration: {'event_id': 'recWRvG8z4lOmlP9p', 'user_nick': '@lena_esaulova', 'user_name': 'Лена Есаулова', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.03.2024, 11:57:09: Lena_Esaulova came with frsttime == 1
+22.03.2024, 11:57:09: Lena_Esaulova came with frsttime == 1
+22.03.2024, 11:57:11: Lena_Esaulova checked registration
+22.03.2024, 12:16:20: None pressed Cancel or got deny
+22.03.2024, 12:36:11: ElinaKisska begun registration
+22.03.2024, 12:39:42: mikashkinov came with frsttime == 1
+22.03.2024, 12:42:26: mikashkinov  Написал нам: Привет! Скажите, пожалуйста, что входит в стоимость хайка на монсерат? Включен ли билет на электричку? Нужно ли приносить еду на пикник? Какие доп траты будут нужны (проход в монастырь например)?
+22.03.2024, 13:54:53: lialbish begun registration
+22.03.2024, 13:55:31: lialbish tried to reg on 👩‍🦰👩‍🦳 Прогулка про женщин (24.03 13:00), в вэйтлист
+22.03.2024, 13:56:35: lialbish pressed Cancel or got deny
+22.03.2024, 13:56:36: lialbish checked registration
+22.03.2024, 14:53:11: ensalada_bot pressed Cancel or got deny
+22.03.2024, 14:53:16: starkovalera checked registration
+22.03.2024, 15:00:51: starkovalera checked registration
+22.03.2024, 15:00:59: starkovalera pressed cancel event reg
+22.03.2024, 15:01:04: starkovalera want to cancel 🎒 Хайк с Мамут
+22.03.2024, 15:01:24: starkovalera отменил 🎒 Хайк с Мамут, по причине: попутала даты, уже занаты
+22.03.2024, 15:01:48: lfeygin checked registration
+22.03.2024, 15:01:56: sergeytiron checked registration
+22.03.2024, 15:02:01: sergeytiron pressed cancel event reg
+22.03.2024, 15:02:05: sergeytiron want to cancel 🎒 Хайк с Мамут
+22.03.2024, 15:02:19: Kristina_Botsu want to cancel 🎬Киноклуб
+22.03.2024, 15:02:24: Kristina_Botsu pressed Cancel or got deny
+22.03.2024, 15:02:25: sergeytiron отменил 🎒 Хайк с Мамут, по причине: Попутали даты
+22.03.2024, 15:02:30: Kristina_Botsu checked registration
+22.03.2024, 15:02:58: lfeygin begun registration
+22.03.2024, 15:15:31: uwclr begun registration
+22.03.2024, 15:15:39: ensalada_bot pressed Cancel or got deny
+22.03.2024, 15:15:41: uwclr checked registration
+22.03.2024, 15:15:46: uwclr pressed cancel event reg
+22.03.2024, 15:15:47: ensalada_bot pressed Cancel or got deny
+22.03.2024, 15:15:48: uwclr pressed Cancel or got deny
+22.03.2024, 15:16:46: uwclr begun registration
+22.03.2024, 15:16:49: uwclr tried to reg on Монсератт (23.03 9:00), 2 мест
+22.03.2024, 15:16:52: uwclr pressed Cancel or got deny
+22.03.2024, 15:20:09: ensalada_bot pressed Cancel or got deny
+22.03.2024, 15:20:11: Tatiana_Ivantsova begun registration
+22.03.2024, 15:42:21: ravilgizatulin begun registration
+22.03.2024, 15:42:36: ravilgizatulin tried to reg on ♻️ Своп (23.03 15:00), в вэйтлист
+22.03.2024, 15:42:48: ravilgizatulin send for registration: {'event_id': 'recPaLAwSB6s6597t', 'user_nick': '@ravilgizatulin', 'user_name': 'Равиль', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+22.03.2024, 16:29:23: chKm_h tried to reg on ♻️ Своп (23.03 15:00), 20 мест
+22.03.2024, 16:46:16: ensalada_bot pressed Cancel or got deny
+22.03.2024, 17:08:35: klmvksn checked registration
+22.03.2024, 17:52:03: howmanymeercats pressed Cancel or got deny
+22.03.2024, 17:52:05: howmanymeercats begun registration
+22.03.2024, 17:52:45: ElinaKisska tried to reg on 🥪 Тапас Тур (22.03 20:00), 1 мест
+22.03.2024, 17:53:12: ElinaKisska pressed Cancel or got deny
+22.03.2024, 17:53:17: ElinaKisska begun registration
+22.03.2024, 17:53:51: ElinaKisska pressed Cancel or got deny
+22.03.2024, 18:07:43: lfeygin tried to reg on 🥪 Тапас Тур (22.03 20:00), 1 мест
+22.03.2024, 18:08:54: lfeygin send for registration: {'event_id': 'recqlWNf7HCQeUnVr', 'user_nick': '@lfeygin', 'user_name': 'Леонид Фейгин', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.03.2024, 18:10:14: lfeygin checked registration
+22.03.2024, 18:23:46: ensalada_bot pressed Cancel or got deny
+22.03.2024, 18:23:55: lewdmila checked registration
+22.03.2024, 18:29:22: None bot  hase been started
+22.03.2024, 18:32:59: None bot  hase been started
+22.03.2024, 18:34:24: None bot  hase been started
+22.03.2024, 18:40:08: None bot  hase been started
+22.03.2024, 18:41:54: None bot  hase been started
+22.03.2024, 18:41:54: Shkoterman came with frsttime == 1
+22.03.2024, 18:58:06: None bot  hase been started
+22.03.2024, 18:59:13: None bot  hase been started
+22.03.2024, 18:59:24: Shkoterman pressed Cancel or got deny
+22.03.2024, 19:00:47: None bot  hase been started
+22.03.2024, 19:00:54: Shkoterman pressed Cancel or got deny
+22.03.2024, 19:02:42: None bot  hase been started
+22.03.2024, 19:08:04: None bot  hase been started
+22.03.2024, 19:08:12: Shkoterman pressed Cancel or got deny
+22.03.2024, 19:08:59: Shkoterman pressed Cancel or got deny
+22.03.2024, 19:09:02: Shkoterman came with frsttime == 1
+22.03.2024, 19:11:16: None bot  hase been started
+22.03.2024, 19:11:24: Shkoterman pressed Cancel or got deny
+22.03.2024, 19:11:38: Shkoterman came with frsttime == 1
+22.03.2024, 19:12:55: None bot  hase been started
+22.03.2024, 19:14:46: None bot  hase been started
+22.03.2024, 19:15:34: None bot  hase been started
+22.03.2024, 19:17:10: None bot  hase been started
+22.03.2024, 19:21:21: None bot  hase been started
+22.03.2024, 19:22:50: Shkoterman pressed Cancel or got deny
