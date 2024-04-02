@@ -25051,38 +25051,75 @@ P.S. Сегодня впервые пошел куда-то пообедать, 
 02.04.2024, 14:08:25: varvarad_makeup begun registration
 02.04.2024, 14:08:38: varvarad_makeup tried to reg on 🎒 Хайк с Мамут (13.04 9:00), в вэйтлист
 02.04.2024, 14:08:46: varvarad_makeup pressed Cancel or got deny
-02.04.2024, 14:18:19: aguralev came with frsttime == 1
-02.04.2024, 14:18:23: aguralev begun registration
-02.04.2024, 14:18:46: aguralev tried to reg on 🦪 Устрицы и Перпиньян (6.04 9:45), в вэйтлист
-02.04.2024, 14:22:24: phoci came with frsttime == 1
-02.04.2024, 14:22:31: phoci begun registration
-02.04.2024, 14:22:44: phoci tried to reg on 🎒 Хайк с Мамут (13.04 9:00), в вэйтлист
-02.04.2024, 14:22:49: phoci pressed Cancel or got deny
-02.04.2024, 14:28:58: ensalada_bot pressed Cancel or got deny
-02.04.2024, 14:29:06: preguntasproblemas begun registration
-02.04.2024, 14:31:22: int0x4a came with frsttime == 1
-02.04.2024, 14:31:25: int0x4a checked registration
-02.04.2024, 14:31:42: int0x4a begun registration
-02.04.2024, 14:31:58: int0x4a tried to reg on 🎨 ArtVino х ensalada (10.04 19:30), 14 мест
-02.04.2024, 14:39:22: None came with frsttime == 1
-02.04.2024, 14:39:39: aguralev pressed Cancel or got deny
-02.04.2024, 14:39:58: None pressed Cancel or got deny
-02.04.2024, 14:40:42: None came with frsttime == 1
-02.04.2024, 15:15:14: uma_kasimova came with frsttime == 1
-02.04.2024, 15:15:22: uma_kasimova begun registration
-02.04.2024, 15:16:12: uma_kasimova tried to reg on 🧘🏻 Mindfulness (21.04 10:45), 20 мест
-02.04.2024, 15:17:31: uma_kasimova send for registration: {'event_id': 'recjJy0HKI1TzWD4h', 'user_nick': '@uma_kasimova', 'user_name': 'Ума', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-02.04.2024, 15:18:16: uma_kasimova came with frsttime == 1
-02.04.2024, 15:18:20: uma_kasimova begun registration
-02.04.2024, 15:24:55: flessseldnim came with frsttime == 1
-02.04.2024, 15:24:59: flessseldnim begun registration
-02.04.2024, 15:25:13: flessseldnim tried to reg on 🚶 Прогулка по местам каталанского модернизма (28.04 13:00), 7 мест
-02.04.2024, 15:25:38: flessseldnim send for registration: {'event_id': 'recP11l4qME6gP25v', 'user_nick': '@flessseldnim', 'user_name': 'Лина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
-02.04.2024, 15:27:06: ensalada_bot pressed Cancel or got deny
-02.04.2024, 15:27:11: flessseldnim begun registration
-02.04.2024, 15:27:29: flessseldnim tried to reg on 🍷 Drop: игристая дегустация (26.04 20:00), 10 мест
-02.04.2024, 15:27:33: flessseldnim pressed Cancel or got deny
-02.04.2024, 15:27:37: flessseldnim begun registration
-02.04.2024, 15:27:55: flessseldnim tried to reg on 🍷 Drop:  регионы Испании - Каталония (12.04 20:00), 12 мест
-02.04.2024, 15:27:58: flessseldnim pressed Cancel or got deny
-02.04.2024, 15:36:59: ekkhora pressed Cancel or got deny
+02.04.2024, 14:16:06: None bot  hase been started
+02.04.2024, 14:16:18: Shkoterman begun registration
+02.04.2024, 14:16:26: Shkoterman tried to reg on 🎬 Кинопоказ "Беспечность вечной люби" (3.04 19:30), 21 мест
+02.04.2024, 14:21:01: None bot  hase been started
+02.04.2024, 14:21:03: Shkoterman pressed Cancel or got deny
+02.04.2024, 14:21:28: None bot  hase been started
+02.04.2024, 14:21:47: None bot  hase been started
+02.04.2024, 14:22:12: None bot  hase been started
+02.04.2024, 14:24:05: None bot  hase been started
+02.04.2024, 14:24:29: None bot  hase been started
+02.04.2024, 14:24:56: None bot  hase been started
+02.04.2024, 14:25:06: None bot  hase been started
+02.04.2024, 14:26:14: None bot  hase been started
+02.04.2024, 14:26:49: None bot  hase been started
+02.04.2024, 14:27:55: None bot  hase been started
+02.04.2024, 14:29:16: None bot  hase been started
+02.04.2024, 14:30:20: None bot  hase been started
+02.04.2024, 14:30:23: Shkoterman begun registration
+02.04.2024, 14:30:35: Shkoterman tried to reg on 🎬 Кинопоказ "Беспечность вечной люби" (3.04 19:30), 21 мест
+02.04.2024, 14:31:13: None bot  hase been started
+02.04.2024, 14:31:14: Shkoterman pressed Cancel or got deny
+02.04.2024, 14:31:16: Shkoterman begun registration
+02.04.2024, 14:31:20: Shkoterman tried to reg on 🎬 Кинопоказ "Беспечность вечной люби" (3.04 19:30), 21 мест
+02.04.2024, 14:32:54: None bot  hase been started
+02.04.2024, 14:32:56: Shkoterman pressed Cancel or got deny
+02.04.2024, 14:33:59: None bot  hase been started
+02.04.2024, 14:36:31: None bot  hase been started
+02.04.2024, 14:36:49: None bot  hase been started
+02.04.2024, 14:40:34: None bot  hase been started
+02.04.2024, 14:42:00: None bot  hase been started
+02.04.2024, 14:42:37: None bot  hase been started
+02.04.2024, 14:43:53: None bot  hase been started
+02.04.2024, 14:44:21: None bot  hase been started
+02.04.2024, 14:45:08: None bot  hase been started
+02.04.2024, 14:46:10: None bot  hase been started
+02.04.2024, 14:48:24: None bot  hase been started
+02.04.2024, 14:49:15: None bot  hase been started
+02.04.2024, 14:49:51: None bot  hase been started
+02.04.2024, 14:49:54: None bot  hase been started
+02.04.2024, 14:50:26: None bot  hase been started
+02.04.2024, 14:51:38: None bot  hase been started
+02.04.2024, 14:52:41: None bot  hase been started
+02.04.2024, 14:53:23: None bot  hase been started
+02.04.2024, 14:54:08: None bot  hase been started
+02.04.2024, 14:54:33: None bot  hase been started
+02.04.2024, 14:54:51: None bot  hase been started
+02.04.2024, 14:57:07: None bot  hase been started
+02.04.2024, 14:58:53: None bot  hase been started
+02.04.2024, 14:59:10: None bot  hase been started
+02.04.2024, 15:00:45: None bot  hase been started
+02.04.2024, 15:01:42: None bot  hase been started
+02.04.2024, 15:04:12: None bot  hase been started
+02.04.2024, 15:08:09: None bot  hase been started
+02.04.2024, 15:10:23: None bot  hase been started
+02.04.2024, 15:11:11: None bot  hase been started
+02.04.2024, 15:14:15: None bot  hase been started
+02.04.2024, 15:15:08: None bot  hase been started
+02.04.2024, 15:25:04: None bot  hase been started
+02.04.2024, 15:25:31: None bot  hase been started
+02.04.2024, 15:26:01: None bot  hase been started
+02.04.2024, 15:27:08: None bot  hase been started
+02.04.2024, 15:27:53: None bot  hase been started
+02.04.2024, 15:33:26: None bot  hase been started
+02.04.2024, 15:34:19: None bot  hase been started
+02.04.2024, 15:34:42: None bot  hase been started
+02.04.2024, 15:35:25: None bot  hase been started
+02.04.2024, 15:35:35: Shkoterman begun registration
+02.04.2024, 15:35:41: Shkoterman tried to reg on 🎬 Кинопоказ "Беспечность вечной люби" (3.04 19:30), 21 мест
+02.04.2024, 15:35:58: Shkoterman pressed Cancel or got deny
+02.04.2024, 15:40:27: None bot  hase been started
+02.04.2024, 15:40:48: Shkoterman begun registration
+02.04.2024, 15:40:55: Shkoterman tried to reg on 🎬 Кинопоказ "Беспечность вечной люби" (3.04 19:30), 21 мест

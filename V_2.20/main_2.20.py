@@ -3,7 +3,6 @@ import btns
 import strs
 import telebot
 import time
-import asyncio
 from telebot import types
 from datetime import datetime
 
@@ -702,6 +701,11 @@ def handle_text(message):
 
     # сугубо мои
     elif message.text == btns.testbtn.text and message.chat.id == shkoterman_chat_id:
+        #dict=ER_DB.open_for_reg_events()
+        #for i in range(len(dict)):
+            #print(ER_DB.get_event_description(list(dict.values())[i][0]), list(dict.keys())[i])
+
+
         #poop = str(ER_DB.get_event_description('recPLAkLqlVhAxLUW'))
         #bot.send_message(message.chat.id, text=poop, parse_mode='Markdown', disable_web_page_preview=True)
         #print(type(poop))
