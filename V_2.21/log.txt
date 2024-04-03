@@ -25567,24 +25567,49 @@ P.S. Сегодня впервые пошел куда-то пообедать, 
 03.04.2024, 17:07:31: traveler_001 came with frsttime == 1
 03.04.2024, 17:07:33: traveler_001 pressed cancel event reg
 03.04.2024, 17:07:50: SashaRepina tried to reg on 👧 Энсалада Kids  7+: Стритарт прогулка (6.04 12:00), 9 мест
-03.04.2024, 17:19:44: TatianaSheremetova came with frsttime == 1
-03.04.2024, 17:19:46: TatianaSheremetova checked registration
-03.04.2024, 17:20:21: ensalada_org pressed Cancel or got deny
-03.04.2024, 17:44:42: ensalada_org begun registration
-03.04.2024, 17:44:46: ensalada_org tried to reg on 🌹 Спектакль Красный Цветок (6.04 19:30), 35 мест
-03.04.2024, 17:45:01: ensalada_bot pressed Cancel or got deny
-03.04.2024, 17:53:05: AirVetra came with frsttime == 1
-03.04.2024, 18:03:34: natashagulitskaya pressed Cancel or got deny
-03.04.2024, 18:14:41: noobdoesre begun registration
-03.04.2024, 18:33:49: Zen_Zoo pressed Cancel or got deny
-03.04.2024, 18:33:52: Zen_Zoo begun registration
-03.04.2024, 18:40:34: Pisarevaanna begun registration
-03.04.2024, 18:40:47: Pisarevaanna tried to reg on 🎬 Кинопоказ "Беспечность вечной люби" (3.04 19:30), 12 мест
-03.04.2024, 18:45:44: Lana1251 came with frsttime == 1
-03.04.2024, 18:45:53: Lana1251 begun registration
-03.04.2024, 18:45:56: Lana1251 tried to reg on 🎬 Кинопоказ "Беспечность вечной люби" (3.04 19:30), 12 мест
-03.04.2024, 18:46:10: Lana1251 send for registration: {'event_id': 'recYY0WvMzownyir9', 'user_nick': '@lana1251', 'user_name': 'Лана', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
-03.04.2024, 18:47:48: TatianaSheremetova pressed cancel event reg
-03.04.2024, 18:47:49: TatianaSheremetova pressed Cancel or got deny
-03.04.2024, 18:49:40: TimurShu came with frsttime == 1
-03.04.2024, 18:49:50: TimurShu checked registration
+03.04.2024, 17:20:05: None bot  hase been started
+03.04.2024, 17:20:43: ensalada_org came with frsttime == 1
+03.04.2024, 17:21:09: None bot  hase been started
+03.04.2024, 17:21:11: ensalada_org pressed Cancel or got deny
+03.04.2024, 17:21:28: None bot  hase been started
+03.04.2024, 17:21:36: ensalada_org  Написал нам: Отмена
+03.04.2024, 17:23:10: None bot  hase been started
+03.04.2024, 17:23:19: ensalada_org  Написал нам: Отмена
+03.04.2024, 17:24:12: None bot  hase been started
+03.04.2024, 17:24:16: ensalada_org  Написал нам: Отмена
+03.04.2024, 17:24:22: None bot  hase been started
+03.04.2024, 17:24:26: ensalada_org  Написал нам: Отмена
+03.04.2024, 17:24:56: None bot  hase been started
+03.04.2024, 17:24:57: ensalada_org  Написал нам: Отмена
+03.04.2024, 17:26:37: None bot  hase been started
+03.04.2024, 17:26:39: ensalada_org  Написал нам: Отмена
+03.04.2024, 17:28:16: None bot  hase been started
+03.04.2024, 17:28:17: ensalada_org  Написал нам: Отмена
+03.04.2024, 17:28:35: None bot  hase been started
+03.04.2024, 17:28:49: ensalada_org  Написал нам: pines
+03.04.2024, 17:29:07: None bot  hase been started
+03.04.2024, 17:29:11: ensalada_org  Написал нам: dfbg
+03.04.2024, 17:29:33: Shkoterman pressed Cancel or got deny
+03.04.2024, 17:29:39: Shkoterman  Написал нам: ты пенис
+03.04.2024, 17:30:16: Shkoterman begun registration
+03.04.2024, 17:30:27: Shkoterman tried to reg on 🌹 Спектакль Красный Цветок (6.04 19:30), 35 мест
+03.04.2024, 17:30:33: Shkoterman send for registration: {'event_id': 'recbGYziITSRK3GIU', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+03.04.2024, 17:30:35: Shkoterman pressed cancel event reg
+03.04.2024, 17:30:38: Shkoterman want to cancel 🌹 Спектакль Красный Цветок
+03.04.2024, 17:30:45: Shkoterman отменил 🌹 Спектакль Красный Цветок, по причине: патаму
+03.04.2024, 17:37:01: None bot  hase been started
+03.04.2024, 17:37:04: Shkoterman begun registration
+03.04.2024, 17:37:08: Shkoterman tried to reg on 🌹 Спектакль Красный Цветок (6.04 19:30), 35 мест
+03.04.2024, 17:37:13: Shkoterman send for registration: {'event_name': '🌹 Спектакль Красный Цветок (6.04 19:30), 35 мест', 'event_id': 'recbGYziITSRK3GIU', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+03.04.2024, 17:43:29: None bot  hase been started
+03.04.2024, 17:45:12: Shkoterman begun registration
+03.04.2024, 17:45:15: Shkoterman tried to reg on 🌹 Спектакль Красный Цветок (6.04 19:30), 35 мест
+03.04.2024, 17:45:21: Shkoterman send for registration: {'event_name': '🌹 Спектакль Красный Цветок (6.04 19:30), 35 мест', 'event_id': 'recbGYziITSRK3GIU', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+03.04.2024, 18:45:52: None bot  hase been started
+03.04.2024, 18:45:55: ensalada_org begun registration
+03.04.2024, 18:45:58: ensalada_org tried to reg on 🎬 Кинопоказ "Беспечность вечной люби" (3.04 19:30), 12 мест
+03.04.2024, 18:46:14: EnsaladaRegChek_bot pressed Cancel or got deny
+03.04.2024, 18:47:20: None bot  hase been started
+03.04.2024, 18:47:24: ensalada_org begun registration
+03.04.2024, 18:47:27: ensalada_org tried to reg on 🎬 Кинопоказ "Беспечность вечной люби" (3.04 19:30), 10 мест
+03.04.2024, 18:47:56: ensalada_org pressed Cancel or got deny
