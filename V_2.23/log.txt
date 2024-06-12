@@ -32888,6 +32888,324 @@ P.S. Сегодня впервые пошел куда-то пообедать, 
 11.06.2024, 17:48:18: helen_sm отменил 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары., по причине: Пропустить
 11.06.2024, 19:46:39: ensalada_bot  pressed main menu inline
 11.06.2024, 19:48:18: Shkoterman  pressed main menu inline
-11.06.2024, 23:56:33: Ural_markus begun registration
-12.06.2024, 00:18:18: ensalada_bot  pressed main menu inline
-12.06.2024, 00:18:20: Ural_markus нажал(а) рецепт
+11.06.2024, 20:06:14: None bot  hase been started
+11.06.2024, 20:09:12: None bot  hase been started
+11.06.2024, 20:09:31: None bot  hase been started
+11.06.2024, 20:10:40: None bot  hase been started
+11.06.2024, 20:11:26: None bot  hase been started
+11.06.2024, 20:11:43: None bot  hase been started
+11.06.2024, 20:11:46: Shkoterman came with frsttime == 1
+11.06.2024, 20:12:39: None bot  hase been started
+11.06.2024, 20:12:45: None bot  hase been started
+11.06.2024, 20:12:51: None bot  hase been started
+11.06.2024, 20:13:05: None bot  hase been started
+11.06.2024, 20:13:21: Shkoterman came with frsttime == 1
+11.06.2024, 20:17:57: None bot  hase been started
+11.06.2024, 20:18:05: Shkoterman  pressed main menu inline
+11.06.2024, 20:24:11: None bot  hase been started
+11.06.2024, 20:25:35: None bot  hase been started
+11.06.2024, 20:26:48: None bot  hase been started
+11.06.2024, 21:49:20: Shkoterman  pressed main menu inline
+11.06.2024, 21:49:36: None bot  hase been started
+11.06.2024, 21:49:38: Shkoterman  pressed main menu inline
+11.06.2024, 21:50:48: None bot  hase been started
+11.06.2024, 21:50:50: Shkoterman  pressed main menu inline
+11.06.2024, 21:52:48: None bot  hase been started
+11.06.2024, 21:52:50: Shkoterman  pressed main menu inline
+11.06.2024, 21:53:42: None bot  hase been started
+11.06.2024, 21:53:49: Shkoterman came with frsttime == 1
+11.06.2024, 21:57:37: None bot  hase been started
+11.06.2024, 21:57:38: Shkoterman  pressed main menu inline
+11.06.2024, 21:59:33: None bot  hase been started
+11.06.2024, 21:59:35: Shkoterman  pressed main menu inline
+11.06.2024, 22:01:56: Shkoterman  pressed main menu inline
+11.06.2024, 22:10:43: None bot  hase been started
+11.06.2024, 22:10:45: Shkoterman  pressed main menu inline
+11.06.2024, 22:11:40: None bot  hase been started
+11.06.2024, 22:11:44: Shkoterman came with frsttime == 1
+11.06.2024, 22:12:12: None bot  hase been started
+11.06.2024, 22:12:15: None bot  hase been started
+11.06.2024, 22:12:34: None bot  hase been started
+11.06.2024, 22:12:34: Shkoterman came with frsttime == 1
+11.06.2024, 22:15:33: None bot  hase been started
+11.06.2024, 22:15:33: Shkoterman  pressed main menu inline
+11.06.2024, 22:15:43: Shkoterman  pressed main menu inline
+11.06.2024, 22:16:40: None bot  hase been started
+11.06.2024, 22:17:50: None bot  hase been started
+11.06.2024, 22:17:53: Shkoterman  pressed main menu inline
+11.06.2024, 22:19:15: None bot  hase been started
+11.06.2024, 22:22:09: None bot  hase been started
+11.06.2024, 22:22:09: Shkoterman  pressed main menu inline
+11.06.2024, 22:22:36: None bot  hase been started
+11.06.2024, 22:22:48: None bot  hase been started
+11.06.2024, 22:22:49: Shkoterman  pressed main menu inline
+11.06.2024, 22:23:56: None bot  hase been started
+11.06.2024, 22:23:57: Shkoterman  pressed main menu inline
+11.06.2024, 22:25:37: None bot  hase been started
+11.06.2024, 22:25:40: Shkoterman  pressed main menu inline
+11.06.2024, 22:27:04: None bot  hase been started
+11.06.2024, 22:27:06: Shkoterman  pressed main menu inline
+11.06.2024, 22:28:28: EnsaladaRegChek_bot  pressed main menu inline
+11.06.2024, 22:28:52: Shkoterman  pressed main menu inline
+11.06.2024, 22:29:21: Shkoterman  pressed main menu inline
+11.06.2024, 22:29:58: None bot  hase been started
+11.06.2024, 22:30:00: Shkoterman  pressed main menu inline
+11.06.2024, 22:31:07: None bot  hase been started
+11.06.2024, 22:31:10: Shkoterman  pressed main menu inline
+11.06.2024, 22:31:50: Shkoterman  pressed main menu inline
+11.06.2024, 22:32:44: Shkoterman  pressed main menu inline
+11.06.2024, 22:36:17: EnsaladaRegChek_bot  pressed main menu inline
+11.06.2024, 22:38:03: None bot  hase been started
+11.06.2024, 22:41:47: EnsaladaRegChek_bot  pressed main menu inline
+11.06.2024, 22:50:57: None bot  hase been started
+11.06.2024, 22:52:24: None bot  hase been started
+11.06.2024, 22:52:24: Shkoterman  pressed main menu inline
+11.06.2024, 22:53:45: EnsaladaRegChek_bot  pressed main menu inline
+11.06.2024, 22:57:10: None bot  hase been started
+11.06.2024, 22:58:03: None bot  hase been started
+11.06.2024, 22:58:20: None bot  hase been started
+11.06.2024, 22:59:11: None bot  hase been started
+11.06.2024, 23:01:07: None bot  hase been started
+11.06.2024, 23:01:11: None bot  hase been started
+11.06.2024, 23:01:12: Shkoterman  pressed main menu inline
+11.06.2024, 23:03:23: EnsaladaRegChek_bot  pressed main menu inline
+11.06.2024, 23:05:18: None bot  hase been started
+11.06.2024, 23:05:36: None bot  hase been started
+11.06.2024, 23:05:41: Shkoterman pressed Cancel or got deny
+11.06.2024, 23:07:54: None bot  hase been started
+11.06.2024, 23:08:00: Shkoterman pressed Cancel or got deny
+11.06.2024, 23:08:58: EnsaladaRegChek_bot  pressed main menu inline
+11.06.2024, 23:09:02: Shkoterman begun registration
+11.06.2024, 23:10:05: None bot  hase been started
+11.06.2024, 23:10:09: Shkoterman  pressed main menu inline
+11.06.2024, 23:10:14: Shkoterman pressed Cancel or got deny
+11.06.2024, 23:11:57: None bot  hase been started
+11.06.2024, 23:12:20: Shkoterman begun registration
+11.06.2024, 23:12:22: Shkoterman  pressed main menu inline
+11.06.2024, 23:19:11: None bot  hase been started
+11.06.2024, 23:19:12: Shkoterman  pressed main menu inline
+11.06.2024, 23:21:05: None bot  hase been started
+11.06.2024, 23:21:07: Shkoterman  pressed main menu inline
+11.06.2024, 23:22:32: Shkoterman begun registration
+11.06.2024, 23:22:34: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:23:02: Shkoterman came with frsttime == 1
+11.06.2024, 23:23:03: Shkoterman begun registration
+11.06.2024, 23:23:05: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:25:50: None bot  hase been started
+11.06.2024, 23:26:04: Shkoterman  pressed main menu inline
+11.06.2024, 23:26:06: Shkoterman begun registration
+11.06.2024, 23:26:07: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:27:08: Shkoterman  pressed main menu inline
+11.06.2024, 23:27:09: Shkoterman begun registration
+11.06.2024, 23:27:11: Shkoterman tried to reg on 🍒 Сбор Черешни (15.06 10:00), 14 мест
+11.06.2024, 23:27:14: Shkoterman  pressed main menu inline
+11.06.2024, 23:28:09: None bot  hase been started
+11.06.2024, 23:28:09: Shkoterman begun registration
+11.06.2024, 23:28:12: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:30:18: None bot  hase been started
+11.06.2024, 23:30:18: Shkoterman  pressed main menu inline
+11.06.2024, 23:30:19: Shkoterman begun registration
+11.06.2024, 23:30:25: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:33:44: None bot  hase been started
+11.06.2024, 23:33:47: Shkoterman  pressed main menu inline
+11.06.2024, 23:33:48: Shkoterman begun registration
+11.06.2024, 23:33:51: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:35:00: None bot  hase been started
+11.06.2024, 23:35:02: Shkoterman  pressed main menu inline
+11.06.2024, 23:35:03: Shkoterman begun registration
+11.06.2024, 23:35:05: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:36:22: Shkoterman  pressed main menu inline
+11.06.2024, 23:36:23: Shkoterman begun registration
+11.06.2024, 23:36:24: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:37:15: None bot  hase been started
+11.06.2024, 23:37:17: Shkoterman  pressed main menu inline
+11.06.2024, 23:37:18: Shkoterman begun registration
+11.06.2024, 23:37:20: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:38:14: None bot  hase been started
+11.06.2024, 23:38:16: Shkoterman  pressed main menu inline
+11.06.2024, 23:38:17: Shkoterman begun registration
+11.06.2024, 23:38:19: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:40:35: None bot  hase been started
+11.06.2024, 23:40:36: Shkoterman  pressed main menu inline
+11.06.2024, 23:40:38: Shkoterman begun registration
+11.06.2024, 23:40:39: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:41:40: None bot  hase been started
+11.06.2024, 23:41:42: Shkoterman  pressed main menu inline
+11.06.2024, 23:41:43: Shkoterman begun registration
+11.06.2024, 23:41:45: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:43:39: None bot  hase been started
+11.06.2024, 23:43:42: Shkoterman  pressed main menu inline
+11.06.2024, 23:43:43: Shkoterman begun registration
+11.06.2024, 23:43:45: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:44:05: Shkoterman  pressed main menu inline
+11.06.2024, 23:44:32: Shkoterman begun registration
+11.06.2024, 23:44:34: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:44:44: Shkoterman  pressed main menu inline
+11.06.2024, 23:44:56: None bot  hase been started
+11.06.2024, 23:44:57: Shkoterman begun registration
+11.06.2024, 23:44:59: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+11.06.2024, 23:45:08: Shkoterman  pressed main menu inline
+11.06.2024, 23:58:20: None bot  hase been started
+12.06.2024, 00:06:16: None bot  hase been started
+12.06.2024, 00:06:16: Shkoterman  pressed main menu inline
+12.06.2024, 00:07:19: None bot  hase been started
+12.06.2024, 00:07:21: Shkoterman  pressed main menu inline
+12.06.2024, 00:08:50: None bot  hase been started
+12.06.2024, 00:08:53: Shkoterman  pressed main menu inline
+12.06.2024, 00:10:06: None bot  hase been started
+12.06.2024, 00:10:09: Shkoterman  pressed main menu inline
+12.06.2024, 00:11:42: None bot  hase been started
+12.06.2024, 00:11:45: Shkoterman  pressed main menu inline
+12.06.2024, 00:16:22: None bot  hase been started
+12.06.2024, 00:16:22: Shkoterman  pressed main menu inline
+12.06.2024, 00:19:49: None bot  hase been started
+12.06.2024, 00:19:51: Shkoterman  pressed main menu inline
+12.06.2024, 00:20:45: None bot  hase been started
+12.06.2024, 00:20:45: Shkoterman  pressed main menu inline
+12.06.2024, 00:21:08: None bot  hase been started
+12.06.2024, 00:21:09: Shkoterman  pressed main menu inline
+12.06.2024, 00:27:33: EnsaladaRegChek_bot  pressed main menu inline
+12.06.2024, 00:27:36: Shkoterman begun registration
+12.06.2024, 00:29:15: None bot  hase been started
+12.06.2024, 00:29:21: Shkoterman  pressed main menu inline
+12.06.2024, 00:33:32: None bot  hase been started
+12.06.2024, 00:33:33: Shkoterman  pressed main menu inline
+12.06.2024, 00:34:14: None bot  hase been started
+12.06.2024, 00:34:15: Shkoterman  pressed main menu inline
+12.06.2024, 00:35:39: None bot  hase been started
+12.06.2024, 00:35:40: Shkoterman  pressed main menu inline
+12.06.2024, 00:36:25: None bot  hase been started
+12.06.2024, 00:36:26: Shkoterman  pressed main menu inline
+12.06.2024, 00:37:30: None bot  hase been started
+12.06.2024, 00:37:34: Shkoterman  pressed main menu inline
+12.06.2024, 00:39:04: None bot  hase been started
+12.06.2024, 00:39:06: Shkoterman  pressed main menu inline
+12.06.2024, 00:40:40: None bot  hase been started
+12.06.2024, 00:40:41: Shkoterman  pressed main menu inline
+12.06.2024, 00:41:35: None bot  hase been started
+12.06.2024, 00:41:38: Shkoterman  pressed main menu inline
+12.06.2024, 00:42:08: None bot  hase been started
+12.06.2024, 00:42:10: Shkoterman  pressed main menu inline
+12.06.2024, 00:43:05: Shkoterman begun registration
+12.06.2024, 00:51:13: None bot  hase been started
+12.06.2024, 00:51:15: Shkoterman  pressed main menu inline
+12.06.2024, 00:51:18: Shkoterman begun registration
+12.06.2024, 00:51:20: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 00:51:24: Shkoterman  pressed main menu inline
+12.06.2024, 00:51:35: EnsaladaRegChek_bot begun registration
+12.06.2024, 00:53:26: None bot  hase been started
+12.06.2024, 00:53:32: Shkoterman came with frsttime == 1
+12.06.2024, 00:53:34: Shkoterman begun registration
+12.06.2024, 00:53:34: Shkoterman  pressed main menu inline
+12.06.2024, 00:53:40: Shkoterman begun registration
+12.06.2024, 00:53:40: Shkoterman  pressed main menu inline
+12.06.2024, 00:53:55: None bot  hase been started
+12.06.2024, 00:54:08: None bot  hase been started
+12.06.2024, 00:54:09: Shkoterman begun registration
+12.06.2024, 00:54:11: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 00:54:14: Shkoterman  pressed main menu inline
+12.06.2024, 01:21:06: None bot  hase been started
+12.06.2024, 01:21:06: Shkoterman  pressed main menu inline
+12.06.2024, 01:21:08: Shkoterman begun registration
+12.06.2024, 01:30:34: None bot  hase been started
+12.06.2024, 01:30:35: Shkoterman  pressed main menu inline
+12.06.2024, 01:30:36: Shkoterman begun registration
+12.06.2024, 01:30:43: Shkoterman tried to reg on 🕺 Back to восьмидесятые! (16.06 19:00), 29 мест
+12.06.2024, 01:30:49: Shkoterman send for registration: {'event_name': '🕺 Back to восьмидесятые! (16.06 19:00), 29 мест', 'event_id': 'reccdG57F2oszksfN', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+12.06.2024, 01:30:53: Shkoterman pressed cancel event reg
+12.06.2024, 01:30:55: Shkoterman want to cancel 🕺 Back to восьмидесятые!
+12.06.2024, 01:30:59: Shkoterman отменил 🕺 Back to восьмидесятые!, по причине: Пропустить
+12.06.2024, 01:42:52: None bot  hase been started
+12.06.2024, 01:47:29: None bot  hase been started
+12.06.2024, 01:47:32: None bot  hase been started
+12.06.2024, 01:47:51: None bot  hase been started
+12.06.2024, 01:48:29: None bot  hase been started
+12.06.2024, 01:48:35: None bot  hase been started
+12.06.2024, 01:54:16: None bot  hase been started
+12.06.2024, 01:54:38: None bot  hase been started
+12.06.2024, 01:55:12: None bot  hase been started
+12.06.2024, 01:56:10: None bot  hase been started
+12.06.2024, 01:56:49: None bot  hase been started
+12.06.2024, 01:57:13: None bot  hase been started
+12.06.2024, 01:58:30: None bot  hase been started
+12.06.2024, 01:58:33: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 01:59:15: Shkoterman  pressed main menu inline
+12.06.2024, 01:59:16: Shkoterman begun registration
+12.06.2024, 01:59:21: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 01:59:25: Shkoterman  pressed main menu inline
+12.06.2024, 02:00:19: None bot  hase been started
+12.06.2024, 02:00:53: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:01:50: None bot  hase been started
+12.06.2024, 02:02:35: None bot  hase been started
+12.06.2024, 02:02:39: Shkoterman came with frsttime == 1
+12.06.2024, 02:02:47: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:03:22: None bot  hase been started
+12.06.2024, 02:03:23: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:03:31: Shkoterman  pressed main menu inline
+12.06.2024, 02:03:35: Shkoterman begun registration
+12.06.2024, 02:03:37: Shkoterman  pressed main menu inline
+12.06.2024, 02:03:46: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:03:53: Shkoterman send for registration: {'event_name': '🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест', 'event_id': 'recXqcrGKZK7Lv0a4', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+12.06.2024, 02:04:25: EnsaladaRegChek_bot  pressed main menu inline
+12.06.2024, 02:04:30: Shkoterman begun registration
+12.06.2024, 02:04:32: Shkoterman tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:04:36: Shkoterman send for registration: {'event_name': '🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест', 'event_id': 'recXqcrGKZK7Lv0a4', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+12.06.2024, 02:05:10: None bot  hase been started
+12.06.2024, 02:05:17: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:05:21: Shkoterman send for registration: {'event_name': '🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест', 'event_id': 'recXqcrGKZK7Lv0a4', 'user_nick': '@shkoterman', 'user_name': 'Хуанита!!!', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+12.06.2024, 02:06:29: EnsaladaRegChek_bot tried to reg on 🤓 Домашняя Конференция:  июнь (29.06 17:00), 38 мест
+12.06.2024, 02:06:36: Shkoterman  pressed main menu inline
+12.06.2024, 02:07:03: EnsaladaRegChek_bot tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 49 мест
+12.06.2024, 02:07:09: Shkoterman  pressed main menu inline
+12.06.2024, 02:08:40: None bot  hase been started
+12.06.2024, 02:08:47: EnsaladaRegChek_bot tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 49 мест
+12.06.2024, 02:08:52: Shkoterman  pressed main menu inline
+12.06.2024, 02:09:11: EnsaladaRegChek_bot tried to reg on 👧 Энсалада Kids 7+: Фотопрогулка-практика  (30.06 11:00), 8 мест
+12.06.2024, 02:09:19: Shkoterman  pressed main menu inline
+12.06.2024, 02:09:31: EnsaladaRegChek_bot tried to reg on 👧 Энсалада Kids 7+: Фотопрогулка-практика  (30.06 11:00), 8 мест
+12.06.2024, 02:09:43: Shkoterman  pressed main menu inline
+12.06.2024, 02:11:31: None bot  hase been started
+12.06.2024, 02:11:38: EnsaladaRegChek_bot tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 49 мест
+12.06.2024, 02:11:41: Shkoterman  pressed main menu inline
+12.06.2024, 02:11:56: EnsaladaRegChek_bot  pressed main menu inline
+12.06.2024, 02:12:08: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:12:12: Shkoterman  pressed main menu inline
+12.06.2024, 02:12:39: None bot  hase been started
+12.06.2024, 02:12:43: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:12:47: Shkoterman  pressed main menu inline
+12.06.2024, 02:12:58: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:13:00: Shkoterman  pressed main menu inline
+12.06.2024, 02:14:46: None bot  hase been started
+12.06.2024, 02:14:57: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:15:01: Shkoterman  pressed main menu inline
+12.06.2024, 02:18:04: None bot  hase been started
+12.06.2024, 02:18:07: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:18:10: Shkoterman  pressed main menu inline
+12.06.2024, 02:18:17: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:18:20: Shkoterman  pressed main menu inline
+12.06.2024, 02:18:46: None bot  hase been started
+12.06.2024, 02:18:52: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:18:55: Shkoterman  pressed main menu inline
+12.06.2024, 02:19:34: None bot  hase been started
+12.06.2024, 02:19:43: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:19:46: Shkoterman  pressed main menu inline
+12.06.2024, 02:21:02: None bot  hase been started
+12.06.2024, 02:21:14: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:21:17: Shkoterman  pressed main menu inline
+12.06.2024, 02:23:20: None bot  hase been started
+12.06.2024, 02:23:30: None bot  hase been started
+12.06.2024, 02:23:39: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:23:45: Shkoterman  pressed main menu inline
+12.06.2024, 02:24:33: None bot  hase been started
+12.06.2024, 02:24:41: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:24:44: Shkoterman pressed Cancel or got deny
+12.06.2024, 02:28:18: None bot  hase been started
+12.06.2024, 02:28:24: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:28:27: Shkoterman pressed Cancel or got deny
+12.06.2024, 02:28:37: EnsaladaRegChek_bot  pressed main menu inline
+12.06.2024, 02:28:44: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:28:48: Shkoterman pressed Cancel or got deny
+12.06.2024, 02:28:54: EnsaladaRegChek_bot tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 9 мест
+12.06.2024, 02:29:01: Shkoterman pressed Cancel or got deny
+12.06.2024, 02:34:36: None bot  hase been started
+12.06.2024, 02:34:40: Shkoterman came with frsttime == 1
