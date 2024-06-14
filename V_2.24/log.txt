@@ -33480,14 +33480,60 @@ P.S. Сегодня впервые пошел куда-то пообедать, 
 14.06.2024, 19:09:00: pechenegger begun registration
 14.06.2024, 19:09:07: pechenegger tried to reg on 🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 2 мест
 14.06.2024, 19:09:25: pechenegger send for registration: {'event_name': '🍷 Drop:  регионы Испании - Островная Испания. Болеарские острова и Канары. (14.06 20:00), 2 мест', 'event_id': 'recXqcrGKZK7Lv0a4', 'user_nick': '@pechenegger', 'user_name': 'Темур', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
-14.06.2024, 19:23:39: kapryanika came with frsttime == 1
-14.06.2024, 20:33:06: dluninalunina came with frsttime == 1
-14.06.2024, 20:33:14: dluninalunina begun registration
-14.06.2024, 20:33:31: dluninalunina tried to reg on 🍻 Дегустация пива (22.06 18:00), 13 мест
-14.06.2024, 20:33:34: dluninalunina  pressed main menu inline
-14.06.2024, 21:00:01: vldsavelyev came with frsttime == 1
-14.06.2024, 21:00:07: vldsavelyev begun registration
-14.06.2024, 21:06:33: YakovlevEugen begun registration
-14.06.2024, 21:07:50: YakovlevEugen tried to reg on 🍻 Дегустация пива (22.06 18:00), 13 мест
-14.06.2024, 21:07:59: YakovlevEugen send for registration: {'event_name': '🍻 Дегустация пива (22.06 18:00), 13 мест', 'event_id': 'rec4OnYSFuXmvYycO', 'user_nick': '@yakovleveugen', 'user_name': 'Юджин', 'user_is_sub': True, 'ev_is_sub': True, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
-14.06.2024, 21:08:04: YakovlevEugen begun registration
+14.06.2024, 19:24:04: None bot  hase been started
+14.06.2024, 19:24:39: None bot  hase been started
+14.06.2024, 19:24:55: None bot  hase been started
+14.06.2024, 19:25:01: None bot  hase been started
+14.06.2024, 19:25:38: None bot  hase been started
+14.06.2024, 19:26:04: None bot  hase been started
+14.06.2024, 19:32:55: None bot  hase been started
+14.06.2024, 19:33:39: None bot  hase been started
+14.06.2024, 19:34:02: None bot  hase been started
+14.06.2024, 19:34:31: None bot  hase been started
+14.06.2024, 19:35:06: None bot  hase been started
+14.06.2024, 19:37:20: Shkoterman  pressed main menu inline
+14.06.2024, 19:40:51: None bot  hase been started
+14.06.2024, 19:41:13: None bot  hase been started
+14.06.2024, 19:41:28: None bot  hase been started
+14.06.2024, 19:43:35: None bot  hase been started
+14.06.2024, 19:44:33: None bot  hase been started
+14.06.2024, 19:46:57: None bot  hase been started
+14.06.2024, 19:50:03: None bot  hase been started
+14.06.2024, 19:50:30: None bot  hase been started
+14.06.2024, 19:51:06: None bot  hase been started
+14.06.2024, 19:51:20: None bot  hase been started
+14.06.2024, 19:52:12: None bot  hase been started
+14.06.2024, 19:53:36: None bot  hase been started
+14.06.2024, 19:53:46: None bot  hase been started
+14.06.2024, 20:02:37: None bot  hase been started
+14.06.2024, 20:03:07: None bot  hase been started
+14.06.2024, 20:03:37: None bot  hase been started
+14.06.2024, 20:08:39: None bot  hase been started
+14.06.2024, 20:09:40: None bot  hase been started
+14.06.2024, 20:10:10: None bot  hase been started
+14.06.2024, 20:11:09: None bot  hase been started
+14.06.2024, 20:11:27: None bot  hase been started
+14.06.2024, 20:12:26: None bot  hase been started
+14.06.2024, 20:13:03: None bot  hase been started
+14.06.2024, 20:13:11: None bot  hase been started
+14.06.2024, 20:13:29: None bot  hase been started
+14.06.2024, 20:22:13: None bot  hase been started
+14.06.2024, 20:22:21: Shkoterman begun registration
+14.06.2024, 20:22:23: Shkoterman  pressed main menu inline
+14.06.2024, 20:24:08: None bot  hase been started
+14.06.2024, 20:25:09: None bot  hase been started
+14.06.2024, 20:32:55: None bot  hase been started
+14.06.2024, 20:33:43: None bot  hase been started
+14.06.2024, 20:37:03: None bot  hase been started
+14.06.2024, 20:42:07: None bot  hase been started
+14.06.2024, 20:43:26: None bot  hase been started
+14.06.2024, 20:43:35: None bot  hase been started
+14.06.2024, 20:43:57: None bot  hase been started
+14.06.2024, 20:44:16: None bot  hase been started
+14.06.2024, 20:44:31: None bot  hase been started
+14.06.2024, 20:59:16: None bot  hase been started
+14.06.2024, 20:59:20: Shkoterman  pressed main menu inline
+14.06.2024, 21:11:42: None bot  hase been started
+14.06.2024, 21:11:43: Shkoterman  pressed main menu inline
+14.06.2024, 21:12:10: None bot  hase been started
+14.06.2024, 21:12:12: Shkoterman  pressed main menu inline

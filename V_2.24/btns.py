@@ -11,7 +11,7 @@ cancel = types.KeyboardButton('Отменить регистрацию')
 askqbtn = types.KeyboardButton('Написать нам')
 sendq = types.KeyboardButton('Отправить')
 olivebtn = types.KeyboardButton('Наш рецепт 🥗')
-event_calendar = types.KeyboardButton('Каледнарь мероприятий 🆕')
+event_calendar = types.KeyboardButton('Календарь мероприятий 🆕')
 
 
 ### admins's
@@ -22,13 +22,14 @@ askfeedbackbtn = types.KeyboardButton('Разослать запрос фидб�
 pingbtn = types.KeyboardButton('🖕')
 testbtn = types.KeyboardButton("test")
 send_all_btn = types.KeyboardButton("send to all")
+get_counts = types.KeyboardButton('get_counts')
 
 user_main_menu_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 admin_main_menu_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 my_main_menu_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
 user_main_menu_markup.add(myregistrationbtn, regoneventbtn, event_calendar, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, cancel, askqbtn, olivebtn)
 admin_main_menu_markup.add(myregistrationbtn, regoneventbtn, event_calendar, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, cancel, askqbtn, olivebtn, sendreminderbtn, askfeedbackbtn)
-my_main_menu_markup.add(myregistrationbtn, regoneventbtn, event_calendar, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, cancel, askqbtn, olivebtn, sendreminderbtn, askfeedbackbtn, pingbtn, testbtn, send_all_btn)
+my_main_menu_markup.add(myregistrationbtn, regoneventbtn, event_calendar, sendfeedbackbtn, allaoboutsubscriptionbtn, paybtn, cancel, askqbtn, olivebtn, sendreminderbtn, askfeedbackbtn, pingbtn, testbtn, send_all_btn, get_counts)
 
 skip_all_handlers = types.InlineKeyboardMarkup().add(types.InlineKeyboardButton('Главное меню', callback_data='05'))
 
