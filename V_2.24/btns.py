@@ -57,15 +57,15 @@ olive_didnt_get_it = types.KeyboardButton('Всё неправильно, сей
 
 
 calendar_btns_event_dict = {
-    'food':types.KeyboardButton('🍢Поесть / 🍹Выпить'),
-    'movie':types.KeyboardButton('🎞Кино / 🎭Театр / 🎙Стендап'),
-    'expo':types.KeyboardButton('🍌Выставки / 🏛Музеи / 🧑‍🏫Лекции'),
-    'fest':types.KeyboardButton('🎪Городская культура'),
-    'other':types.KeyboardButton('🤷‍♂️Другое')
+    'food':types.KeyboardButton('🍢 Поесть / 🍹 Выпить'),
+    'movie':types.KeyboardButton('🎞 Кино / 🎭 Театр / 🎙 Стендап'),
+    'expo':types.KeyboardButton('🍌 Выставки / 🏛 Музеи / 🧑‍🏫 Лекции'),
+    'fest':types.KeyboardButton('🎪 Городская культура'),
+    'other':types.KeyboardButton('🤷‍♂️ Другое')
 }
 
-calendar_all = types.KeyboardButton('👆Все')
-calendar_ensalada = types.KeyboardButton('🥗Только мероприятия энсалады')
+calendar_all = types.KeyboardButton('👆 Все')
+calendar_ensalada = types.KeyboardButton('🥗 Только мероприятия энсалады')
 
 calendar_btns_time_gates_dict={
     'today':types.KeyboardButton('🗓Сегодня'),

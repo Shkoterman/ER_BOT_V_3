@@ -33921,3 +33921,12 @@ P.S. Сегодня впервые пошел куда-то пообедать, 
 17.06.2024, 16:41:45: Shkoterman came with frsttime == 1
 17.06.2024, 16:44:33: None bot  hase been started
 17.06.2024, 16:44:43: Shkoterman  pressed main menu inline
+17.06.2024, 16:46:43: None bot  hase been started
+17.06.2024, 16:46:52: Shkoterman  pressed main menu inline
+17.06.2024, 16:50:28: None bot  hase been started
+17.06.2024, 16:50:31: Shkoterman  pressed main menu inline
+17.06.2024, 16:50:53: None bot  hase been started
+17.06.2024, 16:51:00: Shkoterman  pressed main menu inline
+17.06.2024, 16:56:35: None bot  hase been started
+17.06.2024, 16:56:40: Shkoterman  pressed main menu inline
+17.06.2024, 16:56:54: None bot  hase been started

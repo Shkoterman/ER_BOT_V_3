@@ -687,11 +687,10 @@ def event_calendar_1(message):
     bot.send_message(message.chat.id, text=strs.wait, reply_markup=markup)
     resp=ER_DB.get_calendar_section()
     calendar_tags=['all_cat']    #лист тэгов movie
-    calendar_sectoin_events=[btns.calendar_all.text, btns.calendar_ensalada.text] #лист имена тэгов Кино
+    calendar_sectoin_events=[btns.calendar_all.text] #лист имена тэгов Кино
     calendar_1_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     calendar_1_markup.add(btns.calendar_all)
     btns_list= []
-    print(resp[0])
     for i in range(len(resp[0])):
         try:
             btns_list.append(btns.calendar_btns_event_dict[resp[0][i]])
@@ -705,6 +704,7 @@ def event_calendar_1(message):
             try:
                 calendar_1_markup.add(btns_list[i*2])
             except: pass
+    calendar_sectoin_events.append(btns.calendar_ensalada.text)
     calendar_1_markup.add(btns.calendar_ensalada)
     calendar_1_markup.add(btns.mainmenubtn)
     send=bot.send_message(message.chat.id, text=strs.choose_calendar_section, reply_markup=calendar_1_markup)
