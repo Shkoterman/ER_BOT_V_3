@@ -57,22 +57,21 @@ olive_didnt_get_it = types.KeyboardButton('Всё неправильно, сей
 
 
 calendar_btns_event_dict = {
-    'food':types.KeyboardButton('Еда'),
-    'music':types.KeyboardButton('Музыка'),
-    'fest':types.KeyboardButton('Фестивали'),
-    'movie':types.KeyboardButton('Кино'),
-    'expo':types.KeyboardButton('Выставки'),
-    'travel':types.KeyboardButton('Поездки')
+    'food':types.KeyboardButton('🍢Поесть / 🍹Выпить'),
+    'movie':types.KeyboardButton('🎞Кино / 🎭Театр / 🎙Стендап'),
+    'expo':types.KeyboardButton('🍌Выставки / 🏛Музеи / 🧑‍🏫Лекции'),
+    'fest':types.KeyboardButton('🎪Городская культура'),
+    'other':types.KeyboardButton('🤷‍♂️Другое')
 }
 
-calendar_all = types.KeyboardButton('Все')
-calendar_ensalada = types.KeyboardButton('Только мероприятия энсалады')
+calendar_all = types.KeyboardButton('👆Все')
+calendar_ensalada = types.KeyboardButton('🥗Только мероприятия энсалады')
 
 calendar_btns_time_gates_dict={
-    'today':types.KeyboardButton('Сегодня'),
-    'this_week':types.KeyboardButton('На этой неделе'),
-    'next_week':types.KeyboardButton('На следующей неделе'),
-    'this_month':types.KeyboardButton('В этом месяце'),
+    'today':types.KeyboardButton('🗓Сегодня'),
+    'this_week':types.KeyboardButton('🗓На этой неделе'),
+    'next_week':types.KeyboardButton('🗓На следующей неделе'),
+    'this_month':types.KeyboardButton('🗓В этом месяце'),
 }
 
 

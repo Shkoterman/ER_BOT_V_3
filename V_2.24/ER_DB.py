@@ -1,5 +1,6 @@
 import airtable
 import strs
+import btns
 from config_file_prod import *
 import pickle
 from datetime import datetime, timedelta
@@ -375,10 +376,16 @@ def get_calendar_section():
     event_list=event_list+airt_event.get_all(view=airt_our_calendar_view)
     #event_list=airt_event.get_all(view=airt_our_calendar_view)
     exist_section_list = []
+    exist_section_list1 = []
     for i in range(len(event_list)):
         try:
             exist_section_list=exist_section_list+event_list[i]['fields']['tag']
         except: pass
-    exist_section_list=list(set(exist_section_list))
 
-    return exist_section_list, event_list
+    exist_section_list=list(set(exist_section_list))
+    sortkey=btns.calendar_btns_event_dict.keys()
+    for key in sortkey:
+        if key in exist_section_list:
+            exist_section_list1.append(key)
+
+    return exist_section_list1, event_list

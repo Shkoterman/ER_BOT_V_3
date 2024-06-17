@@ -687,10 +687,11 @@ def event_calendar_1(message):
     bot.send_message(message.chat.id, text=strs.wait, reply_markup=markup)
     resp=ER_DB.get_calendar_section()
     calendar_tags=['all_cat']    #лист тэгов movie
-    calendar_sectoin_events=['Все'] #лист имена тэгов Кино
+    calendar_sectoin_events=[btns.calendar_all.text, btns.calendar_ensalada.text] #лист имена тэгов Кино
     calendar_1_markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     calendar_1_markup.add(btns.calendar_all)
     btns_list= []
+    print(resp[0])
     for i in range(len(resp[0])):
         try:
             btns_list.append(btns.calendar_btns_event_dict[resp[0][i]])
@@ -925,7 +926,7 @@ def handle_text(message):
 
     # сугубо мои
     elif message.text == btns.testbtn.text and message.chat.id == shkoterman_chat_id:
-        count_things('', 0, reboot_count=False)
+        print(ER_DB.get_calendar_section()[0])
         #dict=ER_DB.open_for_reg_events()
         #for i in range(len(dict)):
             #print(ER_DB.get_event_description(list(dict.values())[i][0]), list(dict.keys())[i])
