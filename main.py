@@ -7,9 +7,6 @@ from config import *
 from telebot import types
 from datetime import datetime, timedelta
 
-
-test_mode=True
-
 shkoterman_chat_id = 214130351
 julia_chat_id = 346459053
 ensalada_team_id = 6049844486
@@ -854,7 +851,7 @@ def write_in_log(message, log_text):
     except:
         nick='None'
     log_text=current_time+': '+str(nick)+' '+log_text+'\n'
-    f = open('log.txt', 'a', encoding='utf-8')
+    f = open('data/log.txt', 'a', encoding='utf-8')
     f.write(log_text)
     f.close()
     print(log_text)
@@ -960,7 +957,7 @@ write_in_log(None, 'bot  hase been started')
 
 
 
-
+#bot.run_webhooks(certificate='YOURPUBLIC.pem', certificate_key = 'YOURPRIVATE.key', webhook_url='HTTPS://37.15.254.34:443/5865283503:AAHI8sUoRRzDh3d0w1TpNnY35ymAqDTv5A4')
 bot.infinity_polling(timeout=600, long_polling_timeout=15)
 
 

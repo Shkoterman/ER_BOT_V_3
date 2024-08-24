@@ -34319,3 +34319,991 @@ P.S. Сегодня впервые пошел куда-то пообедать, 
 20.06.2024, 22:16:32: Shkoterman  pressed main menu inline
 20.06.2024, 22:16:56: Shkoterman  pressed main menu inline
 20.06.2024, 22:22:45: Shkoterman came with frsttime == 1
+21.06.2024, 00:18:45: None bot  hase been started
+21.06.2024, 00:26:24: None bot  hase been started
+21.06.2024, 00:27:02: None bot  hase been started
+21.06.2024, 00:28:10: None bot  hase been started
+21.06.2024, 00:28:25: None bot  hase been started
+21.06.2024, 00:31:58: TatianaSheremetova came with frsttime == 1
+21.06.2024, 00:32:05: TatianaSheremetova begun registration
+21.06.2024, 00:33:18: None bot  hase been started
+21.06.2024, 00:49:20: None bot  hase been started
+21.06.2024, 00:49:36: None bot  hase been started
+21.06.2024, 00:56:35: None bot  hase been started
+21.06.2024, 00:59:24: None bot  hase been started
+21.06.2024, 00:59:35: None bot  hase been started
+21.06.2024, 01:00:54: None bot  hase been started
+21.06.2024, 01:01:25: None bot  hase been started
+21.06.2024, 01:01:36: None bot  hase been started
+21.06.2024, 01:01:42: None bot  hase been started
+21.06.2024, 01:01:55: None bot  hase been started
+21.06.2024, 01:02:10: None bot  hase been started
+21.06.2024, 01:02:58: None bot  hase been started
+21.06.2024, 01:05:10: None bot  hase been started
+21.06.2024, 01:05:21: None bot  hase been started
+21.06.2024, 01:07:08: None bot  hase been started
+21.06.2024, 01:07:30: None bot  hase been started
+21.06.2024, 01:11:14: None bot  hase been started
+21.06.2024, 01:15:44: None bot  hase been started
+21.06.2024, 01:15:47: None bot  hase been started
+21.06.2024, 02:21:15: None bot  hase been started
+21.06.2024, 02:21:44: None bot  hase been started
+21.06.2024, 02:24:44: None bot  hase been started
+21.06.2024, 02:28:08: None bot  hase been started
+21.06.2024, 02:28:20: None bot  hase been started
+21.06.2024, 02:35:58: None bot  hase been started
+21.06.2024, 02:39:08: None bot  hase been started
+21.06.2024, 02:40:18: None bot  hase been started
+21.06.2024, 02:42:00: None bot  hase been started
+21.06.2024, 02:42:53: None bot  hase been started
+21.06.2024, 02:43:01: None bot  hase been started
+21.06.2024, 09:30:47: aleksandrabukaeva came with frsttime == 1
+21.06.2024, 09:30:50: aleksandrabukaeva begun registration
+21.06.2024, 09:40:41: disamniaa came with frsttime == 1
+21.06.2024, 09:41:02: disamniaa begun registration
+21.06.2024, 09:41:32: disamniaa tried to reg on 🎭 Ивонна молчит (7.07 19:30), 28 мест
+21.06.2024, 09:41:52: disamniaa send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 28 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@disamniaa', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+21.06.2024, 09:42:11: disamniaa  pressed main menu inline
+21.06.2024, 09:42:25: disamniaa pressed cancel event reg
+21.06.2024, 09:47:21: disamniaa  pressed main menu inline
+21.06.2024, 09:47:25: disamniaa checked registration
+21.06.2024, 09:47:30: disamniaa begun registration
+21.06.2024, 09:57:52: PollyFa begun registration
+21.06.2024, 09:58:02: PollyFa tried to reg on 🎭 Ивонна молчит (7.07 19:30), 27 мест
+21.06.2024, 09:58:18: PollyFa send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 27 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@pollyfa', 'user_name': 'Полина', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.06.2024, 10:01:52: syrnik_57 came with frsttime == 1
+21.06.2024, 10:02:09: syrnik_57 came with frsttime == 1
+21.06.2024, 10:06:58: disamniaa tried to reg on 🏳️‍🌈 Кинопоказ фильма «Кости раздора» (21.06 19:30), 41 мест
+21.06.2024, 10:07:14: disamniaa send for registration: {'event_name': '🏳️\u200d🌈 Кинопоказ фильма «Кости раздора» (21.06 19:30), 41 мест', 'event_id': 'recaXq6iibONcYoOZ', 'user_nick': '@disamniaa', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.06.2024, 10:07:26: disamniaa checked registration
+21.06.2024, 10:07:57: disamniaa begun registration
+21.06.2024, 10:08:51: disamniaa tried to reg on 🍻 Дегустация пива (22.06 18:00), 7 мест
+21.06.2024, 10:09:24: disamniaa send for registration: {'event_name': '🍻 Дегустация пива (22.06 18:00), 7 мест', 'event_id': 'rec4OnYSFuXmvYycO', 'user_nick': '@disamniaa', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.06.2024, 10:09:29: disamniaa begun registration
+21.06.2024, 10:10:16: disamniaa tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+21.06.2024, 10:10:18: disamniaa  pressed main menu inline
+21.06.2024, 10:10:48: disamniaa  pressed main menu inline
+21.06.2024, 10:21:49: disamniaa pressed cancel event reg
+21.06.2024, 10:23:53: ensalada_bot  pressed main menu inline
+21.06.2024, 10:24:01: disamniaa begun registration
+21.06.2024, 10:24:10: disamniaa tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+21.06.2024, 10:24:13: disamniaa  pressed main menu inline
+21.06.2024, 10:27:01: disamniaa came with frsttime == 1
+21.06.2024, 10:28:44: disamniaa  Написал нам: Привет! Хотелось бы уточнить про подписку: подписка дает доступ для регистрации на все ивенты или наличие подписки делает посещение бесплатным?
+И если подписка за 50 евро, можно посещать все мероприятия без доната? 
+Хотелось бы тут поподробнее
+21.06.2024, 10:30:37: disamniaa checked registration
+21.06.2024, 10:47:29: ivan_dashkevich  pressed main menu inline
+21.06.2024, 10:47:34: ivan_dashkevich begun registration
+21.06.2024, 10:47:43: ivan_dashkevich tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 18 мест
+21.06.2024, 10:48:00: ivan_dashkevich send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 18 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@ivan_dashkevich', 'user_name': 'Иван Дашкевич \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.06.2024, 11:01:20: timetoliveabeautifullife  pressed main menu inline
+21.06.2024, 11:53:00: mas_conlasmanosenlamasa begun registration
+21.06.2024, 11:53:12: mas_conlasmanosenlamasa tried to reg on 🎭 Ивонна молчит (7.07 19:30), 26 мест
+21.06.2024, 11:53:22: mas_conlasmanosenlamasa send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 26 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@mas_conlasmanosenlamasa', 'user_name': 'Мария Мельникова', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.06.2024, 11:59:36: julia_kovylina begun registration
+21.06.2024, 11:59:55: julia_kovylina  pressed main menu inline
+21.06.2024, 12:21:57: hyd_6ra came with frsttime == 1
+21.06.2024, 12:23:10: tsaocffo came with frsttime == 1
+21.06.2024, 12:27:56: Murlocotan came with frsttime == 1
+21.06.2024, 12:27:58: Murlocotan begun registration
+21.06.2024, 12:28:07: Murlocotan tried to reg on 🍷 Drop: Винное Казино (28.06 20:00), 10 мест
+21.06.2024, 12:28:12: Murlocotan send for registration: {'event_name': '🍷 Drop: Винное Казино (28.06 20:00), 10 мест', 'event_id': 'recN7pRQiPEOJYZKm', 'user_nick': '@murlocotan', 'user_name': 'Maksim', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.06.2024, 12:35:47: antsmirnov92 came with frsttime == 1
+21.06.2024, 12:36:26: ensalada_bot  pressed main menu inline
+21.06.2024, 12:36:30: antsmirnov92 begun registration
+21.06.2024, 12:36:50: antsmirnov92 tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 17 мест
+21.06.2024, 12:37:07: antsmirnov92 send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 17 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@antsmirnov92', 'user_name': 'Антон', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.06.2024, 12:42:50: lfeygin came with frsttime == 1
+21.06.2024, 12:42:53: lfeygin begun registration
+21.06.2024, 12:43:16: lfeygin tried to reg on 🏳️‍🌈 Кинопоказ фильма «Кости раздора» (21.06 19:30), 40 мест
+21.06.2024, 12:43:38: lfeygin pressed Cancel or got deny
+21.06.2024, 12:43:41: lfeygin begun registration
+21.06.2024, 12:52:46: murmushi pressed cancel event reg
+21.06.2024, 12:52:54: murmushi want to cancel 📗 Книжный клуб
+21.06.2024, 12:53:18: murmushi отменил 📗 Книжный клуб, по причине: Не уверена, что получится прийти
+21.06.2024, 13:08:22: Tommybarce came with frsttime == 1
+21.06.2024, 13:08:29: Tommybarce begun registration
+21.06.2024, 13:08:39: Tommybarce tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 15 мест
+21.06.2024, 13:09:16: Tommybarce send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 15 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@tommybarce', 'user_name': 'Тамара', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.06.2024, 13:10:31: Tommybarce begun registration
+21.06.2024, 13:18:26: chamaeleon_rex begun registration
+21.06.2024, 13:18:33: chamaeleon_rex tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 13 мест
+21.06.2024, 13:18:43: chamaeleon_rex send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 13 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@chamaeleon_rex', 'user_name': 'Максим', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.06.2024, 13:18:59: chamaeleon_rex checked registration
+21.06.2024, 13:34:52: ensalada_bot  pressed main menu inline
+21.06.2024, 13:34:56: TatianaSheremetova begun registration
+21.06.2024, 14:18:08: demdxx came with frsttime == 1
+21.06.2024, 14:18:24: demdxx begun registration
+21.06.2024, 14:19:35: demdxx tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 11 мест
+21.06.2024, 14:19:56: demdxx send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 11 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@demdxx', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+21.06.2024, 14:42:39: Alisaluppova came with frsttime == 1
+21.06.2024, 14:42:43: Alisaluppova begun registration
+21.06.2024, 14:42:56: Alisaluppova tried to reg on 👧 Энсалада Kids 5+: Семейный хайкинг (29.06 11:00), 10 мест
+21.06.2024, 14:43:15: Alisaluppova send for registration: {'event_name': '👧 Энсалада Kids 5+: Семейный хайкинг (29.06 11:00), 10 мест', 'event_id': 'recHVCgU8eErBixzn', 'user_nick': '@alisaluppova', 'user_name': 'Алиса', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+21.06.2024, 14:43:27: Alisaluppova checked registration
+21.06.2024, 15:12:09: runletsrun  pressed main menu inline
+21.06.2024, 15:12:13: runletsrun checked registration
+21.06.2024, 15:12:18: runletsrun begun registration
+21.06.2024, 15:12:22: runletsrun tried to reg on 🏳️‍🌈 Кинопоказ фильма «Кости раздора» (21.06 19:30), 40 мест
+21.06.2024, 15:17:16: runletsrun pressed Cancel or got deny
+21.06.2024, 15:30:22: pryanik_bro came with frsttime == 1
+21.06.2024, 15:30:25: pryanik_bro begun registration
+21.06.2024, 15:30:37: pryanik_bro tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 10 мест
+21.06.2024, 15:30:49: pryanik_bro send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 10 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@pryanik_bro', 'user_name': 'Артём', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.06.2024, 15:51:17: SanyaGalakt begun registration
+21.06.2024, 15:51:32: VladGal99 came with frsttime == 1
+21.06.2024, 15:51:43: ensalada_bot  pressed main menu inline
+21.06.2024, 15:51:49: VladGal99 begun registration
+21.06.2024, 15:51:59: VladGal99 tried to reg on 🎭 Ивонна молчит (7.07 19:30), 25 мест
+21.06.2024, 15:52:32: VladGal99 send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 25 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@vladgal99', 'user_name': 'Владимир Галактионов', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.06.2024, 16:05:12: volobushek  pressed main menu inline
+21.06.2024, 16:05:17: volobushek begun registration
+21.06.2024, 16:05:26: volobushek tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 8 мест
+21.06.2024, 16:05:45: volobushek send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 8 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@volobushek', 'user_name': 'Анастасия', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.06.2024, 16:23:52: klmvksn came with frsttime == 1
+21.06.2024, 16:23:56: klmvksn begun registration
+21.06.2024, 16:24:04: klmvksn tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 6 мест
+21.06.2024, 16:24:10: klmvksn send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 6 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@klmvksn', 'user_name': 'Оксана Климова', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+21.06.2024, 16:24:17: klmvksn checked registration
+21.06.2024, 16:38:23: ensalada_bot  pressed main menu inline
+21.06.2024, 16:38:27: TatianaSheremetova begun registration
+21.06.2024, 16:45:57: oleada_o begun registration
+21.06.2024, 16:46:28: oleada_o  pressed main menu inline
+21.06.2024, 16:58:59: avputkova begun registration
+21.06.2024, 17:00:29: avputkova tried to reg on 🍻 Дегустация пива (22.06 18:00), 7 мест
+21.06.2024, 17:00:43: avputkova send for registration: {'event_name': '🍻 Дегустация пива (22.06 18:00), 7 мест', 'event_id': 'rec4OnYSFuXmvYycO', 'user_nick': '@avputkova', 'user_name': 'Анастасия', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.06.2024, 17:35:37: err4o4 came with frsttime == 1
+21.06.2024, 17:35:42: err4o4 begun registration
+21.06.2024, 17:35:55: err4o4 tried to reg on 🍻 Дегустация пива (22.06 18:00), 7 мест
+21.06.2024, 17:36:28: err4o4 send for registration: {'event_name': '🍻 Дегустация пива (22.06 18:00), 7 мест', 'event_id': 'rec4OnYSFuXmvYycO', 'user_nick': '@err4o4', 'user_name': 'Иван', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+21.06.2024, 17:36:48: err4o4 begun registration
+21.06.2024, 17:41:56: julia_kovylina begun registration
+21.06.2024, 17:42:08: julia_kovylina  pressed main menu inline
+21.06.2024, 18:20:51: Alinochka_yu came with frsttime == 1
+21.06.2024, 18:20:57: Alinochka_yu begun registration
+21.06.2024, 18:21:05: Alinochka_yu tried to reg on 🏳️‍🌈 Кинопоказ фильма «Кости раздора» (21.06 19:30), 40 мест
+21.06.2024, 18:21:21: Alinochka_yu send for registration: {'event_name': '🏳️\u200d🌈 Кинопоказ фильма «Кости раздора» (21.06 19:30), 40 мест', 'event_id': 'recaXq6iibONcYoOZ', 'user_nick': '@alinochka_yu', 'user_name': 'Алина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.06.2024, 18:22:47: Alinochka_yu checked registration
+21.06.2024, 18:22:53: Alinochka_yu pressed cancel event reg
+21.06.2024, 18:22:55: Alinochka_yu  pressed main menu inline
+21.06.2024, 18:29:58: Alinochka_yu came with frsttime == 1
+21.06.2024, 18:30:00: Alinochka_yu begun registration
+21.06.2024, 20:16:26: nasladova came with frsttime == 1
+21.06.2024, 20:17:29: nasladova begun registration
+21.06.2024, 21:35:06: NArthurN begun registration
+21.06.2024, 21:35:20: NArthurN tried to reg on 🎭 Ивонна молчит (7.07 19:30), 23 мест
+21.06.2024, 21:35:31: NArthurN send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 23 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@narthurn', 'user_name': 'Артур Никитшин \U0001faf0', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.06.2024, 21:36:29: NArthurN checked registration
+21.06.2024, 22:40:56: iliasidorov90 came with frsttime == 1
+21.06.2024, 22:41:23: ensalada_bot  pressed main menu inline
+21.06.2024, 22:55:44: AlexM_Spain  pressed main menu inline
+21.06.2024, 22:55:48: AlexM_Spain begun registration
+21.06.2024, 22:55:53: AlexM_Spain tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 3 мест
+21.06.2024, 22:56:01: AlexM_Spain send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 3 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@alexm_spain', 'user_name': 'Alex', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+21.06.2024, 22:56:12: AlexM_Spain checked registration
+21.06.2024, 22:56:25: ensalada_bot  pressed main menu inline
+21.06.2024, 22:56:33: AlexM_Spain begun registration
+21.06.2024, 23:03:35: AlexM_Spain tried to reg on 🤓 Домашняя Конференция:  июнь (29.06 17:00), 37 мест
+21.06.2024, 23:03:39: AlexM_Spain  pressed main menu inline
+21.06.2024, 23:23:01: slava_ia_9 came with frsttime == 1
+21.06.2024, 23:23:06: slava_ia_9 begun registration
+21.06.2024, 23:23:12: slava_ia_9 tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 2 мест
+21.06.2024, 23:23:22: slava_ia_9 send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 2 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@slava_ia_9', 'user_name': 'Слава', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+21.06.2024, 23:26:19: slava_ia_9 checked registration
+21.06.2024, 23:26:58: kolbaska3479 begun registration
+21.06.2024, 23:27:22: kolbaska3479  pressed main menu inline
+21.06.2024, 23:27:24: kolbaska3479 нажал(а) рецепт
+22.06.2024, 00:45:08: rashmago came with frsttime == 1
+22.06.2024, 00:45:34: rashmago begun registration
+22.06.2024, 02:02:34: shesheranastya  pressed main menu inline
+22.06.2024, 02:02:38: shesheranastya begun registration
+22.06.2024, 02:02:41: shesheranastya tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+22.06.2024, 02:03:08: shesheranastya send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@shesheranastya', 'user_name': 'Шешера Настя', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+22.06.2024, 02:03:13: shesheranastya begun registration
+22.06.2024, 02:23:33: moi_asya came with frsttime == 1
+22.06.2024, 02:23:38: moi_asya begun registration
+22.06.2024, 02:23:54: moi_asya tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+22.06.2024, 02:24:01: moi_asya send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@moi_asya', 'user_name': 'Ася', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+22.06.2024, 08:33:37: aklima_bay came with frsttime == 1
+22.06.2024, 09:17:38: so_emix came with frsttime == 1
+22.06.2024, 09:17:41: so_emix begun registration
+22.06.2024, 09:18:23: so_emix  pressed main menu inline
+22.06.2024, 09:55:36: ensalada_bot tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+22.06.2024, 09:56:01: yuliyaslavuta send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@yuliyaslavuta', 'user_name': 'Юлия', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': True}
+22.06.2024, 10:02:06: alex_chernykh came with frsttime == 1
+22.06.2024, 10:04:29: AngelikaToraeva begun registration
+22.06.2024, 10:04:42: AngelikaToraeva tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+22.06.2024, 10:04:53: AngelikaToraeva send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@angelikatoraeva', 'user_name': 'Анжелика', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+22.06.2024, 10:20:32: tamila_savitskaya came with frsttime == 1
+22.06.2024, 10:20:38: tamila_savitskaya begun registration
+22.06.2024, 10:21:00: tamila_savitskaya tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+22.06.2024, 10:21:03: tamila_savitskaya  pressed main menu inline
+22.06.2024, 10:21:10: tamila_savitskaya begun registration
+22.06.2024, 10:21:17: tamila_savitskaya tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+22.06.2024, 10:33:46: winniebukh came with frsttime == 1
+22.06.2024, 10:33:52: winniebukh begun registration
+22.06.2024, 10:34:11: winniebukh tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+22.06.2024, 10:34:34: winniebukh send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@winniebukh', 'user_name': 'Наталья', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': True}
+22.06.2024, 10:47:43: tvrboslav begun registration
+22.06.2024, 10:47:55: tvrboslav tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+22.06.2024, 10:48:11: tvrboslav pressed Cancel or got deny
+22.06.2024, 11:23:44: Natchepa came with frsttime == 1
+22.06.2024, 11:23:49: Natchepa begun registration
+22.06.2024, 12:15:28: julia_kovylina begun registration
+22.06.2024, 12:15:40: julia_kovylina  pressed main menu inline
+22.06.2024, 12:24:41: vanok came with frsttime == 1
+22.06.2024, 12:24:48: vanok begun registration
+22.06.2024, 12:24:58: vanok tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 42 мест
+22.06.2024, 12:25:19: vanok send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 42 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@vanok', 'user_name': 'Ваня', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 12:27:14: yozmyozm came with frsttime == 1
+22.06.2024, 12:27:18: yozmyozm begun registration
+22.06.2024, 12:27:26: yozmyozm tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 40 мест
+22.06.2024, 12:28:15: yozmyozm send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 40 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@yozmyozm', 'user_name': 'Олеег', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 12:44:34: etozhemaximka came with frsttime == 1
+22.06.2024, 12:44:37: etozhemaximka begun registration
+22.06.2024, 12:44:54: etozhemaximka tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+22.06.2024, 12:44:58: etozhemaximka  pressed main menu inline
+22.06.2024, 12:45:04: etozhemaximka begun registration
+22.06.2024, 12:45:07: etozhemaximka tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 38 мест
+22.06.2024, 12:45:58: taeliez came with frsttime == 1
+22.06.2024, 13:10:03: LanaYoga came with frsttime == 1
+22.06.2024, 13:10:12: LanaYoga begun registration
+22.06.2024, 13:10:18: LanaYoga tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 38 мест
+22.06.2024, 13:10:59: ensalada_bot  pressed main menu inline
+22.06.2024, 13:11:06: LanaYoga checked registration
+22.06.2024, 13:11:10: LanaYoga begun registration
+22.06.2024, 13:11:13: LanaYoga tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 38 мест
+22.06.2024, 13:11:24: LanaYoga send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 38 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@lanayoga', 'user_name': 'Руслана', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 13:16:04: maria_par begun registration
+22.06.2024, 13:16:14: maria_par tried to reg on 🤓 Домашняя Конференция:  июнь (29.06 17:00), 37 мест
+22.06.2024, 14:01:23: AngelinaVody came with frsttime == 1
+22.06.2024, 14:01:33: AngelinaVody checked registration
+22.06.2024, 14:01:42: AngelinaVody begun registration
+22.06.2024, 14:02:10: AngelinaVody tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 36 мест
+22.06.2024, 14:02:44: AngelinaVody send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 36 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@angelinavody', 'user_name': 'Ангелина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+22.06.2024, 14:06:45: ensalada_bot  pressed main menu inline
+22.06.2024, 14:06:49: TatianaSheremetova begun registration
+22.06.2024, 14:53:37: XenonKryptonn came with frsttime == 1
+22.06.2024, 14:53:45: XenonKryptonn begun registration
+22.06.2024, 14:53:49: XenonKryptonn tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 35 мест
+22.06.2024, 14:53:56: XenonKryptonn send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 35 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@xenonkryptonn', 'user_name': 'Kseniia', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+22.06.2024, 15:01:34: alexbykoff came with frsttime == 1
+22.06.2024, 15:01:36: alexbykoff checked registration
+22.06.2024, 15:22:43: None  pressed main menu inline
+22.06.2024, 15:23:03: None  pressed main menu inline
+22.06.2024, 15:23:12: None  pressed main menu inline
+22.06.2024, 15:23:16: None  pressed main menu inline
+22.06.2024, 15:23:19: None  pressed main menu inline
+22.06.2024, 15:25:56: alex_chernykh begun registration
+22.06.2024, 15:26:39: alex_chernykh tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 33 мест
+22.06.2024, 15:28:02: alex_chernykh send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 33 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@alex_chernykh', 'user_name': 'Александр', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 15:32:20: None  pressed main menu inline
+22.06.2024, 15:37:22: mashenkache begun registration
+22.06.2024, 15:37:29: mashenkache tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 31 мест
+22.06.2024, 15:37:37: mashenkache send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 31 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@mashenkache', 'user_name': 'Мария', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+22.06.2024, 15:55:10: Wadwauk came with frsttime == 1
+22.06.2024, 15:55:18: Wadwauk begun registration
+22.06.2024, 15:55:39: Wadwauk tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 29 мест
+22.06.2024, 15:56:03: Wadwauk send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 29 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@wadwauk', 'user_name': 'Семен', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 16:24:30: a_p_m666 came with frsttime == 1
+22.06.2024, 16:24:38: a_p_m666 begun registration
+22.06.2024, 16:24:45: a_p_m666 tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 27 мест
+22.06.2024, 16:25:00: a_p_m666 send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 27 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@a_p_m666', 'user_name': 'Аня Перо', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+22.06.2024, 17:06:17: mashabelykh came with frsttime == 1
+22.06.2024, 17:06:21: mashabelykh begun registration
+22.06.2024, 17:06:55: mashabelykh tried to reg on 🚶 Прогулка по местам Гауди (25.06 13:00), 17 мест
+22.06.2024, 17:07:15: mashabelykh send for registration: {'event_name': '🚶 Прогулка по местам Гауди (25.06 13:00), 17 мест', 'event_id': 'recbQ33UjUemPwtna', 'user_nick': '@mashabelykh', 'user_name': 'Маша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.06.2024, 17:44:44: avputkova came with frsttime == 1
+22.06.2024, 18:02:04: InverseNova  pressed main menu inline
+22.06.2024, 18:13:25: AngelikaToraeva checked registration
+22.06.2024, 18:16:37: ASV_A came with frsttime == 1
+22.06.2024, 18:16:43: ASV_A begun registration
+22.06.2024, 18:16:50: ASV_A tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 26 мест
+22.06.2024, 18:17:02: ASV_A send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 26 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@asv_a', 'user_name': 'Саша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.06.2024, 18:23:04: tanyaux  pressed main menu inline
+22.06.2024, 20:00:48: rinad0x came with frsttime == 1
+22.06.2024, 20:00:54: rinad0x begun registration
+22.06.2024, 20:01:00: rinad0x tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 25 мест
+22.06.2024, 20:01:17: rinad0x send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 25 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@rinad0x', 'user_name': 'Полина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 20:01:47: rinad0x checked registration
+22.06.2024, 20:02:50: ensalada_bot  pressed main menu inline
+22.06.2024, 20:02:54: TatianaSheremetova begun registration
+22.06.2024, 20:08:36: AlexRye begun registration
+22.06.2024, 20:25:16: disamniaa checked registration
+22.06.2024, 20:25:22: disamniaa begun registration
+22.06.2024, 20:25:29: disamniaa tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 23 мест
+22.06.2024, 20:25:39: disamniaa send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 23 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@disamniaa', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.06.2024, 20:26:20: Frutorianochka  pressed main menu inline
+22.06.2024, 20:26:25: Frutorianochka begun registration
+22.06.2024, 20:26:31: Frutorianochka tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 22 мест
+22.06.2024, 20:26:49: Frutorianochka send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 22 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@frutorianochka', 'user_name': 'Саша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+22.06.2024, 20:29:48: mxtrr  pressed main menu inline
+22.06.2024, 20:46:23: LuGGanno came with frsttime == 1
+22.06.2024, 20:46:27: LuGGanno begun registration
+22.06.2024, 20:46:39: LuGGanno tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+22.06.2024, 20:46:42: LuGGanno  pressed main menu inline
+22.06.2024, 20:57:25: murmushi came with frsttime == 1
+22.06.2024, 20:58:50: ensalada_bot tried to reg on 📗 Книжный клуб (23.06 17:00), 10 мест
+22.06.2024, 20:59:01: murmushi send for registration: {'event_name': '📗 Книжный клуб (23.06 17:00), 10 мест', 'event_id': 'recIbzSXGU7t1M21V', 'user_nick': '@murmushi', 'user_name': 'Кристина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+22.06.2024, 21:33:47: vvolkovk came with frsttime == 1
+22.06.2024, 21:33:52: vvolkovk begun registration
+22.06.2024, 21:34:05: vvolkovk tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 21 мест
+22.06.2024, 21:34:20: vvolkovk send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 21 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@vvolkovk', 'user_name': 'Кристина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+22.06.2024, 22:08:13: alexbykoff pressed give feedback
+22.06.2024, 22:13:29: anastasiiamak came with frsttime == 1
+22.06.2024, 22:13:33: anastasiiamak begun registration
+22.06.2024, 22:13:40: anastasiiamak tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 20 мест
+22.06.2024, 22:14:17: ensalada_bot  pressed main menu inline
+22.06.2024, 22:14:19: anastasiiamak begun registration
+22.06.2024, 22:14:22: anastasiiamak tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 20 мест
+22.06.2024, 22:14:32: anastasiiamak send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 20 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@anastasiiamak', 'user_name': 'Анастасия', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 22:14:45: anastasiiamak begun registration
+22.06.2024, 22:14:50: anastasiiamak tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 18 мест
+22.06.2024, 22:15:28: cccii302 came with frsttime == 1
+22.06.2024, 22:15:40: cccii302 begun registration
+22.06.2024, 22:15:43: cccii302 tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 18 мест
+22.06.2024, 22:15:48: daria_groshik came with frsttime == 1
+22.06.2024, 22:15:53: daria_groshik begun registration
+22.06.2024, 22:16:04: cccii302 send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 18 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@cccii302', 'user_name': 'Vladislav', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 22:16:43: malashnorm came with frsttime == 1
+22.06.2024, 22:16:51: malashnorm begun registration
+22.06.2024, 22:16:57: LenaChistova came with frsttime == 1
+22.06.2024, 22:17:01: malashnorm tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 15 мест
+22.06.2024, 22:17:09: LenaChistova begun registration
+22.06.2024, 22:17:14: daria_groshik tried to reg on 👧 Энсалада Kids 7+: Секретики Эшампле (23.06 17:00), 20 мест
+22.06.2024, 22:17:17: LenaChistova tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 15 мест
+22.06.2024, 22:17:19: malashnorm send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 15 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@malashnorm', 'user_name': 'Сергей', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 22:17:21: daria_groshik send for registration: {'event_name': '👧 Энсалада Kids 7+: Секретики Эшампле (23.06 17:00), 20 мест', 'event_id': 'recbTKqJrjil6N1jv', 'user_nick': '@daria_groshik', 'user_name': 'Дарья', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+22.06.2024, 22:17:37: LenaChistova send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 15 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@lenachistova', 'user_name': 'Elena', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 22:18:14: ensalada_bot  pressed main menu inline
+22.06.2024, 22:18:18: nikita_natochin came with frsttime == 1
+22.06.2024, 22:18:24: nikita_natochin begun registration
+22.06.2024, 22:18:25: anastasiiamak begun registration
+22.06.2024, 22:18:29: nikita_natochin tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 11 мест
+22.06.2024, 22:19:21: nikita_natochin send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 11 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@nikita_natochin', 'user_name': 'Nikita', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+22.06.2024, 22:57:38: lara_dee came with frsttime == 1
+22.06.2024, 22:57:45: lara_dee begun registration
+22.06.2024, 22:57:54: lara_dee tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 9 мест
+22.06.2024, 22:58:11: lara_dee send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 9 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@lara_dee', 'user_name': 'Искандер', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+23.06.2024, 00:12:25: Flabay came with frsttime == 1
+23.06.2024, 01:19:51: TanyaKulagina checked registration
+23.06.2024, 01:30:22: lebedev_andrew came with frsttime == 1
+23.06.2024, 01:30:44: lebedev_andrew begun registration
+23.06.2024, 01:31:01: lebedev_andrew tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 7 мест
+23.06.2024, 01:31:24: lebedev_andrew send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 7 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@lebedev_andrew', 'user_name': 'Андрей', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+23.06.2024, 01:31:41: eon_l came with frsttime == 1
+23.06.2024, 01:32:09: eon_l begun registration
+23.06.2024, 01:33:49: ensalada_bot  pressed main menu inline
+23.06.2024, 01:33:51: eon_l begun registration
+23.06.2024, 01:33:53: eon_l tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 5 мест
+23.06.2024, 01:34:06: eon_l send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 5 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@eon_l', 'user_name': 'Ruslan', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+23.06.2024, 09:34:24: Afterdarky came with frsttime == 1
+23.06.2024, 09:34:30: Afterdarky begun registration
+23.06.2024, 09:34:40: Afterdarky tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 3 мест
+23.06.2024, 09:35:47: ensalada_bot  pressed main menu inline
+23.06.2024, 09:35:50: Afterdarky begun registration
+23.06.2024, 09:35:54: Afterdarky tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 3 мест
+23.06.2024, 09:36:18: Afterdarky send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 3 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@afterdarky', 'user_name': 'Vitaly', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+23.06.2024, 09:36:43: Afterdarky begun registration
+23.06.2024, 09:36:47: Afterdarky tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 1 мест
+23.06.2024, 09:36:56: Afterdarky send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 1 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@afterdarky', 'user_name': 'Vitaly', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+23.06.2024, 09:37:02: Afterdarky begun registration
+23.06.2024, 09:43:30: Afterdarky tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+23.06.2024, 09:43:39: Afterdarky send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@afterdarky', 'user_name': 'Vitaly', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+23.06.2024, 09:43:55: Afterdarky came with frsttime == 1
+23.06.2024, 09:43:57: Afterdarky checked registration
+23.06.2024, 09:44:28: Afterdarky begun registration
+23.06.2024, 09:44:31: Afterdarky tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+23.06.2024, 09:44:37: Afterdarky send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@afterdarky', 'user_name': 'Vitaly', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+23.06.2024, 09:44:40: Afterdarky checked registration
+23.06.2024, 09:53:17: AlexM_Spain checked registration
+23.06.2024, 09:53:23: AlexM_Spain begun registration
+23.06.2024, 09:55:28: AlexM_Spain tried to reg on 📗 Книжный клуб (23.06 17:00), 9 мест
+23.06.2024, 09:55:33: AlexM_Spain pressed Cancel or got deny
+23.06.2024, 11:08:53: IrchaZol came with frsttime == 1
+23.06.2024, 11:08:59: IrchaZol begun registration
+23.06.2024, 11:09:44: IrchaZol tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 45 мест
+23.06.2024, 11:10:05: IrchaZol send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 45 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@irchazol', 'user_name': 'Ирина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+23.06.2024, 11:15:52: dereganova begun registration
+23.06.2024, 11:15:56: dereganova tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 49 мест
+23.06.2024, 11:16:53: dereganova send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 49 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@dereganova', 'user_name': 'Надя Дереганова', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+23.06.2024, 11:27:39: Anandia1  pressed main menu inline
+23.06.2024, 11:27:43: Anandia1 checked registration
+23.06.2024, 11:32:05: rtatitata came with frsttime == 1
+23.06.2024, 11:32:11: rtatitata begun registration
+23.06.2024, 11:32:22: rtatitata tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 47 мест
+23.06.2024, 11:33:08: ensalada_bot  pressed main menu inline
+23.06.2024, 11:33:10: rtatitata begun registration
+23.06.2024, 11:33:14: rtatitata tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 47 мест
+23.06.2024, 11:33:26: rtatitata send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 47 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@rtatitata', 'user_name': 'Андрей', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+23.06.2024, 11:44:28: xr_designer begun registration
+23.06.2024, 11:45:07: xr_designer tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 45 мест
+23.06.2024, 11:45:19: xr_designer send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 45 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@xr_designer', 'user_name': 'Артем', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+23.06.2024, 11:45:35: xr_designer checked registration
+23.06.2024, 12:23:31: DIzvolskiy begun registration
+23.06.2024, 12:23:37: DIzvolskiy tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 44 мест
+23.06.2024, 12:23:50: DIzvolskiy send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 44 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@dizvolskiy', 'user_name': 'Денис', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+23.06.2024, 12:42:59: vera_tereshina came with frsttime == 1
+23.06.2024, 12:43:05: vera_tereshina begun registration
+23.06.2024, 12:43:13: vera_tereshina tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 42 мест
+23.06.2024, 12:43:27: vera_tereshina send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 42 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@vera_tereshina', 'user_name': 'Вера', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+23.06.2024, 12:43:40: vera_tereshina begun registration
+23.06.2024, 12:43:53: ensalada_bot  pressed main menu inline
+23.06.2024, 12:43:56: vera_tereshina pressed cancel event reg
+23.06.2024, 12:43:57: vera_tereshina  pressed main menu inline
+23.06.2024, 13:07:34: tagubskikh came with frsttime == 1
+23.06.2024, 13:07:44: tagubskikh begun registration
+23.06.2024, 13:07:58: tagubskikh tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 41 мест
+23.06.2024, 13:08:45: tagubskikh send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 41 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@tagubskikh', 'user_name': 'Тамара', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+23.06.2024, 13:15:16: chamaeleon_rex checked registration
+23.06.2024, 13:15:21: chamaeleon_rex pressed cancel event reg
+23.06.2024, 13:15:22: chamaeleon_rex  pressed main menu inline
+23.06.2024, 13:17:19: nikalak begun registration
+23.06.2024, 13:17:31: nikalak tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 40 мест
+23.06.2024, 13:33:47: tagubskikh pressed give feedback
+23.06.2024, 13:34:12: ensalada_bot  pressed main menu inline
+23.06.2024, 14:19:06: Afterdarky checked registration
+23.06.2024, 14:19:41: PollyFa begun registration
+23.06.2024, 14:19:44: PollyFa tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 40 мест
+23.06.2024, 14:19:50: Afterdarky  Написал нам: Привет. А где именно на пляже Богатель? Скинете локацию?
+23.06.2024, 14:19:52: PollyFa send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 40 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@pollyfa', 'user_name': 'Полина', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+23.06.2024, 15:01:57: Iana_82 begun registration
+23.06.2024, 15:02:11: Iana_82 tried to reg on 👧 Энсалада Kids 5+: Семейный хайкинг (29.06 11:00), 9 мест
+23.06.2024, 15:02:30: Iana_82 send for registration: {'event_name': '👧 Энсалада Kids 5+: Семейный хайкинг (29.06 11:00), 9 мест', 'event_id': 'recHVCgU8eErBixzn', 'user_nick': '@iana_82', 'user_name': 'Яна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+23.06.2024, 15:03:00: ensalada_bot  pressed main menu inline
+23.06.2024, 15:03:02: Iana_82 begun registration
+23.06.2024, 15:03:04: Iana_82 tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 39 мест
+23.06.2024, 15:04:33: adelina_mars came with frsttime == 1
+23.06.2024, 15:04:39: adelina_mars begun registration
+23.06.2024, 15:06:54: anastasiya_lukianova came with frsttime == 1
+23.06.2024, 15:06:57: anastasiya_lukianova begun registration
+23.06.2024, 15:07:06: anastasiya_lukianova tried to reg on 🍷 Drop: Винное Казино (28.06 20:00), 8 мест
+23.06.2024, 15:14:54: savinanana begun registration
+23.06.2024, 15:19:02: SofyaGal came with frsttime == 1
+23.06.2024, 15:19:05: SofyaGal begun registration
+23.06.2024, 15:19:16: SofyaGal tried to reg on 🎭 Ивонна молчит (7.07 19:30), 22 мест
+23.06.2024, 15:19:22: SofyaGal send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 22 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@sofyagal', 'user_name': 'Софья Галактионова (дочка Насти)', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+23.06.2024, 15:30:50: anastasiya_lukianova send for registration: {'event_name': '🍷 Drop: Винное Казино (28.06 20:00), 8 мест', 'event_id': 'recN7pRQiPEOJYZKm', 'user_nick': '@anastasiya_lukianova', 'user_name': 'Настя', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+23.06.2024, 15:49:34: nastasya_krysko came with frsttime == 1
+23.06.2024, 15:49:43: nastasya_krysko begun registration
+23.06.2024, 15:53:07: None came with frsttime == 1
+23.06.2024, 15:53:21: None begun registration
+23.06.2024, 15:53:22: None  pressed main menu inline
+23.06.2024, 16:03:50: ensalada_bot  pressed main menu inline
+23.06.2024, 16:03:53: TatianaSheremetova begun registration
+23.06.2024, 16:10:28: savinanana tried to reg on 🍷 Drop: Винное Казино (28.06 20:00), 8 мест
+23.06.2024, 16:10:38: savinanana send for registration: {'event_name': '🍷 Drop: Винное Казино (28.06 20:00), 8 мест', 'event_id': 'recN7pRQiPEOJYZKm', 'user_nick': '@savinanana', 'user_name': 'Надя', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+23.06.2024, 16:32:05: liyakurashova  pressed main menu inline
+23.06.2024, 16:32:40: liyakurashova came with frsttime == 1
+23.06.2024, 16:32:45: liyakurashova begun registration
+23.06.2024, 16:32:53: liyakurashova tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 38 мест
+23.06.2024, 16:36:02: tory_toryy came with frsttime == 1
+23.06.2024, 16:36:08: tory_toryy begun registration
+23.06.2024, 16:36:14: tory_toryy tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 38 мест
+23.06.2024, 16:36:30: tory_toryy send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 38 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@tory_toryy', 'user_name': 'Вика', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+23.06.2024, 17:33:18: d_lavelle  pressed main menu inline
+23.06.2024, 17:33:50: ensalada_bot  pressed main menu inline
+23.06.2024, 17:34:31: ensalada_bot tried to reg on 🍷 Drop: Винное Казино (28.06 20:00), 5 мест
+23.06.2024, 18:07:11: Svetnezvuk came with frsttime == 1
+23.06.2024, 18:07:24: Svetnezvuk begun registration
+23.06.2024, 18:08:51: SofyaGal came with frsttime == 1
+23.06.2024, 18:08:53: SofyaGal begun registration
+23.06.2024, 18:09:21: Svetnezvuk tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 46 мест
+23.06.2024, 18:09:25: Svetnezvuk  pressed main menu inline
+23.06.2024, 18:37:06: nikitabatyuk came with frsttime == 1
+23.06.2024, 18:37:09: nikitabatyuk begun registration
+23.06.2024, 18:37:14: nikitabatyuk tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 37 мест
+23.06.2024, 18:37:30: nikitabatyuk  pressed main menu inline
+23.06.2024, 18:37:31: nikitabatyuk  pressed main menu inline
+23.06.2024, 18:37:31: nikitabatyuk  pressed main menu inline
+23.06.2024, 18:37:52: nikitabatyuk  pressed main menu inline
+23.06.2024, 18:44:35: ensalada_bot  pressed main menu inline
+23.06.2024, 18:44:39: TatianaSheremetova begun registration
+23.06.2024, 18:50:21: liudmylk came with frsttime == 1
+23.06.2024, 18:53:01: rashmago tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист
+23.06.2024, 18:53:29: rashmago send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), в вэйтлист', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@rashmago', 'user_name': 'Магомед', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': True}
+23.06.2024, 19:00:49: liudmylk came with frsttime == 1
+23.06.2024, 19:01:12: liudmylk came with frsttime == 1
+23.06.2024, 19:02:52: Alen_monte came with frsttime == 1
+23.06.2024, 19:03:02: Alen_monte begun registration
+23.06.2024, 19:03:14: Alen_monte tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 35 мест
+23.06.2024, 19:03:36: Alen_monte send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 35 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@alen_monte', 'user_name': 'Алёна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+23.06.2024, 19:03:44: ensalada_bot  pressed main menu inline
+23.06.2024, 19:59:37: DashaLuchick came with frsttime == 1
+23.06.2024, 19:59:46: DashaLuchick begun registration
+23.06.2024, 19:59:52: DashaLuchick tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 33 мест
+23.06.2024, 20:00:14: DashaLuchick send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 33 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@dashaluchick', 'user_name': 'Дарья', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+23.06.2024, 20:08:46: larskaya came with frsttime == 1
+23.06.2024, 20:08:51: larskaya pressed cancel event reg
+23.06.2024, 20:08:52: larskaya  pressed main menu inline
+23.06.2024, 20:09:06: larskaya checked registration
+23.06.2024, 20:09:41: annavolkova_bcn begun registration
+23.06.2024, 20:09:47: annavolkova_bcn tried to reg on 🍷 Drop: Винное Казино (28.06 20:00), 5 мест
+23.06.2024, 20:09:55: annavolkova_bcn send for registration: {'event_name': '🍷 Drop: Винное Казино (28.06 20:00), 5 мест', 'event_id': 'recN7pRQiPEOJYZKm', 'user_nick': '@annavolkova_bcn', 'user_name': 'Анна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+23.06.2024, 20:10:13: annavolkova_bcn  pressed main menu inline
+23.06.2024, 20:10:14: SVadim1977 came with frsttime == 1
+23.06.2024, 20:10:19: SVadim1977 begun registration
+23.06.2024, 20:33:49: DashaLuchick checked registration
+23.06.2024, 20:33:55: DashaLuchick pressed cancel event reg
+23.06.2024, 20:33:56: DashaLuchick  pressed main menu inline
+23.06.2024, 20:45:55: murmushi begun registration
+23.06.2024, 20:46:03: murmushi tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 31 мест
+23.06.2024, 20:46:12: murmushi send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 31 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@murmushi', 'user_name': 'Кристина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+23.06.2024, 21:55:59: Sassshhha came with frsttime == 1
+23.06.2024, 22:14:47: evkkkaaaaaa came with frsttime == 1
+23.06.2024, 22:14:55: evkkkaaaaaa begun registration
+23.06.2024, 22:15:01: evkkkaaaaaa tried to reg on 🔥 Сан Хуан 🔥 (23.06 21:00), 29 мест
+23.06.2024, 22:15:18: evkkkaaaaaa send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 29 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@evkkkaaaaaa', 'user_name': 'Ева', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+23.06.2024, 23:45:19: ensalada_bot  pressed main menu inline
+23.06.2024, 23:45:22: TatianaSheremetova begun registration
+24.06.2024, 03:09:41: rilfayne  pressed main menu inline
+24.06.2024, 03:09:41: rilfayne came with frsttime == 1
+24.06.2024, 04:03:03: yuziklobetski came with frsttime == 1
+24.06.2024, 11:26:54: LuGGanno came with frsttime == 1
+24.06.2024, 11:26:57: LuGGanno begun registration
+24.06.2024, 11:27:01: LuGGanno tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 11:27:04: LuGGanno  pressed main menu inline
+24.06.2024, 11:27:08: LuGGanno came with frsttime == 1
+24.06.2024, 12:13:16: YakovlevEugen  pressed main menu inline
+24.06.2024, 12:13:18: YakovlevEugen begun registration
+24.06.2024, 12:13:35: YakovlevEugen tried to reg on 🍷 Drop: Оранжи (28.06 20:00), 6 мест
+24.06.2024, 12:13:44: YakovlevEugen send for registration: {'event_name': '🍷 Drop: Оранжи (28.06 20:00), 6 мест', 'event_id': 'recN7pRQiPEOJYZKm', 'user_nick': '@yakovleveugen', 'user_name': 'Юджин', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+24.06.2024, 12:13:48: YakovlevEugen checked registration
+24.06.2024, 12:13:56: YakovlevEugen begun registration
+24.06.2024, 12:14:02: YakovlevEugen tried to reg on 🚶 Прогулка по местам Гауди (25.06 13:00), 16 мест
+24.06.2024, 12:14:09: YakovlevEugen pressed Cancel or got deny
+24.06.2024, 12:14:11: YakovlevEugen begun registration
+24.06.2024, 12:14:19: YakovlevEugen  pressed main menu inline
+24.06.2024, 13:13:32: ensalada_bot  pressed main menu inline
+24.06.2024, 13:13:36: TatianaSheremetova begun registration
+24.06.2024, 13:52:50: komisar_anastasiia came with frsttime == 1
+24.06.2024, 14:16:13: valeriakos came with frsttime == 1
+24.06.2024, 14:18:45: nataly_ale  pressed main menu inline
+24.06.2024, 14:18:50: nataly_ale begun registration
+24.06.2024, 14:19:27: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 14:19:30: nataly_ale  pressed main menu inline
+24.06.2024, 14:20:36: nataly_ale begun registration
+24.06.2024, 14:20:40: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 14:20:43: nataly_ale  pressed main menu inline
+24.06.2024, 14:22:02: nataly_ale begun registration
+24.06.2024, 14:22:11: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 14:22:13: nataly_ale  pressed main menu inline
+24.06.2024, 14:23:06: nataly_ale begun registration
+24.06.2024, 14:26:20: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 14:26:23: nataly_ale  pressed main menu inline
+24.06.2024, 14:30:54: Daniele_TGnew  pressed main menu inline
+24.06.2024, 14:31:50: Daniele_TGnew begun registration
+24.06.2024, 14:32:05: Daniele_TGnew  pressed main menu inline
+24.06.2024, 14:34:47: Daniele_TGnew came with frsttime == 1
+24.06.2024, 14:36:41: Daniele_TGnew came with frsttime == 1
+24.06.2024, 14:43:06: So1close begun registration
+24.06.2024, 14:43:40: So1close tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 14:43:43: So1close  pressed main menu inline
+24.06.2024, 14:54:03: nataly_ale begun registration
+24.06.2024, 14:54:06: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 14:54:09: nataly_ale  pressed main menu inline
+24.06.2024, 15:32:15: nataly_ale begun registration
+24.06.2024, 15:32:17: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 15:32:21: nataly_ale  pressed main menu inline
+24.06.2024, 15:40:28: Titania579 begun registration
+24.06.2024, 15:40:32: Titania579 tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 15:40:36: Titania579  pressed main menu inline
+24.06.2024, 16:25:10: nataly_ale begun registration
+24.06.2024, 16:25:13: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 16:25:16: nataly_ale  pressed main menu inline
+24.06.2024, 16:34:44: ensalada_bot  pressed main menu inline
+24.06.2024, 16:34:48: TatianaSheremetova begun registration
+24.06.2024, 16:50:42: nataly_ale begun registration
+24.06.2024, 16:50:46: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 16:50:49: nataly_ale  pressed main menu inline
+24.06.2024, 17:02:23: Svetnezvuk came with frsttime == 1
+24.06.2024, 17:02:27: Svetnezvuk begun registration
+24.06.2024, 17:03:25: Svetnezvuk tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 46 мест
+24.06.2024, 17:03:28: Svetnezvuk  pressed main menu inline
+24.06.2024, 17:08:10: Svetnezvuk came with frsttime == 1
+24.06.2024, 17:08:13: Svetnezvuk begun registration
+24.06.2024, 17:08:20: Svetnezvuk tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 46 мест
+24.06.2024, 17:08:23: Svetnezvuk  pressed main menu inline
+24.06.2024, 17:46:47: nataly_ale begun registration
+24.06.2024, 17:46:50: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 17:46:53: nataly_ale  pressed main menu inline
+24.06.2024, 18:05:22: tummavesi came with frsttime == 1
+24.06.2024, 18:05:35: tummavesi begun registration
+24.06.2024, 18:05:45: tummavesi tried to reg on 🎭 Ивонна молчит (7.07 19:30), 21 мест
+24.06.2024, 18:05:57: tummavesi send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 21 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@tummavesi', 'user_name': 'Саша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+24.06.2024, 18:17:20: shesherinho begun registration
+24.06.2024, 18:18:04: shesherinho tried to reg on 🎭 Ивонна молчит (7.07 19:30), 19 мест
+24.06.2024, 18:19:32: shesherinho send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 19 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@shesherinho', 'user_name': 'Павел', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+24.06.2024, 18:23:21: fireFly_451 came with frsttime == 1
+24.06.2024, 18:23:26: fireFly_451 begun registration
+24.06.2024, 18:23:34: fireFly_451 tried to reg on 🚶 Прогулка по местам Гауди (25.06 13:00), 16 мест
+24.06.2024, 18:23:46: fireFly_451 send for registration: {'event_name': '🚶 Прогулка по местам Гауди (25.06 13:00), 16 мест', 'event_id': 'recbQ33UjUemPwtna', 'user_nick': '@firefly_451', 'user_name': 'Алла', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+24.06.2024, 19:00:09: Jko9944 came with frsttime == 1
+24.06.2024, 19:00:17: Jko9944 begun registration
+24.06.2024, 19:00:47: Jko9944 tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 19:00:51: Jko9944  pressed main menu inline
+24.06.2024, 20:10:52: ensalada_bot  pressed main menu inline
+24.06.2024, 20:10:55: lfeygin begun registration
+24.06.2024, 20:11:38: lfeygin tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 46 мест
+24.06.2024, 20:11:43: lfeygin pressed Cancel or got deny
+24.06.2024, 20:12:45: lfeygin begun registration
+24.06.2024, 20:14:03: lfeygin tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 46 мест
+24.06.2024, 20:14:09: lfeygin pressed Cancel or got deny
+24.06.2024, 20:14:12: lfeygin begun registration
+24.06.2024, 20:32:51: nataly_ale begun registration
+24.06.2024, 20:35:35: anneta_mj came with frsttime == 1
+24.06.2024, 20:37:16: ensalada_bot  pressed main menu inline
+24.06.2024, 20:37:29: ensalada_bot  pressed main menu inline
+24.06.2024, 20:38:01: ensalada_bot  pressed main menu inline
+24.06.2024, 20:39:10: ensalada_bot  pressed main menu inline
+24.06.2024, 20:40:26: ensalada_bot  pressed main menu inline
+24.06.2024, 20:40:50: ensalada_bot  pressed main menu inline
+24.06.2024, 20:41:16: anneta_mj came with frsttime == 1
+24.06.2024, 20:41:25: anneta_mj нажал(а) рецепт
+24.06.2024, 20:41:28: anneta_mj pressed Cancel or got deny
+24.06.2024, 20:54:16: howmanymeercats  pressed main menu inline
+24.06.2024, 20:54:18: howmanymeercats begun registration
+24.06.2024, 21:45:36: Iana_82 send for registration: {'event_name': '🔥 Сан Хуан 🔥 (23.06 21:00), 39 мест', 'event_id': 'rec5VcD5HvIipakTI', 'user_nick': '@iana_82', 'user_name': 'Яна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+24.06.2024, 22:15:45: nataly_ale tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+24.06.2024, 22:15:49: nataly_ale  pressed main menu inline
+24.06.2024, 22:19:04: d_bluckd_b came with frsttime == 1
+24.06.2024, 22:19:16: d_bluckd_b begun registration
+24.06.2024, 22:19:18: elizarpif begun registration
+24.06.2024, 22:19:24: elizarpif tried to reg on 🤓 Домашняя Конференция:  июнь (29.06 17:00), 37 мест
+24.06.2024, 22:19:32: d_bluckd_b tried to reg on 🚶 Прогулка по местам Гауди (25.06 13:00), 15 мест
+24.06.2024, 22:19:37: elizarpif pressed Cancel or got deny
+24.06.2024, 22:19:39: elizarpif begun registration
+24.06.2024, 22:19:50: d_bluckd_b send for registration: {'event_name': '🚶 Прогулка по местам Гауди (25.06 13:00), 15 мест', 'event_id': 'recbQ33UjUemPwtna', 'user_nick': '@d_bluckd_b', 'user_name': 'Милана', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+24.06.2024, 22:20:30: elizarpif tried to reg on 🤓 Домашняя Конференция:  июнь (29.06 17:00), 37 мест
+24.06.2024, 22:20:35: elizarpif pressed Cancel or got deny
+24.06.2024, 22:25:41: d_lavelle pressed Cancel or got deny
+24.06.2024, 22:26:46: d_lavelle came with frsttime == 1
+24.06.2024, 22:26:54: igor_baltiyskiy begun registration
+24.06.2024, 22:27:08: igor_baltiyskiy tried to reg on 👧 Энсалада Kids 5+: Семейный хайкинг (29.06 11:00), 8 мест
+24.06.2024, 22:27:20: igor_baltiyskiy send for registration: {'event_name': '👧 Энсалада Kids 5+: Семейный хайкинг (29.06 11:00), 8 мест', 'event_id': 'recHVCgU8eErBixzn', 'user_nick': '@igor_baltiyskiy', 'user_name': 'Игорь', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+24.06.2024, 22:27:54: igor_baltiyskiy нажал(а) рецепт
+24.06.2024, 22:28:04: ensalada_bot tried to reg on 🍷 Drop: Оранжи (28.06 20:00), 5 мест
+24.06.2024, 22:29:22: igor_baltiyskiy pressed Cancel or got deny
+24.06.2024, 22:30:47: d_lavelle send for registration: {'event_name': '🍷 Drop: Оранжи (28.06 20:00), 5 мест', 'event_id': 'recN7pRQiPEOJYZKm', 'user_nick': '@d_lavelle', 'user_name': 'Дарья', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+24.06.2024, 22:31:42: igor_baltiyskiy came with frsttime == 1
+24.06.2024, 22:31:46: igor_baltiyskiy checked registration
+24.06.2024, 22:57:23: b_karina7 begun registration
+24.06.2024, 22:58:07: b_karina7 tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 46 мест
+24.06.2024, 22:58:24: b_karina7 send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 46 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@b_karina7', 'user_name': 'Карина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+24.06.2024, 23:20:02: Svetnezvuk came with frsttime == 1
+24.06.2024, 23:20:05: Svetnezvuk begun registration
+24.06.2024, 23:20:13: Svetnezvuk tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 45 мест
+24.06.2024, 23:20:23: Svetnezvuk send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 45 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@svetnezvuk', 'user_name': 'Настя Модестова 🧧 (Хор)', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+25.06.2024, 00:12:33: d_bluckd_b checked registration
+25.06.2024, 00:12:33: d_bluckd_b checked registration
+25.06.2024, 01:43:02: julia_kovylina begun registration
+25.06.2024, 01:43:13: julia_kovylina  pressed main menu inline
+25.06.2024, 01:49:27: timetoliveabeautifullife checked registration
+25.06.2024, 01:49:32: timetoliveabeautifullife begun registration
+25.06.2024, 01:49:45: timetoliveabeautifullife tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 43 мест
+25.06.2024, 01:50:11: timetoliveabeautifullife send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 43 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@timetoliveabeautifullife', 'user_name': 'Alena', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+25.06.2024, 01:50:27: timetoliveabeautifullife begun registration
+25.06.2024, 01:50:33: timetoliveabeautifullife tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 41 мест
+25.06.2024, 01:50:46: timetoliveabeautifullife send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 41 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@timetoliveabeautifullife', 'user_name': 'Alena', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.06.2024, 07:49:19: kapchoniy begun registration
+25.06.2024, 07:49:30: kapchoniy tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 40 мест
+25.06.2024, 07:49:38: kapchoniy send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 40 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@kapchoniy', 'user_name': 'Алексей', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.06.2024, 07:52:37: howmanymeercats  pressed main menu inline
+25.06.2024, 07:52:39: howmanymeercats begun registration
+25.06.2024, 08:57:34: luda_nikol came with frsttime == 1
+25.06.2024, 08:58:24: ensalada_bot  pressed main menu inline
+25.06.2024, 08:59:01: luda_nikol came with frsttime == 1
+25.06.2024, 08:59:40: ensalada_bot  pressed main menu inline
+25.06.2024, 09:00:01: luda_nikol came with frsttime == 1
+25.06.2024, 09:00:33: ensalada_bot  pressed main menu inline
+25.06.2024, 09:00:59: luda_nikol came with frsttime == 1
+25.06.2024, 09:46:11: Jko9944 came with frsttime == 1
+25.06.2024, 09:46:14: Jko9944 begun registration
+25.06.2024, 09:46:18: Jko9944 tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест
+25.06.2024, 09:46:37: Jko9944 send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 10 мест', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@jko9944', 'user_name': 'Юля', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+25.06.2024, 09:52:21: julia_kovylina begun registration
+25.06.2024, 09:52:32: julia_kovylina  pressed main menu inline
+25.06.2024, 10:35:23: LuGGanno came with frsttime == 1
+25.06.2024, 10:35:27: LuGGanno begun registration
+25.06.2024, 10:35:31: LuGGanno tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 7 мест
+25.06.2024, 10:36:05: LuGGanno pressed Cancel or got deny
+25.06.2024, 11:52:22: victoribarbieri came with frsttime == 1
+25.06.2024, 11:53:08: nataly_ale begun registration
+25.06.2024, 12:00:42: ensalada_bot  pressed main menu inline
+25.06.2024, 12:00:53: aleksandrabukaeva pressed cancel event reg
+25.06.2024, 12:00:59: aleksandrabukaeva  pressed main menu inline
+25.06.2024, 12:01:00: aleksandrabukaeva checked registration
+25.06.2024, 12:14:26: ensalada_bot  pressed main menu inline
+25.06.2024, 12:14:29: TatianaSheremetova begun registration
+25.06.2024, 12:49:37: ensalada_bot  pressed main menu inline
+25.06.2024, 12:49:39: Natchepa begun registration
+25.06.2024, 13:15:17: jln_grkhv came with frsttime == 1
+25.06.2024, 13:54:18: julia_kovylina begun registration
+25.06.2024, 13:54:26: julia_kovylina  pressed main menu inline
+25.06.2024, 14:06:08: marketov checked registration
+25.06.2024, 14:06:15: marketov begun registration
+25.06.2024, 14:06:20: marketov tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 7 мест
+25.06.2024, 14:06:37: marketov send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 7 мест', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@marketov', 'user_name': 'Леша', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.06.2024, 14:06:50: marketov  pressed main menu inline
+25.06.2024, 15:48:09: elizarpif begun registration
+25.06.2024, 17:13:00: Mosbko begun registration
+25.06.2024, 17:13:05: Mosbko tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 39 мест
+25.06.2024, 17:13:12: Mosbko send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 39 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@mosbko', 'user_name': 'Анна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.06.2024, 17:27:15: ggavr  pressed main menu inline
+25.06.2024, 17:27:20: ggavr begun registration
+25.06.2024, 17:27:27: ggavr tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 38 мест
+25.06.2024, 17:27:34: ggavr send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 38 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@ggavr', 'user_name': 'Гавр', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+25.06.2024, 17:27:49: ggavr нажал(а) рецепт
+25.06.2024, 17:27:55: ggavr pressed Cancel or got deny
+25.06.2024, 18:06:17: Shkoterman begun registration
+25.06.2024, 18:33:35: ensalada_bot  pressed main menu inline
+25.06.2024, 18:59:12: vreutskiy checked registration
+25.06.2024, 18:59:17: vreutskiy begun registration
+25.06.2024, 18:59:25: vreutskiy tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 36 мест
+25.06.2024, 18:59:30: vreutskiy send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 36 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@vreutskiy', 'user_name': 'Вадим Реутский \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.06.2024, 18:59:47: vreutskiy begun registration
+25.06.2024, 18:59:59: vreutskiy tried to reg on 🤓 Домашняя Конференция:  июнь (29.06 17:00), 37 мест
+25.06.2024, 19:00:04: vreutskiy pressed Cancel or got deny
+25.06.2024, 19:00:07: vreutskiy begun registration
+25.06.2024, 19:00:17: vreutskiy tried to reg on 🤓 Домашняя Конференция:  июнь (29.06 17:00), 37 мест
+25.06.2024, 19:00:21: vreutskiy pressed Cancel or got deny
+25.06.2024, 19:12:34: ensalada_bot  pressed main menu inline
+25.06.2024, 19:12:34: ensalada_bot  pressed main menu inline
+25.06.2024, 19:12:36: etozhemaximka begun registration
+25.06.2024, 19:12:41: etozhemaximka tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 6 мест
+25.06.2024, 19:13:04: etozhemaximka send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 6 мест', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@etozhemaximka', 'user_name': 'Максим', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+25.06.2024, 19:13:24: luda_nikol came with frsttime == 1
+25.06.2024, 19:13:30: luda_nikol begun registration
+25.06.2024, 19:13:33: luda_nikol tried to reg on 🎭 Ивонна молчит (7.07 19:30), 17 мест
+25.06.2024, 19:13:36: luda_nikol came with frsttime == 1
+25.06.2024, 19:13:57: ensalada_bot  pressed main menu inline
+25.06.2024, 19:14:00: luda_nikol begun registration
+25.06.2024, 19:14:11: luda_nikol tried to reg on 🎭 Ивонна молчит (7.07 19:30), 17 мест
+25.06.2024, 19:15:08: ensalada_bot  pressed main menu inline
+25.06.2024, 19:15:10: luda_nikol begun registration
+25.06.2024, 19:15:14: luda_nikol tried to reg on 🎭 Ивонна молчит (7.07 19:30), 17 мест
+25.06.2024, 19:17:05: luda_nikol send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 17 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@luda_nikol', 'user_name': 'Никольская Мила', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+25.06.2024, 20:03:27: alexdjr checked registration
+25.06.2024, 20:03:33: alexdjr begun registration
+25.06.2024, 20:10:56: znack begun registration
+25.06.2024, 20:11:07: znack tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 4 мест
+25.06.2024, 20:11:13: znack send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 4 мест', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@znack', 'user_name': 'Сергей Черепанов', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': False}
+25.06.2024, 20:18:28: valeriakos came with frsttime == 1
+25.06.2024, 20:18:32: valeriakos begun registration
+25.06.2024, 20:18:42: valeriakos tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 2 мест
+25.06.2024, 20:18:53: valeriakos send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), 2 мест', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@valeriakos', 'user_name': 'Валерия', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': True, 'first_time': True}
+25.06.2024, 20:19:03: Snezha_I came with frsttime == 1
+25.06.2024, 20:19:16: valeriakos  pressed main menu inline
+25.06.2024, 20:22:21: black_plasch begun registration
+25.06.2024, 20:22:38: ensalada_bot  pressed main menu inline
+25.06.2024, 20:22:43: black_plasch came with frsttime == 1
+25.06.2024, 20:22:53: black_plasch checked registration
+25.06.2024, 20:40:21: julia_kovylina begun registration
+25.06.2024, 20:53:12: krissiisme came with frsttime == 1
+25.06.2024, 20:53:35: krissiisme begun registration
+25.06.2024, 20:53:47: krissiisme tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+25.06.2024, 20:54:04: krissiisme send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@krissiisme', 'user_name': 'Кристина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': True}
+25.06.2024, 21:02:36: SanyaGalakt came with frsttime == 1
+25.06.2024, 21:02:38: SanyaGalakt begun registration
+25.06.2024, 21:02:48: SanyaGalakt tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 35 мест
+25.06.2024, 21:02:59: SanyaGalakt send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 35 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@sanyagalakt', 'user_name': 'Саша Галактионова (дочь Насти Хор)', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.06.2024, 21:18:02: jane_guchinova came with frsttime == 1
+25.06.2024, 21:18:05: jane_guchinova begun registration
+25.06.2024, 21:18:24: jane_guchinova tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+25.06.2024, 21:18:37: jane_guchinova send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@jane_guchinova', 'user_name': 'Евгения', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+25.06.2024, 21:42:49: maksimegorovgeo came with frsttime == 1
+25.06.2024, 21:54:47: ekaterininsky came with frsttime == 1
+25.06.2024, 21:56:55: vtoroman begun registration
+25.06.2024, 21:57:12: vtoroman tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 34 мест
+25.06.2024, 21:57:36: ensalada_bot  pressed main menu inline
+25.06.2024, 21:57:44: vtoroman begun registration
+25.06.2024, 21:57:56: vtoroman tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 34 мест
+25.06.2024, 21:58:05: vtoroman send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 34 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@vtoroman', 'user_name': 'Вика Тороман', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+25.06.2024, 22:03:42: disamniaa begun registration
+25.06.2024, 22:03:52: disamniaa tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+25.06.2024, 22:04:10: disamniaa send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@disamniaa', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+25.06.2024, 22:04:16: disamniaa begun registration
+25.06.2024, 22:09:47: ivan_dashkevich checked registration
+25.06.2024, 22:48:24: kalachevandrew begun registration
+25.06.2024, 22:48:31: kalachevandrew tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+25.06.2024, 22:48:37: kalachevandrew send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@kalachevandrew', 'user_name': 'Андрей', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+25.06.2024, 22:52:14: Irina3el  Написал нам: Привет! Не знаю, получите ли вы это сообщение. Я думала, что будет какая-то форма фидбэка после поездки на черешню, но не было, но все же хотелось его передать (опять же, не знаю, интересен ли вам фидбэк сейчас; вижу, что вы масштабируетесь, коммерциализируетесь,и может это уже не так важно). В общем, в поездке на черешню Энсалада сработала как туроператор для пакетников: загрузили в автобус, привезли, выгрузили, загрузили снова, привезли обратно. Кажется, что раньше сообщество было way beyond этого. Доехать до места я и сама могу, смысл же всегда был вообще в другом: законнектить людей. Когда я возила к черепахам, мне было очень важно растопить лед и дать ниточки, почему люди могут быть интересны друг другу. Мы делали несколько активностей в разные моменты до и после ключевой активности: на знакомство, ice breaking игры. Тут даже не было момента, когда бы люди были все в один момент на одной волне. Мне было очень странно.
+26.06.2024, 00:08:08: AlinaPsyamo begun registration
+26.06.2024, 00:08:14: AlinaPsyamo tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 00:08:23: AlinaPsyamo send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@alinapsyamo', 'user_name': 'Алина', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+26.06.2024, 00:15:41: julia_kovylina  pressed main menu inline
+26.06.2024, 00:15:45: julia_kovylina begun registration
+26.06.2024, 00:16:25: julia_kovylina  pressed main menu inline
+26.06.2024, 00:43:12: VladGal99 came with frsttime == 1
+26.06.2024, 00:43:16: VladGal99 checked registration
+26.06.2024, 00:44:42: Svetnezvuk came with frsttime == 1
+26.06.2024, 00:44:44: Svetnezvuk checked registration
+26.06.2024, 00:44:45: Svetnezvuk checked registration
+26.06.2024, 00:52:28: Yura_gav  pressed main menu inline
+26.06.2024, 00:52:33: Yura_gav begun registration
+26.06.2024, 00:52:39: Yura_gav tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 33 мест
+26.06.2024, 00:52:49: Yura_gav send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 33 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@yura_gav', 'user_name': 'Юра', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.06.2024, 01:30:54: luda_nikol came with frsttime == 1
+26.06.2024, 01:31:00: luda_nikol begun registration
+26.06.2024, 09:05:07: barsdesign came with frsttime == 1
+26.06.2024, 09:05:15: barsdesign begun registration
+26.06.2024, 09:06:35: barsdesign tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 32 мест
+26.06.2024, 09:06:53: barsdesign send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 32 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@barsdesign', 'user_name': 'Евгений', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+26.06.2024, 09:07:13: barsdesign  pressed main menu inline
+26.06.2024, 09:42:32: ensalada_bot  pressed main menu inline
+26.06.2024, 09:42:34: TatianaSheremetova begun registration
+26.06.2024, 10:47:11: None came with frsttime == 1
+26.06.2024, 10:47:20: None нажал(а) рецепт
+26.06.2024, 11:28:31: julia_kovylina begun registration
+26.06.2024, 11:28:41: julia_kovylina  pressed main menu inline
+26.06.2024, 11:56:55: nastiabcn came with frsttime == 1
+26.06.2024, 11:57:28: ensalada_bot  pressed main menu inline
+26.06.2024, 11:57:49: ensalada_bot  pressed main menu inline
+26.06.2024, 11:58:11: ensalada_bot  pressed main menu inline
+26.06.2024, 11:58:13: nastiabcn begun registration
+26.06.2024, 12:07:58: ensalada_bot  pressed main menu inline
+26.06.2024, 12:08:05: nastiabcn begun registration
+26.06.2024, 12:08:09: nastiabcn tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 12:08:24: nastiabcn send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@nastiabcn', 'user_name': 'Анастасия', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+26.06.2024, 12:31:16: BillieMilligan1408 checked registration
+26.06.2024, 12:31:25: BillieMilligan1408 pressed cancel event reg
+26.06.2024, 12:31:28: BillieMilligan1408 want to cancel 🚣🏻 Поездка: Каяки и Пещеры
+26.06.2024, 12:31:38: BillieMilligan1408 отменил 🚣🏻 Поездка: Каяки и Пещеры, по причине: Заболели :(
+26.06.2024, 12:55:51: Daniele_TGnew came with frsttime == 1
+26.06.2024, 12:55:53: Daniele_TGnew begun registration
+26.06.2024, 12:56:22: Daniele_TGnew tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 12:56:34: Daniele_TGnew send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@daniele_tgnew', 'user_name': 'Daniele', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+26.06.2024, 14:05:04: krisstykris begun registration
+26.06.2024, 14:05:12: krisstykris tried to reg on 🎭 Ивонна молчит (7.07 19:30), 11 мест
+26.06.2024, 14:05:20: krisstykris send for registration: {'event_name': '🎭 Ивонна молчит (7.07 19:30), 11 мест', 'event_id': 'recK8xh1kUXPTwwyI', 'user_nick': '@krisstykris', 'user_name': 'Кристина Прудникова \U0001faf0', 'user_is_sub': True, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.06.2024, 14:12:23: julia_kovylina begun registration
+26.06.2024, 14:12:40: julia_kovylina  pressed main menu inline
+26.06.2024, 14:19:22: katrinmukhina came with frsttime == 1
+26.06.2024, 14:35:47: AnnaArianna begun registration
+26.06.2024, 14:35:56: AnnaArianna tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 31 мест
+26.06.2024, 14:36:05: AnnaArianna send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 31 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@annaarianna', 'user_name': 'Аня Михайловская', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': False}
+26.06.2024, 16:17:57: plykin begun registration
+26.06.2024, 16:18:07: plykin tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 16:18:14: plykin send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@plykin', 'user_name': 'Денис Плыкин', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+26.06.2024, 16:32:45: DemianovMaksim came with frsttime == 1
+26.06.2024, 16:32:54: DemianovMaksim begun registration
+26.06.2024, 16:33:01: DemianovMaksim tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 16:33:34: DemianovMaksim send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@demianovmaksim', 'user_name': 'Макс', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+26.06.2024, 17:47:24: preguntasproblemas begun registration
+26.06.2024, 17:47:40: preguntasproblemas  pressed main menu inline
+26.06.2024, 18:27:49: ensalada_bot  pressed main menu inline
+26.06.2024, 18:27:54: TatianaSheremetova begun registration
+26.06.2024, 20:18:19: mashakhodykina begun registration
+26.06.2024, 20:18:23: mashakhodykina tried to reg on 👧 Энсалада Kids 5+: Семейный хайкинг (29.06 11:00), 7 мест
+26.06.2024, 20:30:19: hope_espe begun registration
+26.06.2024, 20:35:15: ann_kuznetsova1 begun registration
+26.06.2024, 20:35:28: ann_kuznetsova1 tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 20:37:56: ann_kuznetsova1 send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@ann_kuznetsova1', 'user_name': 'Анна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+26.06.2024, 20:47:16: quokka_smiles checked registration
+26.06.2024, 21:09:42: n_e_o_0 came with frsttime == 1
+26.06.2024, 21:09:46: n_e_o_0 begun registration
+26.06.2024, 21:10:17: ensalada_bot  pressed main menu inline
+26.06.2024, 21:10:21: TatianaSheremetova begun registration
+26.06.2024, 21:10:52: Alisaluppova came with frsttime == 1
+26.06.2024, 21:11:10: Alisaluppova  pressed main menu inline
+26.06.2024, 21:19:13: Oknesif begun registration
+26.06.2024, 21:19:33: Oknesif tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 21:19:48: Oknesif send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@oknesif', 'user_name': 'Dmitry', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+26.06.2024, 21:22:21: oknesifka begun registration
+26.06.2024, 21:22:24: oknesifka tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 21:22:36: oknesifka send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@oknesifka', 'user_name': 'Ульяна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+26.06.2024, 21:30:03: ensalada_bot  pressed main menu inline
+26.06.2024, 21:30:05: Natchepa begun registration
+26.06.2024, 22:01:11: katerine_kh came with frsttime == 1
+26.06.2024, 22:01:15: katerine_kh begun registration
+26.06.2024, 22:01:27: katerine_kh tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 22:01:44: katerine_kh send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@katerine_kh', 'user_name': 'Катерина', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': True}
+26.06.2024, 22:02:18: dvornikovaaa came with frsttime == 1
+26.06.2024, 22:02:21: dvornikovaaa begun registration
+26.06.2024, 22:02:24: dvornikovaaa tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+26.06.2024, 22:04:18: dvornikovaaa send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@dvornikovaaa', 'user_name': 'Аглая', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': True}
+26.06.2024, 22:11:50: Elara_15 came with frsttime == 1
+26.06.2024, 22:13:10: shinystockings came with frsttime == 1
+26.06.2024, 22:13:15: shinystockings begun registration
+26.06.2024, 22:13:25: shinystockings tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 30 мест
+26.06.2024, 22:13:39: shinystockings send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 30 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@shinystockings', 'user_name': 'Алёна', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+26.06.2024, 22:14:06: shinystockings нажал(а) рецепт
+26.06.2024, 23:06:16: ensalada_bot  pressed main menu inline
+26.06.2024, 23:06:19: nataly_ale checked registration
+26.06.2024, 23:34:33: ensalada_bot  pressed main menu inline
+26.06.2024, 23:34:40: TatianaSheremetova begun registration
+27.06.2024, 06:48:21: gdmita  pressed main menu inline
+27.06.2024, 06:48:21: gdmita  pressed main menu inline
+27.06.2024, 06:48:25: gdmita begun registration
+27.06.2024, 06:48:30: gdmita tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+27.06.2024, 06:48:36: gdmita send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@gdmita', 'user_name': 'Дмитрий', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': False, 'first_time': False}
+27.06.2024, 06:48:42: gdmita begun registration
+27.06.2024, 06:48:53: gdmita  pressed main menu inline
+27.06.2024, 08:18:45: Evgeny_296 came with frsttime == 1
+27.06.2024, 08:20:21: ensalada_bot  pressed main menu inline
+27.06.2024, 08:30:18: howmanymeercats  pressed main menu inline
+27.06.2024, 08:30:20: howmanymeercats begun registration
+27.06.2024, 09:04:13: shagalla came with frsttime == 1
+27.06.2024, 09:13:17: daniel_mathias came with frsttime == 1
+27.06.2024, 09:13:33: daniel_mathias begun registration
+27.06.2024, 09:13:53: daniel_mathias tried to reg on 🎭 Перформанс Театралки (30.06 17:00), 29 мест
+27.06.2024, 09:14:12: daniel_mathias send for registration: {'event_name': '🎭 Перформанс Театралки (30.06 17:00), 29 мест', 'event_id': 'recVUisN8v9q8ytY5', 'user_nick': '@daniel_mathias', 'user_name': 'Даниэль', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': False, 'plus_one': False, 'first_time': True}
+27.06.2024, 09:23:08: Scorpiosva came with frsttime == 1
+27.06.2024, 09:23:50: ensalada_bot  pressed main menu inline
+27.06.2024, 09:39:17: spbguy came with frsttime == 1
+27.06.2024, 09:39:21: spbguy begun registration
+27.06.2024, 09:39:30: spbguy tried to reg on 🍷 Drop: Оранжи (28.06 20:00), 6 мест
+27.06.2024, 09:55:06: ensalada_bot  pressed main menu inline
+27.06.2024, 10:05:20: nataly_ale  Написал нам: Привет!) Зарегались на каяки в эту субботу и хотела уточнить - всё ли по плану, будете ли группу с информацией создавать?)
+27.06.2024, 12:19:31: julia_kovylina begun registration
+27.06.2024, 12:19:47: julia_kovylina  pressed main menu inline
+27.06.2024, 13:58:39: uma_kasimova  pressed main menu inline
+27.06.2024, 13:58:44: uma_kasimova begun registration
+27.06.2024, 14:47:44: olga_mzk  pressed main menu inline
+27.06.2024, 14:48:18: olga_mzk came with frsttime == 1
+27.06.2024, 14:51:50: ensalada_bot  pressed main menu inline
+27.06.2024, 14:51:52: olga_mzk begun registration
+27.06.2024, 14:52:04: olga_mzk tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+27.06.2024, 15:29:23: ensalada_bot  pressed main menu inline
+27.06.2024, 15:29:26: n_e_o_0 begun registration
+27.06.2024, 15:29:33: ensalada_bot  pressed main menu inline
+27.06.2024, 15:29:34: ensalada_bot  pressed main menu inline
+27.06.2024, 15:30:26: ensalada_bot  pressed main menu inline
+27.06.2024, 16:52:05: nastiabcn came with frsttime == 1
+27.06.2024, 16:52:08: nastiabcn pressed cancel event reg
+27.06.2024, 16:52:13: nastiabcn want to cancel 🚣🏻 Поездка: Каяки и Пещеры
+27.06.2024, 16:52:18: nastiabcn  pressed main menu inline
+27.06.2024, 16:52:29: nastiabcn pressed cancel event reg
+27.06.2024, 16:52:33: nastiabcn want to cancel 🚣🏻 Поездка: Каяки и Пещеры
+27.06.2024, 16:52:38: nastiabcn отменил 🚣🏻 Поездка: Каяки и Пещеры, по причине: Пропустить
+27.06.2024, 17:25:34: anastasiya_lukianova begun registration
+27.06.2024, 17:37:20: anastasiya_lukianova tried to reg on 🍷 Drop: Оранжи (28.06 20:00), 6 мест
+27.06.2024, 21:14:59: darialed22 begun registration
+27.06.2024, 21:15:04: darialed22 tried to reg on 🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист
+27.06.2024, 21:15:22: darialed22 send for registration: {'event_name': '🚣🏻 Поездка: Каяки и Пещеры (29.06 9:00), в вэйтлист', 'event_id': 'recMPrCN6auXZKwoJ', 'user_nick': '@darialed22', 'user_name': 'Дарья', 'user_is_sub': False, 'ev_is_sub': False, 'ev_is_free': False, 'reg_in_WL': True, 'plus_one': True, 'first_time': False}
+27.06.2024, 21:35:45: maxim_kozorez begun registration
+27.06.2024, 23:51:44: None bot  hase been started
+28.06.2024, 00:01:05: Shkoterman came with frsttime == 1
+28.06.2024, 00:02:30: None bot  hase been started
+28.06.2024, 00:04:29: None bot  hase been started
+28.06.2024, 00:05:57: None bot  hase been started
+28.06.2024, 00:05:57: Shkoterman came with frsttime == 1
+28.06.2024, 00:05:57: Shkoterman came with frsttime == 1
+28.06.2024, 00:05:58: Shkoterman  pressed main menu inline
+28.06.2024, 00:05:58: Shkoterman came with frsttime == 1
+28.06.2024, 00:11:15: None bot  hase been started
+28.06.2024, 00:19:11: None bot  hase been started
+28.06.2024, 00:24:31: lizzybell  pressed main menu inline
+28.06.2024, 00:42:48: None bot  hase been started
+28.06.2024, 00:42:56: Shkoterman came with frsttime == 1
+28.06.2024, 01:25:51: None bot  hase been started
+28.06.2024, 01:55:48: None bot  hase been started
+28.06.2024, 01:56:09: None bot  hase been started
+28.06.2024, 02:03:36: None bot  hase been started
+24.08.2024, 20:06:48: None bot  hase been started
+24.08.2024, 20:09:46: None bot  hase been started
+24.08.2024, 20:10:04: None bot  hase been started
+24.08.2024, 20:18:08: None bot  hase been started
+24.08.2024, 20:18:35: None bot  hase been started
+24.08.2024, 20:19:02: None bot  hase been started
