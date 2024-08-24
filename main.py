@@ -908,8 +908,8 @@ def handle_text(message):
         askq_step_1(message)
     elif message.text == btns.olivebtn.text:
         olive_step_1(message)
-    elif message.text == btns.event_calendar.text:
-        event_calendar_1(message)
+    ###elif message.text == btns.event_calendar.text:
+        ###event_calendar_1(message)
 
 
     # админские функции
