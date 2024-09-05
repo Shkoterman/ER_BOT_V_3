@@ -175,6 +175,8 @@ def registration_step_2(message, for_reg_dickt, open_for_reg_events, message_tex
             event_description= ER_DB.get_event_description(for_reg_dickt['event_id'])
             if for_reg_dickt['ev_is_sub'] == True and for_reg_dickt['user_is_sub'] == False:
                 bot.send_message(message.chat.id, text=strs.you_have_no_sub, disable_web_page_preview=True, parse_mode='Markdown')
+                log_text = strs.has_tried_registr + for_reg_dickt['event_name']
+                write_in_log(message, log_text)
                 main_menu(message, 0)
             elif for_reg_dickt['user_name'] == None:
                 markup = types.ReplyKeyboardRemove()
