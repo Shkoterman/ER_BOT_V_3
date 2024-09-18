@@ -358,16 +358,21 @@ def get_event_description(event_id):
                         desc_text = '*Описание:*\n' + desc_text + '\n'
                 except:
                     desc_text = ''
+
                 try:
                     desc_more_price = future_events_resp[i]['fields']['Стоимость д. клуба']
-                    desc_all_price = future_events_resp[i]['fields']['Стоимость д. всех']
-                    if type(desc_all_price)==int or type(desc_more_price)==int:
-                        desc_price='*Стоимость для* [more](https://t.me/ensaladaru/1319)*: *' \
-                               + desc_more_price + '\n' \
-                               '*Стоимость для всех: *' + desc_all_price
-                except: desc_price=''
+                    desc_price_m = '*Стоимость для* [more](https://t.me/ensaladaru/1319)*: *' \
+                                 + str(desc_more_price)
+                except:
+                    desc_price_m = ''
 
-                description = desc_time + desc_places + desc_text + desc_price
+                try:
+                    desc_all_price = future_events_resp[i]['fields']['Стоимость д. всех']
+                    desc_price_a='\n *Стоимость для всех: *' + str(desc_all_price)
+                except:
+                    desc_price_a=''
+
+                description = desc_time + desc_places + desc_text + desc_price_m + desc_price_a
 
     except: pass
     return description

@@ -35315,10 +35315,3 @@ P.S. Сегодня впервые пошел куда-то пообедать, 
 24.08.2024, 21:40:02: None bot  hase been started
 24.08.2024, 21:40:36: None bot  hase been started
 24.08.2024, 21:40:38: Shkoterman  pressed main menu inline
-05.09.2024, 18:18:18: None bot  hase been started
-05.09.2024, 18:18:35: Shkoterman  pressed main menu inline
-05.09.2024, 18:19:33: ensalada_org came with frsttime == 1
-05.09.2024, 18:19:39: ensalada_org begun registration
-05.09.2024, 18:19:46: ensalada_org tried to reg on 🎭 Театр-студия (5.09 19:00), 18 мест
-05.09.2024, 18:19:49: ensalada_org  пытался зарегаться на 🎭 Театр-студия (5.09 19:00), 18 мест
-05.09.2024, 18:19:50: ensalada_org  pressed main menu inline
