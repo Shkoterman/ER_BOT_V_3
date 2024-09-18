@@ -342,7 +342,6 @@ def get_event_description(event_id):
                 except:
                     desc_time=''
 
-
                 desc_places = future_events_resp[i]['fields']['Свободных мест']
                 if desc_places<1:
                     desc_places='*Свободных мест не осталось, запись в вэйтлист*\n'
