@@ -335,7 +335,7 @@ def get_event_description(event_id):
             if future_events_resp[i]['id']==event_id:
                 try:
                     desc_time_row = datetime.strptime(future_events_resp[i]['fields']['Начало Мероприятия'],
-                                                  '%Y-%m-%dT%H:%M:%S.%fZ') + timedelta(hours=2) # магическое число. тайм оффсет надо брать откудато
+                                                  '%Y-%m-%dT%H:%M:%S.%fZ') + timedelta(hours=1) # магическое число. тайм оффсет надо брать откудато
                     desc_time_formated = desc_time_row.strftime('%d.%m в %H:%M')
 
                     desc_time = '*Начало мероприятия: *' + desc_time_formated + '\n'
