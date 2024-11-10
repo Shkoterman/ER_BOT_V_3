@@ -7,16 +7,20 @@ from config import *
 from telebot import types
 from datetime import datetime, timedelta
 
+pay_check_chat_id = -4516546603
 shkoterman_chat_id = 214130351
 julia_chat_id = 346459053
 ensalada_team_id = 6049844486
+
+
+
 if test_mode:
     payment_message_id=9582
     all_about_sub_message_id=23000
     bot = telebot.TeleBot(tg_api_key_test)  # this is test
 else:
     payment_message_id=9582
-    all_about_sub_message_id=112718
+    all_about_sub_message_id=241680
     bot = telebot.TeleBot(tg_api_key_prod)# this is prod
 
 what_did_you_like_list = {}
@@ -68,7 +72,8 @@ def query_handler(call):
                 massege_text=ev_name.strip()
 
         registration_step_2(call.message, for_reg_dickt, open_for_reg_events, message_text=massege_text)
-
+    elif call.data.split(',')[0] == '07':
+        pass
 def send_julia(str):
     bot.send_message(julia_chat_id, text=str)
 
@@ -842,7 +847,41 @@ def event_calendar_4(message, event_list, section_event_list, time_tag_name_dict
     else:
         bot.register_next_step_handler(send, event_calendar_3, section_event_list, time_tag_name_dict, event_teg)
 
+def pay_screen_1(message):
+    pay_screen_1_kb = types.ReplyKeyboardMarkup(resize_keyboard=True)
+    pay_screen_1_kb.add(btns.cancelbtn)
+    send=bot.send_message(message.chat.id, text=strs.send_me_payscreen, reply_markup=pay_screen_1_kb)
+    bot.register_next_step_handler(send, pay_screen_2)
 
+def pay_screen_2(message):
+
+    if message.photo is not None:
+        bot.send_message(message.chat.id, text=strs.thx_for_paycheck)
+        main_menu(message)
+        pay_screen_3(message)
+    elif message.text == btns.cancelbtn.text:
+        main_menu(message)
+    else:
+        pay_screen_2_kb = types.ReplyKeyboardMarkup(resize_keyboard=True)
+        pay_screen_2_kb.add(btns.cancelbtn)
+        send = bot.send_message(message.chat.id, text=strs.its_not_photo, reply_markup=pay_screen_2_kb)
+        bot.register_next_step_handler(send, pay_screen_2)
+
+def pay_screen_3(message):
+    event_list = ER_DB.for_reg_event_list(message.from_user.username)
+    pay_screen_3_kb = types.InlineKeyboardMarkup()
+    pay_screen_3_kb.row_width = 1
+    print(event_list)
+    #pay_screen_3_kb.add(types.InlineKeyboardButton(what_did_you_like_list[message.chat.id][0], callback_data='00'),
+     #               types.InlineKeyboardButton(what_did_you_like_list[message.chat.id][1], callback_data='01'),
+        #            types.InlineKeyboardButton(what_did_you_like_list[message.chat.id][2], callback_data='02'),
+        #            types.InlineKeyboardButton(what_did_you_like_list[message.chat.id][3], callback_data='03'),
+           #         types.InlineKeyboardButton(what_did_you_like_list[message.chat.id][4], callback_data='04'))
+
+
+
+
+    #bot.forward_message(pay_check_chat_id, message.chat.id, message.id)
 
 def write_in_log(message, log_text):
     if type(log_text)!=str:
@@ -885,6 +924,9 @@ def count_things (variabe_name, amoumt=1, reboot_count=False):
 def Start(message):
     main_menu(message, 1)
     ER_DB.add_new_user(message.from_user.username, message.chat.id)
+#@bot.message_handler(commands=["test"])
+#def Start(message):
+    #pay_screen_1(message)
 
 @bot.message_handler(content_types=["text"])
 def handle_text(message):
@@ -910,6 +952,8 @@ def handle_text(message):
         askq_step_1(message)
     elif message.text == btns.olivebtn.text:
         olive_step_1(message)
+    elif message.text == btns.sendpayscreen:
+        pay_screen_1(message)
     ###elif message.text == btns.event_calendar.text:
         ###event_calendar_1(message)
 
@@ -922,7 +966,8 @@ def handle_text(message):
 
     # сугубо мои
     elif message.text == btns.testbtn.text and message.chat.id == shkoterman_chat_id:
-        print(ER_DB.get_calendar_section()[0])
+        get_meesage_id_1(message)
+        #pay_screen_1(message)
         #dict=ER_DB.open_for_reg_events()
         #for i in range(len(dict)):
             #print(ER_DB.get_event_description(list(dict.values())[i][0]), list(dict.keys())[i])
@@ -933,7 +978,7 @@ def handle_text(message):
         #print(type(poop))
         #bot.send_message(message.chat.id, text=strs.reg_rools, parse_mode='Markdown', disable_web_page_preview=True)
         #bot.register_next_step_handler(message, get_meesage_id)
-        pass
+        #pass
         #print(ER_DB.get_calendar_section('12', ))
 
     elif message.text == btns.send_all_btn.text and message.chat.id == shkoterman_chat_id:
@@ -949,9 +994,12 @@ def handle_text(message):
     else:
         main_menu(message, 0)
 
-def get_meesage_id(message):
-    print(message)
+def get_meesage_id_1(message):
+    send = bot.send_message(message.chat.id, text='давай')
+    bot.register_next_step_handler(message, get_meesage_id_2)
 
+def get_meesage_id_2(message):
+    print(message)
 
 write_in_log(None, 'bot  hase been started')
 

@@ -12,6 +12,7 @@ askqbtn = types.KeyboardButton('Написать нам')
 sendq = types.KeyboardButton('Отправить')
 olivebtn = types.KeyboardButton('Наш рецепт 🥗')
 event_calendar = types.KeyboardButton('Календарь мероприятий 🆕')
+sendpayscreen = types.KeyboardButton('Прислать скриншот оплаты')
 
 
 ### admins's
